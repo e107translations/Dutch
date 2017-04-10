@@ -129,4 +129,5 @@ define("TPVLAN_89", "Gebruik deze instellingen voor alle beheerders");
 define("TPVLAN_90","Kon geen verbinding maken, controleer firewall en/of internet verbinding.");
 define("TPVLAN_91", "Maak een nieuw thema gebaseerd op");
 define("TPVLAN_92", "Nieuwe thema map");
+define("TPVLAN_93", "Selectie");
 ?>
