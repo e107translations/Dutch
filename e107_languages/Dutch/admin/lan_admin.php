@@ -154,6 +154,7 @@ define("LAN_LAST_UPDATED","Als laatste bijgewerkt");
 define("LAN_UPDATE_AVAILABLE","Update beschikbaar");
 define("LAN_ADD", "Toevoegen");
 define("LAN_ADD_MORE", "Meer toevoegen");
+define("LAN_REMOVE", "Verwijder");
 define("LAN_MULTIPLE_CHOICE", "Meerkeuze mogelijk");
 
 define("LAN_SAVE", "Opslaan");
@@ -207,6 +208,8 @@ define("LAN_WEBSITE_STATUS","Website Status");
 define("LAN_STATS","Statis.");  
 define("LAN_ONLINE","Online");
 define("LAN_ORDER", "Volgorde");
+define("LAN_ASC","Oplopend");
+define("LAN_DESC","Aflopend");
 define("LAN_SELECT", "Selecteer ...");
 define("LAN_ADMIN", "Beheer");
 define("LAN_ROOT","Root");
@@ -248,6 +251,7 @@ define("LAN_OFF", "Uit");
 define("LAN_DISABLED", "Uit");
 define("LAN_ENABLED", "Aan");
 define("LAN_BOOL_REVERSE", "Omdraaien");
+define("LAN_DETAILS", "Details");
 define("LAN_NOT_AVAILABLE", "Niet beschikbaar");
 define("LAN_AUTO_GENERATED", "Automatisch-gegenereerd");
 define("LAN_PRESET_CONFIRMSAVE", "De huidige formulierwaarden als standaard voor deze pagina opslaan?");
@@ -359,6 +363,7 @@ define("LAN_LIMIT", "Limiet");
 define("LAN_BASIC", "Basis");
 define("LAN_EXTENDED", "Uitgebreid");
 define("LAN_ADVANCED", "Gevorderd");
+define("LAN_DISPLAY", "Tonen");
 define("LAN_FOLDER", "Bestandsmap");
 define("LAN_PERSONALIZE_ICONS", "Gepersonaliseerde Iconen"); //mgl iets anders benamen? 
 define("LAN_PERSONALIZE_MENUS", "Gepersonaliseerde Menus"); //mgl iets anders benamen?  
@@ -394,5 +399,5 @@ define("LAN_ENGINE", "Aangedreven door");
 define("LAN_SOURCE", "Bron");
 
 define("LAN_ERROR_CONNECTION","Er kan geen verbinding gemaakt worden met de updateserver, controleer firewall en/of internet verbnding of probeer later nog eens.");
-
+define("LAN_UI_X_CANT_EQUAL_Y", "[x] kan niet identiek zijn aan [y]");
 ?>
