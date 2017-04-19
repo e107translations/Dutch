@@ -26,7 +26,7 @@ define("LANA_FAQ_PREF_2", "Sta het plaatsen van Vragen toe aan:");
 define("LANA_FAQ_PREF_3", "Gebruik klassieke weergave");
 define("LANA_FAQ_PREF_4", "'Stel een vraag' limiet per gebruiker");
 define("LANA_FAQ_PREF_5", "'Stel een vraag' karakter limiet");
-define("LANA_FAQ_PREF_6", "'Stel een vraag' beperkt toto");
+define("LANA_FAQ_PREF_6", "'Stel een vraag' beperkt tot");
 define("LANA_FAQ_PREF_7", "Gestelde vragen bevestigd");
 define("LANA_FAQ_PREF_8", "Lijst Type");
 define("LANA_FAQ_PREF_9", "Ongeordende lijst");
