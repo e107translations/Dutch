@@ -118,5 +118,6 @@ define("LAN_EURL_CORE_INDEX_INFO", "Voorpagina kan geen alias hebben");
 define("LAN_EURL_REBUILD",    "Opnieuw opbouwen");
 define("LAN_EURL_REGULAR_EXPRESSION", "Reguliere expressie");
 define("LAN_EURL_KEY", "Sleutel");
+define("LAN_EURL_TABLE", "Tabel");
 
 ?>
