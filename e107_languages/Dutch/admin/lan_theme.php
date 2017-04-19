@@ -130,4 +130,5 @@ define("TPVLAN_90","Kon geen verbinding maken, controleer firewall en/of interne
 define("TPVLAN_91", "Maak een nieuw thema gebaseerd op");
 define("TPVLAN_92", "Nieuwe thema map");
 define("TPVLAN_93", "Selectie");
+define("TPVLAN_94", "Website thema gewijzigd naar [x].");
 ?>
