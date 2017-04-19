@@ -132,5 +132,5 @@ define("BANLAN_122", "Zwarte Lijst");
 define("BANLAN_123", "Toevoegen aan zwarte lijst");
 define("BANLAN_124", "Verloopt");   // niet ban_lan_34
 define("BANLAN_125", "Gebruik mijn IP");
-
+define("BANLAN_126", "IP / E-mail");
 ?>
