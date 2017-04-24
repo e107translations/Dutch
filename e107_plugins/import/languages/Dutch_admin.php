@@ -67,5 +67,23 @@ define("LAN_CONVERT_53","De basis URL van de Drupal website (v.b., http://mydrup
 define("LAN_CONVERT_54","Drupal Basis URL");
 define("LAN_CONVERT_55","Het basis URL pad (of/indien, directorie) van de Drupal installatie (v.b., /drupal/).");
 define("LAN_CONVERT_56","Drupal Basis Pad");
+define("LAN_CONVERT_57", "Geen fout");
+define("LAN_CONVERT_58", "Kan niet de hoofd beheerders gegevens veranderen");
+define("LAN_CONVERT_59", "ongeldig veld gezien");
+define("LAN_CONVERT_60", "Verplicht veld niet ingesteld");
+define("LAN_CONVERT_61", "Gebruiker bestaat al");
+define("LAN_CONVERT_62", "Ongeldige tekens in gebruikers- of loginnaam");
+define("LAN_CONVERT_63", "Fout bij het opslaan van uitgebreide gebruikers velden");
+define("LAN_CONVERT_64", "Selecteer");
+define("LAN_CONVERT_65", "Pagina/'s");
+define("LAN_CONVERT_66", "Pagina hoofdstukken");
+define("LAN_CONVERT_67", "Links");
+define("LAN_CONVERT_68", "Media");
+define("LAN_CONVERT_69", "Forum");
+define("LAN_CONVERT_70", "Forum Onderwerpen / Discussies");
+define("LAN_CONVERT_71", "Forum Posts");
+define("LAN_CONVERT_72", "Forum Track");
+define("LAN_CONVERT_73", "Gebruikersklassen");
+define("LAN_CONVERT_74", "Nieuws categorieen");
 
 ?>
