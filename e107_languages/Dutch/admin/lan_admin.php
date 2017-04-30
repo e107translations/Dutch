@@ -336,8 +336,8 @@ define("LAN_UI_DELETE_WARNING", "je gaat [x] records verwijderen. Bevestig om ve
 define("LAN_UI_BATCH_CREATELINK", "Aanmaken Link");
 define("LAN_UI_DELETED", "[x] regel(s) met succes verwijderd!");
 define("LAN_UI_DELETED_FAILED", "[x] regels niet gevonden en niet verwjderd!");
-define("LAN_UI_FILE_DELETED", " bestand [x] succesvol verwijderd!");
-define("LAN_UI_FILE_DELETED_FAILED", "Niet mogelijk bestand [x] te verwijderen! Verwijder dit aun handmatig.");
+define("LAN_UI_FILE_DELETED", "[x] bestand met succes verwijderd!");
+define("LAN_UI_FILE_DELETED_FAILED", "Kon het bestand [x] niet verwijderen, verwijder dit bestand zelf middels FTP."); 
 define("LAN_UI_BATCH_EXPORT", "Export");
 define("LAN_UI_USING_DATABASE_TABLE", "Gebruik [x] database tabel");
 define("LAN_UI_TOTAL_RECORDS", "Totaal  aantal records: [x]");
