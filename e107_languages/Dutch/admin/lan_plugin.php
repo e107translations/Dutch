@@ -282,7 +282,8 @@ define ("EPL_ADLAN_243","Instelling bijwerken:");
 define ("EPL_ADLAN_244","Tijdens installatie zijn er maar 5 Media Categorieen toegestaan.");  
 
 define ("EPL_ADLAN_245","Media categorie toevoegen: [x]");  
-define ("EPL_ADLAN_246","Verwijder alle media Categorieen van: [x]"); 
+define ("EPL_ADLAN_246","Verwijder alle media Categorieen van: [x]");
+define ("EPL_ADLAN_247","Updates die worden geïnstalleerd");
 
 define ("EPL_ADLAN_249","Gebruikersveld toevoegen: ");  
 define ("EPL_ADLAN_250","Gebruikersveld verwijderen: ");  
