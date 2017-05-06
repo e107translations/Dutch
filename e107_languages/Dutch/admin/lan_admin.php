@@ -193,6 +193,7 @@ define("LAN_NOTWRITABLE", " is niet beschrijfbaar, zorg ervoor dat de map de jui
 define("LAN_NOTREADABLE", "Niet leesbaar");
 define("LAN_MISSING", "Missend");
 define("LAN_UNUSED", "Niet in gebruik");
+define("LAN_SESSION", "Sessie");
 define("LAN_TOOLTIP", "Tooltip");
 define("LAN_TIME", "Tijd");
 define("LAN_EMPTY", "Er staat nog niets in de database");
