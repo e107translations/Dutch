@@ -232,6 +232,7 @@ define("LAN_INACTIVE", "Inactief");
 define("LAN_ACTIVATE","Activeren");
 define("LAN_ACTIVE", "Actief");
 define("LAN_ACCEPT", "Accepteren");
+define("LAN_PASSWORD_WARNING", "Het wordt AANBEVOLEN om [de wachtwoord versleuteling te veranderen] naar PHP Default. (Wachtwoord versleutelingen worden automatisch aangepast wanneer er ingelogd wordt.)");
 define("LAN_PENDING", "In behandeling");
 define("LAN_SUBMITTED", "Ingevoerd");
 define("LAN_POSTED_BY_X","Geplaatst door [x] [y]"); 
