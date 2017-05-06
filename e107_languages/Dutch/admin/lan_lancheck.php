@@ -32,6 +32,10 @@ define("LAN_CHECK_26", "Front");
 define("LAN_CHECK_27", "Het aantal taalfouten gevonden in het Taalpakket");
 define("LAN_CHECK_28", "Identiek");
 define("LAN_CHECK_PAGE_TITLE", "Talen");
+define("LAN_CHECK_29", "Identieke string (alleen waarschuwingen)");
+define("LAN_CHECK_30", "Ontbrekende bbcodes");
+define("LAN_CHECK_31", "Ontbrekende [ and/or ] karakter(s)");
+define("LAN_CHECK_32", "Ontbrekende HTML tags");
 
 define("LANG_LAN_23", "Aanmaken Taalpakket (zip)");
 define("LANG_LAN_30", "Aangemaakt");
