@@ -119,6 +119,7 @@ define("LAN_SIGNUP_117", "Verstuur een test activatie e-mail");
 define("LAN_SIGNUP_118", "Naar [x]");
 define("LAN_SIGNUP_119", "Verstuur geen mail");
 define("LAN_SIGNUP_120", "OF");
+define("LAN_SIGNUP_121", "Gebruik een ander e-mail adres");
 
 /*
 define("LAN_7", "Gebruikersnaam: ");
