@@ -383,6 +383,7 @@ define("LAN_SETTINGS_NOT_SAVED_NO_CHANGES_MADE", "Instellingen niet bewaard, er 
 define("LAN_DASHBOARD_LAYOUT", "Beheerscherm indeling");
 define("LAN_AFTER_SUBMIT", "Na het klikken:");   //after submit?
 define("LAN_UNAVAILABLE", "Niet beschikbaar");
+define("LAN_UNINSTALL", "De-installeren"); //of installeren ongedaan maken?
 define("LAN_READY_UP_FOLDER_FIELDS", "Klaar om hooggeladen formulier velden te gebruiken, optioneel - bestandslijst weergave");
 define("LAN_NO_LABEL_PROVIDED", "Geen label opgegeven");
 define("LAN_NOT_FOUND", "Niet gevonden!");
