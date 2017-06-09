@@ -36,7 +36,7 @@ define("POLLAN_24", "Voorvertoning");
 define("POLLAN_25", "Schonen formulier");
 define("POLLAN_26", "stemmen");
 define("POLLAN_27", "Reacties");
-define("POLLAN_28", "Voorgaande peilingen");
+define("POLLAN_28", "Alle voorgaande peilingen");
 define("POLLAN_29", "geplaatst door");
 define("POLLAN_30", "Stem uitbrengen");
 define("POLLAN_31", "stemmen");
