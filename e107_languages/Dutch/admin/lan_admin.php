@@ -128,7 +128,9 @@ define("ADLAN_171", "Installeer Site Statistieken plugin");
 
 define("ADLAN_185", "Wissel zijkantmenu");
 define("ADLAN_186", "De volgende bestanden zijn verouderd en kunnen worden verwijderd:");
-
+define("ADLAN_187", "Aanmaken [x] niet mogelijk. Controleer je bestandsrechten op de map.");   //vindt even niet welk ding wordt aangemaakt
+define("ADLAN_188", "Jou tijdzone instelling [x] is onjuist. Het werd ingesteld op UTC. Om dit te wijzigen, ga naar Beheer -> Voorkeuren -> Datumweergave.");
+define("ADLAN_189", "De volgende plugins zijn niet compatibel met deze versie van e107 en zouden moeten worden gedeïnstalleerd: ");
 define("ADLAN_CL_2", "Leden");
 define("ADLAN_CL_3", "Inhoud");
 define("ADLAN_CL_4", "Coms");
