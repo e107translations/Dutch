@@ -17,7 +17,7 @@ define("FBLAN_14", "Toon uitsluitend dit bericht");
 define("FBLAN_22", "Weergave methode");
 define("FBLAN_23", "In thema blok");
 define("FBLAN_24", "Normaal");
-define("FBLAN_25", "Aanmaken Categorie");
+define("FBLAN_25", "Er zijn geen dingenblok items toegekend aan het [x] template.");
 define("FBLAN_26", "Afbeelding/Video"); 
 define("FBLAN_27", "Afbeeldingslink"); 
 define("FBLAN_28", "Dingenblok Menu Categorie"); 
