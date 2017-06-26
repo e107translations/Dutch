@@ -54,6 +54,7 @@ define("POLLAN_42", "Deze peiling is alleen voor beheerders");
 define("POLLAN_43", "Je mag niet stemmen in deze peiling");
 define("POLLAN_44", "Peiling verwijderen?");
 define("POLLAN_45", "Peiling succesvol bijgewerkt");
+define("POLLAN_50", "Actief van [x] tot [y]");
 
 
 define("LAN_FORUM_3029", "Wanneer je geen peiling wil toevoegen aan dit onderwerp, laat dan de velden leeg."); 
