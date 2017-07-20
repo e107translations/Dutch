@@ -288,6 +288,7 @@ define("LAN_MAILOUT_266", "Max Actief");
 define("LAN_MAILOUT_267", "Genereer Public/Private sleutels");
 define("LAN_MAILOUT_268", "Alleen Developer Modus");
 define("LAN_MAILOUT_269", "Verstuur later");
-
+define("LAN_MAILOUT_270", "Test SMTP Connectie"); //verbinding?
+define("LAN_MAILOUT_271", "Authenticatie mislukt met gebruikersnaam ([x]) en wachtwoord ([y]):");
 
 ?>
