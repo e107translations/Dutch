@@ -128,7 +128,9 @@ define("ADLAN_171", "Installeer Site Statistieken plugin");
 
 define("ADLAN_185", "Wissel zijkantmenu");
 define("ADLAN_186", "De volgende bestanden zijn verouderd en kunnen worden verwijderd:");
-
+define("ADLAN_187", "Aanmaken [x] niet mogelijk. Controleer je bestandsrechten op de map.");   //vindt even niet welk ding wordt aangemaakt
+define("ADLAN_188", "Jou tijdzone instelling [x] is onjuist. Het werd ingesteld op UTC. Om dit te wijzigen, ga naar Beheer -> Voorkeuren -> Datumweergave.");
+define("ADLAN_189", "De volgende plugins zijn niet compatibel met deze versie van e107 en zouden moeten worden gedeïnstalleerd: ");
 define("ADLAN_CL_2", "Leden");
 define("ADLAN_CL_3", "Inhoud");
 define("ADLAN_CL_4", "Coms");
@@ -193,6 +195,7 @@ define("LAN_NOTWRITABLE", " is niet beschrijfbaar, zorg ervoor dat de map de jui
 define("LAN_NOTREADABLE", "Niet leesbaar");
 define("LAN_MISSING", "Missend");
 define("LAN_UNUSED", "Niet in gebruik");
+define("LAN_SESSION", "Sessie");
 define("LAN_TOOLTIP", "Tooltip");
 define("LAN_TIME", "Tijd");
 define("LAN_EMPTY", "Er staat nog niets in de database");
@@ -231,6 +234,7 @@ define("LAN_INACTIVE", "Inactief");
 define("LAN_ACTIVATE","Activeren");
 define("LAN_ACTIVE", "Actief");
 define("LAN_ACCEPT", "Accepteren");
+define("LAN_PASSWORD_WARNING", "Het wordt AANBEVOLEN om [de wachtwoord versleuteling te veranderen] naar PHP Default. (Wachtwoord versleutelingen worden automatisch aangepast wanneer er ingelogd wordt.)");
 define("LAN_PENDING", "In behandeling");
 define("LAN_SUBMITTED", "Ingevoerd");
 define("LAN_POSTED_BY_X","Geplaatst door [x] [y]"); 
@@ -336,8 +340,8 @@ define("LAN_UI_DELETE_WARNING", "je gaat [x] records verwijderen. Bevestig om ve
 define("LAN_UI_BATCH_CREATELINK", "Aanmaken Link");
 define("LAN_UI_DELETED", "[x] regel(s) met succes verwijderd!");
 define("LAN_UI_DELETED_FAILED", "[x] regels niet gevonden en niet verwjderd!");
-define("LAN_UI_FILE_DELETED", " bestand [x] succesvol verwijderd!");
-define("LAN_UI_FILE_DELETED_FAILED", "Niet mogelijk bestand [x] te verwijderen! Verwijder dit aun handmatig.");
+define("LAN_UI_FILE_DELETED", "[x] bestand met succes verwijderd!");
+define("LAN_UI_FILE_DELETED_FAILED", "Kon het bestand [x] niet verwijderen, verwijder dit bestand zelf middels FTP."); 
 define("LAN_UI_BATCH_EXPORT", "Export");
 define("LAN_UI_USING_DATABASE_TABLE", "Gebruik [x] database tabel");
 define("LAN_UI_TOTAL_RECORDS", "Totaal  aantal records: [x]");
@@ -379,6 +383,7 @@ define("LAN_SETTINGS_NOT_SAVED_NO_CHANGES_MADE", "Instellingen niet bewaard, er 
 define("LAN_DASHBOARD_LAYOUT", "Beheerscherm indeling");
 define("LAN_AFTER_SUBMIT", "Na het klikken:");   //after submit?
 define("LAN_UNAVAILABLE", "Niet beschikbaar");
+define("LAN_UNINSTALL", "De-installeren"); //of installeren ongedaan maken?
 define("LAN_READY_UP_FOLDER_FIELDS", "Klaar om hooggeladen formulier velden te gebruiken, optioneel - bestandslijst weergave");
 define("LAN_NO_LABEL_PROVIDED", "Geen label opgegeven");
 define("LAN_NOT_FOUND", "Niet gevonden!");

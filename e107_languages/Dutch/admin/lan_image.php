@@ -201,5 +201,7 @@ define('IMALAN_176', "Er was een probleem om het bestand te benaderen");
 define('IMALAN_177', "Klik hier voor meer informatie over en het ingeven van een api sleutel.");
 define("IMALAN_178", "Avatars Folder (door de gebruiker te selecteren)");
 define("IMALAN_179", "Avatars Folder (prive)");
+define('IMALAN_180', "0 byte bestand gevonden in:");
+define("IMALAN_181", "Verwijderen voordat je doorgaat.");
 
 ?>

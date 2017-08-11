@@ -95,6 +95,7 @@ define("LANG_LAN_144", "Moe opnieuw worden ingeschakeld");
 
 define("LANG_LAN_148", "Normale modus");
 define("LANG_LAN_149", "Waarde");
-define("LANG_LAN_150", "[b]Doorzoek GEHELE systeem core voordat je welke LAN dan ook commenteert (uitschakeld) in elke WILLEKEURIGE LAN in elke WILLEKEURIG taalbestand.[/b]"); //betere vertalling mogl.?
-
+define("LANG_LAN_150", "[b]Doorzoek het GEHELE systeem voordat je een LAN verwijderd in welk taalbestand dan ook.[/b]"); //betere vertalling mogl.?
+define("LANG_LAN_151", "Beschikbaar");
+define("LANG_LAN_152", "Met dank aan het [e107 translations team]");
 ?>
