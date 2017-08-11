@@ -1,4 +1,4 @@
-<!-- for Cache $Id: Cache 729 2014-08-20 09:42:05Z erje $ -->
+<!-- for Cache 2.1.6 $Id: Cache 729 2014-08-20 09:42:05Z erje $ -->
 Q>	Waar dient dit voor?
 A>	Het instellen van de Cache Status op 'aan' slaat enkele delen van je website op in je database. Dit vermindert het aantal queries op de mySQL database en versnelt dus je site.
 
