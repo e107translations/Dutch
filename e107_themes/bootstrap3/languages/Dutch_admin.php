@@ -4,7 +4,7 @@
 |     e107 website system - Dutch Language File.
 |
 |     $URL:$
-|     $Revision:$
+|     $Revision:$ 2.1.6
 |     $Date:$
 |     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
