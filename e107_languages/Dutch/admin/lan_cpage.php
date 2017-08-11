@@ -9,6 +9,11 @@
 |     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
+define("CUSLAN_1", "Overzicht");
+define("CUSLAN_2", "Pagina titel");
+define("CUSLAN_3", "Items per pagina");
+define("CUSLAN_4", "Custom velden");
+define("CUSLAN_5", "(Nieuw boek)");
 define("CUSLAN_9", "Tekst");
 define("CUSLAN_11", "Meta omschrijving");
 define("CUSLAN_12", "Aanmaken<br> pagina/menu");

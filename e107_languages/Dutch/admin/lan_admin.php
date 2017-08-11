@@ -128,7 +128,9 @@ define("ADLAN_171", "Installeer Site Statistieken plugin");
 
 define("ADLAN_185", "Wissel zijkantmenu");
 define("ADLAN_186", "De volgende bestanden zijn verouderd en kunnen worden verwijderd:");
-
+define("ADLAN_187", "Aanmaken [x] niet mogelijk. Controleer je bestandsrechten op de map.");   //vindt even niet welk ding wordt aangemaakt
+define("ADLAN_188", "Jou tijdzone instelling [x] is onjuist. Het werd ingesteld op UTC. Om dit te wijzigen, ga naar Beheer -> Voorkeuren -> Datumweergave.");
+define("ADLAN_189", "De volgende plugins zijn niet compatibel met deze versie van e107 en zouden moeten worden gedeïnstalleerd: ");
 define("ADLAN_CL_2", "Leden");
 define("ADLAN_CL_3", "Inhoud");
 define("ADLAN_CL_4", "Coms");
@@ -154,6 +156,7 @@ define("LAN_LAST_UPDATED","Als laatste bijgewerkt");
 define("LAN_UPDATE_AVAILABLE","Update beschikbaar");
 define("LAN_ADD", "Toevoegen");
 define("LAN_ADD_MORE", "Meer toevoegen");
+define("LAN_REMOVE", "Verwijder");
 define("LAN_MULTIPLE_CHOICE", "Meerkeuze mogelijk");
 
 define("LAN_SAVE", "Opslaan");
@@ -183,7 +186,8 @@ define("LAN_PRUNE", "Opschonen");
 define("LAN_RESET", "Herstel");
 define("LAN_CLEAR", "Schonen");
 define("LAN_ADD_ALL", "Alles toevoegen");
-define("LAN_CLEAR_ALL", "Alles verwijderen"); 
+define("LAN_CLEAR_ALL", "Alles verwijderen");
+define("LAN_CLICK_HERE", "KLIK HIER");
 define("LAN_UNKNOWN", "Niet bekend");
 define("LAN_ALL", "Alles");
 define("LAN_IMPORT", "Importeer");
@@ -191,6 +195,7 @@ define("LAN_NOTWRITABLE", " is niet beschrijfbaar, zorg ervoor dat de map de jui
 define("LAN_NOTREADABLE", "Niet leesbaar");
 define("LAN_MISSING", "Missend");
 define("LAN_UNUSED", "Niet in gebruik");
+define("LAN_SESSION", "Sessie");
 define("LAN_TOOLTIP", "Tooltip");
 define("LAN_TIME", "Tijd");
 define("LAN_EMPTY", "Er staat nog niets in de database");
@@ -207,6 +212,8 @@ define("LAN_WEBSITE_STATUS","Website Status");
 define("LAN_STATS","Statis.");  
 define("LAN_ONLINE","Online");
 define("LAN_ORDER", "Volgorde");
+define("LAN_ASC","Oplopend");
+define("LAN_DESC","Aflopend");
 define("LAN_SELECT", "Selecteer ...");
 define("LAN_ADMIN", "Beheer");
 define("LAN_ROOT","Root");
@@ -227,6 +234,7 @@ define("LAN_INACTIVE", "Inactief");
 define("LAN_ACTIVATE","Activeren");
 define("LAN_ACTIVE", "Actief");
 define("LAN_ACCEPT", "Accepteren");
+define("LAN_PASSWORD_WARNING", "Het wordt AANBEVOLEN om [de wachtwoord versleuteling te veranderen] naar PHP Default. (Wachtwoord versleutelingen worden automatisch aangepast wanneer er ingelogd wordt.)");
 define("LAN_PENDING", "In behandeling");
 define("LAN_SUBMITTED", "Ingevoerd");
 define("LAN_POSTED_BY_X","Geplaatst door [x] [y]"); 
@@ -248,6 +256,7 @@ define("LAN_OFF", "Uit");
 define("LAN_DISABLED", "Uit");
 define("LAN_ENABLED", "Aan");
 define("LAN_BOOL_REVERSE", "Omdraaien");
+define("LAN_DETAILS", "Details");
 define("LAN_NOT_AVAILABLE", "Niet beschikbaar");
 define("LAN_AUTO_GENERATED", "Automatisch-gegenereerd");
 define("LAN_PRESET_CONFIRMSAVE", "De huidige formulierwaarden als standaard voor deze pagina opslaan?");
@@ -272,7 +281,7 @@ define("LAN_STATUS", "Status");
 define("LAN_URL", "URL");
 define("LAN_OWNER", "Eigenaar");
 define("LAN_PURCHASE", "Koop");
-define("LAN_DOWN_THEME", "Downloaden van");
+define("LAN_DOWN_THEME", "Downloading");
 define("LAN_ID", "ID");
 define("LAN_TEST", "Test");
 define("LAN_VISIBILITY", "Zichtbaarheid");
@@ -331,6 +340,8 @@ define("LAN_UI_DELETE_WARNING", "je gaat [x] records verwijderen. Bevestig om ve
 define("LAN_UI_BATCH_CREATELINK", "Aanmaken Link");
 define("LAN_UI_DELETED", "[x] regel(s) met succes verwijderd!");
 define("LAN_UI_DELETED_FAILED", "[x] regels niet gevonden en niet verwjderd!");
+define("LAN_UI_FILE_DELETED", "[x] bestand met succes verwijderd!");
+define("LAN_UI_FILE_DELETED_FAILED", "Kon het bestand [x] niet verwijderen, verwijder dit bestand zelf middels FTP."); 
 define("LAN_UI_BATCH_EXPORT", "Export");
 define("LAN_UI_USING_DATABASE_TABLE", "Gebruik [x] database tabel");
 define("LAN_UI_TOTAL_RECORDS", "Totaal  aantal records: [x]");
@@ -359,6 +370,7 @@ define("LAN_LIMIT", "Limiet");
 define("LAN_BASIC", "Basis");
 define("LAN_EXTENDED", "Uitgebreid");
 define("LAN_ADVANCED", "Gevorderd");
+define("LAN_DISPLAY", "Tonen");
 define("LAN_FOLDER", "Bestandsmap");
 define("LAN_PERSONALIZE_ICONS", "Gepersonaliseerde Iconen"); //mgl iets anders benamen? 
 define("LAN_PERSONALIZE_MENUS", "Gepersonaliseerde Menus"); //mgl iets anders benamen?  
@@ -371,6 +383,7 @@ define("LAN_SETTINGS_NOT_SAVED_NO_CHANGES_MADE", "Instellingen niet bewaard, er 
 define("LAN_DASHBOARD_LAYOUT", "Beheerscherm indeling");
 define("LAN_AFTER_SUBMIT", "Na het klikken:");   //after submit?
 define("LAN_UNAVAILABLE", "Niet beschikbaar");
+define("LAN_UNINSTALL", "De-installeren"); //of installeren ongedaan maken?
 define("LAN_READY_UP_FOLDER_FIELDS", "Klaar om hooggeladen formulier velden te gebruiken, optioneel - bestandslijst weergave");
 define("LAN_NO_LABEL_PROVIDED", "Geen label opgegeven");
 define("LAN_NOT_FOUND", "Niet gevonden!");
@@ -394,5 +407,5 @@ define("LAN_ENGINE", "Aangedreven door");
 define("LAN_SOURCE", "Bron");
 
 define("LAN_ERROR_CONNECTION","Er kan geen verbinding gemaakt worden met de updateserver, controleer firewall en/of internet verbnding of probeer later nog eens.");
-
+define("LAN_UI_X_CANT_EQUAL_Y", "[x] kan niet identiek zijn aan [y]");
 ?>

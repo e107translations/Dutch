@@ -257,4 +257,5 @@ define("PRFLAN_272", "Sessie levensduur");
 define("PRFLAN_273", "Sessie levensduur in seconden. 0 = totdat de browser is gesloten. ");
 define("PRFLAN_274", "Het contactformulier zal alleen zichtbaar zijn voor leden met deze  gebruikersklasse groep.");
 define("PRFLAN_275", "Bekijk deze pagina middels https (SSL) om te veranderen");
+define("PRFLAN_276", "PHP Default (Aanbevolen)");
 ?>

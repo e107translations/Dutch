@@ -100,6 +100,12 @@ define("LAN_XUP_ERRM_03", "Inloggen mislukt! Verkeerde provider.");
 define("LAN_XUP_ERRM_04", "Aanmelden mislukt! Gebruiker is al aangemeld.");
 define("LAN_XUP_ERRM_05", "Aanmelden mislukt! Gebruiker bestaat al, gebruik 'login'.");
 define("LAN_XUP_ERRM_06", "Aanmelden mislukt! Kan e-mailadres niet bereiken - registratie zonder e-mailadres is onmogelijk.");
+define("LAN_XUP_ERRM_07", "Social Login Testen");
+define("LAN_XUP_ERRM_08", "Log eerst uit e107 systeem vooordat je de nieuwe inlog/aanmeld procedure test.");
+define("LAN_XUP_ERRM_09", "Test login met alleen [x]");
+define("LAN_XUP_ERRM_10", "Test aanmelden/login met [x]");
+define("LAN_XUP_ERRM_11", "Ingelogd:");
+define("LAN_XUP_ERRM_12", "Test uitloggen");
 
 if (!defined("USER_ERR_01")) { define("USER_ERR_01","Ontbrekende waarde");  }
 if (!defined("USER_ERR_02")) { define("USER_ERR_02","Onverwachte waarde");  }
