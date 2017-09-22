@@ -408,4 +408,6 @@ define("LAN_SOURCE", "Bron");
 
 define("LAN_ERROR_CONNECTION","Er kan geen verbinding gemaakt worden met de updateserver, controleer firewall en/of internet verbnding of probeer later nog eens.");
 define("LAN_UI_X_CANT_EQUAL_Y", "[x] kan niet identiek zijn aan [y]");
+define("LAN_UI_VIEW_GRID_LABEL", "Rasterweergave");
+define("LAN_UI_VIEW_LIST_LABEL", "Lijstweergave");
 ?>
