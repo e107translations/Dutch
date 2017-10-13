@@ -23,6 +23,7 @@ define("LAN_FORUM_MENU_0010", "Nieuw Forum berichten menu configuratie");
 
 define("LAN_FORUM_MENU_0012", "Maximale leeftijd van getoonde berichten");
 define("LAN_FORUM_MENU_0013", "Gebruik nul op rustige sites; een waarde instellen in dagen zal database tijd verminderen op een drukke site");
-
+define("LAN_FORUM_MENU_014", "'Scrolling layer' hoogte (in pixels)");
+define("LAN_FORUM_MENU_015", "Laat leeg voor geen 'scrolling'");
 	
 ?>
