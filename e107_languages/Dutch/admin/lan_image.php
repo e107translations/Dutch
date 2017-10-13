@@ -48,7 +48,7 @@ define("IMALAN_10", "Gebruikersklasse voor bekijken");
 define("IMALAN_11", "Beperk tot welke gebruikers afbeeldingen kunnen bekijken (wanneer afbeeldingsweergave is ingeschakeld)");
 define("IMALAN_12", "Afbeeldingsweergave uitgeschakeld");
 define("IMALAN_13", "Wat te doen met afbeeldingen als  weergeven van afbeeldingen is uitgeschakeld");
-define("IMALAN_14", "Toon URL van\naar de afbeelding");
+define("IMALAN_14", "Toon URL van / naar de afbeelding");
 define("IMALAN_15", "Toon niets");
 define("IMALAN_18", "Geuploade afbeeldingen");
 define("IMALAN_20", "Niets veranderd");
