@@ -219,8 +219,7 @@ define("LAN_MAILOUT_205", "Email verzendings-formaat fout");
 define("LAN_MAILOUT_206", "Onjuist mail ID (--ID--) gespecificeerd");
 define("LAN_MAILOUT_207", "Template laad fout");
 define("LAN_MAILOUT_208", "Template conversie fout");
-define("LAN_MAILOUT_209", "");
-define("LAN_MAILOUT_210", "");
+
 
 // Block of status messages kept together
 define("LAN_MAILOUT_211", "Verzonden");
