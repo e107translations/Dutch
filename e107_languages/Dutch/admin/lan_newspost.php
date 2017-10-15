@@ -131,7 +131,7 @@ define("LAN_NEWS_62", "Geen toegang tot database, of geen nieuws items gevonden"
 define("LAN_NEWS_63", "Aanmaken categorie");
 define("LAN_NEWS_64", "Oude Toegevoegd");
 define("LAN_NEWS_65", "Kies een unieke SEF URL string voor deze categorie");
-define("LAN_NEWS_66", ""); 
+
 define("LAN_NEWS_67", "Sluiten");
 define("LAN_NEWS_68", "Geplaatst Item");
 
