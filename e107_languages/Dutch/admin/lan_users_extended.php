@@ -92,7 +92,7 @@ define("EXTLAN_74", "is een gereserveerde veldnaam en kan niet worden gebruikt."
 define("EXTLAN_75", "Fout bij toevoegen veld aan database.");
 define("EXTLAN_76", "Ongeldig(e) teken(s) in veldnaam - alleen A-Z, a-z, 0-9 en _ toegestaan.");
 define("EXTLAN_77", "Categorie niet verwijderd. De volgende velden in de categorie moeten eerst verwijderd worden: ");
-define("EXTLAN_78", "Kan de file  --FILE-- niet vinden welke nodig is om de data tabel te creëeren");
+define("EXTLAN_78", "Kan de file  [x] niet vinden welke nodig is om de data tabel te creëeren");
 
 define("EXTLAN_79", "Label");
 define("EXTLAN_80", "Validatie fout - gestopt.");
