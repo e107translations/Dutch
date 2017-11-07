@@ -136,7 +136,7 @@ define("USRLAN_154", "Leeg e-mail zijnde gecontroleerd");
 define("USRLAN_155", "Totaal {TOTAL} e-mails gevonden. {DELCOUNT} verwijderd middels opties.<br />{DELUSER} gebruikers gemarkeerd als 'gekaatst' ( gezien vanuit {FOUND} e-mails)");
 define("USRLAN_156", "e-mail addes is al in gebruik");
 
-define("USRLAN_160", "Totaal --COUNT-- gebruikers van type --TYPE-- opgeschoond");
+//define("USRLAN_160", "Totaal [x] gebruikers van type --TYPE-- opgeschoond");
 define("USRLAN_161", "Gebruikers ID --UID-- naam --NAME-- geblokkeerd");
 define("USRLAN_162", "Gebruikers ID --UID-- naam --NAME-- ge-deblokkeerd");
 define("USRLAN_163", "Gebruikers ID --UID-- verwijderd");
@@ -146,7 +146,7 @@ define("USRLAN_166", "v --UID-- naam --NAME-- goedgekeurd");
 //FIX ME USERLAN_160 - USERLAN_166 need to be reworked avoid duplication. 
 
 define("USRLAN_167", "Validatie e-mail ID --ID-- opnieuw verzonden naar --NAME-- op --e-mail--");
-define("USRLAN_168", "Opnieuw verzonden --COUNT-- validatie e-mails");
+//define("USRLAN_168", "Opnieuw verzonden [x] validatie e-mails");
 define("USRLAN_169", "Totaal --COUNT-- gekaatste e-mails verwijderd");
 define("USRLAN_170", "Willekeurige gebruikersnaam");
 define("USRLAN_171", "Willekeurig wachtwoord");
