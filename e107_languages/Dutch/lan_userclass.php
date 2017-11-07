@@ -22,7 +22,7 @@ define("UC_LAN_7", "Forum Moderators");
 define("UC_LAN_8", "Beheerders en Mods");
 define("UC_LAN_9", "Nieuwe gebruikers");
 define("UC_LAN_10", "Zoekmachines");
-define("UC_LAN_INVERT", "Niet --CLASS--");
+define("UC_LAN_INVERT", "Niet [x]");
 define("UC_LAN_INVERTLABEL", "Iedereen maar..");
 
 
