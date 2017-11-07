@@ -66,8 +66,8 @@ define("ADMSLAN_62", "Plugin Manager");
 
 define("ADMSLAN_71", "Klik hier om de rechten te zien");
 
-define("ADMSLAN_72", "Admin ID: --ID-- naam: --NAME-- nieuwe rechten: ");
-define("ADMSLAN_73", "Admin ID: --ID-- naam: --NAME--");
+define("ADMSLAN_72", "Admin ID: [x] naam: [y] nieuwe rechten: ");
+define("ADMSLAN_73", "Admin ID: [x] naam: [y]")
 
 //define("ADMSLAN_74", "Algemeen");
 
