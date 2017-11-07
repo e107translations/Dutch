@@ -29,7 +29,7 @@ define("LAN_UPDATE_24", "Verwijderen verlopen tabel veld");
 define("LAN_UPDATE_25", "Verwijder overbodige tabel");
 define("LAN_UPDATE_26", "Uitbreiden IP adres veld");
 define("LAN_UPDATE_27", "Tabel toevoegen: ");
-define("LAN_UPDATE_28", "--COUNT-- opgeslagen emails verplaatst");
+define("LAN_UPDATE_28", "[x] opgeslagen emails verplaatst");
 define("LAN_UPDATE_29", "Afhankelijk van je eigen systeem configuratie, bestaat de mogelijkheid dat het opwaardeerproces meerdere keren moet worden doorlopen.");
 
 define("LAN_UPDATE_37", "Voeg index --INDEX-- toe aan tabel --TABLE--");
