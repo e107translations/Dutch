@@ -90,7 +90,7 @@ define("LAN_USER_82", "de naam die je gebruikt om in te loggen");
 define("LAN_USER_83", "Verberg e-mail adres?: ");		
 define("LAN_USER_84", "Dit zorgt ervoor dat je e-mailadres niet getoond wordt op de website");
 define("LAN_USER_85", "Als je je gebruikersnaam wilt wijzigen, neem contact op met de website beheerder");
-define("LAN_USER_86", "Maximum avatar grootte is --WIDTH-- x --HEIGHT-- pixels");
+define("LAN_USER_86", "Maximum avatar grootte is [x] x [y] pixels");
 define("LAN_USER_87", "Login om deze gebruiker te waarderen!");
 
 // social plugin
