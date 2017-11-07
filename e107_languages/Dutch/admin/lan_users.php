@@ -259,7 +259,7 @@ define("UCSLAN_7", "Stel Klassen in");
 define("UCSLAN_8", "Berichtgeving aan gebruiker");
 define("UCSLAN_9", "Klassen geupdated.");
 define("UCSLAN_10", "Groeten,");
-define("UCSLAN_11", "Klasse lidmaatschap voor gebruiker ID --UID-- verandert naar --CLASSES--");
+define("UCSLAN_11", "Klasse lidmaatschap voor gebruiker ID [x] verandert naar [y]");
 define("UCSLAN_12", "Alleen Leden privileges");
 
 
