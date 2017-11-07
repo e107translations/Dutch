@@ -206,8 +206,8 @@ define("LAN_MAILOUT_191", "Bewaarde emails");
 define("LAN_MAILOUT_192", "Afgeronde Mailshots");
 define("LAN_MAILOUT_193", "Nog wachtende Mailshots");
 define("LAN_MAILOUT_194", "Vastgehouden Mailshots");
-define("LAN_MAILOUT_195", "");
-define("LAN_MAILOUT_196", "");
+//define("LAN_MAILOUT_195", "");
+//define("LAN_MAILOUT_196", "");
 
 // Block of error messages kept together
 define("LAN_MAILOUT_200", "Geen onderwerp aangegeven");
