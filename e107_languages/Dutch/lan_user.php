@@ -79,7 +79,7 @@ define("LAN_USER_71", "Onderschrift: ");
 define("LAN_USER_72", "Avatar: ");
 define("LAN_USER_73", "Kies Content/Mail-lijsten");
 define("LAN_USER_74", "Maatwerk titel");
-define("LAN_USER_75", "Je --SOMETHING-- is verplicht");
+define("LAN_USER_75", "Je [x] is verplicht");
 define("LAN_USER_76", "Ingeschreven op");
 define("LAN_USER_77", "Je wachtwoord moet minimaal [x] karakters lang zijn.");
 define("LAN_USER_78", "Min.");
