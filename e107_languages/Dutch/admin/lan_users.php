@@ -133,7 +133,7 @@ define("USRLAN_151", "Leeg kaatsing, Activatie benodigd");
 define("USRLAN_152", "Leeg kaatsing en Activeer");
 define("USRLAN_153", "Verwijdere niet gekaatste e-mails");
 define("USRLAN_154", "Leeg e-mail zijnde gecontroleerd");
-define("USRLAN_155", "Totaal {TOTAL} e-mails gevonden. {DELCOUNT} verwijderd middels opties.<br />{DELUSER} gebruikers gemarkeerd als 'gekaatst' ( gezien vanuit {FOUND} e-mails)");
+define("USRLAN_155", "Totaal [w] e-mails gevonden. [x] verwijderd middels opties.<br />[y] gebruikers gemarkeerd als 'gekaatst' ( gezien vanuit [z] e-mails)");
 define("USRLAN_156", "e-mail addes is al in gebruik");
 
 //define("USRLAN_160", "Totaal [x] gebruikers van type --TYPE-- opgeschoond");
