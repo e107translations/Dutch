@@ -88,6 +88,11 @@ define("ADSTAT_LAN_83", "Volgende log ID invoeringen verwijderd");
 define("ADSTAT_LAN_84", "Deze procedure zal de statistiek log samenvattingen overschrijven. (ruwe log bestanden blijven ongewijzigd). Wanneer vervangen, kan de data niet worden hersteld. Maak aub eerst een backup of exporteer de database.");
 define("ADSTAT_LAN_85", "[x] log bestanden werden gevonden. Klik op onderstaande knop om deze bestanden te verwerken.");
 define("ADSTAT_LAN_86", "Totaal hits");
+define("ADSTAT_LAN_87", "Herbouw Statistische gegevens");
+define("ADSTAT_LAN_88", "Herbouw Stats"); 
+define("ADSTAT_LAN_89", "Herbouw");  
+define("ADSTAT_LAN_90", "Data opgeslagen in database met id: [x]");
+define("ADSTAT_LAN_91", "Kon data met id: [x] niet opslaan in database");
 
 
 ?>
