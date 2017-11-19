@@ -203,5 +203,6 @@ define("IMALAN_178", "Avatars Folder (door de gebruiker te selecteren)");
 define("IMALAN_179", "Avatars Folder (prive)");
 define('IMALAN_180', "0 byte bestand gevonden in:");
 define("IMALAN_181", "Verwijderen voordat je doorgaat.");
-
+define("IMALAN_182", "Converteer naar jpeg tijdens import");
+define("IMALAN_183", "PNG en GIF bestanden worden automatisch geconverteerd naar het jpeg formaat. (iconen uitgezonderd)");
 ?>
