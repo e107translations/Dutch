@@ -276,7 +276,6 @@ define("LAN_MENULAYOUT", "Menu Indeling");
 define("LAN_MEDIAMANAGER", "Media Manager");
 define("LAN_MOREINFO", "Meer Informatie...");
 define("LAN_COMMENTMAN", "Reacties beheer");
-define("LAN_LIST", "Lijst");
 define("LAN_FILTER", "Filter");
 define("LAN_STATUS", "Status");
 define("LAN_URL", "URL");
