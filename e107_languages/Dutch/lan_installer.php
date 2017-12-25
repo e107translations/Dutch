@@ -120,5 +120,6 @@ define("LANINS_142", "BELANGRIJK: Hernoem e107.htaccess naar .htaccess aub.");
 define("LANINS_144", "BELANGRIJK: Kopieër en plak de inhoud van het [b]e107.htaccess[/b] in jouw [b].htaccess[/b] bestand. Wees voorzichtig dat je eventueel bestaande data NIET overschrijft!.");
 define("LANINS_145", "e107 v2.x vereist dat  PHP [x] is geïnstalleerd. Neem aub contact op met je hosting of lees de informatie op  [y] voordat je doorgaat.");
 define("LANINS_146", "Beheer thema (Skin)");
+define("LANINS_147", "Administratie");
 
 ?>
