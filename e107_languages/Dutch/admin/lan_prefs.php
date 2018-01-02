@@ -192,8 +192,8 @@ define("PRFLAN_208", "Gebruikers klasse welke links kunnen e-mailen naar items o
 define("PRFLAN_209", "Andere Opties");
 define("PRFLAN_210", "Reacties/Posts");
 define("PRFLAN_211", "Je kan het e-mailadres niet optioneel maken als die nodig zijn voor validatie of inloggen");
-define("PRFLAN_212", "Waarde voor--FIELD-- te hoog - gewijzigd in--VALUE--");
-define("PRFLAN_213", "Waarde voor --FIELD-- te laag- gewijzigd in --VALUE--");
+define("PRFLAN_212", "Waarde voor[x]] te hoog - gewijzigd in [y]");
+define("PRFLAN_213", "Waarde voor [x] te laag- gewijzigd in [y]");
 define("PRFLAN_214", "Site Logo");
 define("PRFLAN_215", "Klasse die &#60script&#62 en vergelijkbare tags kan posten");
 define("PRFLAN_216", "(Heeft ook HTML post rechten nodig)");

@@ -38,6 +38,12 @@ define("LANA_FAQ_PREF_14", "Toon datumstempel");
 define("LANA_FAQ_PREF_15", "Toon sociale knoppen");
 define("LANA_FAQ_PREF_16", "Gespecificeerde volgorde");
 define("LANA_FAQ_PREF_17", "Alle talen");
+define("LANA_FAQ_PREF_18", "Opgaande volgorde middels ID");
+define("LANA_FAQ_PREF_19", "Neergaande volgorde middels ID");
+define("LANA_FAQ_PREF_20", "Opgaande volgorde middels Datum");
+define("LANA_FAQ_PREF_21", "Neergaande volgorde middels Datum");
+define("LANA_FAQ_PREF_22", "Beheer van Vragen");
+define("LANA_FAQ_PREF_23", "Beheer van Categoriën")
 define("LANA_FAQ_PREF_HELP_1", "0 = geen limiet");
 define("LANA_FAQ_PREF_HELP_2", "Vul niets in om standaard waarde te gebruiken");
 define("LANA_FAQ_CRON_1", "Niet beantwoorde vragen rapport");

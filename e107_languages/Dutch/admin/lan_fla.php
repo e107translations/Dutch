@@ -22,6 +22,6 @@ define("FLALAN_10", "Verwijderen / blokkeren aangekruiste gegevens");
 define("FLALAN_15", "Volgende IP adres(sen) automatisch geblokkeerd - Lid probeerde meer dan 10 keer vergeefs in te loggen");
 define("FLALAN_16", "verwijder deze auto-blokkade lijst");
 define("FLALAN_17", "Auto-blokkade lijst verwijderd");
-define("FLALAN_18", "Kon het IP adres  --IP-- - niet blokkeren op de wittelijst");
+//define("FLALAN_18", "Kon het IP adres  --IP-- - niet blokkeren op de wittelijst");
 
 ?>
