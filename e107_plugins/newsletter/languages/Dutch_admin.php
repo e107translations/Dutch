@@ -31,8 +31,8 @@ define("NLLAN_33", "Tekst");
 define("NLLAN_36", "Bijwerken uitgave nieuwsbrief");
 define("NLLAN_37", "Aanmaken uitgave nieuwsbrief");
 define("NLLAN_39", "Nieuwsbriefuitgave opgeslagen in de database. Klik op de “Verzenden uitgave” knop in het Opties menu om de uitgave te versturen.");
-define("NLLAN_40", "Verzending gereed - uitgave verzonden aan [x] abonnees ");
-define("NLLAN_41", "geen abonnee(s) gevonden - email geannuleerd.");
+define("NLLAN_40", "Verzending gereed - uitgave verzonden aan ");
+define("NLLAN_41", " abonnee(s).");
 define("NLLAN_44", "Nieuwsbrief voorpagina");
 define("NLLAN_45", "Aanmaken nieuwsbrief ");
 define("NLLAN_46", "Aanmaken uitgave");
@@ -49,4 +49,4 @@ define("NLLAN_65", "Aanmelders overzicht nieuwsbrief ID");
 define("NLLAN_66", "Je nieuwsbrief abonnee lijst werd opgeschoond.");
 
 
-?>
+?> 

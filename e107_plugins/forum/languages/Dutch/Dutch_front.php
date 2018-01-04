@@ -9,7 +9,7 @@
 |     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
-//define("e_PAGETITLE", "Forum");
+define("e_PAGETITLE", "Forum");
 define("LAN_FORUM_0002", "Discussies");
 define("LAN_FORUM_0003", "Reacties");
 define("LAN_FORUM_0004", "Laatste bericht");
