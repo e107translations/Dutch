@@ -62,7 +62,7 @@ define("UPLAN_DELETE", 	  "Verwijder");
 define("UPLLAN_49", "Bestands Types");
 define("UPLLAN_50", "Opties");
 define("UPLLAN_51", "Upload Lijst ");
-define("UPLLAN_52", "Deze pagina helpt bij het aanmaken van een bestand voor het beheren van bestanden upload rechten. Het bestand wordt opgeslagen als [x], en moet worden gekopiëerd naar [y] voordat het effekt heeft."); 
+define("UPLLAN_52", "Deze pagina helpt bij het aanmaken van een bestand voor het beheren van bestanden upload rechten. Het bestand wordt opgeslagen als --SOURCE--, en moet worden gekoiëerd naar --DEST-- voordat het effekt heeft."); 
 define("UPLLAN_53", "Gebruikersklasse");
 define("UPLLAN_54", "Bestandsextensies");
 define("UPLLAN_55", "Max upload grootte");

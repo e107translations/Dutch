@@ -29,10 +29,10 @@ define("LAN_UPDATE_24", "Verwijderen verlopen tabel veld");
 define("LAN_UPDATE_25", "Verwijder overbodige tabel");
 define("LAN_UPDATE_26", "Uitbreiden IP adres veld");
 define("LAN_UPDATE_27", "Tabel toevoegen: ");
-define("LAN_UPDATE_28", "[x] opgeslagen emails verplaatst");
+define("LAN_UPDATE_28", "--COUNT-- opgeslagen emails verplaatst");
 define("LAN_UPDATE_29", "Afhankelijk van je eigen systeem configuratie, bestaat de mogelijkheid dat het opwaardeerproces meerdere keren moet worden doorlopen.");
 
-define("LAN_UPDATE_37", "Voeg index [x] toe aan tabel [y]");
+define("LAN_UPDATE_37", "Voeg index --INDEX-- toe aan tabel --TABLE--");
 define("LAN_UPDATE_38", "Bijwerken voorpagina");
 define("LAN_UPDATE_40", "Bijwerken van newsfeed tabel");
 define("LAN_UPDATE_41", "Gebruikers tijdzone veld verwerkt");
@@ -45,7 +45,7 @@ define("LAN_UPDATE_50", "Overbodige voorkeuren verwijderd:");
 define("LAN_UPDATE_51", "Bijwerken plugin tabel definitie");
 define("LAN_UPDATE_52", "Bijwerken download tabel");
 define("LAN_UPDATE_53", "Bijwerken download spiegel tabel"); 
-define("LAN_UPDATE_54", "Missende tabel [y] -kan index [x] niet toevoegen");
+define("LAN_UPDATE_54", "Missende tabel --TABLE-- -kan index --INDEX-- niet toevoegen");
 define("LAN_UPDATE_55", "Omschrijving");
 define("LAN_UPDATE_56", "Systeem update");
 

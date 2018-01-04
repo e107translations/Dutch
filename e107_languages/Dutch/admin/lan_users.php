@@ -133,21 +133,21 @@ define("USRLAN_151", "Leeg kaatsing, Activatie benodigd");
 define("USRLAN_152", "Leeg kaatsing en Activeer");
 define("USRLAN_153", "Verwijdere niet gekaatste e-mails");
 define("USRLAN_154", "Leeg e-mail zijnde gecontroleerd");
-define("USRLAN_155", "Totaal [w] e-mails gevonden. [x] verwijderd middels opties.<br />[y] gebruikers gemarkeerd als 'gekaatst' ( gezien vanuit [z] e-mails)");
+define("USRLAN_155", "Totaal {TOTAL} e-mails gevonden. {DELCOUNT} verwijderd middels opties.<br />{DELUSER} gebruikers gemarkeerd als 'gekaatst' ( gezien vanuit {FOUND} e-mails)");
 define("USRLAN_156", "e-mail addes is al in gebruik");
 
-//define("USRLAN_160", "Totaal [x] gebruikers van type --TYPE-- opgeschoond");
-define("USRLAN_161", "Gebruikers ID [x] naam [y] geblokkeerd");
-define("USRLAN_162", "Gebruikers ID [x] naam [y] ge-deblokkeerd");
-define("USRLAN_163", "Gebruikers ID [x] verwijderd");
-define("USRLAN_164", "Gebruikers ID [x] naam [y] (--e-mail--) beheerder gemaakt");
-define("USRLAN_165", "Gebruikers ID [x] naam [y] beheerder status ingetrokken");
-define("USRLAN_166", "Gebruikers ID [x] naam [y] goedgekeurd");
+define("USRLAN_160", "Totaal --COUNT-- gebruikers van type --TYPE-- opgeschoond");
+define("USRLAN_161", "Gebruikers ID --UID-- naam --NAME-- geblokkeerd");
+define("USRLAN_162", "Gebruikers ID --UID-- naam --NAME-- ge-deblokkeerd");
+define("USRLAN_163", "Gebruikers ID --UID-- verwijderd");
+define("USRLAN_164", "Gebruikers ID --UID-- naam --NAME-- (--e-mail--) beheerder gemaakt");
+define("USRLAN_165", "Gebruikers ID --UID-- naam --NAME-- beheerder status ingetrokken");
+define("USRLAN_166", "v --UID-- naam --NAME-- goedgekeurd");
 //FIX ME USERLAN_160 - USERLAN_166 need to be reworked avoid duplication. 
 
-define("USRLAN_167", "Validatie e-mail ID [x] opnieuw verzonden naar [y] op [z]");
-//define("USRLAN_168", "Opnieuw verzonden [x] validatie e-mails");
-define("USRLAN_169", "Totaal [x] gekaatste e-mails verwijderd");
+define("USRLAN_167", "Validatie e-mail ID --ID-- opnieuw verzonden naar --NAME-- op --e-mail--");
+define("USRLAN_168", "Opnieuw verzonden --COUNT-- validatie e-mails");
+define("USRLAN_169", "Totaal --COUNT-- gekaatste e-mails verwijderd");
 define("USRLAN_170", "Willekeurige gebruikersnaam");
 define("USRLAN_171", "Willekeurig wachtwoord");
 define("USRLAN_172", "Gebruikers account werd aangemaakt met het volgende:");
@@ -234,8 +234,8 @@ define("USRLAN_241", "Activeer, Mededelen (wachtwoord)");
 define("USRLAN_242", "Verplicht Activatie, Berichtgeving (wachtwoord en activatie link)");
 
 define("USRLAN_243", "Stel Permissies in");
-define("USRLAN_244", "Beveiligings Inbreuk (onvoldoende rechten) - Administrator [x] ([y], [z]) probeerde beheer status te verwijderen van [u] ([v], [w])");
-define("USRLAN_245", "Beveiligings Inbreuk (onvoldoende rechten) - Administrator [x] ([y], [z]) probeerde [u] ([v], [w]) tot systeem beheerder te maken");
+define("USRLAN_244", "Beveiligings Inbreuk (onvoldoende rechten) - Administrator --ADMIN_UID-- (--ADMIN_NAME--, --ADMIN_EMAIL--) probeerde beheer status te verwijderen van --UID-- (--NAME--, --EMAIL--)");
+define("USRLAN_245", "Beveiligings Inbreuk (onvoldoende rechten) - Administrator --ADMIN_UID-- (--ADMIN_NAME--, --ADMIN_EMAIL--) probeerde --UID-- (--NAME--, --EMAIL--) tot systeem beheerder te maken");
 define("USRLAN_246", "(Niet noodzakelijk)");   // ??
 define("USRLAN_247", "Us");    // ??
 define("USRLAN_248", "Us");   // ??
@@ -259,7 +259,7 @@ define("UCSLAN_7", "Stel Klassen in");
 define("UCSLAN_8", "Berichtgeving aan gebruiker");
 define("UCSLAN_9", "Klassen geupdated.");
 define("UCSLAN_10", "Groeten,");
-define("UCSLAN_11", "Klasse lidmaatschap voor gebruiker ID [x] verandert naar [y]");
+define("UCSLAN_11", "Klasse lidmaatschap voor gebruiker ID --UID-- verandert naar --CLASSES--");
 define("UCSLAN_12", "Alleen Leden privileges");
 
 

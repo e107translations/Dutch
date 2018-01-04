@@ -118,9 +118,9 @@ define("LAN_NEWS_52", "Algemene informatie");
 define("LAN_NEWS_53", "Geavanceerde opties");
 define("LAN_NEWS_54", "blijf in de bewerkingsmodus");
 define("LAN_NEWS_55", "Onderhoud"); 
-//define("LAN_NEWS_56", "Herberekenen reactie tellingen");
+define("LAN_NEWS_56", "Herberekenen reactie tellingen");
 define("LAN_NEWS_57", "Doorgaan");
-//define("LAN_NEWS_58", "Volledige update [x]reactie tellingen bijgewerkt,[y] niet toegestane reacties verwijderd");
+define("LAN_NEWS_58", "Volledige update ---UPDATE--reactie tellingen bijgewerkt,--DELETED--niet toegestane reacties verwijderd");
 define("LAN_NEWS_59", "Nieuws onderhoud");
 
 define("LAN_NEWS_60", "Totaal aantal reacties");
@@ -131,7 +131,7 @@ define("LAN_NEWS_62", "Geen toegang tot database, of geen nieuws items gevonden"
 define("LAN_NEWS_63", "Aanmaken categorie");
 define("LAN_NEWS_64", "Oude Toegevoegd");
 define("LAN_NEWS_65", "Kies een unieke SEF URL string voor deze categorie");
-
+define("LAN_NEWS_66", ""); // Unused
 define("LAN_NEWS_67", "Sluiten");
 define("LAN_NEWS_68", "Geplaatst Item");
 

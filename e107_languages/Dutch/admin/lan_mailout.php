@@ -175,15 +175,15 @@ define("LAN_MAILOUT_162", "BELANGRIJK! Je dient dit bestand 'uitvoerbaar' te mak
 define("LAN_MAILOUT_163", "Bewerk/Verstuur Mail");
 define("LAN_MAILOUT_164", "Email informatie niet gevonden");
 define("LAN_MAILOUT_165", "Bevestig het verwijderen van de volgende opgeslagen email(s), inclusief de gegevens van ontvangers");
-define("LAN_MAILOUT_166", "Algemene fout bij verwijderen mail ref: [x]");
-define("LAN_MAILOUT_167", "Fout verwijdering mail inhoud ref: [x]");
-define("LAN_MAILOUT_168", "Mail inhoud verwijderd ref: [x]");
-define("LAN_MAILOUT_169", "Fout bij verwijderen mail ontvangers ref: [x]");
-define("LAN_MAILOUT_170", "Verwijderde --NUM-- ontvangers voor mail ref: [x]");
+define("LAN_MAILOUT_166", "Algemene fout bij verwijderen mail ref: --ID--");
+define("LAN_MAILOUT_167", "Fout verwijdering mail inhoud ref: --ID--");
+define("LAN_MAILOUT_168", "Mail inhoud verwijderd ref: --ID--");
+define("LAN_MAILOUT_169", "Fout bij verwijderen mail ontvangers ref: --ID--");
+define("LAN_MAILOUT_170", "Verwijderde --NUM-- ontvangers voor mail ref: --ID--");
 define("LAN_MAILOUT_171", "Bevstig email verwijderen");
 define("LAN_MAILOUT_172", "Mail Type/Status");
 define("LAN_MAILOUT_173", "Ontvangers");
-define("LAN_MAILOUT_174", "Beveilings controle mislukt: [x] [z]");
+define("LAN_MAILOUT_174", "Beveilings controle mislukt: --ID-- --CHECK--");
 define("LAN_MAILOUT_175", "Voordat");
 define("LAN_MAILOUT_176", "Gelijk aan");
 define("LAN_MAILOUT_177", "Nadat");
@@ -195,9 +195,9 @@ define("LAN_MAILOUT_182", "Schoon de database tabellen op");
 define("LAN_MAILOUT_183", "Fout bij opschonene van database");
 define("LAN_MAILOUT_184", "Database opgeschoond");
 define("LAN_MAILOUT_185", "Emails toegevoegd aan verzendreeks");
-define("LAN_MAILOUT_186", "Algemene fout bij vasthouden mail ref: [x] ");
-define("LAN_MAILOUT_187", "Email [x] op vasthouden");
-define("LAN_MAILOUT_188", "Algemene fout verzending mail ref: [x]");
+define("LAN_MAILOUT_186", "Algemene fout bij vasthouden mail ref: --ID-- ");
+define("LAN_MAILOUT_187", "Email --ID-- op vasthouden");
+define("LAN_MAILOUT_188", "Algemene fout verzending mail ref: --ID--");
 define("LAN_MAILOUT_189", "Test adres");
 
 // Admin menu text
@@ -215,10 +215,12 @@ define("LAN_MAILOUT_202", "Geen tekst in 'email lichaam'(veld)");
 define("LAN_MAILOUT_203", "Geen verzend naam aangegeven");
 define("LAN_MAILOUT_204", "Geen verzendadres ingevoerd");
 define("LAN_MAILOUT_205", "Email verzendings-formaat fout");
-define("LAN_MAILOUT_206", "Onjuist mail ID ([x]) gespecificeerd");
+define("LAN_MAILOUT_206", "Onjuist mail ID (--ID--) gespecificeerd");
 define("LAN_MAILOUT_207", "Template laad fout");
 define("LAN_MAILOUT_208", "Template conversie fout");
 
+define("LAN_MAILOUT_209", "");
+define("LAN_MAILOUT_210", "");
 
 // Block of status messages kept together
 define("LAN_MAILOUT_211", "Verzonden");
@@ -232,24 +234,24 @@ define("LAN_MAILOUT_218", "GeannuleerdCancelled");
 define("LAN_MAILOUT_219", "Gedeeltelijk");
 
 // General messages continued
-define("LAN_MAILOUT_220", "Email ID [x] geannuleerd");
-define("LAN_MAILOUT_221", "Fout bij annulering email met ID [x]");
+define("LAN_MAILOUT_220", "Email ID --ID-- geannuleerd");
+define("LAN_MAILOUT_221", "Fout bij annulering email met ID --ID--");
 define("LAN_MAILOUT_222", "Standaard email formaat");
 define("LAN_MAILOUT_223", "(Gebruikt voor enkele systeem-gegenereerde emails)");
 define("LAN_MAILOUT_224", "Inc. Afbeeldingen");
 define("LAN_MAILOUT_225", "Inclusief afbeeldingen in email");
-define("LAN_MAILOUT_226", "[x] verweesde ontvanger(s) gegevens verwijderd");
-define("LAN_MAILOUT_227", "[x] verwijderde invoer-items uit [y]");
-define("LAN_MAILOUT_228", "[x] afwijkingen in mail_inhoud gecorrigeerd; records: [y]");
-define("LAN_MAILOUT_229", "Email ID [x] op vasthouden gezet");
-define("LAN_MAILOUT_230", "Fout bij vasthouden email met ID [x]");
+define("LAN_MAILOUT_226", "--COUNT-- verweesde ontvanger(s) gegevens verwijderd");
+define("LAN_MAILOUT_227", "--COUNT-- verwijderde invoer-items uit --TABLE--");
+define("LAN_MAILOUT_228", "--COUNT-- afwijkingen in mail_inhoud gecorrigeerd; records: --RECORDS--");
+define("LAN_MAILOUT_229", "Email ID --ID-- op vasthouden gezet");
+define("LAN_MAILOUT_230", "Fout bij vasthouden email met ID --ID--");
 define("LAN_MAILOUT_231", "Gekaatste emails - Verwerkingsmethode");
 define("LAN_MAILOUT_232", "Niets");
 define("LAN_MAILOUT_233", "Auto-verwerking script");
 define("LAN_MAILOUT_234", "Mail account");
 define("LAN_MAILOUT_235", "(Je server dient te worden geconfigureerd om dit script te kunnen gebruiken)");
 define("LAN_MAILOUT_236", "Laatste Kaatsing verwerkt");
-define("LAN_MAILOUT_237", "Samenvatting tellers bijgewerkt op [x] emails");
+define("LAN_MAILOUT_237", "Samenvatting tellers bijgewerkt op --COUNT-- emails");
 define("LAN_MAILOUT_238", "Vroegste tijdstip tot verzending");
 define("LAN_MAILOUT_239", "Taatste tijdstip tot verzending");
 define("LAN_MAILOUT_240", "Bericht mij bij completering van taak.");

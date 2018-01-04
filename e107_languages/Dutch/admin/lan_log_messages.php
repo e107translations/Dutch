@@ -383,8 +383,5 @@ define("LAN_AL_ADMINUI_03", "Admin-UI DB Tabel Verwijder: [x]");
 define("LAN_AL_ADMINUI_04", "Admin-UI DB Fout: [x]");
 
 define("LAN_AL_BACKUP", "Database backup");
-define("LAN_AL_MEDIA_01", "Media Upload");
 
-define("LAN_AL_USET_100", "Beheerder ingelogd als een andere gebruiker");
-define("LAN_AL_USET_101", "Beheerder als een andere gebruiker uitgelogd");
 ?>
