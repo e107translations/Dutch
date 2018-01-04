@@ -69,7 +69,8 @@ define("LAN_SIGNUP_64","dat is geen geldige gebruikersinformatie");
 define("LAN_SIGNUP_65","Je hebt de volgende loginaam toegewezen gekregen");
 define("LAN_SIGNUP_66","Maak er alstublieft een notitie van.");
 define("LAN_SIGNUP_67","Dit zal worden toegewezen door het systeem na aanmelden");
-
+define("LAN_SIGNUP_69","");
+define("LAN_SIGNUP_70","");
 define("LAN_SIGNUP_71", "We kunnen geen leden meer registreren voor de website, login met behulp van een andere account.");		// LAN_202
 define("LAN_SIGNUP_72", "Dank voor je aanmelding op [sitename]! We hebben een bevestigings e-mail verstuurd naar [email]. Klik op de link om je aanmelding te bevestigen en je account te activeren.");  	// LAN_405
 define("LAN_SIGNUP_73", "Dank!");										

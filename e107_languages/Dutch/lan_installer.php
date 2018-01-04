@@ -100,14 +100,14 @@ define("LANINS_115", "Thema naam");
 define("LANINS_116", "Thema type");
 define("LANINS_117", "Website voorkeuren");
 define("LANINS_118", "Installeer Plugins");
-define("LANINS_119", "Installeer alle plugins die het thema vereist");
+define("LANINS_119", "Installeer alle plugins die het thema kan vereisen");
 define("LANINS_120", "8");
 define("LANINS_121", "e107_config.php bestaat reeds!");
 define("LANINS_122", "Je hebt mogelijk een al bestaande installatie");
 define("LANINS_123", "Optioneel: Je publieke naam of alias. Laat leeg om de gebruikersnaam te hanteren");
 define("LANINS_124", "Kies aub een wachtwoord van ten minste 8 karakters");
 define("LANINS_125", "e107 is succesvol geïnstalleerd!");
-define("LANINS_126", "Beveiliging : bestandpermissies op het <b>e107_config.php</b> bestand terugzetten naar 644.(CHMOD is systeem afhankelijk, hou het zo laag mogelijk.) Voor meer informatie en de mogelijkheden wat betreft CHMOD verwijzen wij je naar je hostings provider.<br /><br />Verwijder ook het bestand install.php van je server nadat je op de knop hieronder hebt gedrukt");
+define("LANINS_126", "Beveiliging : bestandpermissies op het <b>e107_config.php</b> bestand terugzetten naar 644 (mogelijk is dit al systeemmatig gebeurd, controleren!.(CHMOD is systeem afhankelijk, hou het zo laag mogelijk.) Voor meer informatie en de mogelijkheden wat betreft CHMOD verwijzen wij je naar je hostings provider.<br /><br />Verwijder ook het bestand install.php van je server nadat je op de knop hieronder hebt gedrukt");
 define("LANINS_127", "De database [x] bestaat al. Overschrijven? (alle bestaande gegevens zullen verloren gaan)");
 define("LANINS_128", "Overschrijf");
 define("LANINS_129", "Database niet gevonden.");
@@ -119,7 +119,6 @@ define("LANINS_141", "Vul onderstaand formulier in met je MySQL details. Contact
 define("LANINS_142", "BELANGRIJK: Hernoem e107.htaccess naar .htaccess aub.");
 define("LANINS_144", "BELANGRIJK: Kopieër en plak de inhoud van het [b]e107.htaccess[/b] in jouw [b].htaccess[/b] bestand. Wees voorzichtig dat je eventueel bestaande data NIET overschrijft!.");
 define("LANINS_145", "e107 v2.x vereist dat  PHP [x] is geïnstalleerd. Neem aub contact op met je hosting of lees de informatie op  [y] voordat je doorgaat.");
-define("LANINS_146", "Beheer thema (Skin)");
-define("LANINS_147", "Administratie");
+
 
 ?>

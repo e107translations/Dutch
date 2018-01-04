@@ -79,9 +79,9 @@ define("LAN_USER_71", "Onderschrift: ");
 define("LAN_USER_72", "Avatar: ");
 define("LAN_USER_73", "Kies Content/Mail-lijsten");
 define("LAN_USER_74", "Maatwerk titel");
-define("LAN_USER_75", "Je [x] is verplicht");
+define("LAN_USER_75", "Je --SOMETHING-- is verplicht");
 define("LAN_USER_76", "Ingeschreven op");
-define("LAN_USER_77", "Je wachtwoord moet minimaal [x] karakters lang zijn.");
+define("LAN_USER_77", "Je wachtwoord moet minimaal --COUNT-- karakters lang zijn.");
 define("LAN_USER_78", "Min.");
 define("LAN_USER_79", "karakters.");							
 define("LAN_USER_80", "de naam getoond op de website");	
@@ -90,7 +90,7 @@ define("LAN_USER_82", "de naam die je gebruikt om in te loggen");
 define("LAN_USER_83", "Verberg e-mail adres?: ");		
 define("LAN_USER_84", "Dit zorgt ervoor dat je e-mailadres niet getoond wordt op de website");
 define("LAN_USER_85", "Als je je gebruikersnaam wilt wijzigen, neem contact op met de website beheerder");
-define("LAN_USER_86", "Maximum avatar grootte is [x] x [y] pixels");
+define("LAN_USER_86", "Maximum avatar grootte is --WIDTH-- x --HEIGHT-- pixels");
 define("LAN_USER_87", "Login om deze gebruiker te waarderen!");
 
 // social plugin
