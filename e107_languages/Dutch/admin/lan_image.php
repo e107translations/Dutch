@@ -26,12 +26,12 @@ define("LAN_IMA_003", "Draaien");
 define("LAN_IMA_004", "Vergroten/verkleinen");
 
 // Options
-define("LAN_IMA_O_001", "Nieuws Afbeeldingen");
-define("LAN_IMA_O_002", "Nieuws [img] bbcode");
-define("LAN_IMA_O_003", "Pagina [img] bbcode");
-define("LAN_IMA_O_004", "Featurebox Afbeeldingen");
-define("LAN_IMA_O_005", "Featurebox [img] bbcode");
-define("LAN_IMA_O_006", "[img] bbcode");
+//define("LAN_IMA_O_001", "Nieuws Afbeeldingen");
+//define("LAN_IMA_O_002", "Nieuws [img] bbcode");
+//define("LAN_IMA_O_003", "Pagina [img] bbcode");
+//define("LAN_IMA_O_004", "Featurebox Afbeeldingen");
+//define("LAN_IMA_O_005", "Featurebox [img] bbcode");
+//define("LAN_IMA_O_006", "[img] bbcode");
 
 // Work in progress (Moc)
 
@@ -48,7 +48,7 @@ define("IMALAN_10", "Gebruikersklasse voor bekijken");
 define("IMALAN_11", "Beperk tot welke gebruikers afbeeldingen kunnen bekijken (wanneer afbeeldingsweergave is ingeschakeld)");
 define("IMALAN_12", "Afbeeldingsweergave uitgeschakeld");
 define("IMALAN_13", "Wat te doen met afbeeldingen als  weergeven van afbeeldingen is uitgeschakeld");
-define("IMALAN_14", "Toon URL van\naar de afbeelding");
+define("IMALAN_14", "Toon URL van / naar de afbeelding");
 define("IMALAN_15", "Toon niets");
 define("IMALAN_18", "Geuploade afbeeldingen");
 define("IMALAN_20", "Niets veranderd");
@@ -203,5 +203,8 @@ define("IMALAN_178", "Avatars Folder (door de gebruiker te selecteren)");
 define("IMALAN_179", "Avatars Folder (prive)");
 define('IMALAN_180', "0 byte bestand gevonden in:");
 define("IMALAN_181", "Verwijderen voordat je doorgaat.");
-
+define("IMALAN_182", "Converteer naar jpeg tijdens import");
+define("IMALAN_183", "PNG en GIF bestanden worden automatisch geconverteerd naar het jpeg formaat. (iconen uitgezonderd)");
+define("IMALAN_184", "Standaard afbeeldings maten");
+define("IMALAN_185", "Maximum hoogte in pixels");
 ?>
