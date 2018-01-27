@@ -45,7 +45,7 @@ define("RL_LAN_050", "Parameter fout - niets verwijderd");
 define("RL_LAN_052", "Beheer log");
 define("RL_LAN_053", "Gebruikers Audit Log");
 define("RL_LAN_054", "Niets te verwijderen, of database fout");
-define("RL_LAN_057", " - gebeurtenissen ouder dan --OLD-- (--NUM-- ingaves) verwijderd");    // ??
+define("RL_LAN_057", " - gebeurtenissen ouder dan [x] ([y] ingaves) verwijderd");    // ??
 define("RL_LAN_058", "Prioriteits Filter:");
 define("RL_LAN_059", "Caller Filter:");    
 define("RL_LAN_060", "IP Adres Filter:");
