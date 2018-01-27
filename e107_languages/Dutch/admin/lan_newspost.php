@@ -120,7 +120,7 @@ define("LAN_NEWS_54", "blijf in de bewerkingsmodus");
 define("LAN_NEWS_55", "Onderhoud"); 
 //define("LAN_NEWS_56", "Herberekenen reactie tellingen");
 define("LAN_NEWS_57", "Doorgaan");
-//define("LAN_NEWS_58", "Volledige update [x]reactie tellingen bijgewerkt,[y]--niet toegestane reacties verwijderd");
+//define("LAN_NEWS_58", "Volledige update [x]reactie tellingen bijgewerkt,[y] niet toegestane reacties verwijderd");
 define("LAN_NEWS_59", "Nieuws onderhoud");
 
 define("LAN_NEWS_60", "Totaal aantal reacties");
