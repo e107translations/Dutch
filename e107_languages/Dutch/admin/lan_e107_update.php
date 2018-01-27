@@ -29,7 +29,7 @@ define("LAN_UPDATE_24", "Verwijderen verlopen tabel veld");
 define("LAN_UPDATE_25", "Verwijder overbodige tabel");
 define("LAN_UPDATE_26", "Uitbreiden IP adres veld");
 define("LAN_UPDATE_27", "Tabel toevoegen: ");
-define("LAN_UPDATE_28", "--COUNT-- opgeslagen emails verplaatst");
+define("LAN_UPDATE_28", "[x] opgeslagen emails verplaatst");
 define("LAN_UPDATE_29", "Afhankelijk van je eigen systeem configuratie, bestaat de mogelijkheid dat het opwaardeerproces meerdere keren moet worden doorlopen.");
 
 define("LAN_UPDATE_37", "Voeg index [x] toe aan tabel [y]");
@@ -48,8 +48,7 @@ define("LAN_UPDATE_53", "Bijwerken download spiegel tabel");
 define("LAN_UPDATE_54", "Missende tabel [y] - kan index [x] niet toevoegen");
 define("LAN_UPDATE_55", "Omschrijving");
 define("LAN_UPDATE_56", "Systeem update");
-define("LAN_UPDATE_55", "Omschrijving");
-define("LAN_UPDATE_56", "Systeem update");
+
 
 define("LAN_UPDATE_57", "Voordat je doorgaat graag eerst met FTP de volgende niet meer benodigde folders van uit systeem wissen:");
 
