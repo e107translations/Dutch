@@ -31,7 +31,7 @@ define("LAN_USET_14", "De loginnaam is te lang. Kies een andere");
 define("LAN_USET_15", "De gebruikersnaam is te lang. Kies een andere.");
 define("LAN_USET_16", "Selecteer om de bestaande foto uit je profiel te verwijderen zonder een ander te uploaden");
 define("LAN_USET_17", "De gebruikersnaam is al ingebruik. Kies een andere.");
-define("LAN_USET_18", "gebruikersgegevens veranderd door Beheerder: --ID--, Inlognaam: --LOGNAME--");
+define("LAN_USET_18", "gebruikersgegevens veranderd door Beheerder: [x], Inlognaam: [y]");
 define("LAN_USET_20", "je moet ook de gebruikers wachtwoord veranderen wanneer je de Loginnaam of e-mail adres wijzigt.");
 define("LAN_USET_21", "Bevestig de gegevens door je wachtwoord in te geven: ");
 //define("LAN_USET_22", "Fout wachtwoord!"); // TODO LAN common?
