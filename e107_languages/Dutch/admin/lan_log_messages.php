@@ -372,7 +372,7 @@ define("LAN_AL_MISC_03", "Login menu-instellingen bijgewerkt");
 define("LAN_AL_MISC_04", "Reactie menu-instellingen bijgewerkt");
 define("LAN_AL_MISC_05", "Menu-instellingen van de klok bijgewerkt");
 define("LAN_AL_MISC_06", "Blog kalender menu-instellingen bijgewerkt");
-define("LAN_AL_MISC_07", "");
+//define("LAN_AL_MISC_07", "");
 
 
 define("LAN_AL_PING_01", "Ping naar dienst");
@@ -383,5 +383,9 @@ define("LAN_AL_ADMINUI_03", "Admin-UI DB Tabel Verwijder: [x]");
 define("LAN_AL_ADMINUI_04", "Admin-UI DB Fout: [x]");
 
 define("LAN_AL_BACKUP", "Database backup");
+define("LAN_AL_MEDIA_01", "Media Upload");
+
+define("LAN_AL_USET_100", "Beheerder ingelogd als een andere gebruiker");
+define("LAN_AL_USET_101", "Beheerder als een andere gebruiker uitgelogd");
 
 ?>
