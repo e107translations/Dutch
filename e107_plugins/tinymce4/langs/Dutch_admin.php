@@ -6,7 +6,7 @@
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2017/02/18 11:38:44
 |
-|        $Author: Yesszus $
+|        
 +---------------------------------------------------------------+
 */
 define("TMCEALAN_1", "Plak als tekst is standaard");
