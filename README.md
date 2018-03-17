@@ -2,16 +2,10 @@
 
 
 
-DUTCH  V 2.1.7
+DUTCH  V 2.1.8
 
 
 
-Language pack Dutch, release for version 2.1.7
-
-
-(all file changes AFTER January 1 2018 will be in version (pre-)release 2.1.8)
-
-
-
+Language pack Dutch, (pre-)release for version 2.1.8
 
 
