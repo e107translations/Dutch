@@ -413,4 +413,10 @@ define("LAN_UI_X_CANT_EQUAL_Y", "[x] kan niet identiek zijn aan [y]");
 define("LAN_UI_VIEW_GRID_LABEL", "Rasterweergave");
 define("LAN_UI_VIEW_LIST_LABEL", "Lijstweergave");
 define("LAN_CHECKING_FOR_UPDATES", "Controleren voor updates");
+define("LAN_UI_FILTER_NEXT_HOUR", "Volgend uur");
+define("LAN_UI_FILTER_NEXT_24_HOURS", "Volgende 24 uur");
+define("LAN_UI_FILTER_NEXT_WEEK", "Volgende week");
+define("LAN_UI_FILTER_NEXT_MONTH", "Volgende maand");
+define("LAN_UI_FILTER_NEXT_YEAR", "Volgend jaar");
+define("LAN_UI_FILTER_IS_EMPTY", "Is leeg");
 ?>
