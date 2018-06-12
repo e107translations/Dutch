@@ -149,7 +149,7 @@ define("DOWLAN_HELP_7", "Help voor mirror");
 define("DOWLAN_HELP_8", "Help voor upload lijst");
 define("DOWLAN_HELP_9", "Help voor upload typen");
 define("DOWLAN_HELP_10", "Help voor upload opties");
-define("LAN_DL_SECURITY_DESCRIPTION", "Downlaods kunnen gebruik maken van server-side URL beveiligings mogelijkheden om hotlinking tegen te gaan en /of het vervallen van de link af te dwingen. " .
+define("LAN_DL_SECURITY_DESCRIPTION", "Downloads kunnen gebruik maken van server-side URL beveiligings mogelijkheden om hotlinking tegen te gaan en /of het vervallen van de link af te dwingen. " .
 "Dit gedeelte moet worden geconfigureerd voordat de downloadserver is geconfigureerd om de kans op onderbrekingen te verkleinen..");
 define("LAN_DL_SECURITY_MODE", "URL beschermingsmodus");
 define("LAN_DL_SECURITY_MODE_NONE", "Geen (Standaard)");
