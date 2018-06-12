@@ -60,5 +60,9 @@ define("LAN_ERROR_43", "Website tijdelijk niet beschikbaar");
 define("LAN_ERROR_44", "Site logo");
 define("LAN_ERROR_45", "Wat kun je nu doen?");
 define('LAN_ERROR_46', "Controleer log voor details.");
+define("LAN_ERROR_47", "Validatie fout: Nieuws titel kan niet leeg zijn!");
+define("LAN_ERROR_48", "Validatie fout: Nieuws SEF URL is een verplicht veld en kan niet leeg zijn!");
+define("LAN_ERROR_49", "Validatie fout: Nieuws SEF URL is een  uniek veld - de waarde nu is al gebruikt! Kies een andere SEF URL.");
+define("LAN_ERROR_50", "Validatie fout: Nieuws categorie kan niet leeg zijn!");
 
 ?>
