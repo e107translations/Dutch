@@ -56,6 +56,8 @@ define("LAN_USET_40", "De 2 wachtwoorden zijn niet identiek");
 define("LAN_USET_41", "Instellingen bijgewerkt en opgeslagen in de database.");	
 define("LAN_USET_42", "Code niet correct");
 define("LAN_USET_43", "Gebruikersgegevens niet bijgewerkt");
+define("LAN_USET_50", "Verwijder account");
+define("LAN_USET_51", "Ben je er zeker van? Deze procedure kan niet worden teruggedraaid! Wanneer voltooid, zal je account en eventuele persoonlijke data die je hebt ingevoerd op deze site volledig zijn verwijderd, en kun je niet langer meer inloggen.");
 
 //TODO Move to usersettings.php with bcDefs() method.
 define("LAN_7", "Gebruikersnaam: ");
