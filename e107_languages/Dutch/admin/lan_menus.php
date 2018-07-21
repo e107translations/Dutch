@@ -73,5 +73,4 @@ define("MENLAN_58", "De Menu-Manager geeft je de mogelijkheid om je menu's te pl
 
 define("MENLAN_59", "Zone [x]");
 define("MENLAN_60", "Dit thema gebruikt vervallen elementen. Alle [x]HEADER en [x]FOOTER variabelen meten verwijderd worden uit de theme.php.");
-
 ?>
