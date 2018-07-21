@@ -119,7 +119,6 @@ define("DBLAN_103", "Ingevoegd");
 define("DBLAN_104", "Invoegen is mislukt");
 define("DBLAN_105", "Batch shortcodes:");
 define("DBLAN_106", "(leeg)");
-
 define("DBLAN_107", "[folder] is niet beschijfbaar");
 define("DBLAN_108", "Aangemaakt:");
 define("DBLAN_109", "Gekopiëerd:");
