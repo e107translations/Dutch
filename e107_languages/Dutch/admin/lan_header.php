@@ -17,5 +17,4 @@ define("LAN_HEADER_03", "Je server draait met een 'basedir' beperking. Hierdoor 
 define("LAN_HEADER_04", "Beheerscherm");
 define("LAN_HEADER_05", "taal weergegeven in beheerscherm: ");
 define("LAN_HEADER_06", "Plugin info");
-
 ?>
