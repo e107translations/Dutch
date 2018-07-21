@@ -419,4 +419,6 @@ define("LAN_UI_FILTER_NEXT_WEEK", "Volgende week");
 define("LAN_UI_FILTER_NEXT_MONTH", "Volgende maand");
 define("LAN_UI_FILTER_NEXT_YEAR", "Volgend jaar");
 define("LAN_UI_FILTER_IS_EMPTY", "Is leeg");
+define("LAN_RECALCULATE_COMMENT_COUNT", "Herbereken reactie telling");
+define("LAN_SUCC_RECALCULATE_COMMENT_COUNT", "Reactie telling succesvol herberekend!");
 ?>
