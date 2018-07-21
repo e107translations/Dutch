@@ -50,5 +50,4 @@ define("SEALAN_47", "Uitsluitend hele woorden:");
 define("SEALAN_48", "Deze instelling geldt alleen bij de PHP zoek-sorteermethode. Als je site karaktergeoriënteerde talen als Chinees en Japans gebruikt, moet je deze functie uit zetten.");
 define("SEALAN_49", "Als je site karakter-georiënteerde talen als Chinees en Japans gebruikt, moet je de PHP sorteermethode gebruiken.");
 
-
 ?>
