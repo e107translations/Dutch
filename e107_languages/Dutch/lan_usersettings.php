@@ -58,7 +58,11 @@ define("LAN_USET_42", "Code niet correct");
 define("LAN_USET_43", "Gebruikersgegevens niet bijgewerkt");
 define("LAN_USET_50", "Verwijder account");
 define("LAN_USET_51", "Ben je er zeker van? Deze procedure kan niet worden teruggedraaid! Wanneer voltooid, zal je account en eventuele persoonlijke data die je hebt ingevoerd op deze site volledig zijn verwijderd, en kun je niet langer meer inloggen.");
-
+define("LAN_USET_52", "Een bevstigings email is verstuurd naar [x]. Klik aub op de link in de email om je account permanent te verwijderen.");
+define("LAN_USET_53", "Account verwijderings bevestiging");
+define("LAN_USET_54", "Bevestigings email verzonden");
+define("LAN_USET_55", "Klik aub op de volgende link  om verwijderen van account te voltooien.");
+define("LAN_USET_56", "Je account werd succesvol verwijderd.");
 //TODO Move to usersettings.php with bcDefs() method.
 define("LAN_7", "Gebruikersnaam: ");
 define("LAN_8", "de naam die op de site wordt weergegeven");
