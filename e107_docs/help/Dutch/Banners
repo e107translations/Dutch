@@ -1,4 +1,4 @@
-<!-- for Banners 2.1.7 $Id: Banners 729 2014-08-20 09:42:05Z erje $ -->
+<!-- for Banners  $Id: Banners 729 2014-08-20 09:42:05Z erje $ -->
 Q>	Ik heb een nieuwe banner gedefinieerd, maar die zie ik niet. Waarom?
 A>	In het thema dat je gebruikt moet wel een plekje aanwezig zijn voor de banner. Open theme.php van het thema en let erop dat er {BANNER} of {BANNER=jecampagnenaam} in de $HEADER sectie staat.
 
