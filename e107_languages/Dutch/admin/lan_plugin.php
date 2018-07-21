@@ -305,5 +305,4 @@ define("LAN_PLUGIN_IS_USED", "[x] plugin wordt gebruikt door:");
 define("EPL_ADLAN_254", "Dit zal jouw taal plugin bestanden controleren op fouten en op algemene of dubbel voorkomende LAN definities. ");
 define("EPL_ADLAN_255", "Overschrijf bestanden");
 define("EPL_ADLAN_256", "[x] Overgeslagen (bestaat reeds)");
-
 ?>
