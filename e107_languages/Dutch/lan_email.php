@@ -36,5 +36,4 @@ define("LAN_EMAIL_188", "Ik denk dat je geinteresseerd bent in dit nieuwsbericht
 define("LAN_EMAIL_189", "Ik denk dat je geintereseeerd bent in dit artikel van");
 define("LAN_EMAIL_190", "Invoeren zichtbare code");
 define("LAN_SOCIAL_LINK_CHK",  "Bekijk deze link: "); //called in soc.plugin
-
 ?>

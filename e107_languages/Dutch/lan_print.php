@@ -23,5 +23,4 @@ define("LAN_PRINT_305", "Onderkop: ");
 define("LAN_PRINT_306", "Dit artikel is van: ");
 define("LAN_PRINT_307", "Druk deze pagina af");
 define("LAN_PRINT_1", "Printer vriendelijk");
-
 ?>

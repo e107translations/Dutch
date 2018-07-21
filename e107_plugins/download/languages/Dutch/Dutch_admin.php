@@ -13,6 +13,7 @@ define("LAN_DL_OPTIONS", "Opties");
 define("LAN_DL_DOWNLOAD_OPT_GENERAL", "Algemeen");
 define("LAN_DL_DOWNLOAD_OPT_BROKEN", "Rapporteren");
 define("LAN_DL_DOWNLOAD_OPT_AGREE", "Overeenkomsten");
+define("LAN_DL_DOWNLOAD_OPT_SECURITY", "Bescherming");
 define("LAN_DL_UPLOAD", "Uploaden");
 define("LAN_DL_USE_PHP", "Gebruik PHP");
 define("LAN_DL_USE_PHP_INFO", "door deze optie aan te vinken worden alle downloads via PHP gerealiseerd");
@@ -148,6 +149,19 @@ define("DOWLAN_HELP_7", "Help voor mirror");
 define("DOWLAN_HELP_8", "Help voor upload lijst");
 define("DOWLAN_HELP_9", "Help voor upload typen");
 define("DOWLAN_HELP_10", "Help voor upload opties");
+define("LAN_DL_SECURITY_DESCRIPTION", "Downloads kunnen gebruik maken van server-side URL beveiligings mogelijkheden om hotlinking tegen te gaan en /of het vervallen van de link af te dwingen. " .
+"Dit gedeelte moet worden geconfigureerd voordat de downloadserver is geconfigureerd om de kans op onderbrekingen te verkleinen..");
+define("LAN_DL_SECURITY_MODE", "URL beschermingsmodus");
+define("LAN_DL_SECURITY_MODE_NONE", "Geen (Standaard)");
+define("LAN_DL_SECURITY_MODE_NGINX_SECURELINKMD5", "NGINX secure_link_md5");
+define("LAN_DL_SECURITY_NGINX_SUPPORTED_VARIABLES_TOGGLE", "Klik om de lijst met ondersteunde variabelen NGINX te laten zien");
+define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION",
+"<a target='_blank' href='https://nginx.org/en/docs/http/ngx_http_secure_link_module.html#secure_link_md5'>NGINX secure_link_md5 expression</a>");
+define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION_HELP", "Dezelfde expressie als geconfigureerd op de server");
+define("LAN_DL_SECURITY_LINK_EXPIRY", "Geldigheidsduur in seconden");
+define("LAN_DL_SECURITY_LINK_EXPIRY_HELP", "Het aantal seconden dat de downloadkoppeling beschikbaar is nadat deze is gegenereerd. " .
+"Alleen effectief als de vervaltijd wordt ondersteunt. " .
+ "De standaardinstelling is erg lang als dit veld leeg is.");
 
 
 ?>

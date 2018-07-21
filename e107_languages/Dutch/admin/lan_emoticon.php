@@ -38,5 +38,4 @@ define("EMOLAN_35", " - verwijderd in database");
 define("EMOLAN_37", "Emoticons niet ingesteld");
 define("EMOLAN_38", "Lege emoticons waarde");
 
-
 ?>

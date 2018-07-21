@@ -19,5 +19,4 @@ define("UDALAN_5", "Wachtwoord");
 define("UDALAN_6", "Nogmaals wachtwoord");
 define("UDALAN_7", "Wijzig wachtwoord");
 define("UDALAN_8", "Wachtwoord wijzigen voor");
-
 ?>

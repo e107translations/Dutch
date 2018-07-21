@@ -28,5 +28,4 @@ define("RATELAN_FAIR",	"Redelijk");
 define("RATELAN_GOOD",	"Goed");
 define("RATELAN_VERYGOOD",	"Heel goed");
 define("RATELAN_EXCELLENT",	"Fantastisch");
-
 ?>
