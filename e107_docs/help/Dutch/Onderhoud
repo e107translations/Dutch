@@ -1,4 +1,4 @@
-<!-- for Maintainance  2.1.7 $Id: Onderhoud 209 2009-01-26 21:25:19Z marj_nl_fr $ -->
+<!-- for Maintainance   $Id: Onderhoud 209 2009-01-26 21:25:19Z marj_nl_fr $ -->
 Q>	Waar is deze functie voor?
 A>	Via dit scherm kun je de site ontoegankelijk maken voor bezoekers. Deze functie kun je gebruiken als je een upgrade van je site uitvoert, of de site om enige reden uit de lucht wilt hebben. Alleen de Hoofdbeheerder kan de site nog benaderen. Als de site in de Onderhoudsstand staat, wordt op elke pagina een tekst getoond.
 
