@@ -32,5 +32,4 @@ define("LANCONTACT_17", "Geef hier je naam in.");
 define("LANCONTACT_18", "Geef je e-mailadres in.");
 define("LANCONTACT_19", "Geef het onderwerp voor je mail in.");
 define("LANCONTACT_20", "Geef hier je bericht in.");
-
 ?>
