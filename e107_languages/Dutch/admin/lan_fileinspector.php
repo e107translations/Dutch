@@ -78,7 +78,6 @@ define("FC_LAN_21", "Oude Core bestanden");
 define("FR_LAN_23", "Niets gevonden.");
 define("FR_LAN_24", "Oude core bestanden");
 define("FR_LAN_25", "Integriteit niet te bepalen");
-
 define("FR_LAN_26", "Waarschuwing! Bekend beveiligingsrisico gevonden!");
 define("FR_LAN_27", "Er staan bestanden op je server waarvan te misbruiken kwetsbaarheden bekend zijn. Die moeten zo snel mogelijk worden verwijderd.");
 define("FR_LAN_28", "Bekende onveilige bestanden");
