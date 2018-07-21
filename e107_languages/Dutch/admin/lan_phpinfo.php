@@ -6,7 +6,7 @@
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2017/02/20 15:02:21
 |
-|        $Author: Yesszus $
+|        $Author:  $
 |
 +--------------------------------------------------------------------------+
 */
