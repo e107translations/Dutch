@@ -94,5 +94,4 @@ define("UCSLAN_91", "Klasse struktuur");
 
 // define("UCSLAN_UPDATE", "Bijwerken");//NOT USED ... LAN_UPDATE
 
-
 ?>
