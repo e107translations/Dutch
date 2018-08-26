@@ -36,5 +36,4 @@ define("LAN_ONLINE_ADMIN_10", "Toont online gasten.");
 define("LAN_ONLINE_TRACKING_MESSAGE", "Het volgen van gebruikers is niet geactiveerd, dat kun je [link=".e_ADMIN."users.php?options]hier doen[/link][br]");
 
 define("LAN_LASTSEEN_1", "Laatst Gezien Menu");
-
 ?>
