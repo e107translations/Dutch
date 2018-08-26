@@ -25,7 +25,13 @@ define("FBLAN_29", "Categorie voor gebruik door dingenblok menu");
 define("FBLAN_30", "Categorie template"); 
 define("FBLAN_31", "Willekeurig"); 
 define("FBLAN_32", "Parameters (optioneel)"); 
-define("FBLAN_33", "Optionele Javascript Parameters (formaat onder voorbehoud wijziging)");
+define("FBLAN_33", "Optionele Javascript Parameters (formaat onder voorbehoud wijziging)"); 
+
+// Install/uninstall messages
+
+define("FBLAN_34", "Niet toegewezen");
+define("FBLAN_35", "Caroussel");
+define("FBLAN_36", "Tabs");
 
 
 ?>
