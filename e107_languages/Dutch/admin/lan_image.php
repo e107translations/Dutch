@@ -94,6 +94,7 @@ define("IMALAN_66", "Bestandsnaam");
 define("IMALAN_68", "Sluit");
 define("IMALAN_69", "Map");
 define("IMALAN_70", "Niet-systeemmap wordt gevonden!");
+define("IMALAN_72", "Iconen");
 define("IMALAN_73", "Thumbnail kwaliteit");
 define("IMALAN_74", "Stel zo laag mogelijk in voordat kwaliteitsverlies duidelijk is. Max. 100");
 define("IMALAN_75", "Avatar Breedte");
