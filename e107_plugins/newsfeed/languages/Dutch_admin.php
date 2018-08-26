@@ -62,5 +62,4 @@ define("LAN_AL_NEWSFD_05","");
 
 define("NFLAN_50", "Laatste verversing");
 
-
 ?>

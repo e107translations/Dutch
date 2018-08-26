@@ -36,7 +36,6 @@ define("BNRLAN_30", "Nieuwe klant");
 define("BNRLAN_31", "Onbeperkt indien leeg gelaten."); 
 define("BNRLAN_32", "Kies banner afbeelding"); 
 define("BNRLAN_33", "Code"); 
-
 // 34 - 35 extra space
 
 define("BNRLAN_35", "Banner menu"); 

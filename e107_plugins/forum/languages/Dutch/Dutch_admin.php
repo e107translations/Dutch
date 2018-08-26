@@ -126,5 +126,11 @@ define("FORLAN_213", "Plaats");
 define("FORLAN_214", "Laat leeg voor auto-generatie middels de bovenstaande titel.");  //Laat leeg om damen te stellen middels de titel.
 define("FORLAN_215", "Niet geinstalleerd!");
 define("FORLAN_216", "(Nieuw Hoofdforum/ouder)"); //New Parent
+define("FORLAN_217", "Systeem standaard");
+define("FORLAN_218", "Tekstgebied");
+define("FORLAN_219", "Rich tekst editor");
+define("FORLAN_220", "Post editor");
+define("FORLAN_221", "Welke systeem wil je gebruiken bij het plaatsen of wijzigen van berichten?");
+define("FORLAN_222", "Snelle reactie editor");
 
 ?>

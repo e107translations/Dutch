@@ -23,5 +23,4 @@ define("LAN_UMENU_THEME_6", "Beschikbare themas voor gebruikers");
 define("LAN_UMENU_THEME_7", "De gebruikersklasse welke themas kunnen selecteren.");
 define("LAN_UMENU_THEME_8", "Toegestane themas: ");
 define("LAN_UMENU_THEME_9", "Klasse die themas kan selecteren: ");
-
 ?>

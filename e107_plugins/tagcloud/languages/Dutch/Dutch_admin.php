@@ -5,6 +5,4 @@
 *
 * 'FAQ plugin' admin-area language definitions
 */
- 
-
 
