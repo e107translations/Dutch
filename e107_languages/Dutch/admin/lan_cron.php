@@ -94,6 +94,8 @@ define("LAN_CRON_51", "Uur(ren):");
 define("LAN_CRON_52", "Dag(en):");
 define("LAN_CRON_53", "Maand(en):");
 define("LAN_CRON_54", "Weekdag(en):");
+define("LAN_CRON_55", "Database backup niet gelukt");
+define("LAN_CRON_56", "Database backup Compleet");
 
 define("LAN_CRON_60", "Ga naar cPanel");
 define("LAN_CRON_61", "Maak nieuw cron wachtwoord");
