@@ -130,7 +130,13 @@ define("ADLAN_185", "Wissel zijkantmenu");
 define("ADLAN_186", "De volgende bestanden zijn verouderd en kunnen worden verwijderd:");
 define("ADLAN_187", "Aanmaken [x] niet mogelijk. Controleer je bestandsrechten op de map.");   //vindt even niet welk ding wordt aangemaakt
 define("ADLAN_188", "Jou tijdzone instelling [x] is onjuist. Het werd ingesteld op UTC. Om dit te wijzigen, ga naar Beheer -> Voorkeuren -> Datumweergave.");
-define("ADLAN_189", "De volgende plugins zijn niet compatibel met deze versie van e107 en zouden moeten worden gedeïnstalleerd: ");
+define("ADLAN_189", "De volgende plugins zijn niet compatibel met deze versie van e107 en moeten worden gedeïnstalleerd: ");
+define("ADLAN_190", "Hulp nodig?");
+define("ADLAN_191", "Neem contact op met andere e107 gebruikers voor [gratis ondersteuning] als je jouw e107 website bijvoorbeeld wilt bijwerken en het gaat niet geheel zoals verwacht.");
+define("ADLAN_192", "Neem contact op met andere e107 gebruikers voor [gratis ondersteuning] om oplossingen te vinden voor alle problemen die je met e107 tegen komt.");
+define("ADLAN_193", "De map [x] is niet beschrijfbaar. Graag aanpassen voordat je doorgaat.");
+define("ADLAN_194", "Legacy avatars map gedetecteerd. Zorg ervoor dat de map [x]avatars/ beschrijfbaar is. Graag aanpassen voordat je doorgaat.");
+define("ADLAN_195", "Oude map verplaatst naar backup");
 define("ADLAN_CL_2", "Leden");
 define("ADLAN_CL_3", "Inhoud");
 define("ADLAN_CL_4", "Coms");
@@ -407,6 +413,8 @@ define("LAN_LOCK", "Op slot");
 define("LAN_SYSTEM_USER", "Systeem gebruiker");
 define("LAN_ENGINE", "Aangedreven door");
 define("LAN_SOURCE", "Bron");
+define("LAN_UPGRADING", "Bijwerken?");
+define("LAN_DONT_SHOW_AGAIN", "Laat niet meer zien");
 
 define("LAN_ERROR_CONNECTION","Er kan geen verbinding gemaakt worden met de updateserver, controleer firewall en/of internet verbnding of probeer later nog eens.");
 define("LAN_UI_X_CANT_EQUAL_Y", "[x] kan niet identiek zijn aan [y]");
@@ -421,4 +429,5 @@ define("LAN_UI_FILTER_NEXT_YEAR", "Volgend jaar");
 define("LAN_UI_FILTER_IS_EMPTY", "Is leeg");
 define("LAN_RECALCULATE_COMMENT_COUNT", "Herbereken reactie telling");
 define("LAN_SUCC_RECALCULATE_COMMENT_COUNT", "Reactie telling succesvol herberekend!");
+define("LAN_NO_RESULTS_FOUND", "Geen resultaten gevonden.");
 ?>
