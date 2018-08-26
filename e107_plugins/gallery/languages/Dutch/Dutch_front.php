@@ -12,6 +12,7 @@
  * Language front file for "gallery" plugin.
 +----------------------------------------------------------------------------+
 */
+
 define("LAN_GALLERY_FRONT_01", "Rechts klik > Sla Link op als ");
 define("LAN_GALLERY_FRONT_02", "Vergroot de afbeelding");
 ?>
