@@ -86,5 +86,4 @@ define("RSS_LAN_ADMIN_33", "Tonen afbeelding in Nieuws feed?");
 define("RSS_LAN_0", "RSS");
 define("RSS_LAN_2", "@nospam.com");
 define("RSS_LAN_3", "geenauteur@nospam.com");
-
 ?>
