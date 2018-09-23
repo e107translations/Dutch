@@ -63,7 +63,7 @@ define("LAN_USER_55", "Je moet zijn ingelogd om deze pagina te kunnen zien.");
 define("LAN_USER_56", "Geregistreerd aantal leden: ");
 define("LAN_USER_57", "Volgorde: ");
 define("LAN_USER_58", "Lid");
-define("LAN_USER_59", "Toetreding tot de website");
+define("LAN_USER_59", "Lid sinds");
 define("LAN_USER_60", "E-mail adres: ");
 //define("LAN_USER_61", "Waardering");
 define("LAN_USER_62", "Stuur prive bericht");
