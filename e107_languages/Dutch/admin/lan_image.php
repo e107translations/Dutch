@@ -194,7 +194,7 @@ define('IMALAN_168', "Klik op de avatar om hem te wijzigen");
 define('IMALAN_169', "Geen Avatars beschikbaar");
 define('IMALAN_170', "Kies deze avatar");
 define('IMALAN_171', "Alleen-beheer opmerking: De map");
-define('IMALAN_172', "is leeg. Upload enekel standaard avatar afbeeldingen naar deze map zodat gebruikers hieruit kunnen kiezen.");
+define('IMALAN_172', "is leeg. Upload enkel standaard avatar afbeeldingen naar deze map zodat gebruikers hieruit kunnen kiezen.");
 define('IMALAN_173', "Geen media eigenaar gevonden.");
 define('IMALAN_174', "De Youtube zoekfunctie heeft een (gratis) YouTube v3 api sleutel nodig.[br]Deze sleutel is alleen nodig wanneer je wilt zoeken op een sleutelwoord, playlist of kanaal.[br]Het ingeven van een direct Youtube video URL werkt altijd, ook zonder api sleutel.[br][x]");
 define('IMALAN_175', "Doorzoek Youtube. Plak een YouTube URL hier voor een specifieke video of playlist of kanaal");
