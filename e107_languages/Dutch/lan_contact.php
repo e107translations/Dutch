@@ -32,4 +32,8 @@ define("LANCONTACT_17", "Geef hier je naam in.");
 define("LANCONTACT_18", "Geef je e-mailadres in.");
 define("LANCONTACT_19", "Geef het onderwerp voor je mail in.");
 define("LANCONTACT_20", "Geef hier je bericht in.");
+define("LANCONTACT_21", "Ik ga ermee akkoord dat mijn informatie wordt opgeslagen om op mijn vraag te kunnen reageren."); //   By using this form, you agree to the storage and processing of your data through this site.");
+define("LANCONTACT_22", "Privacy verklaring");
+define("LANCONTACT_23", "Je kan onze privacy verklaring hier lezen: [x]");
+define("LANCONTACT_24", "AVG toestemming");
 ?>
