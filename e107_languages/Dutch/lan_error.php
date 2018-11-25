@@ -17,7 +17,7 @@ define("LAN_ERROR_1", "Fout 401 - Authenticatie mislukt");
 define("LAN_ERROR_2", "De opgevraagde URL vereist een juiste gebruikersnaam en wachtwoord. Je gaf een onjuiste gebruikersnaam/wachtwoord op, of je browser ondersteunt deze functie niet.");
 define("LAN_ERROR_3", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
 define("LAN_ERROR_4", "Fout 403 - Toegang geweigerd");
-define("LAN_ERROR_5", "Je hebt geen toestemming om de opgevraagde URL of link op te halen.");
+define("LAN_ERROR_5", "Je hebt geen toestemming om het opgevraagde document of pagina op te halen.");
 define("LAN_ERROR_6", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
 define("LAN_ERROR_7", "Error 404 - Document niet gevonden");
 define("LAN_ERROR_9", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
@@ -49,7 +49,7 @@ define("LAN_ERROR_32", "Kopieer de volgende tekst in het e107_config.php bestand
 define("LAN_ERROR_33", "Verwerkings Fout! Normaal gesproken wordt de startpagina nu getoond.");
 define("LAN_ERROR_34", "Onbekende fout! Informeer de beheerder dat je dit zag:");
 define("LAN_ERROR_35", "Error 400 - Foutief verzoek");
-define("LAN_ERROR_36", "Er is een verwerkings fout op de pagina die je wilt bezoeken.");
+define("LAN_ERROR_36", "Er is een verwerkings fout op de URL die je wilt bezoeken.");
 define("LAN_ERROR_37", "Fout Icoon");
 define("LAN_ERROR_38", "Excuses maar deze website is nu door een tijdelijke fout niet beschikbaar");
 define("LAN_ERROR_39", "Probeer het binnen een paar minuten nogmaals");
