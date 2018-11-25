@@ -72,5 +72,15 @@ define("LANHELP_51", "Zet HTML nieuwe regel voor ingesloten tekst uit: [nobr]tek
 define("LANHELP_52", "Nieuwe regel (HTML): [br]");
 define("LANHELP_53", "Uitvullen: [justify]Deze tekst wordt uitgevuld over de pagina[/justify]");
 define("LANHELP_54", "HTML blok (div tag): [block]Inhoud[/block]");
-
+define("LANHELP_55", "Format");	
+define("LANHELP_56", "Invoegen tabel");	
+define("LANHELP_57", "Titel");	
+define("LANHELP_58", "Blok");	
+define("LANHELP_59", "Citaat");	
+define("LANHELP_60", "Code blok");	
+define("LANHELP_61", "Code Inline");	
+define("LANHELP_62", "Paragraaf");	
+define("LANHELP_63", "Voeg een afbeelding in vanuit de Media Manager");	
+define("LANHELP_64", "Voeg een bestand in vanuit de Media-Manager");	
+define("LANHELP_65", "Grootte");
 ?>
