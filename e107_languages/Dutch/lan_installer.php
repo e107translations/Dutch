@@ -25,7 +25,7 @@ define("LANINS_014", "Bestands permissies");
 define("LANINS_015", "PHP Versie");
 define("LANINS_017", "GESLAAGD");
 define("LANINS_018", "Zorg ervoor dat alle aangegeven bestanden bestaan en beschrijfbaar zijn door de server. (CHMOD is systeem afhankelijk, hou het zo laag mogelijk.) Voor meer informatie en de mogelijkheden wat betreft CHMOD verwijzen wij je naar je hostings provider.");
-define("LANINS_019", "De op je server geïnstalleerde versie van PHP kan e107 niet aan. e107 0.7.x vereist een PHP versie van minimaal ".MIN_PHP_VERSION."  Ofwel upgrade je versie van PHP of neem contact op met je provider voor een upgrade.");
+define("LANINS_019", "De op je server geïnstalleerde versie van PHP kan e107 niet aan. e107 vereist een PHP versie van minimaal ".MIN_PHP_VERSION."  Ofwel upgrade je versie van PHP of neem contact op met je provider voor een upgrade.");
 define("LANINS_021", "2");
 define("LANINS_022", "MySQL server details");
 define("LANINS_023", "Geef hier je MySQL instellingen op.
