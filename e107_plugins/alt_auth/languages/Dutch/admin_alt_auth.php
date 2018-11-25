@@ -87,6 +87,7 @@ define("LAN_ALT_76", "Gebruikers restrictie klasse (een cijfermatige waarde - 0 
 define("LAN_ALT_77", "Alleen gebruikers in deze klasse (ingevoerd in bovenstaande database) hebben toegang");
 define("LAN_ALT_78", "Mislukte wachtwoord actie");
 define("LAN_ALT_79", "Hoe moet  het afgehandeld worden, wanneer gebruiker bestaat in de primaire DB, maar een foutief wachtwoord ingeeft?");
+define('LAN_ALT_80', "Poort: ");
 define("IMPORTDB_LAN_2", "Normale tekst");
 define("IMPORTDB_LAN_3", "Joomla salted");
 define("IMPORTDB_LAN_4", "Mambo salted");
