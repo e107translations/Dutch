@@ -11,5 +11,6 @@
 */
 
 define("LAN_PLUGIN_PAGE_BOCHAP",  "Zoeken in Boek/Hoofdstuk");
+define("LAN_PLUGIN_PAGE_NAME", "Pagina&#39;s");
 
 ?>
