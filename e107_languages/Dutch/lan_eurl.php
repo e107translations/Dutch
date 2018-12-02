@@ -90,4 +90,3 @@ define("LAN_EURL_CORE_INDEX", "Voorpagina");
 define("LAN_EURL_CORE_INDEX_INFO", "Voorpagina kan geen alias hebben");
 define("LAN_EURL_REBUILD", "Herbouwen");
  
-?>

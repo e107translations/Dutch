@@ -37,4 +37,3 @@ define("SUBNEWSLAN_11", "Meta Beschrijving");
 define("SUBNEWSLAN_12", "Gebruikt door Facebook enz.");
 define("SUBNEWSLAN_13", "Media URLs");
 
-?>

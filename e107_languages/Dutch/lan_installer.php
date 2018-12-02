@@ -25,7 +25,7 @@ define("LANINS_014", "Bestands permissies");
 define("LANINS_015", "PHP Versie");
 define("LANINS_017", "GESLAAGD");
 define("LANINS_018", "Zorg ervoor dat alle aangegeven bestanden bestaan en beschrijfbaar zijn door de server. (CHMOD is systeem afhankelijk, hou het zo laag mogelijk.) Voor meer informatie en de mogelijkheden wat betreft CHMOD verwijzen wij je naar je hostings provider.");
-define("LANINS_019", "De op je server geïnstalleerde versie van PHP kan e107 niet aan. e107 vereist een PHP versie van minimaal ".MIN_PHP_VERSION."  Ofwel upgrade je versie van PHP of neem contact op met je provider voor een upgrade.");
+define("LANINS_019", "De op je server geïnstalleerde versie van PHP kan e107 niet aan. e107 0.7.x vereist een PHP versie van minimaal ".MIN_PHP_VERSION."  Ofwel upgrade je versie van PHP of neem contact op met je provider voor een upgrade.");
 define("LANINS_021", "2");
 define("LANINS_022", "MySQL server details");
 define("LANINS_023", "Geef hier je MySQL instellingen op.
@@ -90,7 +90,7 @@ define("LANINS_086", "Admin inlognaam, Admin wachtwoord en Admin e-mailadres zij
 define("LANINS_105", "Een database naam of prefix welke begint met een digit gevolgd door \"e\" of \"E\" is niet toegestaan. <br />Een database naam of prefix kan niet leeg zijn.");
 define("LANINS_106", "Waarschuwing - e107 kan niet schrijven naar de bestanden of mappen welke worden weergegeven in de lijst. Dit maakt voor de installatie niet uit, alleen zijn sommige mogelijkheden niet beschikbaar.<br /><br />Om gebruik te kunnen maken van de mogelijkheden moet je nu of later de map of bestands permissie aanpassen");
 define("LANINS_107", "Website Naam");
-define("LANINS_108", "bijv.´Mijn Blog´");
+define("LANINS_108", "bijv. 'Mijn Blog'");
 define("LANINS_109", "Website Thema");
 define("LANINS_111", "Sluit Content/Configuratie in");
 define("LANINS_112", "Reproduceer op snelle wijze het uiterlijk van het thema voorbeeld of demo");
@@ -121,4 +121,3 @@ define("LANINS_144", "BELANGRIJK: Kopieër en plak de inhoud van het [b]e107.hta
 define("LANINS_145", "e107 v2.x vereist dat  PHP [x] is geïnstalleerd. Neem aub contact op met je hosting of lees de informatie op  [y] voordat je doorgaat.");
 define("LANINS_146", "Beheer thema (Skin)");
 define("LANINS_147", "Beheer");
-?>

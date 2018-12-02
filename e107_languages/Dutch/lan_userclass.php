@@ -26,4 +26,3 @@ define("UC_LAN_INVERT", "Niet [x]");
 define("UC_LAN_INVERTLABEL", "Iedereen maar..");
 
 
-?>

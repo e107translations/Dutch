@@ -38,4 +38,3 @@ define('LAN_LIBRARY_MANAGER_29', 'Script plaats');
 define('LAN_LIBRARY_MANAGER_30', 'CDN instellingen');
 define('LAN_LIBRARY_MANAGER_31', 'Gebruik CDN voor core scripts');
 define('LAN_LIBRARY_MANAGER_32', 'CDN provider');
-?>

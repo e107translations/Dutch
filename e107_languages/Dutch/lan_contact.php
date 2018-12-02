@@ -36,4 +36,4 @@ define("LANCONTACT_21", "Ik ga ermee akkoord dat mijn informatie wordt opgeslage
 define("LANCONTACT_22", "Privacy verklaring");
 define("LANCONTACT_23", "Je kan onze privacy verklaring hier lezen: [x]");
 define("LANCONTACT_24", "AVG toestemming");
-?>
+

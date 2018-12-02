@@ -31,4 +31,3 @@ define("LANUPLOAD_18", "Dit geuploade bestand overschrijd de toegestane limieten
 define("LANUPLOAD_19", "Te veel bestanden geuploaded - overschrijding verwijderd.");
 
 
-?>

@@ -31,4 +31,3 @@ define("UP_LAN_14", "Forumberichten");
 define("UP_LAN_15", "Betr.");
 define("UP_LAN_16", "IP Adres");
 
-?>

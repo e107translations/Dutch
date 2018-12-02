@@ -140,4 +140,3 @@ define("LAN_400", "Gebruikersnamen en wachtwoorden zijn <b>hoofdlettergevoelig</
 define("LAN_410", "Voer de zichtbare code in");
 */
 
-?>

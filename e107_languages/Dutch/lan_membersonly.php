@@ -19,4 +19,3 @@ define("LAN_MEMBERS_2", "Om toegang te krijgen klik [log in]");
 define("LAN_MEMBERS_3", "of [register] met je account gegevens."); 
 define("LAN_MEMBERS_4", "Klik hier om naar de startpagina terug te keren");
 
-?>

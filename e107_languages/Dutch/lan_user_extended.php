@@ -61,4 +61,4 @@ define("UE_LAN_MALE","Man");
 define("UE_LAN_FEMALE","Vrouw");
 define("UE_LAN_COMMENT", "Commentaren/reacties");
 define("UE_LAN_COMMENT_DESC", "Commentaar/Reactie Box");
-?>
+

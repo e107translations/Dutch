@@ -18,4 +18,3 @@ define("LAN_PREF_4", "gecensureerd");
 define("LAN_PREF_5", "Forums");
 
 
-?>

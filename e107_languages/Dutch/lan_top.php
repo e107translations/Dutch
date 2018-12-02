@@ -28,4 +28,3 @@ define("LAN_7", "Meest actieve discussies");
 define("LAN_8", "Top Schrijvers");
 
 
-?>

@@ -110,4 +110,3 @@ define("LAN_SEARCH_99", "Commentaar");
 define("LAN_SEARCH_201", "Definieer zoekopdracht anders");
 define("LAN_SEARCH_202", "Wissel naar geavanceerde uitgebreide instelling");
 
-?>

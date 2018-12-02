@@ -28,4 +28,3 @@ define("NT_LAN_NU_1", "Bijgewerkt");
 define("NT_LAN_ND_1", "Nieuwsbericht verwijderd");
 define("NT_LAN_ND_2", "Nieuws id verwijderd");
 
-?>

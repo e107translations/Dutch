@@ -129,4 +129,3 @@ define("LAN_SUMMARY", "Samenvatting");
 define("LAN_REQUIRED_BLANK", "Noodzakelijk veld(-en) werden leeg gelaten.");
 define("LAN_PLEASEWAIT", "Wachten a.u.b.");
 define("LAN_CHOOSE_FILE", "Kies een bestand");
-?>
