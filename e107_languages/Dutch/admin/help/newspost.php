@@ -50,4 +50,3 @@ Als je de start en/of einddatum invoert, wordt het bericht alleen tussen deze da
 	$text = "Lijst van alle nieuws items. Bewerken of veriwjderen, klik op een van de iconen in de \'opties\' kolomn. Om het item te bekijken, klik op de titel.";
 }
 $ns -> tablerender($caption, $text);
-?>

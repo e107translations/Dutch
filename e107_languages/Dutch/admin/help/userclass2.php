@@ -71,4 +71,3 @@ switch ($action)
 	$text = "Je kunt klassen kiezen ter bewerking, maar ook bestaande klassen verwijderen in dit venster.";
 }
 e107::getRender() -> tablerender($caption, $text);
-?>

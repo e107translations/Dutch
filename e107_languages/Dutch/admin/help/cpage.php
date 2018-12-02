@@ -16,4 +16,3 @@ $text = "In dit scherm kun je maatwerk menu's en maatwerk pagina's maken waarin 
 // $text .= "Please see <a href='http://docs.e107.org/Using Custom Pages and Custom Menus'>http://docs.e107.org/Using Custom Pages and Custom Menus</a> for an explanation of all the features.";
 
 $ns -> tablerender("Maatwerk Menus/Paginas Hulp", $text);
-?>

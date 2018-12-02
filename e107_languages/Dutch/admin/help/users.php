@@ -73,4 +73,4 @@ switch ($action)
 
 $ns -> tablerender($caption, $text);
 unset($text);
-?> 
+ 

@@ -66,4 +66,3 @@ default :
   $text .= common_filters();
 }
 $ns -> tablerender($caption, $text);
-?>

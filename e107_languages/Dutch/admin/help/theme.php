@@ -14,4 +14,3 @@ if (!defined('e107_INIT')) { exit; }
 
 $text = "De theme manager staat je het instellen toe van jouw publiekelijk site thema en het beheer scherm thema. <br /> <br /> Kijk naar de tooltips (indien beschikbaar) voor een omschrijving ";
 $ns -> tablerender("Thema Manager Hulp", $text);
-?>

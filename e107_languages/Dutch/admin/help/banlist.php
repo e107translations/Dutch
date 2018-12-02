@@ -90,4 +90,3 @@ Je kunt een verval periode instellen voor elk type blokkades, wat resulteert in 
 Je kunt de periode wijzigen vanaf deze pagina - tijden worden vanaf dit tijdstip berekent.";
 }
 $ns -> tablerender($caption, $text);
-?>

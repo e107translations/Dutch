@@ -32,4 +32,3 @@ $text = "
 </p>
 ";
 $ns->tablerender($caption, $text, "beheer_hulp");
-?>

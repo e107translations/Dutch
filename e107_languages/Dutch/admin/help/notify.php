@@ -18,4 +18,3 @@ Je kan ook, als een ander voorbeeld, 'Nieuws item geplaatst door beheerder' in s
 Als je wilt dat de e-mail berichten worden verstuurd naar een alternatief e-mailadres - selecteer de 'e-mail' optie en vul het e-mailadres in in het beschikbare veld..";
 
 $ns -> tablerender("Berichtfunctie Hulp", $text);
-?>
