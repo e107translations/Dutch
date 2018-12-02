@@ -124,4 +124,3 @@ define("LOGIN_MENU_L50", "Gebruikersnaam or E-mail: ");
 define("LOGIN_MENU_L51", "Inloggen");
 
 
-?>

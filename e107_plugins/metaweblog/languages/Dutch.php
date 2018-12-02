@@ -34,4 +34,3 @@ define("XMLRPC_HELP_051", "Blog Id voor XMLRPC client (elke string die je wilt)"
 define("XMLRPC_HELP_060", "Blog Naam voor client");
 define("XMLRPC_HELP_061", "Blog Naam voor XMLRPC client (elke string die je wilt)");
 
-?>

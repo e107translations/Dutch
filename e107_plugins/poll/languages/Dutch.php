@@ -56,7 +56,6 @@ define("POLLAN_44", "Peiling verwijderen?");
 define("POLLAN_45", "Peiling succesvol bijgewerkt");
 define("POLLAN_50", "Actief van [x] tot [y]");
 
-
 define("LAN_FORUM_3029", "Wanneer je geen peiling wil toevoegen aan dit onderwerp, laat dan de velden leeg."); 
 define("LAN_FORUM_3030", "Peiling vraag"); 
 define("LAN_FORUM_3031", "Peiling antwoord"); 
@@ -67,4 +66,3 @@ define("LAN_FORUM_3035", "Cookie");
 define("LAN_FORUM_3036", "IP adres"); 
 define("LAN_FORUM_3037", "Gebruikers ID (alleen leden kunnen stemmen)"); 
 
-?>

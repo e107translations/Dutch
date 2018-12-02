@@ -17,4 +17,3 @@ define("LAN_PLUGIN__BLANK_NAME", "Lege Plugin");
 define("LAN_PLUGIN__BLANK_DIZ",  "Een lege plugin om je te helpen met de ontwikkeling van een nieuwe Plugin. Meer details kunnen hier toegevoegd worden."); 
 define("LAN_PLUGIN__BLANK_LINK", "Lege Link");
 
-?>

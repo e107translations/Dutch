@@ -75,6 +75,7 @@ define("LAN_GALLERY_ADMIN_58", "Wanneer ingesteld op Geactiveerd, zal een galeri
 define("LAN_GALLERY_ADMIN_59", "Toetsenbord snelkoppelingen");
 define("LAN_GALLERY_ADMIN_60", "Stel in op Gedeactiveerd als je formulieren binnen prettyPhoto opent.");
 define("LAN_GALLERY_ADMIN_61", "IE6 fallback");
+
 define("LAN_GALLERY_ADMIN_62", "snel");
 define("LAN_GALLERY_ADMIN_63", "langzaam");
 define("LAN_GALLERY_ADMIN_64", "normaal");
@@ -87,4 +88,3 @@ define("LAN_GALLERY_ADMIN_69", "Facebook");
 
 define("LAN_GALLERY_ADMIN_70", "Laad prettyPhoto globaal");
 define("LAN_GALLERY_ADMIN_71", "prettyPhoto attribuut (hook)");
-?>

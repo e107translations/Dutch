@@ -15,4 +15,3 @@ define("LAN_PLUGIN_FEATUREBOX_BATCH", "Opstellen Dingenblok bericht");
 
 
 
-?>

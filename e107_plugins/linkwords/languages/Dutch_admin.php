@@ -77,4 +77,3 @@ define("LAN_LW_HELP_02", "Bepaal welke woorden klikbare links worden, of welke t
   Bepaald welke opties actief zijn.");
 
 
-?>

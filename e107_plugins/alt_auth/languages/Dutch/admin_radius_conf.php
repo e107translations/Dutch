@@ -19,4 +19,3 @@ define("LAN_RADIUS_11", "WAARSCHUWING: Het lijkt erop dat de RADIUS module momen
 define("LAN_AUTHENTICATE_HELP", "Deze authenticatie methode wordt gebruikt met een externe RADIUS-server. Het vereist dat PHP's RADIUS-extensie is ingeschakeld. <br /> Merk op dat de RADIUS-server alleen toegang kan toestaan ​​uit een specifieke reeks IP-adressen");
 
 
-?>

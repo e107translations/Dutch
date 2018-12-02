@@ -78,4 +78,3 @@ define("LAN_TAG_URL_NAME", "Tagwoorden");
 define("LAN_TAG_URL_DEFAULT_LABEL", "Standaard");
 define("LAN_TAG_URL_DEFAULT_DESCR", "Voorbeeld: http://yoursite.com/tagwords/een-tag");
 
-?>

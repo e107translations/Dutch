@@ -27,4 +27,3 @@ define("OTHERDB_LAN_15", "MySQL - algemene database");
 define("LAN_AUTHENTICATE_HELP", "Deze authenticatie wordt gebruikt om te valideren tegen een niet E107 database. Het wachtwoord moet worden opgeslagen in een vande ondersteunde formaten.");
 
 
-?>

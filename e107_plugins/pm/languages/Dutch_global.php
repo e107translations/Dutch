@@ -26,4 +26,3 @@ define("LAN_PLUGIN_PM_ATTACHMENT", "Bijlage");
 define("LAN_PLUGIN_PM_SIZE", "Grootte");
 
 
-?>

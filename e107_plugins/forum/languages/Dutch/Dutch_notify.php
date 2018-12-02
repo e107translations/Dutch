@@ -40,5 +40,3 @@ define("LAN_FORUM_NT_TOPIC_MOVED_MSG", "Discussie [thread] is verplaatst van [fo
 define("LAN_FORUM_NT_POST_CREATED_MSG", "Nieuw bericht in discussie [thread] (Forum name: [forum]) gemaakt door: [user]\nMessage:\n[post]");
 define("LAN_FORUM_NT_POST_UPDATED_MSG", "Bericht in discussie [thread] (Forum name: [forum]) bijgewerkt door: [user]\nMessage:\n[post]");
 define("LAN_FORUM_NT_POST_DELETED_MSG", "Bericht #[postid] van discussie [thread] in forum [forum] verwijderd door: [user]\n\nMessage:\n[post]");
-
-?>

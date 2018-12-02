@@ -139,4 +139,3 @@ define("LAN_AL_LISTNEW_01", "Lijst Nieuw voorkeuren bijgewerkt");
 define("LAN_AL_LISTNEW_02", "");
 
 
-?>

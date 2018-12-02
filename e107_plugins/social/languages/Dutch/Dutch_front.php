@@ -24,4 +24,4 @@ define("LAN_SOCIAL_203", "Type je tweet hier.");
 define("LAN_SOCIAL_204",  "Deel");
 define("LAN_SOCIAL_205",  "Niet mogelijk om reacties te laten zien, Facebook appID. is niet ingevoerd");
 define("LAN_SOCIAL_WARNING", "Facebook reacties kunnen niet getoond worden zonder facebook App ID. Bekijk de 'social login' hulptekst in beheerdersvoorkeuren om er 1 toe te voegen.");
-?>
+

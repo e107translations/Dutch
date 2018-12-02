@@ -14,4 +14,3 @@ define("LAN_PLUGIN_GSITEMAP_NAME", "Google Sitemap");
 define("LAN_PLUGIN_GSITEMAP_DESCRIPTION", "Genereerd een Google Sitemap");
 
 
-?>

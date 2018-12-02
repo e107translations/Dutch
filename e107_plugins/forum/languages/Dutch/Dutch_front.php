@@ -270,4 +270,3 @@ define("LAN_FORUM_8029", "Nieuw onderwerp aangemaakt!");
 define("LAN_FORUM_8030", "Kon het bericht niet verwijderen (moderator authorisatie nodig)");
 
 
-?>

@@ -23,4 +23,3 @@ define("LAN_AL_DOWNL_10", "Downloads - limiet bijgewerkt");
 define("LAN_AL_DOWNL_11", "Downloads - limiet verwijderd");
 
 
-?>

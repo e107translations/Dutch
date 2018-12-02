@@ -90,4 +90,3 @@ define("ADSTAT_L84", "");
 define("ADSTAT_L85", "");
 
 
-?>

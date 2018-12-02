@@ -13,4 +13,3 @@
 define("LAN_PLUGIN_NEWSLETTER_NAME", "Nieuwsbrief");
 define("LAN_PLUGIN_NEWSLETTER_DESCRIPTION", "Biedt een snelle en eenvoudige manier om nieuwsbrieven te configureren en versturen.");
 
-?>

@@ -9,3 +9,5 @@
 define("LAN_PLUGIN_TAGCLOUD_NAME", 			"Tag Cloud");
 define("LAN_PLUGIN_TAGCLOUD_DESCRIPTION", 	"Een simpel tagcloud menu voor je e107 website.");
 
+
+

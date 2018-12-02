@@ -33,5 +33,3 @@ define("FBLAN_34", "Niet toegewezen");
 define("FBLAN_35", "Caroussel");
 define("FBLAN_36", "Tabs");
 
-
-?>

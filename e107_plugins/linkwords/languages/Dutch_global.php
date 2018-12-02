@@ -13,4 +13,3 @@
 define("LAN_PLUGIN_LINKWORDS_NAME", "Linkwoorden");
 define("LAN_PLUGIN_LINKWORDS_DESCRIPTION", "Deze plugin zal specifieke woorden en/of tooltips voorzien van een link.");
 
-?>

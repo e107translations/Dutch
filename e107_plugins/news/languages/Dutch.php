@@ -17,4 +17,3 @@ define("LAN_NEWSLATEST_MENU_TITLE", "Laatste Nieuws");
 define("LAN_NEWSARCHIVE_MENU_TITLE", "Nieuws Archief");
 
 
-?>

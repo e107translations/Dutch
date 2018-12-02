@@ -37,4 +37,3 @@ define("CHBLAN_37", "Normale chatbox");
 define("CHBLAN_38", "Gebruik javascript code om de berichten dynamisch bij te werken (AJAX)");
 define("CHBLAN_42", "Toon aantal berichten in leden profiel");
 
-?>

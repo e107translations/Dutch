@@ -49,4 +49,4 @@ define("NLLAN_65", "Aanmelders overzicht nieuwsbrief ID");
 define("NLLAN_66", "Je nieuwsbrief abonnee lijst werd opgeschoond.");
 
 
-?> 
+ 

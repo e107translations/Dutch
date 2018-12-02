@@ -20,4 +20,3 @@ define("FORUM_LAN_URL_REWRITE_LABEL", "SEF Forum URLs (IN ONTWIKKELING)");
 define("FORUM_LAN_URL_REWRITE_DESCR", "Voorbeelden:<br />IN ONTWIKKELING");
 
 
-?>

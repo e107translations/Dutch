@@ -19,4 +19,3 @@ define("LAN_AL_LINKWD_04", "Linkwoord opties bijgewerkt");
 define("LAN_AL_LINKWD_05", "Linkwoorden versie update");					// Used in 0.7-compatible stub only
 define("LAN_AL_LINKWD_06", "");
 
-?>

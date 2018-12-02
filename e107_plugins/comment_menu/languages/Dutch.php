@@ -24,4 +24,3 @@ define("CM_L11", "op");
 define("CM_L12", "Over:");
 define("CM_L13", "Geplaatst door");
 
-?>

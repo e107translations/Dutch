@@ -22,4 +22,3 @@ define("LAN_NEWS_ADMIN_08", "Laat archief link zien");
 define("LAN_NEWS_ADMIN_09", "Limieten");
 define("LAN_NEWS_ADMIN_10", "Aantal Feature Items");
 define("LAN_NEWS_ADMIN_11", "Toegewezen berichten zijn berichten die met een template zijn toegewezen aan de 'News Carousel'");
-?>

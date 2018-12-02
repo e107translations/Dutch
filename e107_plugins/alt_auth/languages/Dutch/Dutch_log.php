@@ -18,4 +18,3 @@ define("LAN_AL_AUTH_05", "");
 define("LAN_AL_AUTH_06", "");
 
 
-?>

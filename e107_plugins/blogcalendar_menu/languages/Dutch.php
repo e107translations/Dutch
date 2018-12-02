@@ -20,4 +20,3 @@ define("BLOGCAL_CONF2",     "Opvulling cel ");
 define("BLOGCAL_CONF4",     "BlogCal menu configuratie");
 define("BLOGCAL_ARCHIV1",   "Selecteer archief");
 
-?>

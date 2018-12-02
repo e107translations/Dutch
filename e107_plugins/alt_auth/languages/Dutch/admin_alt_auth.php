@@ -108,4 +108,3 @@ define("LAN_ALT_COPY_HELP", "Je kunt velden selecteren om te kopieëren vanuit d
 define("LAN_ALT_CONVERSION_HELP", "Voor sommige velden; de drop-down box aan de rechterkant van het invoerveld veld selecteert een conversie die kan worden toegepast op het uitlezen van waarde uit de externe database; wanneer \"geen\" is geselecteerd, wordt de waarde gekopieerd zoals ontvangen. Conversies zijn: <br /> <b> TRUE / FALSE </ b> - de woorden \"TRUE \"en\" FALSE \"(en hun lagere / hoofdletter equivalenten) worden geconverteerd naar de Booleans 1 en nul <. br /> <b> Hoofdletters </ b> - Alle letters worden omgezet in hoofdletters <br /> <b> Kleine letters </ b> - Alle letters worden omgezet naar kleine letters <br /> <b> Hoofdletter eerst </ b> - het eerste teken wordt omgezet in hoofdletters <br /> <b> Hoofdletter woorden </ b> - de eerste letter van elk woord wordt omgezet in hoofdletters <br /> <br /> <br />");
 
 
-?>

@@ -95,4 +95,3 @@ define("ADSTAT_LAN_90", "Data in database opgeslagen met id: [x]");
 define("ADSTAT_LAN_91", "Kon de data niet opslaan in database onder id: [x]");
 
 
-?>

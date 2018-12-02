@@ -18,4 +18,3 @@ define("LAN_PLUGIN_GALLERY_SEF_03", "SEF URLs uitgeschakeld.");
 define("LAN_PLUGIN_GALLERY_SEF_04", "Galerij standaard");
 
 
-?>

@@ -16,4 +16,3 @@ define("LAN_PLUGIN_FAQS_FRONT_NAME", 	"FAQ (veelvuldig gestelde vragen)");
 define("LAN_PLUGIN_FAQS_SEARCH",     	"FAQ Zoeken");
 define("LAN_FAQS_ASK_A_QUESTION",		"Stel een vraag");
 
-?>

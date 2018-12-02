@@ -80,10 +80,10 @@ define("RSS_LAN_ADMIN_26", "Alles selecteren");
 define("RSS_LAN_ADMIN_27", "Alles deselecteren"); 
 define("RSS_LAN_ADMIN_28", "Niets veranderd - niet opgeslagen");
 define("RSS_LAN_ADMIN_31", "RSS ingangen begrenzing bijgewerkt");
-define("RSS_LAN_ADMIN_32", "");
+
 define("RSS_LAN_ADMIN_33", "Tonen afbeelding in Nieuws feed?");
 
 define("RSS_LAN_0", "RSS");
 define("RSS_LAN_2", "@nospam.com");
 define("RSS_LAN_3", "geenauteur@nospam.com");
-?>
+

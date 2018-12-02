@@ -38,6 +38,6 @@ define("CHATBOX_L23", "Fout!");
 define("CHATBOX_L24", "Je bezit niet de juiste rechten om deze pagina te bekijken.");
 define("CHATBOX_L25", "[dit bericht is door een beheerder geblokkeerd]");
 
+
 define("LAN_CHATBOX_100", "Type hier je tekst.");
 
-?>

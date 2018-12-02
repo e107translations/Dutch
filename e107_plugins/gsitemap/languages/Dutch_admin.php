@@ -46,4 +46,3 @@ define("GSLAN_39", "Geen links in sitemap - importeren sitelinks?");
 define("GSLAN_40", "Google Sitemap links");
 
 
-?>
