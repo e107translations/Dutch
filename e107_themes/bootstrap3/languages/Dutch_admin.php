@@ -4,7 +4,7 @@
 |     e107 website system - Dutch Language File.
 |
 |     $URL:$
-|     $Revision:$ 
+|     $Revision:$
 |     $Date:$
 |     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
@@ -21,4 +21,3 @@ define("LAN_THEMEPREF_08", "right");
 define("LAN_THEMEPREF_09", "top");
 define("LAN_THEMEPREF_10", "bottom");
 
-?>

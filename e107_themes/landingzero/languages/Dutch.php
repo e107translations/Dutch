@@ -24,4 +24,3 @@ define("LAN_LZ_THEME_15", "Geef ons uw e-mail adres aub");
 define("LAN_LZ_THEME_16", "Inschrijven voor updates");
 define("LAN_LZ_THEME_17", "Blijf op de hoogte");
 define("LAN_LZ_THEME_18", "Mogelijk houdt jij ook van");
-?>
