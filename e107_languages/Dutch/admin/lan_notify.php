@@ -9,6 +9,7 @@
 |     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
+
 define("NA_LAN_1", "Beheerder veranderd zijn wachtwoord");
 define("NA_LAN_2", "Beheerder voert niew lid in");
 define("NA_LAN_3", "Administrator activeert een nieuw lid");
@@ -20,6 +21,7 @@ define("NU_LAN_2", "Aanmeldingen");
 define("NU_LAN_3", "Gebruikersaccount verificatie");
 define("NU_LAN_4", "Inloggen");
 define("NU_LAN_5", "Uitloggen");
+
 define("NU_LAN_6", "Lid social login");
 define("NU_LAN_7", "Lid social aamelding");
 define("NU_LAN_8", "Lid bekijkt profiel");
@@ -28,6 +30,7 @@ define("NU_LAN_9", "Lid bewerkt profiel");
 define("NS_LAN_1", "Beveiligingsmeldingen");
 define("NS_LAN_2", "IP blokkade voor flooding van de site");
 define("NS_LAN_3", "IP geblokkeerd door meerdere foute inlogpogingen");
+
 
 define("NN_LAN_1", "Nieuwsmeldingen");
 define("NN_LAN_2", "Nieuwsbericht aangemeld door lid");
@@ -45,4 +48,3 @@ define("NF_LAN_2", "bestand ge-upload door lid");
 
 define("LAN_NOTIFY_01", "Gebeurtenissen");
 
-?>

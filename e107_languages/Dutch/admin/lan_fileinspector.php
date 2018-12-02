@@ -78,6 +78,7 @@ define("FC_LAN_21", "Oude Core bestanden");
 define("FR_LAN_23", "Niets gevonden.");
 define("FR_LAN_24", "Oude core bestanden");
 define("FR_LAN_25", "Integriteit niet te bepalen");
+
 define("FR_LAN_26", "Waarschuwing! Bekend beveiligingsrisico gevonden!");
 define("FR_LAN_27", "Er staan bestanden op je server waarvan te misbruiken kwetsbaarheden bekend zijn. Die moeten zo snel mogelijk worden verwijderd.");
 define("FR_LAN_28", "Bekende onveilige bestanden");
@@ -99,4 +100,3 @@ define("FS_LAN_9", "Momentopname");
 define("FS_LAN_10", "Momentopname Gemaakt");
 define("FS_LAN_11", "De momentopname is succesvol aangemaakt.");
 define("FS_LAN_12", "Keer terug naar de hoofdpagina");
-?>

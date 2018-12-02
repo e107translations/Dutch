@@ -263,4 +263,3 @@ define("PRFLAN_278", "URL naar de Privacy verklaring");
 define("PRFLAN_279", "Zorg ervoor dat de URL bestaat! Het is het beste om een absolute URL te gebruiken. Deze instelling wordt gebruikt op alle plaatsen waarvoor toestemming van de gebruiker is vereist (bijvoorbeeld aanmelding, contactformulier / menu, enz.).");
 define("PRFLAN_280", "URL naar je Algemene voorwaarden voor deze website");
 define("PRFLAN_281", "Zorg ervoor dat de URL bestaat! Het is het beste om een absolute URL te gebruiken. Deze instelling wordt gebruikt op alle plaatsen waarvoor toestemming van de gebruiker is vereist (bijvoorbeeld aanmelding, contactformulier / menu, enz.).");
-?>

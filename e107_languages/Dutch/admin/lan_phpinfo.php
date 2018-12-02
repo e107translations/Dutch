@@ -6,7 +6,7 @@
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2017/02/20 15:02:21
 |
-|        $Author:  $
+|        $Author: Yesszus $
 |
 +--------------------------------------------------------------------------+
 */
@@ -16,4 +16,3 @@ define("PHP_LAN_3", "Op een produktieserver is het beter om foutmeldingen niet t
 define("PHP_LAN_4", "Wanneer dit is uitgeschakeld zie je ook niet de PHP versie niet meer in je browser.");
 define("PHP_LAN_5", "Dit is een veilgheidsrisico en zou uitgezet moeten worden.");
 define("PHP_LAN_6", "[b]session.save_path[/b] is niet schrijfbaar! Dit kan tot grote problemen leiden binnen je website.");
-?>

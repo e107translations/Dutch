@@ -17,6 +17,7 @@ define("MDCLAN_4",  "Gast");
 define("MDCLAN_5",  "deblokkeer");
 define("MDCLAN_6",  "blokkeer");
 define("MDCLAN_7",  "goedkeuren");
+
 define("MDCLAN_8",  "Modereer reacties");
 define("MDCLAN_9",  "Waarschuwing! Verwijderen van de eerste reactie verwijdert ook de antwoorden!");
 
@@ -28,4 +29,3 @@ define("MDCLAN_14", "afsluiten reacties");
 define("MDCLAN_15", "open");
 define("MDCLAN_16", "gesloten");
 
-?>

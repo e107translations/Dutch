@@ -27,6 +27,7 @@ define("CACLAN_16", "Leeg systeem cache");
 define("CACLAN_17", "Bevat op dit moment");
 define("CACLAN_18", "bestand");
 define("CACLAN_19", "bestanden");
+
 define("CACLAN_20", "DB Structuur cache");
 define("CACLAN_21", "Database structuur cache bevat systeeminformatie over de database tabel structuur, en wordt gebruikt bij diverse kern routines. Bevat geen zichtbare website gegevens.");
 define("CACLAN_22", "Thumbnail cache");
@@ -38,4 +39,3 @@ define("CACLAN_27", "Wis browser cache");
 define("CACLAN_28",	"JS/CSS cache");
 define("CACLAN_29",	"Samenvoegen en cachen javascript bestanden en cascading stylesheet bestanden (css)");
 define("CACLAN_30",	"Wis JS/CSS cache");
-?>

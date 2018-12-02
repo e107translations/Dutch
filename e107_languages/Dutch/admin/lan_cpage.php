@@ -53,4 +53,3 @@ define("CUSLAN_78", "Kon menu met pad niet verwijderen");
 define("CUSLAN_79", "Je dient een pagina titel of een menu naam in te geven.");
 
 
-?>

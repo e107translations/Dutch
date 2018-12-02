@@ -10,7 +10,6 @@
 +----------------------------------------------------------------------------+
 */
 
-
 define("UPLLAN_1",  "Upload verwijderd uit de lijst");
 define("UPLLAN_2",  "Instellingen bewaard in database");
 define("UPLLAN_3",  "Upload ID");
@@ -83,4 +82,3 @@ define("UPLLAN_68", "SQL Fout:");
 define("UPLLAN_69", "Geimporteerd");
 define("UPLLAN_70", "Verstuurd naar [x]");
 
-?>

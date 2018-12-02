@@ -25,4 +25,4 @@ define("MESSLAN_10", "Aangemeld door");
 define("MESSLAN_11", "opent in nieuw venster");
 define("MESSLAN_12", "Bericht");
 define("MESSLAN_13", "Link");
-?>
+

@@ -123,4 +123,3 @@ define("EXTLAN_HELP_8", "Toestaan dat een lid een geïnstalleerde taal kiest");
 // Predefined list
 define("EXTLAN_HELP_9", "Specificeer een vooraf gedefiniëerde lijst. De veld waarde selecteert het type lijst - op dit moment is slechts 'tijdzones'  een geldige opgave"); //Todo, beter vertalen a.j.b: Specify a predefined list. The value field selects the type of list - at present only \"timezones\" is a valid entry
 
-?>
