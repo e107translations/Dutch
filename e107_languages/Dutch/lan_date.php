@@ -30,4 +30,5 @@ define("LANDT_08s", "min");
 define("LANDT_09",  "sec");
 define("LANDT_09s", "sec");
 define("LANDT_AGO", "geleden");
+define("LANDT_IN", "in");
 define("LANDT_10",  "Zojuist");
