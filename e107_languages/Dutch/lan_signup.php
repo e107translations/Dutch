@@ -119,6 +119,9 @@ define("LAN_SIGNUP_118", "Naar [x]");
 define("LAN_SIGNUP_119", "Verstuur geen mail");
 define("LAN_SIGNUP_120", "OF");
 define("LAN_SIGNUP_121", "Gebruik een ander e-mail adres");
+define("LAN_SIGNUP_122", "Privacyverklaring ");
+define("LAN_SIGNUP_123", "Algemene Voorwaarden");
+define("LAN_SIGNUP_124", "Door u aan te melden gaat u akkoord met onze [x] en onze [y].");
 
 /*
 define("LAN_7", "Gebruikersnaam: ");
