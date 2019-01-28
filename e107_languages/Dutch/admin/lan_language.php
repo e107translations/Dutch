@@ -99,3 +99,4 @@ define("LANG_LAN_150", "[b]Doorzoek het GEHELE systeem voordat je een LAN verwij
 define("LANG_LAN_151", "Beschikbaar");
 define("LANG_LAN_152", "Met dank aan het [e107 translations team]");
 define("LANG_LAN_153", "Pre-release");
+define("LANG_LAN_154", "Het taalpakket is aangemaakt. Je kunt het nu doorsturen naar de Github Opslagruimte (repo) zoals [here] geïnstrueerd.");
