@@ -46,3 +46,4 @@ define("LAN_LOGIN_33", "[Terug naar startpagina]"); // the [ ] brackets are repl
 define("LAN_LOGIN_34", "Ledenregistratie of login is momenteel niet beschikbaar.");
 define("LAN_LOGIN_35", "[Ga naar instellingen]"); // the [ ] brackets are replaced with a button link
 define("LAN_LOGIN_36", "E-mails naar [x] worden gebounced en komen dus niet aan. Controleer of het e-mailadres correct is.");// the [ ] brackets are replaced with a button link to usersettings.php
+define("LAN_LOGIN_37", "Je account werd nog niet door een Site Beheerder goedgekeurd."); // Similar to LAN_LOGIN_22 but used in case verification method is set to 'Admin Approval'
