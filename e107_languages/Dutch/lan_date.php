@@ -32,3 +32,5 @@ define("LANDT_09s", "sec");
 define("LANDT_AGO", "geleden");
 define("LANDT_IN", "in");
 define("LANDT_10",  "Zojuist");
+define("LANDT_XAGO", "[x] geleden");
+define("LANDT_INX", "in [x]");
