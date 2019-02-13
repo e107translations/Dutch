@@ -29,7 +29,7 @@ define("CHATBOX_L15", "Bericht te lang, of er is een leeg bericht geplaatst");
 define("CHATBOX_L16", "Anoniem");
 define("CHATBOX_L17", "Dubbelpost");
 define("CHATBOX_L18", "Chatbox berichten gemodereerd");
-define("CHATBOX_L19", "Je kunt slechts één keer in de ".FLOODTIMEOUT." seconden een bericht plaatsen");
+define("CHATBOX_L19", "Je kunt slechts één keer in de [x] seconden een bericht plaatsen");
 
 define("CHATBOX_L20", "Chatbox (alle berichten)");
 define("CHATBOX_L21", "Chat berichten");
