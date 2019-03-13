@@ -121,6 +121,8 @@ define("LAN_RELATED", "Gerelateerd");
 define("LAN_CLOSE", "Sluit");
 define("LAN_EXPAND", "Uitbreiden");
 define("LAN_LIST", "Lijst");
+define("LAN_DATESTAMP","Datumstempel");
+define("LAN_SUBJECT","Onderwerp");
 define("LAN_ENTER_USRNAME_EMAIL", "Vul je gebruikersnaam of email adres in");
 define("LAN_PWD_REQUIRED", "Wachtwoord is verplicht");
 define("LAN_SHOW", "Toon");
