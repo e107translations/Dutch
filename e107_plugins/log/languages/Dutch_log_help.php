@@ -18,4 +18,3 @@ define("LAN_STAT_HELP_05", "<b>Inschakelen Statistiek logging</b>Er vindt geen l
 define("LAN_STAT_HELP_06", "");
 
 
-?>

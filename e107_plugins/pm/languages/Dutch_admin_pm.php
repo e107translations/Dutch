@@ -90,4 +90,3 @@ define("ADLAN_PM_81", "Maximum aantal PMs direct te verzenden");
 define("ADLAN_PM_82", "Als er meer dan dit verzonden wordt, worden ze toegevoegd aan een wachtrij en verzonden met behulp van de cron-taak");
 
 
-?>

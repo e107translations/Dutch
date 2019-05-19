@@ -24,4 +24,3 @@ define("CLOCK_AD_L11", "Rangtelwoord 3");
 define("CLOCK_AD_L12", "Rangtelwoord 4 en meer");
 define("CLOCK_AD_L13", "Als in jouw taal rangtelwoorden moeten worden getoond na de datum, vul dan deze velden met de rangtelwoord indicatie (bijv.: “st” voor 1, “nd” voor 2, “rd” voor 3 and “th” voor 4 en verder voor Engelstalig gebruik). Vul niets in als het niet nodig is.");
 
-?>

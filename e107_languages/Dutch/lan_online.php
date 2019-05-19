@@ -64,4 +64,3 @@ define("CONTENT", 		"Maatwerk Pagina");
 define("REVIEW", 		"Review");
 define("OTHER", 		"Andere Pagina: ");
 
-?>

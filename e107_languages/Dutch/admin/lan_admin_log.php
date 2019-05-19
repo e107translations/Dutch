@@ -119,4 +119,3 @@ define("RL_LAN_133", "Opmerking");
 define("RL_LAN_134", "Waarschuwing");
 define("RL_LAN_135", "Fataal");
 
-?>

@@ -24,4 +24,3 @@ define("FLALAN_16", "verwijder deze auto-blokkade lijst");
 define("FLALAN_17", "Auto-blokkade lijst verwijderd");
 //define("FLALAN_18", "Kon het IP adres  --IP-- - niet blokkeren op de wittelijst");
 
-?>

@@ -137,6 +137,7 @@ define("ADLAN_192", "Neem contact op met andere e107 gebruikers voor [gratis ond
 define("ADLAN_193", "De map [x] is niet beschrijfbaar. Graag aanpassen voordat je doorgaat.");
 define("ADLAN_194", "Legacy avatars map gedetecteerd. Zorg ervoor dat de map [x]avatars/ beschrijfbaar is. Graag aanpassen voordat je doorgaat.");
 define("ADLAN_195", "Oude map verplaatst naar backup");
+
 define("ADLAN_CL_2", "Leden");
 define("ADLAN_CL_3", "Inhoud");
 define("ADLAN_CL_4", "Coms");
@@ -161,8 +162,8 @@ define("LAN_INSTALLED","Geinstalleerd");//TODO elsewhere
 define("LAN_LAST_UPDATED","Als laatste bijgewerkt");
 define("LAN_UPDATE_AVAILABLE","Update beschikbaar");
 define("LAN_ADD", "Toevoegen");
-define("LAN_ADD_MORE", "Meer toevoegen");
 define("LAN_REMOVE", "Verwijder");
+define("LAN_ADD_MORE", "Meer toevoegen");
 define("LAN_MULTIPLE_CHOICE", "Meerkeuze mogelijk");
 
 define("LAN_SAVE", "Opslaan");
@@ -192,7 +193,7 @@ define("LAN_PRUNE", "Opschonen");
 define("LAN_RESET", "Herstel");
 define("LAN_CLEAR", "Schonen");
 define("LAN_ADD_ALL", "Alles toevoegen");
-define("LAN_CLEAR_ALL", "Alles verwijderen");
+define("LAN_CLEAR_ALL", "Alles verwijderen"); 
 define("LAN_CLICK_HERE", "KLIK HIER");
 define("LAN_UNKNOWN", "Niet bekend");
 define("LAN_ALL", "Alles");
@@ -266,7 +267,7 @@ define("LAN_BOOL_REVERSE", "Omdraaien");
 define("LAN_DETAILS", "Details");
 define("LAN_NOT_AVAILABLE", "Niet beschikbaar");
 define("LAN_AUTO_GENERATED", "Automatisch-gegenereerd");
-define("LAN_AUTOMATION", "Automatisch");
+define("LAN_AUTOMATION","Automatisch");
 define("LAN_PRESET_CONFIRMSAVE", "De huidige formulierwaarden als standaard voor deze pagina opslaan?");
 define("LAN_CONFIGURE", "Configureren");
 define("LAN_NOPERMISSION", "geen autorisaties");
@@ -283,7 +284,7 @@ define("LAN_MENULAYOUT", "Menu Indeling");
 define("LAN_MEDIAMANAGER", "Media Manager");
 define("LAN_MOREINFO", "Meer Informatie...");
 define("LAN_COMMENTMAN", "Reacties beheer");
-//define("LAN_LIST", "Lijst");verplaatst naar Dutch php
+//define("LAN_LIST", "Lijst");  verplaatst naar Dutch.php
 define("LAN_FILTER", "Filter");
 define("LAN_STATUS", "Status");
 define("LAN_URL", "URL");
@@ -349,7 +350,7 @@ define("LAN_UI_BATCH_CREATELINK", "Aanmaken Link");
 define("LAN_UI_DELETED", "[x] regel(s) met succes verwijderd!");
 define("LAN_UI_DELETED_FAILED", "[x] regels niet gevonden en niet verwjderd!");
 define("LAN_UI_FILE_DELETED", "[x] bestand met succes verwijderd!");
-define("LAN_UI_FILE_DELETED_FAILED", "Kon het bestand [x] niet verwijderen, verwijder dit bestand zelf middels FTP."); 
+define("LAN_UI_FILE_DELETED_FAILED", "Kon het bestand [x] niet verwijderen, verwijderd dit bestand zelf middels FTP.");
 define("LAN_UI_BATCH_EXPORT", "Export");
 define("LAN_UI_USING_DATABASE_TABLE", "Gebruik [x] database tabel");
 define("LAN_UI_TOTAL_RECORDS", "Totaal  aantal records: [x]");
@@ -416,6 +417,7 @@ define("LAN_SOURCE", "Bron");
 define("LAN_UPGRADING", "Bijwerken?");
 define("LAN_DONT_SHOW_AGAIN", "Laat niet meer zien");
 
+
 define("LAN_ERROR_CONNECTION","Er kan geen verbinding gemaakt worden met de updateserver, controleer firewall en/of internet verbnding of probeer later nog eens.");
 define("LAN_UI_X_CANT_EQUAL_Y", "[x] kan niet identiek zijn aan [y]");
 define("LAN_UI_VIEW_GRID_LABEL", "Rasterweergave");
@@ -430,4 +432,4 @@ define("LAN_UI_FILTER_IS_EMPTY", "Is leeg");
 define("LAN_RECALCULATE_COMMENT_COUNT", "Herbereken reactie telling");
 define("LAN_SUCC_RECALCULATE_COMMENT_COUNT", "Reactie telling succesvol herberekend!");
 define("LAN_NO_RESULTS_FOUND", "Geen resultaten gevonden.");
-?>
+define("LAN_UI_DROPZONE_DROP_FILES", "Plaats hier bestanden om te uploaden");

@@ -20,4 +20,3 @@ define("TRACKBACK_L13", "Modereer trackbacks");
 define("TRACKBACK_L16", "Trackback");
 
 
-?>

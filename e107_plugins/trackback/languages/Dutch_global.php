@@ -13,4 +13,3 @@
 define("LAN_PLUGIN_TRACKBACK_NAME",  "Configureren Trackback");
 define("LAN_PLUGIN_TRACKBACK_DESCRIPTION",  "Deze plugin maakt het mogelijk om trackback in nieuwsberichten te gebruiken.");
 
-?>

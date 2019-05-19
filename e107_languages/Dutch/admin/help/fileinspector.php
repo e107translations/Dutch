@@ -47,4 +47,3 @@ Het extra string overeenkomst hulpmiddel (alleen in ontwikkelaarsmodus) staat je
 }
 
 $ns -> tablerender("Bestanden Inspecteur Hulp", $text);
-?>

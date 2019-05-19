@@ -72,4 +72,3 @@ define("ADSTAT_L53", "Informatie");
 //define("ADSTAT_L59", "");
 //define("ADSTAT_L60", "");
 
-?>

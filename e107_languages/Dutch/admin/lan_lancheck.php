@@ -31,11 +31,12 @@ define("LAN_CHECK_23", "Fouten gevonden");
 define("LAN_CHECK_26", "Front");
 define("LAN_CHECK_27", "Het aantal taalfouten gevonden in het Taalpakket");
 define("LAN_CHECK_28", "Identiek");
-define("LAN_CHECK_PAGE_TITLE", "Talen");
 define("LAN_CHECK_29", "Identieke string (alleen waarschuwingen)");
 define("LAN_CHECK_30", "Ontbrekende bbcodes");
 define("LAN_CHECK_31", "Ontbrekende [ and/or ] karakter(s)");
 define("LAN_CHECK_32", "Ontbrekende HTML tags");
+
+define("LAN_CHECK_PAGE_TITLE", "Talen");
 
 define("LANG_LAN_23", "Aanmaken Taalpakket (zip)");
 define("LANG_LAN_30", "Aangemaakt");
@@ -52,4 +53,3 @@ define("LANG_LAN_120", "Zorg ervoor dat je de standaard folder namen gebruikt in
 
 define("LANG_LAN_AGR", "Notitie: Als je op deze manier de bestanden vertaald ben je verplicht je taalpakketten te delen met de e107 gemeenschap.");
 
-?>

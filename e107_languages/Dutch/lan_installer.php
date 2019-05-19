@@ -90,7 +90,7 @@ define("LANINS_086", "Admin inlognaam, Admin wachtwoord en Admin e-mailadres zij
 define("LANINS_105", "Een database naam of prefix welke begint met een digit gevolgd door \"e\" of \"E\" is niet toegestaan. <br />Een database naam of prefix kan niet leeg zijn.");
 define("LANINS_106", "Waarschuwing - e107 kan niet schrijven naar de bestanden of mappen welke worden weergegeven in de lijst. Dit maakt voor de installatie niet uit, alleen zijn sommige mogelijkheden niet beschikbaar.<br /><br />Om gebruik te kunnen maken van de mogelijkheden moet je nu of later de map of bestands permissie aanpassen");
 define("LANINS_107", "Website Naam");
-define("LANINS_108", "bijv.´Mijn Blog´");
+define("LANINS_108", "bijv. 'Mijn Blog'");
 define("LANINS_109", "Website Thema");
 define("LANINS_111", "Sluit Content/Configuratie in");
 define("LANINS_112", "Reproduceer op snelle wijze het uiterlijk van het thema voorbeeld of demo");
@@ -121,4 +121,3 @@ define("LANINS_144", "BELANGRIJK: Kopieër en plak de inhoud van het [b]e107.hta
 define("LANINS_145", "e107 v2.x vereist dat  PHP [x] is geïnstalleerd. Neem aub contact op met je hosting of lees de informatie op  [y] voordat je doorgaat.");
 define("LANINS_146", "Beheer thema (Skin)");
 define("LANINS_147", "Beheer");
-?>

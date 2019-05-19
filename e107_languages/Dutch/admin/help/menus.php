@@ -56,4 +56,3 @@ Als je niet meteen het resultaat ziet, druk dan even op de onderstaande 'refresh
 
 $text = $tp->toHtml($text,true);
 $ns -> tablerender("Menu's Hulp", $text);
-?>

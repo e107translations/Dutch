@@ -36,6 +36,6 @@ define("DBVLAN_23", "Database Toepassingen");
 define("DBVLAN_24", "Kies a.u.b. een aktie");
 define("DBVLAN_25", "Missende Index");
 define("DBVLAN_26", "[x] tabel (-len) heeft (hebben) problemen");
+
 // IMPORTANT NOTE: DBLAN has been replaced by DBBLAN in this file since 0.7 due to conflicts with db.php
 
-?>

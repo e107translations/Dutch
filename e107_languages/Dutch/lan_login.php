@@ -30,7 +30,7 @@ define("LAN_LOGIN_17", "Wachtwoord gebruiker (versleuteld)");
 define("LAN_LOGIN_18", "Auto-blokkade: Meer dan [x] mislukte inlogpogingen");
 define("LAN_LOGIN_19", "> 10 mislukte inlogpogingen");
 define("LAN_LOGIN_20", "Er zijn verplichte velden leeg");
-define("LAN_LOGIN_21", "Inlog fout. Er is geen geregistreerde gebruiker gevonden, controleer CAPS-LOCK, inlognamen zijn hoofdletter gevoelig");
+define("LAN_LOGIN_21", "Je inlog details komen niet overeen met een reeds geregistreerde gebruiker.Controleer op gebruik van CAPS-LOCK, inlognamen zijn hoofdletter gevoelig");
 define("LAN_LOGIN_22", "je hebt je account niet geactiveerd, je hebt een e-mail ontvangen met instructies om je account te activeren, klik [hier] om deze nogmaals te ontvangen.");
 define("LAN_LOGIN_23", "Wachtwoord fout.");
 define("LAN_LOGIN_24", "Die gebruikersnaam/wachtwoord combinatie is al in gebruik.");
@@ -46,6 +46,4 @@ define("LAN_LOGIN_33", "[Terug naar startpagina]"); // the [ ] brackets are repl
 define("LAN_LOGIN_34", "Ledenregistratie of login is momenteel niet beschikbaar.");
 define("LAN_LOGIN_35", "[Ga naar instellingen]"); // the [ ] brackets are replaced with a button link
 define("LAN_LOGIN_36", "E-mails naar [x] worden gebounced en komen dus niet aan. Controleer of het e-mailadres correct is.");// the [ ] brackets are replaced with a button link to usersettings.php
- 
-
-?>
+define("LAN_LOGIN_37", "Je account werd nog niet door een Site Beheerder goedgekeurd."); // Similar to LAN_LOGIN_22 but used in case verification method is set to 'Admin Approval'

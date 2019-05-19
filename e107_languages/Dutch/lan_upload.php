@@ -55,4 +55,3 @@ define("DOWLAN_11", "Categorie");
 define("LAN_419", "Toegestane bestandsformaten");
 define("LAN_420", "velden zijn verplicht");
 
-?>

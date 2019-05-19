@@ -2,11 +2,13 @@
 
 
 
-DUTCH  V 2.1.9
+DUTCH  V 2.2.0 (no c_t files version)
 
 
 
-Language pack Dutch, release for version 2.1.9
+Language PRE pack Dutch, release for version 2.2.0
+
+Thes files do have no longer php closing tags. !!
 
 
-(last updated 08-23-2018)
+(Start on  08-24-2018 ; updated 11-25-2018)

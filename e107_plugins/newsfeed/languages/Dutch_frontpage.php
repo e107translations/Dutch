@@ -13,4 +13,3 @@
 define("NWSF_FP_1", "Nieuws Feeds");
 define("NWSF_FP_2", "hoofdpagina");
 
-?>

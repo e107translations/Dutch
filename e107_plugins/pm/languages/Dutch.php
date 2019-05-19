@@ -92,4 +92,3 @@ define("LAN_PM_112", "Gebruiker(s)");
 define("LAN_PM_113", "Lees bericht");
 define("LAN_PM_114", "Je hebt geen toegang tot verzenden aan deze gebruiker."); //rechten ??
 define("LAN_PM_115", "Gebruiker niet gevonden");
-?>

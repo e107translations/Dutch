@@ -84,4 +84,3 @@ define("ADLAN_PM_90", "Vul een ontvanger in in het 'Aan' veld aub.");
 define("ADLAN_PM_91", "Test");
 define("ADLAN_PM_92", "Test Email Verzonden!");
 define("ADLAN_PM_93", "Test Email mislukt!");
-?>

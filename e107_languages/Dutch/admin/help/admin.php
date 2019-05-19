@@ -20,4 +20,3 @@ if(e107::getPref('admincss')=='admin_dark.css')
 	
 }
 $ns -> tablerender($caption, $text);
-?>

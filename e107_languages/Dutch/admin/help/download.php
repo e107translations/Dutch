@@ -16,4 +16,3 @@ $text = "Upload je bestanden naar de ".e_FILE."downloads map, de afbeeldingen na
 <br /><br />
 Om een download aan te melden moet je eerst een hoofdcategorie creëren en daarna een categorie onder deze hoofdcategorie. Daarna kun je de download beschikbaar stellen.";
 $ns -> tablerender("Download Hulp", $text);
-?>

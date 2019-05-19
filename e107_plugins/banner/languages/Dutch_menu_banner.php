@@ -15,6 +15,7 @@
 /*
 define("BANNER_MENU_L1", "Advertisement");
 define("BANNER_MENU_L2", "Banner menu configuration saved");
+
 //v.617
 define("BANNER_MENU_L3", "Caption");
 define("BANNER_MENU_L4", "Campaign");
@@ -34,4 +35,3 @@ define("BANNER_MENU_L17", "set amount ...");
 //define("BANNER_MENU_L18", "Update Menu Settings");
 //define('BANNER_MENU_L19', 'Nothing changed - not saved');
 */
-?>

@@ -258,4 +258,8 @@ define("PRFLAN_273", "Sessie levensduur in seconden. 0 = totdat de browser is ge
 define("PRFLAN_274", "Het contactformulier zal alleen zichtbaar zijn voor leden met deze  gebruikersklasse groep.");
 define("PRFLAN_275", "Bekijk deze pagina middels https (SSL) om te veranderen");
 define("PRFLAN_276", "PHP Default (Aanbevolen)");
-?>
+define("PRFLAN_277", "Privacy Instellingen");
+define("PRFLAN_278", "URL naar de Privacy verklaring");
+define("PRFLAN_279", "Zorg ervoor dat de URL bestaat! Het is het beste om een absolute URL te gebruiken. Deze instelling wordt gebruikt op alle plaatsen waarvoor toestemming van de gebruiker is vereist (bijvoorbeeld aanmelding, contactformulier / menu, enz.).");
+define("PRFLAN_280", "URL naar je Algemene voorwaarden voor deze website");
+define("PRFLAN_281", "De 2 hierbovenstaande links worden gebruikt op diverse paginas op de site (v.b. aanmelden en contact form/menu).\nMaak aub 2 paginas aan (indien nog niet bestaand) die je Privacybeleid bevat en de Algemene voorwaarden van website.\nEr zijn diverse websites online die zulke tekst kunnen genereren voor je.\nKopieer de url's van deze websites (of van je eigen bestaande) in de velden hierboven (v.b. /page/privacybeleid of /page/algemene-voorwaarden).\nWees er zeker van dat de url en de paginas bestaan en werken!");

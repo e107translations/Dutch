@@ -43,4 +43,3 @@ define("NFPM_L22", "Gesloten Sticky Draad");
 define("NFPM_L23", "Aankondiging");
 define("NFPM_L24", "Gesloten Draad");
 
-?>

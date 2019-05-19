@@ -15,4 +15,3 @@ $text = "Maak hier de links aan welke getoond worden in je hoofd navigatiemenu.
 <br />
 ";
 $ns -> tablerender("Links Hulp", $text);
-?>

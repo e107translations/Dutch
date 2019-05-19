@@ -79,4 +79,3 @@ $action = e107::getParser()->toDB(varset($_GET['mode'],'makemail'));
   }
 
 $ns->tablerender("Mail Hulp", $text);
-?>

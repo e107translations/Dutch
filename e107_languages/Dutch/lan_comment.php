@@ -76,4 +76,3 @@ define("COMLAN_500", "Aub [inloggen] om een reactie te geven.");
 define("COMLAN_501", "Wanneer je niet bent geregistreerd, kun je je [hier] aanmelden");
 
 
-?>

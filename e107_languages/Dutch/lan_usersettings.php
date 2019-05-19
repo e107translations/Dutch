@@ -97,4 +97,3 @@ define("LAN_USET_5", "Ingeschreven voor");
 define("LAN_USET_6", "Schrijf je in voor onze mailing-lijst(en) en/of delen van deze website.");
 define("LAN_USET_8", "Ondertekening / Tijdzone");
 
-?>

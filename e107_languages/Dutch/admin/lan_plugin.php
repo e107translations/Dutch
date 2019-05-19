@@ -282,7 +282,7 @@ define ("EPL_ADLAN_243","Instelling bijwerken:");
 define ("EPL_ADLAN_244","Tijdens installatie zijn er maar 5 Media Categorieen toegestaan.");  
 
 define ("EPL_ADLAN_245","Media categorie toevoegen: [x]");  
-define ("EPL_ADLAN_246","Verwijder alle media Categorieen van: [x]");
+define ("EPL_ADLAN_246","Verwijder alle media Categorieen van: [x]"); 
 define ("EPL_ADLAN_247","Updates die worden geïnstalleerd");
 
 define ("EPL_ADLAN_249","Gebruikersveld toevoegen: ");  
@@ -305,4 +305,3 @@ define("LAN_PLUGIN_IS_USED", "[x] plugin wordt gebruikt door:");
 define("EPL_ADLAN_254", "Dit zal jouw taal plugin bestanden controleren op fouten en op algemene of dubbel voorkomende LAN definities. ");
 define("EPL_ADLAN_255", "Overschrijf bestanden");
 define("EPL_ADLAN_256", "[x] Overgeslagen (bestaat reeds)");
-?>

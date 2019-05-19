@@ -12,4 +12,3 @@ define("LAN_LZ_THEMEPREF_03", "URL pad naar site video in mp4 formaat");
 define("LAN_LZ_THEMEPREF_04", "Aanmeld/Login plaatsing"); 
 define("LAN_LZ_THEMEPREF_05", "boven");
 define("LAN_LZ_THEMEPREF_06", "beneden");
-?>

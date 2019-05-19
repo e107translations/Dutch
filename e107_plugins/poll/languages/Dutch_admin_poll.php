@@ -26,4 +26,3 @@ define("LAN_AL_POLL_03","Peiling toegevoegd");
 //define("LAN_AL_POLL_04","");
 //define("LAN_AL_POLL_05","");
 
-?>

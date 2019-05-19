@@ -16,4 +16,3 @@ define("IMPORTDB_LAN_11", "Deze optie wordt gebruikt wanneer u een ander gebruik
 define("LAN_AUTHENTICATE_HELP", "Deze authenticatie methode wordt  <i> alleen </ i> gebruikt als u een eigen database heeft ge&iuml;mporteerd in E107, en het wachtwoord is in een compatibel formaat. Het oorspronkelijke wachtwoord wordt gelezen uit de lokale database en gevalideerd tegen het opslagformaat van het oorspronkelijke systeem. Indien juist geverifieert, wordt het omgezet in het huidige E107-compatibel formaat en opgeslagen in de database. Na een tijdje kun je meestal de alt-auth plugin uitschakelen, aangezien de wachtwoorden van actieve gebruikers opgeslagen werden in een compatibel formaat.");
 
 
-?>

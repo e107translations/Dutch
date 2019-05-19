@@ -50,7 +50,6 @@ define("LAN_FPW20", "E-mail verstuurd");
 define("LAN_FPW21", "Gebruiker heeft op de wachtwoord reset link geklikt");
 //define("LAN_FPW22","");
 define("LAN_FPW_100", "Wachtwoord vergeten?");
-define("LAN_FPW_101", "Geen probleem, geef je e-mailadres hieronder in en we sturen je een email met instructies om het wachtwoord te wijzigen.");
+define("LAN_FPW_101", "Geen probleem. Geef je e-mailadres hieronder in,en we sturen je een email met instructies om het wachtwoord te wijzigen.");
 define("LAN_FPW_102", "Reset wachtwoord");
 
-?>

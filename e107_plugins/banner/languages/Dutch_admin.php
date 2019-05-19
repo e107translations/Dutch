@@ -36,6 +36,7 @@ define("BNRLAN_30", "Nieuwe klant");
 define("BNRLAN_31", "Onbeperkt indien leeg gelaten."); 
 define("BNRLAN_32", "Kies banner afbeelding"); 
 define("BNRLAN_33", "Code"); 
+
 // 34 - 35 extra space
 
 define("BNRLAN_35", "Banner menu"); 
@@ -62,4 +63,3 @@ define("BNRLAN_51", "Op afstand");
 
 define("BNRLAN_HELP_01", "Banner Hulp");
 define("BNRLAN_HELP_02", "Gebruik deze plugin om advertenties op je website te beheren.<br /><br />Met het opmaken van een nieuwe banner kan je een gebruikersnaam en wachtwoord aanmaken voor je klant om in te loggen en de voortgang van de campagne te volgen.<br /><br />Je kan de banner activeren en weergeven via het menu beheer en via die pagina verder configureren.");
-?>

@@ -49,10 +49,8 @@ define("LAN_UPDATE_54", "Missende tabel [y] - kan index [x] niet toevoegen");
 define("LAN_UPDATE_55", "Omschrijving");
 define("LAN_UPDATE_56", "Systeem update");
 
-
 define("LAN_UPDATE_57", "Voordat je doorgaat graag eerst met FTP de volgende niet meer benodigde folders van uit systeem wissen:");
 
 define("LAN_UPDATE_CAPTION_PLUGIN", "Plugin updates"); 
 define("LAN_UPDATE_CAPTION_CORE", "Core updates"); 
 
-?>

@@ -31,4 +31,4 @@ define("FOOTLAN_17", "Charset");
 define("FOOTLAN_18", "Site thema");
 define("FOOTLAN_19", "Huidige server tijd");
 define("FOOTLAN_20", "Beveiligings niveau");
-?>
+

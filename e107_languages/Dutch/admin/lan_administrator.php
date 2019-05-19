@@ -65,6 +65,7 @@ define("ADMSLAN_62", "Plugin Manager");
 //define("ADMSLAN_68", "Configureren e-mail waarschuwingen");
 
 define("ADMSLAN_71", "Klik hier om de rechten te zien");
+
 define("ADMSLAN_72", "Admin ID: [x] naam: [y] nieuwe rechten: ");
 define("ADMSLAN_73", "Admin ID: [x] naam: [y]");
 
@@ -72,4 +73,3 @@ define("ADMSLAN_73", "Admin ID: [x] naam: [y]");
 
 //define("ADMSLAN_76", "Beheer taalpakketten");
 
-?>

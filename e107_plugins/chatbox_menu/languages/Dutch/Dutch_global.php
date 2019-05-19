@@ -30,4 +30,3 @@ define("NT_LAN_CB_4", "IP Adres");
 define("NT_LAN_CB_5", "Bericht");
 define("NT_LAN_CB_6", "Chatbox bericht geplaatst");
 
-?>

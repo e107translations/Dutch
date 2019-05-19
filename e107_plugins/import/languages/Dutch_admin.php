@@ -86,4 +86,3 @@ define("LAN_CONVERT_72", "Forum Track");
 define("LAN_CONVERT_73", "Gebruikersklassen");
 define("LAN_CONVERT_74", "Nieuws categorieen");
 
-?>

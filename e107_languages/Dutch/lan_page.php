@@ -28,4 +28,3 @@ define("LAN_PAGE_14", "Andere Artikelen");
 define("LAN_PAGE_15", "Artikelen");
 define("LAN_PAGE_16", "Er zijn geen hoofdstukken in dit boek");
 
-?>

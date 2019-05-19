@@ -6,7 +6,7 @@
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2017/02/18 11:38:44
 |
-|        
+|        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
 define("TMCEALAN_1", "Plak als tekst is standaard");
@@ -15,4 +15,3 @@ define("TMCEALAN_3", "Gebruik dit wanneer de interne spellingscontrole van de br
 define("TMCEALAN_4", "Visuele Blokken");
 define("TMCEALAN_5", "Activeer dit om html blokken zichtbaar te maken tijdens het wijzigen.");
 define("TMCEALAN_6", "Code-Highlight CSS klasse.");
-?>

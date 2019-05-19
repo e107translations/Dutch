@@ -19,4 +19,3 @@ define("LAN_EC_PM_06", "Start bulk PM verwerking voor [y] ontvangers ");
 define("LAN_EC_PM_07", "");
 
 
-?>

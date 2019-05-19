@@ -16,4 +16,3 @@ define("US_LAN_3", "Alle gebruikers");
 define("US_LAN_4", "Zoek gebruikersnaam");
 define("US_LAN_5", "Gebruiker(s) gevonden");
 define("US_LAN_6", "Zoek");
-?>

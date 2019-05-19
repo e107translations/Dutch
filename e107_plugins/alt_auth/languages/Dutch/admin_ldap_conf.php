@@ -25,6 +25,3 @@ define("LDAPLAN_12", "Server Type");
 define("LDAPLAN_13", "Werk instellingen bij");
 define("LDAPLAN_14", "OU voor AD (invoegen) (vb. ou=itdept)");
 define("LAN_AUTHENTICATE_HELP", "Deze methode kan worden gebruikt om te kunnen verifiëren met de meeste LDAP-servers, waaronder Novell 's eDirectory en Microsoft's Active Directory. Het vereist dat PHP's LDAP extensie is geladen. Verwijzing naar de wiki voor meer informatie.");
-
-
-?>

@@ -48,4 +48,3 @@ define("LAN_VALIDATE_204", "Bestandsgrootte is lager dan minimaal toegestaan");
  //FIXME - use this instead: 
 define("LAN_VALIDATE_FAILMSG", "[x] validatie fout: [y] [z].");
 
-?>

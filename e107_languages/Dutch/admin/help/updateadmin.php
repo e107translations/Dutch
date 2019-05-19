@@ -14,4 +14,3 @@ if (!defined('e107_INIT')) { exit; }
 
 $text = "Wijzig je beheerders wachtwoord hier.";
 $ns -> tablerender("Update Wachtwoord Instellingen Hulp", $text);
-?>

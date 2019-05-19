@@ -42,4 +42,4 @@ define("FMLAN_49", "Bevestig dat je de geselecteerde bestanden wilt verplaatsen.
 define("FMLAN_50", "Verplaatsen");
 define("FMLAN_51", "ongeïdentificeerde fout: ");
 
-?>
+

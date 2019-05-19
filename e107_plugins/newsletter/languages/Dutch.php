@@ -27,4 +27,3 @@ define("NLLAN_71", "Terug");
 define("NLLAN_72", "Bekijk archief");
 
 define("NLLAN_73", "Geef je e-mail adres");
-?>

@@ -387,5 +387,3 @@ define("LAN_AL_MEDIA_01", "Media Upload");
 
 define("LAN_AL_USET_100", "Beheerder ingelogd als een andere gebruiker");
 define("LAN_AL_USET_101", "Beheerder als een andere gebruiker uitgelogd");
-
-?>

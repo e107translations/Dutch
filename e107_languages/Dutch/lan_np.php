@@ -25,4 +25,3 @@ define("LAN_NP_GOTO", "Ga naar pagina [x]");
 define("LAN_NP_URLCURRENT", "Nu bekeken");
 define("NP_CAPTION", "Pagina [x] van [y]");
 
-?>

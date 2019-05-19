@@ -132,4 +132,3 @@ define("TPVLAN_92", "Nieuwe thema map");
 define("TPVLAN_93", "Selectie");
 define("TPVLAN_94", "Website thema gewijzigd naar [x].");
 define("TPVLAN_95", "Weergave (skin)");
-?>

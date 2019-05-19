@@ -20,4 +20,3 @@ $text = "
 
 ";
 $ns->tablerender($caption, $text);
-?>

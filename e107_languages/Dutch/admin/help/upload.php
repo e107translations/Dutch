@@ -32,4 +32,3 @@ switch ($action)
 	$text = "Deze pagina vertoont willekeurig elke ingezonden upload. Je kunt kiezen voor verwijdering, verplaatsen naar de downloads, of plaatsen in het nieuws";
 }
 $ns -> tablerender("Publieke Uploads Hulp", $text);
-?>

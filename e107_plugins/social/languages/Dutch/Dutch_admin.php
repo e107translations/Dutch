@@ -53,5 +53,3 @@ define("LAN_SOCIAL_ADMIN_39", "Providers");
 define("LAN_SOCIAL_ADMIN_40", "Bijwerken gebruikersnaam");
 define("LAN_SOCIAL_ADMIN_41", "Bijwerken gebruikers Avatar");
 define("LAN_SOCIAL_ADMIN_42", "Aangepaste afbeelding");
-
-?>

@@ -87,6 +87,7 @@ define("LAN_ALT_76", "Gebruikers restrictie klasse (een cijfermatige waarde - 0 
 define("LAN_ALT_77", "Alleen gebruikers in deze klasse (ingevoerd in bovenstaande database) hebben toegang");
 define("LAN_ALT_78", "Mislukte wachtwoord actie");
 define("LAN_ALT_79", "Hoe moet  het afgehandeld worden, wanneer gebruiker bestaat in de primaire DB, maar een foutief wachtwoord ingeeft?");
+define('LAN_ALT_80', "Poort: ");
 define("IMPORTDB_LAN_2", "Normale tekst");
 define("IMPORTDB_LAN_3", "Joomla salted");
 define("IMPORTDB_LAN_4", "Mambo salted");
@@ -107,4 +108,3 @@ define("LAN_ALT_COPY_HELP", "Je kunt velden selecteren om te kopieëren vanuit d
 define("LAN_ALT_CONVERSION_HELP", "Voor sommige velden; de drop-down box aan de rechterkant van het invoerveld veld selecteert een conversie die kan worden toegepast op het uitlezen van waarde uit de externe database; wanneer \"geen\" is geselecteerd, wordt de waarde gekopieerd zoals ontvangen. Conversies zijn: <br /> <b> TRUE / FALSE </ b> - de woorden \"TRUE \"en\" FALSE \"(en hun lagere / hoofdletter equivalenten) worden geconverteerd naar de Booleans 1 en nul <. br /> <b> Hoofdletters </ b> - Alle letters worden omgezet in hoofdletters <br /> <b> Kleine letters </ b> - Alle letters worden omgezet naar kleine letters <br /> <b> Hoofdletter eerst </ b> - het eerste teken wordt omgezet in hoofdletters <br /> <b> Hoofdletter woorden </ b> - de eerste letter van elk woord wordt omgezet in hoofdletters <br /> <br /> <br />");
 
 
-?>

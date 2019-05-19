@@ -290,4 +290,4 @@ define("LAN_MAILOUT_269", "Verstuur later");
 define("LAN_MAILOUT_270", "Test SMTP Connectie"); //verbinding?
 define("LAN_MAILOUT_271", "Authenticatie mislukt met gebruikersnaam ([x]) en wachtwoord ([y]):");
 
-?>
+
