@@ -50,9 +50,7 @@ define("UE_LAN_COUNTRY", "Land");
 define("UE_LAN_COUNTRY_DESC", "Land lid (inclusief db tabel)");
 define("UE_LAN_TIMEZONE", "Tijdzone");
 define("UE_LAN_TIMEZONE_DESC", "Tijdzone lid (van lijst)");
-
 define("LAN_UE_FAIL_HOMEPAGE", "Foutieve ingave voor link naar homepage");
-
 define("UE_LAN_SKYPE","Skype");
 define("UE_LAN_SKYPE_DESC","Skype Adres");
 define("UE_LAN_GENDER","Geslacht");
