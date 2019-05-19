@@ -21,10 +21,10 @@ define("CHBLAN_24", "Een dag");
 define("CHBLAN_25", "Een week");
 define("CHBLAN_26", "Een maand");
 define("CHBLAN_27", "- Verwijder alle berichten -");
-define("CHBLAN_28", "Chatbox geschoond.");
+//define("CHBLAN_28", "Chatbox geschoond.");
 
 define("CHBLAN_29", "Toon chatbox binnen een scrolling layer met hoogte [x]");// [x] will be replaced automatically
-define("CHBLAN_30", "Layer hoogte");
+//define("CHBLAN_30", "Layer hoogte");
 define("CHBLAN_31", "Toon emoticons");
 define("CHBLAN_32", "Moderator gebruikersklasse");
 
