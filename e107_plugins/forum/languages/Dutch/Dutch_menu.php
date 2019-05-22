@@ -25,5 +25,5 @@ define("LAN_FORUM_MENU_012", "Maximale leeftijd van getoonde berichten");
 define("LAN_FORUM_MENU_013", "Gebruik nul op rustige sites; een waarde instellen in dagen zal database tijd verminderen op een drukke site");
 define("LAN_FORUM_MENU_014", "'Scrolling layer' hoogte (in pixels)");
 define("LAN_FORUM_MENU_015", "Laat leeg voor geen 'scrolling'");
-
+define("LAN_FORUM_MENU_016", "Nog geen forum categoriën aangemaakt!");
 	
