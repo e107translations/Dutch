@@ -6,7 +6,7 @@ Q>	Waar dient het voor?
 A>	Het scheelt tijd bij het invoeren van HTML tags. Je kunt ook gewoon HTML tags in je tekst invoeren, maar door BBCode te gebruiken kun je sneller teksten invoeren.
 
 Q>	Als ik op een BBCode knop druk om de code in te voeren, verschijnen die afkortingen achter de tekst, niet op de plek van de cursor. - waarom?
-A>	Er zit een bug in Internet Explorer die dat programma laat crashen als e107 op de juiste plek zou invoeren, om die reden worden de codes dus maar achteraan geplaats
+A>	Er zit een bug in Internet Explorer die dat programma laat crashen als e107 op de juiste plek zou invoeren, om die reden worden de codes dus maar achteraan geplaatst
 
 Q>	Welke BBCodes kan ik gebruiken?
 A>	Verplaats de muis boven een knop en er verschijnt een korte uitleg. Er zijn ook codes voor links &#91;url] &#91;/url] en e-mail &#91;email] &#91;/email], maar ook normale HTML tags kunnen worden gebruikt. Alle web adressen en e-mailadressen worden automatisch omgezet in hyperlinks.
