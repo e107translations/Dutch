@@ -13,7 +13,7 @@
 define("TPVLAN_1",  "Je bekijkt de preview van het <b>{PREVIEWTHEMENAME}</b> thema. Het is niet ingesteld als het standaard thema voor je site, het is nu alleen geactiveerd om te tonen hoe je site eruit kan komen te zien.<br />Om het als standaard site thema in te stellen, ga je <a href='{e_ADMIN}theme.php?choose'>terug naar je thema manager</a> en selecteer 'Instellen als site thema'.<br />Om meer themas te beoordelen <a href='{e_ADMIN}theme.php'>klik hier</a>");
 define("TPVLAN_2",  "Thema demo");
 define("TPVLAN_3",  "Site thema ingesteld op");
-define("TPVLAN_4",  "Auteur");
+//define("TPVLAN_4",  "Auteur");
 define("TPVLAN_5",  "Website");
 define("TPVLAN_6",  "Datum uitgebracht");
 define("TPVLAN_7",  "Informatie");
