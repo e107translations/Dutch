@@ -433,3 +433,4 @@ define("LAN_RECALCULATE_COMMENT_COUNT", "Herbereken reactie telling");
 define("LAN_SUCC_RECALCULATE_COMMENT_COUNT", "Reactie telling succesvol herberekend!");
 define("LAN_NO_RESULTS_FOUND", "Geen resultaten gevonden.");
 define("LAN_UI_DROPZONE_DROP_FILES", "Plaats hier bestanden om te uploaden");
+define("LAN_DOWNLOAD_COMPLETE", "Download Compleet!");
