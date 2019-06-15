@@ -110,4 +110,7 @@ PS: ons advies is om de standaard taken niet te verwijderen.[br]
 define("LAN_CRON_BACKUP", "Backup");
 define("LAN_CRON_LOGGING", "Loggen");
 define("LAN_CRON_RUNNING", "Loopt..");
+define("LAN_CRON_65", "Bijwerken git theme repository");
+define("LAN_CRON_66", "Geen git repo gevonden");
+define("LAN_CRON_67", "Geen git repo gevonden in de thema map");
 
