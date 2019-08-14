@@ -20,7 +20,7 @@ define("ADSTAT_LAN_8", "Schermresoluties / kleurdieptes");
 define("ADSTAT_LAN_9", "Bezocht door landen/domeinen");
 define("ADSTAT_LAN_10", "Verwezen vanaf");
 define("ADSTAT_LAN_11", "Zoekmachine opvraagteksten");
-define("ADSTAT_LAN_12", "Statistieken  her-instellen");
+define("ADSTAT_LAN_12", "Statistieken  Resetten");
 define("ADSTAT_LAN_13", "Dit zal de alle tijden statistieken verwijderen - voorzichtig! Verwijderd de statistieken tot aan eind van gisteren. Er is een aparte menu optie beschikbaar om op tijd  geselecteerde data te verwijderen");
 define("ADSTAT_LAN_14", "Pagina Telling");
 define("ADSTAT_LAN_16", "Site statistiek telling");
