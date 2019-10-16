@@ -108,7 +108,7 @@ define("FORLAN_184", "Rechten aanmaken discussies");
 define("FORLAN_185", "Geeft aan wie nieuwe discussies mag aanmaken");
 define("FORLAN_186", "Discussies per pagina");
 define("FORLAN_187", "Aantal te tonen discussies per pagina");
-define("FORLAN_189", "Klik op de 'verwijder' knop om het bericht te verwijderen <br /><br /> Klik op de 'bekijk' knop om het bericht/onderwerp te bekijken.");
+define("FORLAN_189", "Klik op de 'verwijder' knop om het bericht te verwijderen.[br][br]Klik op de 'bekijk' knop om het bericht/onderwerp te bekijken.[br][br]Raadpleeg de [notify settings] om op de hoogte te blijven van nieuwe berichten.");
 define("FORLAN_200", "Tracking van onderwerp");
 define("FORLAN_201", "Schakel dit in om gebruikers het tracken van onderwerp toe te staan");
 define("FORLAN_202", "E-mail berichtgeving bij onderwerp tracking");
