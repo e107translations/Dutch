@@ -20,7 +20,7 @@ define("LANCONTACT_05", "Onderwerp:");
 define("LANCONTACT_06", "Type je bericht:");
 define("LANCONTACT_07", "E-mail een kopie van dit bericht naar je eigen adres ");
 define("LANCONTACT_08", "Verstuur");
-define("LANCONTACT_09", "Je bericht is verstuurd.");
+define("LANCONTACT_09", "Hartelijk dank voor je bericht. We nemen zo snel mogelijk contact op.");
 define("LANCONTACT_10", "Er was een probleem bij het versturen.");
 define("LANCONTACT_11", "Je e-mailadres lijkt niet juist.\\nControleer het en probeer het nogmaals.");
 define("LANCONTACT_12", "Het bericht is te kort.");
