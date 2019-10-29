@@ -9,8 +9,9 @@
 |     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
+// DEPRECATED FILE - UP FOR REMOVAL 
 
-
+/*
 define("MESSLAN_1", "Ontvangen berichten");
 define("MESSLAN_2", "Verwijder bericht");
 define("MESSLAN_3", "Bericht verwijderd.");
@@ -25,4 +26,4 @@ define("MESSLAN_10", "Aangemeld door");
 define("MESSLAN_11", "opent in nieuw venster");
 define("MESSLAN_12", "Bericht");
 define("MESSLAN_13", "Link");
-
+*/
