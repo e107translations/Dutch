@@ -12,26 +12,26 @@
 
 define("BNRLAN_00", "Nog geen banners aangemaakt.");//15
 define("BNRLAN_01", "Banner ID niet gevonden.");
-define("BNRLAN_7", "Statistieken"); 
-define("BNRLAN_8", "NVT");
-define("BNRLAN_9", "Start"); 
-define("BNRLAN_10", "Eindigd"); 
+//define("BNRLAN_7", "Statistieken"); 
+//define("BNRLAN_8", "NVT");
+//define("BNRLAN_9", "Start"); 
+//define("BNRLAN_10", "Eindigd"); 
 
 define("BNRLAN_11", "Campagne"); 
 define("BNRLAN_12", "Klant login"); 
-define("BNRLAN_13", "Klant wachtwoord");
-define("BNRLAN_14", "Banner afbeelding"); 
+//define("BNRLAN_13", "Klant wachtwoord");
+//define("BNRLAN_14", "Banner afbeelding"); 
 define("BNRLAN_15", "klik URL"); 
 define("BNRLAN_16", "Aangeschafte doorkliks"); 
-define("BNRLAN_17", "Startdatum"); 
-define("BNRLAN_18", "Einddatum"); 
+//define("BNRLAN_17", "Startdatum"); 
+//define("BNRLAN_18", "Einddatum"); 
 
 // 19 - 24 extra space
 
 define("BNRLAN_25", "Voeg nieuwe of een bestaande campagne toe");
 define("BNRLAN_28", "Voeg nieuwe of een bestaande klant toe");
 define("BNRLAN_29", "Voeg nieuwe klant toe");
-define("BNRLAN_30", "Nieuwe klant"); 
+//define("BNRLAN_30", "Nieuwe klant"); 
 
 define("BNRLAN_31", "Onbeperkt indien leeg gelaten."); 
 define("BNRLAN_32", "Kies banner afbeelding"); 
@@ -40,9 +40,9 @@ define("BNRLAN_33", "Code");
 // 34 - 35 extra space
 
 define("BNRLAN_35", "Banner menu"); 
-define("BNRLAN_36", "Banner menu<br> configuratie"); 
+//define("BNRLAN_36", "Banner menu<br> configuratie"); 
 
-define("BNRLAN_37", "Hoofdtitel"); 
+//define("BNRLAN_37", "Hoofdtitel"); 
 define("BNRLAN_38", "Advertentie");
 
 define("BNRLAN_39", "kies de in het menu te tonen campagnes"); 
@@ -62,4 +62,4 @@ define("BNRLAN_50", "Lokaal");
 define("BNRLAN_51", "Op afstand");
 
 define("BNRLAN_HELP_01", "Banner Hulp");
-define("BNRLAN_HELP_02", "Gebruik deze plugin om advertenties op je website te beheren.<br /><br />Met het opmaken van een nieuwe banner kan je een gebruikersnaam en wachtwoord aanmaken voor je klant om in te loggen en de voortgang van de campagne te volgen.<br /><br />Je kan de banner activeren en weergeven via het menu beheer en via die pagina verder configureren.");
+define("BNRLAN_HELP_02", "Gebruik deze plugin om advertenties op je website te beheren.[br][br]Met het opmaken van een nieuwe banner kan je een gebruikersnaam en wachtwoord aanmaken voor je klant om in te loggen en de voortgang van de campagne te volgen.[br][br]Je kan de banner activeren en weergeven via het menu beheer en via die pagina verder configureren.");
