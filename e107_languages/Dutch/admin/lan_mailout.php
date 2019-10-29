@@ -272,7 +272,7 @@ define("LAN_MAILOUT_255", "Ge-templateerde Email, ID: ");
 define("LAN_MAILOUT_256", "Terugkeren");
 define("LAN_MAILOUT_257", "Gegenereerde template");
 define("LAN_MAILOUT_258", "Template: ");
-define("LAN_MAILOUT_259", "");
+define("LAN_MAILOUT_259", "Geen 'e-mail adres bronnen' geselecteerd in voorkeuzes");
 
 
 define("LAN_SEND", "Verstuur");
