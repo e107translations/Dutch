@@ -160,7 +160,7 @@ define("LAN_MAILOUT_147", "E-mail bijgewerkt");
 define("LAN_MAILOUT_148", "Gebruikers waarden");
 define("LAN_MAILOUT_149", "Verzender Email");
 define("LAN_MAILOUT_150", "Verzender Naam");
-define("LAN_MAILOUT_151", "Kopie naar (bc)");
+define("LAN_MAILOUT_151", "Kopie naar (cc)");
 define("LAN_MAILOUT_152", "Blinde kopie naar (bcc)");
 define("LAN_MAILOUT_153", "Bijlagen");
 define("LAN_MAILOUT_154", "Verzend Formaat");
