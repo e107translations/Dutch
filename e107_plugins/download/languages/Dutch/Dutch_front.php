@@ -94,4 +94,5 @@ define("LAN_dl_77", "Downloads");		// Intentional duplicate - some languages nee
 
 //define("LAN_dl_78", "Deze download is uitgeschakeld of gestopt/verwijderd. Kijk in de [link=--LINK--]downloads [/link] sectie voor een meer recentere versie");
 define("LAN_dl_78", "Deze download is uitgeschakeld of gestopt/verwijderd. Kijk in de [downloads area] voor een meer recentere versie");
+define("LAN_dl_79", "Je hebt niet de juiste rechten om deze niet werkende download te rapporteren.");
 
