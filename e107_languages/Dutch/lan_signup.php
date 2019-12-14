@@ -14,7 +14,7 @@
 define("PAGE_NAME", "Aanmelden");
 define("LAN_EMAIL_01", "Beste");
 define("LAN_EMAIL_04", "Bewaar deze e-mail voor je eigen administratie.");
-define("LAN_EMAIL_05", "Let op!, je wachtwoord is versleuteld opgeslagen en kan niet opgevraagd worden als je het vergeten bent. Je kan wel altijd een nieuw wachtwoord aanvragen.");
+define("LAN_EMAIL_05", "Letop, je wachtwoord is versleuteld opgeslagen en kan niet opgevraagd worden als je het vergeten bent. Je kan wel altijd een nieuw wachtwoord aanvragen.");
 define("LAN_EMAIL_06", "Hartelijk bedankt voor je aanmelding.");
 define("LAN_SIGNUP_1", "Min.");
 define("LAN_SIGNUP_2", "tekens.");
@@ -143,3 +143,4 @@ define("LAN_400", "Gebruikersnamen en wachtwoorden zijn <b>hoofdlettergevoelig</
 define("LAN_410", "Voer de zichtbare code in");
 */
 
+?>

@@ -14,8 +14,8 @@
 define('LANCONTACT_00', 'Contact ');// contact met ons? of opnemen met ons? lijkt dit gewoon het simpelste vlgs code met enkele '
 define("LANCONTACT_01", "Contact details");
 define("LANCONTACT_02", "Contactformulier");
-define("LANCONTACT_03", "Invoeren naam:");
-define("LANCONTACT_04", "e-mailadres:");
+define("LANCONTACT_03", "Naam:");
+define("LANCONTACT_04", "E-mail:");
 define("LANCONTACT_05", "Onderwerp:");
 define("LANCONTACT_06", "Type je bericht:");
 define("LANCONTACT_07", "E-mail een kopie van dit bericht naar je eigen adres ");

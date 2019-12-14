@@ -21,7 +21,7 @@ define("CORE_LAN8", "Core voorkeuren Fout");
 define("CORE_LAN9", "Core kon niet worden hersteld vanuit de automatische backup. Uitvoering gestopt.");
 define("CORE_LAN10", "Corrupt cookie gedetecteerd - uitgelogd.");
 define("CORE_LAN11", "Opbouwtijd:");
-define("CORE_LAN12", " sec, (");
+define("CORE_LAN12", " sec,(");
 define("CORE_LAN13", " van dat voor queries.)");
 define("CORE_LAN14", "%2.3f cpu sec (%2.2f%% load, %2.3f startup). Clock:");
 define("CORE_LAN15", "DB queries:");
