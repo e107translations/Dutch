@@ -374,7 +374,7 @@ define("LAN_GENERAL", "Algemeen");
 define("LAN_GEN_PW", "Genereer een w.w.");
 define("LAN_DISPL_PW", "Toon het w.w.");
 define("LAN_WILL_OVERWRITE_SEF", "Dit zal de bestaande SEF URL overschrijven.");
-define("LAN_CAPTION", "Titel");
+define("LAN_CAPTION", "Gebruiks titel"); //define("LAN_CAPTION", "Titel");
 define("LAN_LIMIT", "Limiet");
 define("LAN_BASIC", "Basis");
 define("LAN_EXTENDED", "Uitgebreid");
@@ -434,3 +434,4 @@ define("LAN_SUCC_RECALCULATE_COMMENT_COUNT", "Reactie telling succesvol herberek
 define("LAN_NO_RESULTS_FOUND", "Geen resultaten gevonden.");
 define("LAN_UI_DROPZONE_DROP_FILES", "Plaats hier bestanden om te uploaden");
 define("LAN_DOWNLOAD_COMPLETE", "Download Compleet!");
+define("LAN_UI_FILTER_SEARCH_IN_FIELD", "Zoeken in het veld");

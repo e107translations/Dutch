@@ -23,6 +23,7 @@ define("UE_LAN_10", "Checkboxes");
 
 //v2.1.5
 define("UE_LAN_13", "Land");
+define("UE_LAN_14", "Rich Textarea (WYSIWYG)");
 
 define("UE_LAN_21", "Naam");
 define("UE_LAN_22", "Type");

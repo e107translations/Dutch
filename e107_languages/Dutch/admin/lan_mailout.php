@@ -160,7 +160,7 @@ define("LAN_MAILOUT_147", "E-mail bijgewerkt");
 define("LAN_MAILOUT_148", "Gebruikers waarden");
 define("LAN_MAILOUT_149", "Verzender Email");
 define("LAN_MAILOUT_150", "Verzender Naam");
-define("LAN_MAILOUT_151", "Kopie naar (bc)");
+define("LAN_MAILOUT_151", "Kopie naar (cc)");
 define("LAN_MAILOUT_152", "Blinde kopie naar (bcc)");
 define("LAN_MAILOUT_153", "Bijlagen");
 define("LAN_MAILOUT_154", "Verzend Formaat");
@@ -272,7 +272,7 @@ define("LAN_MAILOUT_255", "Ge-templateerde Email, ID: ");
 define("LAN_MAILOUT_256", "Terugkeren");
 define("LAN_MAILOUT_257", "Gegenereerde template");
 define("LAN_MAILOUT_258", "Template: ");
-define("LAN_MAILOUT_259", "");
+define("LAN_MAILOUT_259", "Geen 'e-mail adres bronnen' geselecteerd in voorkeuzes");
 
 
 define("LAN_SEND", "Verstuur");
