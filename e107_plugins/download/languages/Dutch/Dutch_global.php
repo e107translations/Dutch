@@ -20,5 +20,5 @@ define("LAN_DL_NT_03", "Het is gemeld door [x] met de volgende reactie:");
 define("LAN_DL_NT_04", "Klik [here] om de meldingen over niet werkende downloads te bekijken.");
 
 // Latest (e_dashboard)
-define("LAN_DL_LATEST_01", "Gemeldde downloads");
+define("LAN_DL_LATEST_01", "Gemelde downloads");
 
