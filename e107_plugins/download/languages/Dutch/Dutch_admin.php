@@ -21,7 +21,7 @@ define("LAN_DL_SUBSUB_CAT", "Toon sub-sub categorieën");
 define("LAN_DL_SUBSUB_CAT_INFO", "Dit aanvinken zal de sub-sub categorieën tonen op de hoofd download pagina");
 define("LAN_DL_SUBSUB_COUNT", "Combineer categorie tellingen");
 define("LAN_DL_SUBSUB_COUNT_INFO", "Sluit de sub-sub-categorie in bij sub-categorie tellingen");
-define("LAN_DL_BROKENDOWNLOADSREPORTS", "Gemeldde download rapportage");
+define("LAN_DL_BROKENDOWNLOADSREPORTS", "Gemelde download rapportage");
 define("DOWLAN_1", "Download toegevoegd aan de database.");
 define("DOWLAN_2", "Download bijgewerkt in de database.");
 define("DOWLAN_5", "Er zijn nog geen download categorieën gedefinieerd. Zolang er geen categorie is, kun je geen download toevoegen.");
