@@ -37,9 +37,9 @@ define("LANHELP_21", "Klik om het kleuren dialoogvenster venster te openen ...")
 define("LANHELP_22", "Klik om het grootte dialoogvenster venster te openen ...");
 
 define("LANHELP_23", "Invoegen link: [link]http://mijnsite.nl[/link] of [link=http://mijnsite.nl]Bezoek mijn site[/link]");
-define("LANHELP_24", "Bold text: [b]Deze tekst wordt vet[/b]", "font-weight:bold; width: 20px");
-define("LANHELP_25", "Italic text: [i]Deze tekst wordt cursief[/i]", "font-style:italic; width: 20px");
-define("LANHELP_26", "Underline text: [u]Deze tekst wordt onderstreept[/u]", "text-decoration: underline; width: 20px");
+define("LANHELP_24", "Bold text: \n[b]Deze tekst wordt vet[/b]");
+define("LANHELP_25", "Italic text: \n[i]Deze tekst wordt cursief[/i]");
+define("LANHELP_26", "Underline text: \n[u]Deze tekst wordt onderstreept[/u]");        // de vraag is of \n noodzakelijk is?
 define("LANHELP_27", "Invoegen afbeelding: [img]mijn plaatje.jpg[/img]");
 define("LANHELP_28", "Centreren: [center]Deze tekst wordt gecentreerd[/center]");
 define("LANHELP_29", "Links uitgelijnd: [left]Deze tekst wordt links uitgelijnd[/left]");
