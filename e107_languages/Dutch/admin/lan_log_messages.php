@@ -210,6 +210,7 @@ define("LAN_AL_WELCOME_05",  "");
 // Admin Password
 //---------------
 define("LAN_AL_ADMINPW_01", "Beheerders wachtwoord veranderd");
+define("LAN_AL_ADMINPW_02", "Beheerders wachtwoord opnieuw gemaakt");
 
 
 // Banners Admin
