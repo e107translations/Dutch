@@ -247,6 +247,7 @@ define("USRLAN_253", "Ouder dan");
 define("USRLAN_254", "Reset alle wachtwoorden");
 define("USRLAN_255", "Waarschuw gebruiker");
 define("USRLAN_256", "Beste");
+define("USRLAN_257", "Leden toestaan hun account te verwijderen?");
 
 // These need review - there are duplicates above - they come from admin/lan_userclass.php.
 define("UCSLAN_1", "Verzenden van berichtgevings email naar");
