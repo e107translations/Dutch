@@ -102,7 +102,7 @@ define("LAN_XUP_ERRM_05", "Aanmelden mislukt! Gebruiker bestaat al, gebruik 'log
 define("LAN_XUP_ERRM_06", "Aanmelden mislukt! Kan e-mailadres niet bereiken - registratie zonder e-mailadres is onmogelijk.");
 define("LAN_XUP_ERRM_07", "Social Login Testen");
 define("LAN_XUP_ERRM_08", "Log eerst uit e107 systeem vooordat je de nieuwe inlog/aanmeld procedure test.");
-define("LAN_XUP_ERRM_09", "Test login met alleen [x]");
+
 define("LAN_XUP_ERRM_10", "Test aanmelden/login met [x]");
 define("LAN_XUP_ERRM_11", "Ingelogd:");
 define("LAN_XUP_ERRM_12", "Test uitloggen");
