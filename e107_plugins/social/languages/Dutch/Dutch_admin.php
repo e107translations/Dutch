@@ -9,7 +9,7 @@
 |     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
-define("LAN_SOCIAL_ADMIN_SUMM", "Voegt Facebook, Twitter en andere social media widgets toe aan e107.");
+
 define("LAN_SOCIAL_ADMIN_00", "Applicaties");
 define("LAN_SOCIAL_ADMIN_01", "Paginas");
 define("LAN_SOCIAL_ADMIN_02", "Social Aanmelden/Login"); //tab
@@ -53,3 +53,11 @@ define("LAN_SOCIAL_ADMIN_39", "Providers");
 define("LAN_SOCIAL_ADMIN_40", "Bijwerken gebruikersnaam");
 define("LAN_SOCIAL_ADMIN_41", "Bijwerken gebruikers Avatar");
 define("LAN_SOCIAL_ADMIN_42", "Aangepaste afbeelding");
+define("LAN_SOCIAL_ADMIN_43","Een [database update] is noodzakelijk om deze plugin te kunnen blijven gebruiken.");
+define("LAN_SOCIAL_ADMIN_44", "Voeg een nieuwe provider toe");
+define("LAN_SOCIAL_ADMIN_45", "Deze social login providers zijn momenteel geconfigureerd.\nWanneer de master switch [b]Social Aanmelden/Login[/b] in AAN stand is, zal elke provider in deze tabel, welke ook op AAN staan, ook gebruikt mogen worden voor gebruikers registratie en inloggen. Wanneer je een veld van een provider leeg maakt en opslaat, verplaatst het naar de [b]Voeg een nieuwe provider toe[/b] sectie.");
+define("LAN_SOCIAL_ADMIN_46", "Dit zijn de beschikbare social login providers, welke nog niet zijn geconfigureerd. Wanneer je hier een provider toevoegt en configureert (ZET AAN), zal dit worden verplaatst naar de [b]Social Aanmelden/Login[/b] sectie."); 
+define("LAN_SOCIAL_ADMIN_47", "Verbroken/niet werkende geconfigureerde Providers");
+define("LAN_SOCIAL_ADMIN_48", "Deze social login providers zijn in het verleden geconfigureerd maar hebben geen adapter meer, die nog werkt.[br]Dit kan worden veroorzaakt door het niet langer bestaan ervan, of werden vervangen door een andere provider.");
+define("LAN_SOCIAL_ADMIN_49", "Test Pagina");
+define("LAN_SOCIAL_ADMIN_50", "Aan- of uitschakelen van de social login test pagina");
