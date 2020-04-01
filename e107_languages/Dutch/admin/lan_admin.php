@@ -358,6 +358,7 @@ define("LAN_UI_FILTER_PAST_HOUR", "Afgelopen uur");
 define("LAN_UI_FILTER_PAST_24_HOURS", "Afgelopen 24 uur");
 define("LAN_UI_FILTER_PAST_WEEK", "Afgelopen week");
 define("LAN_UI_FILTER_PAST_MONTH", "Afgelopen maand");
+define("LAN_UI_FILTER_PAST_XMONTHS", "Afgelopen [x] maanden");
 define("LAN_UI_FILTER_PAST_YEAR", "Afgelopen jaar");
 
 define("LAN_USER_MANAGEALL", "Beheer alle leden, Gebruikersklasse en Gebruikersvelden instellingen");
@@ -427,6 +428,7 @@ define("LAN_UI_FILTER_NEXT_HOUR", "Volgend uur");
 define("LAN_UI_FILTER_NEXT_24_HOURS", "Volgende 24 uur");
 define("LAN_UI_FILTER_NEXT_WEEK", "Volgende week");
 define("LAN_UI_FILTER_NEXT_MONTH", "Volgende maand");
+define("LAN_UI_FILTER_NEXT_XMONTHS", "Volgende [x] maanden");
 define("LAN_UI_FILTER_NEXT_YEAR", "Volgend jaar");
 define("LAN_UI_FILTER_IS_EMPTY", "Is leeg");
 define("LAN_RECALCULATE_COMMENT_COUNT", "Herbereken reactie telling");
