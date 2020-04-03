@@ -235,7 +235,7 @@ define("PRFLAN_251", "Alleen gebruikt wanneer script consolidatie is ingeschakel
 define("PRFLAN_252", "Uitschakelen geconsolideerde scripts server cache:");
 define("PRFLAN_253", " Uitschakelen geconsolideerde scripts browser cache:");
 define("PRFLAN_254", "Email & Contact Info");
-define("PRFLAN_255", "Bestand Uploading");
+define("PRFLAN_255", "Bestand upload(s)");
 define("PRFLAN_256", "Geavanceerde Opties");
 define("PRFLAN_257", "Javascript Framework");
 define("PRFLAN_258", "Contact Formulier zichtbaar voor");
