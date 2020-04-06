@@ -30,7 +30,7 @@ define("EPL_ADLAN_16", "plugin informatie");
 define("EPL_ADLAN_17", "Meer info ...");
 define("EPL_ADLAN_18", "Kon de tabel(len) voor deze plugin NIET succesvol aanmaken.");
 define("EPL_ADLAN_19", "Databasetabellen succesvol gecreëerd.");
-define("EPL_ADLAN_21", "plugin is al geïnstalleerd.");
+define("EPL_ADLAN_21", "plugin is geïnstalleerd.");
 define("EPL_ADLAN_22", "Geïnstalleerd");
 define("EPL_ADLAN_23", "Niet geïnstalleerd");
 define("EPL_ADLAN_24", "Upgrade beschikbaar");
