@@ -312,7 +312,7 @@ define("LAN_MANAGER", "Beheer rechten");
 define("LAN_PING", "Ping");
 define("LAN_START", "Opstarten");
 define("LAN_END", "Eindigen");
-define("LAN_PREVIEW", "Vooraanzicht");
+define("LAN_PREVIEW", "Voorbeeld");
 define("LAN_CREATE_CATEGORY", "Aanmaken Categorie");
 define("LAN_CREATE_ITEM", "Aanmaken Item");
 define("LAN_SECURITYL_0", "Op zoek naar problemen (geen)");
