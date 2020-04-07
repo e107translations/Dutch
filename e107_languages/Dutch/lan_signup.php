@@ -106,7 +106,7 @@ define("LAN_USERNAME", "Gebruikersnaam");
 
 define("LAN_SIGNUP_107", "Wachtwoord moet bestaan uit [x] karakters minimaal 1 hoofdletter en 1 cijfer");
 define("LAN_SIGNUP_108", "Moet een geldig e-mail adres zijn");
-define("LAN_SIGNUP_109", "Is Hoofdletter gevoelig en mag geen spaties hebben");//TODO check against regex requirements 
+define("LAN_SIGNUP_109", "Is Hoofdletter gevoelig en mag geen spaties hebben"); 
 define("LAN_SIGNUP_110", "Je volledige naam");
 define("LAN_SIGNUP_111", "Geef de URL naar de afbeelding of kies een bestaande avatar.");
 define("LAN_SIGNUP_112", "Je bent nu ingelogd als Hoofdbeheerder.");
