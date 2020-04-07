@@ -207,7 +207,7 @@ define ("EPL_ADLAN_181","Waar/Onwaar");
 define ("EPL_ADLAN_182","Tekst Box (nummer)");
 define ("EPL_ADLAN_183","DropDown");
 define ("EPL_ADLAN_184","DropDown (gebruikersklassen)");
-define ("EPL_ADLAN_185","Datum");
+//define ("EPL_ADLAN_185","Datum");
 define ("EPL_ADLAN_186","Maatwerk functie");
 define ("EPL_ADLAN_187","Verborgen");
 define ("EPL_ADLAN_188","Gebruiker");
