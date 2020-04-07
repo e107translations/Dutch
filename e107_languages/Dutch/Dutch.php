@@ -84,7 +84,7 @@ define("LAN_IP", "IP Adres");
 define("LAN_IP_ADDRESS","IP Adres");
 define("LAN_AUTHOR", "Auteur");
 define("LAN_CATEGORY", "Categorie");
-define("LAN_CATEGORIES", "Categorieen");
+define("LAN_CATEGORIES", "Categoriëen");
 define("LAN_GUEST", "Gast");
 define("LAN_NEXT", "Volgende");
 define("LAN_PREVIOUS", "Vorige");
