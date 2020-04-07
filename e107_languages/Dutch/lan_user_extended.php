@@ -16,7 +16,7 @@ define("UE_LAN_3", "Uitklaplijst");
 define("UE_LAN_4", "Veld DB tabel");
 define("UE_LAN_5", "Tekstblok");
 define("UE_LAN_6", "Integer");
-define("UE_LAN_7", "Datum");
+//define("UE_LAN_7", "Datum");
 define("UE_LAN_8", "Taal");
 define("UE_LAN_9", "Voorgedefinie&euml;rde lijst");
 define("UE_LAN_10", "Checkboxes");
