@@ -93,7 +93,7 @@ define("LAN_SEARCH_64", "Alle downloadcategorie&euml;n");
 define("LAN_SEARCH_65", "Downloads");
 define("LAN_SEARCH_66", "Datum toegevoegd");
 define("LAN_SEARCH_67", "Alle downloaddetails");
-define("LAN_SEARCH_68", "Datum");
+//define("LAN_SEARCH_68", "Datum");
 define("LAN_SEARCH_69", "Relevantie");
 
 define("LAN_SEARCH_70", "Geplaatst in downloadonderwerp");
