@@ -379,7 +379,7 @@ define("LAN_CAPTION", "Titel");
 define("LAN_LIMIT", "Limiet");
 define("LAN_BASIC", "Basis");
 define("LAN_EXTENDED", "Uitgebreid");
-define("LAN_ADVANCED", "Gevorderd");
+define("LAN_ADVANCED", "Geavanceerd");
 define("LAN_DISPLAY", "Tonen");
 define("LAN_FOLDER", "Bestandsmap");
 define("LAN_PERSONALIZE_ICONS", "Gepersonaliseerde Iconen"); //mgl iets anders benamen? 
