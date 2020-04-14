@@ -37,7 +37,7 @@ define("LAN_USET_21", "Bevestig de gegevens door je wachtwoord in te geven: ");
 //define("LAN_USET_22", "Fout wachtwoord!"); // TODO LAN common?
 define("LAN_USET_23", "Niets invullen om bestaande wachtwoord te houden");		
 define("LAN_USET_24", "Nieuw wachtwoord: ");						
-define("LAN_USET_25", "bevestig nieuw wachtwoord: ");			
+define("LAN_USET_25", "Bevestig nieuw wachtwoord: ");			
 define("LAN_USET_26", "Upload je avatar");					
 define("LAN_USET_27", "Upload je foto");					
 define("LAN_USET_28", "Dit wordt getoond op je profielpagina");
