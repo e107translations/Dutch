@@ -50,7 +50,7 @@ define("LAN_UPDATE_55", "Omschrijving");
 define("LAN_UPDATE_56", "Systeem update");
 
 define("LAN_UPDATE_57", "Voordat je doorgaat graag eerst met FTP de volgende niet meer benodigde folders van uit systeem wissen:");
-define("LAN_UPDATE_58", "Het is ten zeerste aanbevolen om [File Inspector] te laten lopen nadat alle updates zijn bijgewerkt, om zodanig elke in onbruik geraakte bestanden te herkennen, die verwijderd dienen te worden.");
+define("LAN_UPDATE_58", "Het is ten zeerste aanbevolen om [Bestandeninspecteur] te laten lopen nadat alle updates zijn bijgewerkt, om zodanig elke in onbruik geraakte bestanden te herkennen, die verwijderd dienen te worden.");
 define("LAN_UPDATE_CAPTION_PLUGIN", "Plugin updates"); 
 define("LAN_UPDATE_CAPTION_CORE", "Core updates"); 
 
