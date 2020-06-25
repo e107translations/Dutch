@@ -16,3 +16,5 @@ define("PHP_LAN_3", "Op een produktieserver is het beter om foutmeldingen niet t
 define("PHP_LAN_4", "Wanneer dit is uitgeschakeld zie je ook niet de PHP versie niet meer in je browser.");
 define("PHP_LAN_5", "Dit is een veilgheidsrisico en zou uitgezet moeten worden.");
 define("PHP_LAN_6", "[b]session.save_path[/b] is niet schrijfbaar! Dit kan tot grote problemen leiden binnen je website.");
+define("PHP_LAN_7", "PHP Configuratie probleem(=blemen) gevonden:");
+define("PHP_LAN_8", "[x] is missend en moet worden geinstalleerd.");
