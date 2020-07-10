@@ -21,7 +21,7 @@ define("LAN_DL_SUBSUB_CAT", "Toon sub-sub categorieën");
 define("LAN_DL_SUBSUB_CAT_INFO", "Dit aanvinken zal de sub-sub categorieën tonen op de hoofd download pagina");
 define("LAN_DL_SUBSUB_COUNT", "Combineer categorie tellingen");
 define("LAN_DL_SUBSUB_COUNT_INFO", "Sluit de sub-sub-categorie in bij sub-categorie tellingen");
-define("LAN_DL_BROKENDOWNLOADSREPORTS", "Gemeldde download rapportage");
+define("LAN_DL_BROKENDOWNLOADSREPORTS", "Verbroken download rapport");
 define("DOWLAN_1", "Download toegevoegd aan de database.");
 define("DOWLAN_2", "Download bijgewerkt in de database.");
 define("DOWLAN_5", "Er zijn nog geen download categorieën gedefinieerd. Zolang er geen categorie is, kun je geen download toevoegen.");
@@ -140,7 +140,7 @@ define("DOWLAN_193", "Selecteer optie");
 define("DOWLAN_195", "Mirror type");
 define("DOWLAN_196", "lijst");
 define("DOWLAN_197", "willekeurig");
-define("DOWLAN_199", "Geplaatst door");
+define("DOWLAN_199", "Geplaatst door"); 
 define("DOWLAN_HELP_1", "Help");
 define("DOWLAN_HELP_2", "<p>Creeër/bewerk een download.</p><p>Alleen een invullen van: Bestand, URL of Mirror.</p><p>Overtuig je ervan dat een categorie is gekozen, zoniet  is je download niet zichtbaar op de downloadpagina.</p>");
 define("DOWLAN_HELP_3", "Help voor cat");
@@ -152,6 +152,7 @@ define("DOWLAN_HELP_8", "Help voor upload lijst");
 define("DOWLAN_HELP_9", "Help voor upload typen");
 define("DOWLAN_HELP_10", "Help voor upload opties");
 define("DOWLAN_HELP_11", "Klik op de knop 'verwijderen' om het rapport te verwijderen.[br][br]Klik op de knop 'bekijken' om de download te beheren.[br][br]Om nieuwe meldingen te ontvangen ga naar de [notify settings].");
+
 define("LAN_DL_SECURITY_DESCRIPTION", "Downloads kunnen gebruik maken van server-side URL beveiligings mogelijkheden om hotlinking tegen te gaan en /of het vervallen van de link af te dwingen. " .
 	"Dit gedeelte moet worden geconfigureerd voordat de downloadserver is geconfigureerd om de kans op onderbrekingen te verkleinen..");
 define("LAN_DL_SECURITY_MODE", "URL beschermingsmodus");

@@ -31,7 +31,7 @@ define("ADSTAT_LAN_21", "Max aantal te tonen records op statistiekpagina");
 define("ADSTAT_LAN_22", "Start bijwerkfunctie");
 define("ADSTAT_LAN_23", "logs van een voorgaande versie van e107 zijn nog aanwezig, werk ze hier bij");
 define("ADSTAT_LAN_24", "Ga naar het bijwerkscript");
-define("ADSTAT_LAN_26", "Verwijder<br> pagina regels");
+define("ADSTAT_LAN_26", "Verwijder pagina regels");
 define("ADSTAT_LAN_27", "als je stats onjuiste pagina's bevatten, kun je ze hier verwijderen");
 define("ADSTAT_LAN_28", "Open pagina");
 define("ADSTAT_LAN_29", "Pagina naam");
@@ -71,7 +71,7 @@ define("ADSTAT_LAN_65", "DB filter-tekenreeks");
 define("ADSTAT_LAN_66", "Toon Datasets");
 define("ADSTAT_LAN_67", "Genereer een CSV (komma gescheiden variabele) bestand van historische statistieken welke voldoen aan de specifieke criteria.");
 define("ADSTAT_LAN_68", "Toon de statistieken database reeksen die werkelijk bestaan en aan de selectiecriteria voldoen");
-define("ADSTAT_LAN_69", "Verwijder<br> historische data");
+define("ADSTAT_LAN_69", "Verwijder historische data");
 define("ADSTAT_LAN_70", "Verwijder data ouder dan:");
 define("ADSTAT_LAN_71", "Verwijder data");
 define("ADSTAT_LAN_72", "Bevestig het verwijderen van data ouder dan eerste dag van:");
@@ -88,10 +88,11 @@ define("ADSTAT_LAN_83", "Volgende log ID invoeringen verwijderd");
 define("ADSTAT_LAN_84", "Deze procedure zal de statistiek log samenvattingen overschrijven. (ruwe log bestanden blijven ongewijzigd). Wanneer vervangen, kan de data niet worden hersteld. Maak aub eerst een backup of exporteer de database.");
 define("ADSTAT_LAN_85", "[x] log bestanden werden gevonden. Klik op onderstaande knop om deze bestanden te verwerken.");
 define("ADSTAT_LAN_86", "Totaal hits");
-define("ADSTAT_LAN_87", "Herbouwen van statitische samenvattingen");
+define("ADSTAT_LAN_87", "Herbouwen statitische samenvattingen");
 define("ADSTAT_LAN_88", "Herbouwen Statistieken"); 
 define("ADSTAT_LAN_89", "Herbouw");  
 define("ADSTAT_LAN_90", "Data in database opgeslagen met id: [x]");
 define("ADSTAT_LAN_91", "Kon de data niet opslaan in database onder id: [x]");
 
 
+?>
