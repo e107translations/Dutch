@@ -16,7 +16,7 @@ define("UE_LAN_3", "Uitklaplijst");
 define("UE_LAN_4", "Veld DB tabel");
 define("UE_LAN_5", "Tekstblok");
 define("UE_LAN_6", "Integer");
-define("UE_LAN_7", "Datum");
+//define("UE_LAN_7", "Datum");
 define("UE_LAN_8", "Taal");
 define("UE_LAN_9", "Voorgedefinie&euml;rde lijst");
 define("UE_LAN_10", "Checkboxes");
@@ -24,7 +24,6 @@ define("UE_LAN_10", "Checkboxes");
 //v2.1.5
 define("UE_LAN_13", "Land");
 define("UE_LAN_14", "Rich Textarea (WYSIWYG)");
-
 define("UE_LAN_21", "Naam");
 define("UE_LAN_22", "Type");
 define("UE_LAN_23", "Gebruik");

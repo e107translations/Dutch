@@ -30,7 +30,7 @@ define("LAN_NEWS_19", "Nu");
 define("LAN_NEWS_23", "Nieuwscategorie&euml;n");
 define("LAN_NEWS_24", "genereer een pdf van dit bericht");
 define("LAN_NEWS_25", "Bewerken");
-define("LAN_NEWS_31", "Sticky nieuws onderwerp");					// Added
+define("LAN_NEWS_31", "Sticky nieuws onderwerp");		
 define("LAN_NEWS_82", "Nieuws - categorie");
 define("LAN_NEWS_83", "Geen nieuwe berichten op dit moment. Controleer later nog eens.");
 define("LAN_NEWS_84", "Terug naar het nieuws overzicht");

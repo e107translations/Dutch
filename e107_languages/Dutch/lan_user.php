@@ -85,7 +85,7 @@ define("LAN_USER_77", "Je wachtwoord moet minimaal [x] karakters lang zijn.");
 define("LAN_USER_78", "Min.");
 define("LAN_USER_79", "karakters.");							
 define("LAN_USER_80", "de naam getoond op de website");	
-define("LAN_USER_81", "Gebruikersnaam: ");					
+define("LAN_USER_81", "Je gebruikte login naam: ");					
 define("LAN_USER_82", "de naam die je gebruikt om in te loggen");	
 define("LAN_USER_83", "Verberg e-mail adres?: ");		
 define("LAN_USER_84", "Dit zorgt ervoor dat je e-mailadres niet getoond wordt op de website");
@@ -102,7 +102,7 @@ define("LAN_XUP_ERRM_05", "Aanmelden mislukt! Gebruiker bestaat al, gebruik 'log
 define("LAN_XUP_ERRM_06", "Aanmelden mislukt! Kan e-mailadres niet bereiken - registratie zonder e-mailadres is onmogelijk.");
 define("LAN_XUP_ERRM_07", "Social Login Testen");
 define("LAN_XUP_ERRM_08", "Log eerst uit e107 systeem vooordat je de nieuwe inlog/aanmeld procedure test.");
-define("LAN_XUP_ERRM_09", "Test login met alleen [x]");
+
 define("LAN_XUP_ERRM_10", "Test aanmelden/login met [x]");
 define("LAN_XUP_ERRM_11", "Ingelogd:");
 define("LAN_XUP_ERRM_12", "Test uitloggen");
@@ -116,11 +116,11 @@ if (!defined("USER_ERR_06")) { define("USER_ERR_06","Waarde bestaat al");  }
 if (!defined("USER_ERR_07")) { define("USER_ERR_07","Waarde niet toegestaan");  }
 if (!defined("USER_ERR_08")) { define("USER_ERR_08","Ingeven niet toegestaan");  }
 if (!defined("USER_ERR_09")) { define("USER_ERR_09","Fout woord");  }
-if (!defined("USER_ERR_10")) { define("USER_ERR_10","Wachtewoordvelden verschillend");  }
+if (!defined("USER_ERR_10")) { define("USER_ERR_10","Wachtwoordvelden verschillend");  }
 if (!defined("USER_ERR_11")) { define("USER_ERR_11","Geblokkeerd e-mailadres");  }
 if (!defined("USER_ERR_12")) { define("USER_ERR_12","e-mailadres verkeerd formaat");  }
 if (!defined("USER_ERR_13")) { define("USER_ERR_13","Data fout");  }
-if (!defined("USER_ERR_14")) { define("USER_ERR_14","Deblokkerde gebruiker");  }
+if (!defined("USER_ERR_14")) { define("USER_ERR_14","Gedeblokkeerde gebruiker");  }
 if (!defined("USER_ERR_15")) { define("USER_ERR_15","Gebruikersnaam en Loginnaam mogen niet verschillen");  }
 if (!defined("USER_ERR_16")) { define("USER_ERR_16","Software fout");  }
 if (!defined("USER_ERR_17")) { define("USER_ERR_17","Waarde te laag");  }
