@@ -31,8 +31,8 @@ Als je de start en/of einddatum invoert, wordt het bericht alleen tussen deze da
 ";
 	break;
   case 'cat' :
-	$text = "Je kunt de nieuws items in verschillende categoriën indelen, en bezoekers toestaan alleen die items in die categoriën te tonen, <br /><br />Upload je nieuws icoon-afbeelding of in ".e_THEME."-jouwthema-/images/ of themes/shared/newsicons/.";
-    break;
+$text = "Je kunt de nieuws items in verschillende categori&#235;n indelen, en bezoekers toestaan alleen die items in die categori&#235;n te tonen, <br /><br />Upload je nieuws icoon-afbeelding of in ".e_THEME."-jouwthema-/images/ of themes/shared/newsicons/.";
+break;
   case 'pref' :
     $text = "Instellen verschillende nieuws gerelateerde opties<br /><br />
 	<b>Nieuws Categorie Kolommen</b><br />
@@ -47,6 +47,6 @@ Als je de start en/of einddatum invoert, wordt het bericht alleen tussen deze da
 	break;
   case 'list' :
   default :
-	$text = "Lijst van alle nieuws items. Bewerken of veriwjderen, klik op een van de iconen in de \'opties\' kolomn. Om het item te bekijken, klik op de titel.";
+	$text = "Lijst van alle nieuws items. Bewerken of verwijderen, klik op een van de iconen in de &acute;opties&acute; kolom. Klik op het ID nummer van het nieuwsbericht om het te bekijken.";
 }
 $ns -> tablerender($caption, $text);

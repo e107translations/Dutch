@@ -89,7 +89,7 @@ define("LAN_MAILOUT_76", "e-mail info opnemen in logboek");
 define("LAN_MAILOUT_77", "Aanvullende e-mail adres bronnen");
 define("LAN_MAILOUT_78", "Mailing Status");
 define("LAN_MAILOUT_79", "Geen mailings om te tonen");
-define("LAN_MAILOUT_80", "Datum");
+//define("LAN_MAILOUT_80", "Datum");
 define("LAN_MAILOUT_81", "De e-mail is verzonden, controleer je inbox.");
 define("LAN_MAILOUT_82", "e-mails verzonden");
 define("LAN_MAILOUT_83", "e-mails te gaan");

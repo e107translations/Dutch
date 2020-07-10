@@ -64,7 +64,7 @@ define("TPVLAN_47", "PCLTAR extraheer fout: ");
 define("TPVLAN_48", "code:");
 
 define("TPVLAN_49", "Conformiteit"); 
-define("TPVLAN_50", "Ontwerpen"); 
+define("TPVLAN_50", "Indelingen"); 
 define("TPVLAN_51", "Wijzig Thema");
 define("TPVLAN_52", "Naam");
 define("TPVLAN_53", "Voorgestelde Plugins");

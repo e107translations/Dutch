@@ -57,7 +57,7 @@ define("LANG_LAN_103", "[x] aangemaakt.");
 define("LANG_LAN_104", "[x] werd uitgeschakeld maar intact gebleven."); 
 define("LANG_LAN_105", "verwijder alle tabellen in [x]?");
 
-define("LANG_LAN_106", "Taal met gebruik van Domein naam");
+define("LANG_LAN_106", "Taal met gebruik van Domeinnaam");
 define("LANG_LAN_107", "Het ingestelde Domein bepaald de taal van de website, Geef het domein in zonder de www.");
 define("LANG_LAN_108", "Naam");
 define("LANG_LAN_109", "Versie");
