@@ -132,3 +132,4 @@ define("FORLAN_219", "Rich tekst editor");
 define("FORLAN_220", "Post editor");
 define("FORLAN_221", "Welke systeem wil je gebruiken bij het plaatsen of wijzigen van berichten?");
 define("FORLAN_222", "Snelle reactie editor");
+define("FORLAN_223", "Gebruik alleen basis tekst (geen bbcode of html toegestaan");
