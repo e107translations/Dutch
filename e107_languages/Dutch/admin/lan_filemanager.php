@@ -25,7 +25,7 @@ define("FMLAN_30", "Niveau omhoog");
 define("FMLAN_31", "map");
 
 define("FMLAN_32", "Kies directorie");
-define("FMLAN_33", "Selecteer");
+//define("FMLAN_33", "Selecteer");
 define("FMLAN_34", "Directory keuze");
 define("FMLAN_35", "Bestandsdirectory");
 define("FMLAN_38", "Bestand succesvol verplaatst naar");

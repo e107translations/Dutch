@@ -409,7 +409,7 @@ define("LAN_RETURN_TO_FRONT_PANEL", "Terug naar voorpagina");
 define("LAN_CHANGE_LANGUAGE", "Wijzig taal");
 define("LAN_NEWER_VERSION_OF_X", "Een nieuwere versie van [x] [y] is beschikbaar als download."); // x= Name  y = Theme | Plugin  
 
-define("LAN_SUBJECT", "Onderwerp");
+//define("LAN_SUBJECT", "Onderwerp");
 define("LAN_ITEM", "Item");
 define("LAN_LOCK", "Op slot");
 define("LAN_SYSTEM_USER", "Systeem gebruiker");

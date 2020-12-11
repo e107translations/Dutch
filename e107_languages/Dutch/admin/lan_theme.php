@@ -133,6 +133,7 @@ define("TPVLAN_93", "Selectie");
 define("TPVLAN_94", "Website thema gewijzigd naar [x].");
 define("TPVLAN_95", "Weergave (skin)");
 define("TPVLAN_96", "Instellen van URLs/script-paden welke automatisch deze layout gebruiken. Eén per regel.");
+define("TPVLAN_97", "Dit thema is bedoeld voor een nieuwere versie van e107.");
 define("TPVLANHELP_01", "De thema manager laat je het site's openbare thema en je beheerscherm thema(layout) instellen");
 define("TPVLANHELP_02", "Kijk naar de tooltips (indien beschikbaar) voor meer details.");
 define("TPVLANHELP_03", "Standaard ingesteld, zal het zichtbaarheidsfilter het thema layout wijzigen gebaseerd op een gedeeltelijke URL overeenkomst.");

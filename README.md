@@ -1,4 +1,4 @@
 Dutch
-Version 2.3.0-RC1
+Version 2.3.0
 
-Updated from 01/10/2020 up to 07/09/2020
+Starting 07/09/2020 up to 05/12/2020
