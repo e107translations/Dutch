@@ -41,7 +41,7 @@ define("LAN_CRON_04_3", "Alleen nodig als retriggering van blokkades ingeschakel
 
 define("LAN_CRON_05_1", "Database Backup");
 define("LAN_CRON_05_2", "Backup de systeem database naar");
-
+define('LAN_CRON_06_1', "Activeer de Ban Trigger");
 
 // Error and info messages
 define("LAN_CRON_6", "Kon voorkeuren niet importeren");
