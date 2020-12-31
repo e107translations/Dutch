@@ -108,8 +108,8 @@ define("LAN_NEWS_30", "Wanneer deze optie is geactiveerd, wordt dit bericht alti
 define("LAN_NEWS_32", "Datum");
 
 define("LAN_NEWS_33", "Stel de datum in voor het huidige nieuwsbericht.");
-define("LAN_NEWS_34", "Trackback");
-define("LAN_NEWS_35", "Toevoegen trackback URLs");
+//define("LAN_NEWS_34", "Trackback");
+//define("LAN_NEWS_35", "Toevoegen trackback URLs");
 define("LAN_NEWS_37", "(één URL per regel)");
 define("LAN_NEWS_49", "Weergave type");
 
