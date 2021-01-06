@@ -51,5 +51,6 @@ define("CUSLAN_76", "Menu met pad #");
 define("CUSLAN_77", "verwijderd");
 define("CUSLAN_78", "Kon menu met pad niet verwijderen");
 define("CUSLAN_79", "Je dient een pagina titel of een menu naam in te geven.");
+define("CUSLAN_80", "Ondertitel");
 
 
