@@ -11,7 +11,10 @@
 */
 
 
-define("PAGE_NAME", "Instellingen");
+if(!defined('PAGE_NAME'))
+{
+	define("PAGE_NAME", "Instellingen");
+}
 
 define("MAX_AVWIDTH", "Maximale avatar afmeting (hxb) is ");
 define("MAX_AVHEIGHT", " x ");
