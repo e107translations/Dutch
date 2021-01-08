@@ -9,9 +9,10 @@
 |     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
-
-
-define("PAGE_NAME", "Aanmelden");
+if(!defined('PAGE_NAME'))
+{
+	define("PAGE_NAME", "Aanmelden");
+}
 define("LAN_EMAIL_01", "Beste");
 define("LAN_EMAIL_04", "Bewaar deze e-mail voor je eigen administratie.");
 define("LAN_EMAIL_05", "Letop, je wachtwoord is versleuteld opgeslagen en kan niet opgevraagd worden als je het vergeten bent. Je kan wel altijd een nieuw wachtwoord aanvragen.");
