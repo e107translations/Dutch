@@ -9,9 +9,10 @@
 |     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
-
-
-define("PAGE_NAME", "Nieuws");
+if(!defined('PAGE_NAME')) // FIXME.
+{
+	define("PAGE_NAME", "Nieuws");
+}
 
 define("LAN_NEWS_1", "Nieuws uitsluitend voor bepaalde leden");
 define("LAN_NEWS_2", "Je mag dit nieuwsbericht niet lezen");
