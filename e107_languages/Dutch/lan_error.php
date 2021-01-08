@@ -11,7 +11,10 @@
 */
 
 
-define("PAGE_NAME", "Fout Pagina"); 
+if(!defined('PAGE_NAME')) // FIXME.
+{
+	define("PAGE_NAME", "Fout Pagina");
+}
 define("LAN_ERROR_TITLE", "Foutje!");
 define("LAN_ERROR_1", "Fout 401 - Authenticatie mislukt");
 define("LAN_ERROR_2", "De opgevraagde URL vereist een juiste gebruikersnaam en wachtwoord. Je gaf een onjuiste gebruikersnaam/wachtwoord op, of je browser ondersteunt deze functie niet.");
