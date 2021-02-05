@@ -13,7 +13,7 @@
 
 define("NWSLAN_4",   "Aanwezige berichten");
 define("NWSLAN_6",   "Categorie");
-define("NWSLAN_10",  "Nog geen categorieën.");
+//define("NWSLAN_10",  "Nog geen categorieën.");
 define("NWSLAN_13",  "Tekst");
 define("NWSLAN_14",  "Uitgebreid");
 define("NWSLAN_15",  "Reacties");
@@ -99,7 +99,7 @@ define("NWSLAN_123", "Gepost");
 define("NWSLAN_127", "Standaardsjabloon");
 define("NWSLAN_128", "Stel een string in welke in nieuws paginas URL wordt gebruikt. Dit werkt alleen correct wanneer de  .htaccess regels en <a href='%s'>eURL config</a><br /> Alternatieve URL gebaseerd op huidige waarde: "); //FIXME HTML + TODO
 
-define("LAN_NEWS_23", "Kies een thumbnail afbeelding voor dit nieuwsbericht.");
+//define("LAN_NEWS_23", "Kies een thumbnail afbeelding voor dit nieuwsbericht.");
 define("LAN_NEWS_27", "Samenvatting");
 
 define("LAN_NEWS_28", "Blijvend");
@@ -144,7 +144,7 @@ define("LAN_NEWS_73", "Sidebar - Andernieuws2");
 define("LAN_NEWS_74", "Carousel");
 define("LAN_NEWS_75", "Dingenblok");
 
-define("LAN_NEWS_87", "vb. blogsearch.google.com/ping/RPC2");
+//define("LAN_NEWS_87", "vb. blogsearch.google.com/ping/RPC2");
 define("LAN_NEWS_88", "Bepaald hoe de standaard nieuws pagina eruit zou moeten zien.");
 define("LAN_NEWS_89", "Bericht/vermeldt deze services wanneer je nieuws items aanmaakt/bijwerkt.");
 define("LAN_NEWS_90", "Een (1) per regel.");

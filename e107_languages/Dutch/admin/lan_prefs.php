@@ -264,7 +264,12 @@ define("PRFLAN_279", "Zorg ervoor dat de URL bestaat! Het is het beste om een ab
 define("PRFLAN_280", "URL naar je Algemene voorwaarden voor deze website");
 define("PRFLAN_281", "De 2 bovenstaande links worden gebruikt op diverse pagina&acute;s op je website, bijvoorbeeld bij het aanmelden en het contactformulier.\nMaak in ieder geval 2 maatwerkpagina&acute;s aan met het Privacybeleid en de Algemene voorwaarden van je website. Kopieer de url&acute;s van deze pagina&acute;s in de velden hierboven (bijvoorbeeld /page/privacybeleid en/of /page/algemene-voorwaarden). Controleer dat de url&acute;s en de pagina&acute;s bestaan en goed werken!");
 define("PRFLAN_282", "Session Opslag methode");
-//define("PRFLAN_SESSION_HANDLER_LABEL", "Session handler");
-//define("PRFLAN_SESSION_HANDLER_DATABASE", "Database (non-blocking)");
-//define("PRFLAN_SESSION_HANDLER_FILES_BLOCKING", "Files (native; blocking)");
-//define("PRFLAN_SESSION_HANDLER_FILES_NONBLOCKING", "Files (non-blocking)");
+define("PRFLAN_SESSION_HANDLER_LABEL", "Session handler");
+define("PRFLAN_SESSION_HANDLER_DATABASE", "Database (non-blocking)");
+define("PRFLAN_SESSION_HANDLER_FILES_BLOCKING", "Files (native; blocking)");
+define("PRFLAN_SESSION_HANDLER_FILES_NONBLOCKING", "Files (non-blocking)");
+define("PRFLAN_283", "Navigatiebalk-labels weergeven");
+define("PRFLAN_284", "Navigatie-balk standaard laten samenvouwen");
+define("PRFLAN_285", "Veldhulptips weergeven");
+define("PRFLAN_286", "Als u met de muis over het veld beweegt.");
+define("PRFLAN_287", "Als u met de muis over een hulppictogram links van het veld gaat.");
