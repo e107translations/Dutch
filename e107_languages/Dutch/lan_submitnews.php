@@ -10,7 +10,11 @@
 +----------------------------------------------------------------------------+
 */
 
-define("PAGE_NAME", "Meld nieuws");
+if(!defined('PAGE_NAME'))
+{
+	define("PAGE_NAME", "Meld nieuws");
+}
+
 //define("LAN_7", 	"Naam:");
 //define("LAN_62", 	"Nieuwstitel:");
 //define("LAN_112", 	"E-mailadres:");

@@ -9,9 +9,11 @@
 |     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
+ if(!defined('PAGE_NAME')) // TODO Fix me.
+{
+	define("PAGE_NAME", "Wachtwoord vernieuwen");
+}
 
-
-define("PAGE_NAME", "Wachtwoord vernieuwen");
 define("LAN_02", "Sorry, mail kan niet worden verstuurd, neem contact op met de website beheerder.");
 define("LAN_03", "Wachtwoord vernieuwen");
 define("LAN_05", "Geef om het wachtwoord te vernieuwen de volgende informatie op");
@@ -19,7 +21,7 @@ define("LAN_06", "Poging vernieuwen wachtwoord");
 define("LAN_07", "iemand met IP adres ");
 define("LAN_08", "heeft geprobeert het beheerderswachtwoord te vernieuwen.");
 define("LAN_09", "Wachtwoord vernieuwd door ");
-define("LAN_112", "E-mail adres geregistreerd op deze website");
+//define("LAN_112", "E-mail adres geregistreerd op deze website");
 //define("LAN_156", "Verstuur");
 define("LAN_213", "Deze gebruikersnaam / e-mailsdres is niet aanwezig binnen onze database.");
 define("LAN_214", "Kan wachtwoord niet vernieuwen");
@@ -48,7 +50,7 @@ define("LAN_FPW18", "Nieuw wachtwoord aangevraagd");
 define("LAN_FPW19", "Kon geen e-mail versturen");
 define("LAN_FPW20", "E-mail verstuurd");
 define("LAN_FPW21", "Gebruiker heeft op de wachtwoord reset link geklikt");
-//define("LAN_FPW22","");
+define("LAN_FPW22", "E-mail adres geregistreerd op deze website");
 define("LAN_FPW_100", "Wachtwoord vergeten?");
 define("LAN_FPW_101", "Geen probleem. Geef je e-mailadres hieronder in,en we sturen je een email met instructies om het wachtwoord te wijzigen.");
 define("LAN_FPW_102", "Reset wachtwoord");

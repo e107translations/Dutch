@@ -10,8 +10,10 @@
 +----------------------------------------------------------------------------+
 */
 
-
-define("PAGE_NAME", "Zoeken");
+if(!defined('PAGE_NAME')) // TODO fix me
+{
+	define("PAGE_NAME", "Zoeken");
+}
 
 define("LAN_140", "Leden");
 define("LAN_180", "Zoeken");
