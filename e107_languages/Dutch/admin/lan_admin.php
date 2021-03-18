@@ -444,4 +444,5 @@ define("LAN_ROBOTS_NOINDEX", "Voorkom dat zoekmachines dit item indexeren.");
 define("LAN_ROBOTS_NOFOLLOW", "Voorkom dat zoekmachines links in dit item volgen.");
 define("LAN_ROBOTS_NOARCHIVE", "Voorkomen dat een gecachte kopie van dit item in zoekresultaten wordt weergegeven.");
 define("LAN_ROBOTS_NOIMAGE", "Voorkom dat zoekmachines afbeeldingen van dit item indexeren.");
-define("LAN_NAVIGATION", "Navigatie links");
+define("LAN_NAVIGATION", "Navigatie");
+define("LAN_NAVIGATION_LINKS", "Navigatie Links");
