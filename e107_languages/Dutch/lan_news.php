@@ -10,11 +10,6 @@
 +----------------------------------------------------------------------------+
 */
 
-if(!defined('PAGE_NAME')) // FIXME.
-{
-	define("PAGE_NAME", "Nieuws");
-}
-
 define("LAN_NEWS_1", "Nieuws uitsluitend voor bepaalde leden");
 define("LAN_NEWS_2", "Je mag dit nieuwsbericht niet lezen");
 define("LAN_NEWS_9", "Uitsluitend ingevoerde titel - <b>uitsluitend de titel van het bericht wordt getoond</b><br />");
