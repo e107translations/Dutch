@@ -20,4 +20,4 @@ define("METLAN_3", "Gebruik Nieuwstitel en de samenvatting als de meta-beschrijv
 define("METLAN_4", "Aangepaste tags (binnenin [x] tags)");
 define("METLAN_5", "Aangepaste tags (na [x])");
 define("METLAN_6", "Aangepaste tags (voor [x])");
-define("METLAN_7", "Alle metagegevens of aangepaste HTML-tags die hier worden ingevoerd (zoals $lt;script$gt;-tags of Google Analytics-code) zullen op elke pagina van de website worden opgenomen in de daarvoor bestemde gebieden.");
+define("METLAN_7", "Alle metagegevens of aangepaste HTML-tags die hier worden ingevoerd (zoals <script> tags of Google Analytics-code) zullen op elke pagina van de website worden opgenomen in de daarvoor bestemde gebieden.");
