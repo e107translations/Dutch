@@ -18,8 +18,8 @@ define("LAN_SOCIAL_ADMIN_04", "Provider");
 define("LAN_SOCIAL_ADMIN_05", "Sleutel/ID");
 define("LAN_SOCIAL_ADMIN_06", "Geheim");
 define("LAN_SOCIAL_ADMIN_07", "Sta gebruikers toe aan te melden/inloggen met hun social media accounts. Wanneer ingeschakeld, zal deze optie het aanmelden/inloggen blijven toestaan, ook wanneer het registratie systeem van de website is uitgeschakeld.");
-define("LAN_SOCIAL_ADMIN_08", "Let Op : Normaliter zul je een ID en een geheime sleutel moeten verkrijgen van je provider(s).n\Klik op de (applicatie) blauwe links om te kunnen configureren. \n\nJe kunt de configuratie testen middels de volgende URL");
-define("LAN_SOCIAL_ADMIN_09", "Je callback URL is: ");
+//define("LAN_SOCIAL_ADMIN_08", "Let Op : Normaliter zul je een ID en een geheime sleutel moeten verkrijgen van je provider(s).n\Klik op de (applicatie) blauwe links om te kunnen configureren. \n\nJe kunt de configuratie testen middels de volgende URL");
+//define("LAN_SOCIAL_ADMIN_09", "Je callback URL is: ");
 define("LAN_SOCIAL_ADMIN_10", "Verkrijg Sleutel bij je provider");
 define("LAN_SOCIAL_ADMIN_11", "Je"); //jouw
 define("LAN_SOCIAL_ADMIN_12", "pagina");
@@ -61,3 +61,4 @@ define("LAN_SOCIAL_ADMIN_47", "Verbroken/niet werkende geconfigureerde Providers
 define("LAN_SOCIAL_ADMIN_48", "Deze social login providers zijn in het verleden geconfigureerd maar hebben geen adapter meer, die nog werkt.[br]Dit kan worden veroorzaakt door het niet langer bestaan ervan, of werden vervangen door een andere provider.");
 define("LAN_SOCIAL_ADMIN_49", "Test Pagina");
 define("LAN_SOCIAL_ADMIN_50", "Aan- of uitschakelen van de social login test pagina");
+define("LAN_SOCIAL_ADMIN_51", "Social Login Systeem");
