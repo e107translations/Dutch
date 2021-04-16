@@ -271,5 +271,6 @@ define("PRFLAN_SESSION_HANDLER_FILES_NONBLOCKING", "Files (non-blocking)");
 define("PRFLAN_283", "Navigatiebalk-labels weergeven");
 define("PRFLAN_284", "Navigatie-balk standaard laten samenvouwen");
 define("PRFLAN_285", "Veldhulptips weergeven");
+define("PRFLAN_286", "Inhoud Filters");
 //define("PRFLAN_286", "Als u met de muis over het veld beweegt.");
 //define("PRFLAN_287", "Als u met de muis over een hulppictogram links van het veld gaat.");
