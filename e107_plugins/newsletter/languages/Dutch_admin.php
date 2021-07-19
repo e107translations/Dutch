@@ -37,8 +37,8 @@ define("NLLAN_44", "Nieuwsbrief voorpagina");
 define("NLLAN_45", "Aanmaken nieuwsbrief ");
 define("NLLAN_46", "Aanmaken uitgave");
 define("NLLAN_47", "Nieuwsbrief opties");
-define("NLLAN_48", "Je bent geabonneerd op deze nieuwsbrief. Als je je af wilt melden, klik dan op de onderstaande knop.");
-define("NLLAN_49", "Wil je je echt afmelden voor deze nieuwsbrief?");
+//define("NLLAN_48", "Je bent geabonneerd op deze nieuwsbrief. Als je je af wilt melden, klik dan op de onderstaande knop.");
+//define("NLLAN_49", "Wil je je echt afmelden voor deze nieuwsbrief?");
 
 define("NLLAN_54", "Versturen");
 define("NLLAN_56", "Nieuwsbrief ID niet aanwezig");
