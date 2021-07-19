@@ -170,3 +170,4 @@ define("LAN_NEWS_108", "De SEF URL is anders dan de titel van je nieuwsbericht."
 define("LAN_NEWS_109", "Activeer een e-mail mededeling wanneer je dit formulier opslaat.");
 define("LAN_NEWS_110", "Nieuws Cache Timeout");
 define("LAN_NEWS_111", "Tijd in minuten. Werkt alleen waneer systeem cache is ingeschakeld.");
+define("LAN_NEWS_112", "Selecteer het URL-formaat. Ofwel aantal records (bijv. pagina=20, pagina=40, pagina=60 enz.) of paginanummer (bijv. pagina=1, pagina=2, pagina=3 enz.). Waarschuwing: indien gewijzigd, moeten sommige nieuws-URL's opnieuw worden geïndexeerd door zoekmachines.");
