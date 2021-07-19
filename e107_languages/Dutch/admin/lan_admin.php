@@ -446,3 +446,4 @@ define("LAN_ROBOTS_NOARCHIVE", "Voorkomen dat een gecachte kopie van dit item in
 define("LAN_ROBOTS_NOIMAGE", "Voorkom dat zoekmachines afbeeldingen van dit item indexeren.");
 define("LAN_NAVIGATION", "Navigatie");
 define("LAN_NAVIGATION_LINKS", "Navigatie Links");
+define("LAN_PAGINATION", "Pagina nummering");
