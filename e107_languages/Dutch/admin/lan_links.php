@@ -40,5 +40,6 @@ define("LINKLAN_6", "Creëer sublinks van:");
 define("LINKLAN_7", "Creëer sublinks onder welke link?");
 define("LINKLAN_8", "Nieuwscategorieën");
 define("LINKLAN_9", "Downloadcategorieën");
-define("LINKLAN_10", "Thema Shortcodes"); 
-
+define("LINKLAN_10", "Thema Shortcodes");
+define("LINKLAN_11", "Relatie");
+define("LINKLAN_12", "Optioneel 'rel' kenmerk. Kommagescheiden.");
