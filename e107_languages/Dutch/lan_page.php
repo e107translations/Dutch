@@ -16,7 +16,7 @@ define("LAN_PAGE_2", "Er zijn geen pagina&acute;s");
 define("LAN_PAGE_3", "Opgevraagde pagina bestaat niet");
 define("LAN_PAGE_4", "Beoordeel deze pagina");
 define("LAN_PAGE_5", "Bedankt voor het beoordelen van deze pagina");
-define("LAN_PAGE_6", "Je hebt geen toestemming om deze pagina te bekijken");
+define("LAN_PAGE_6", "Je hebt geen toestemming om deze pagina te bekijken, graag eerst inloggen.");
 //define("LAN_PAGE_7", "Onjuist wachtwoord");
 define("LAN_PAGE_8", "Wachtwoord beveiligde pagina");
 //define("LAN_PAGE_9", "Wachtwoord");
