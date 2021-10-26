@@ -448,3 +448,4 @@ define("LAN_NAVIGATION", "Navigatie");
 define("LAN_NAVIGATION_LINKS", "Navigatie Links");
 define("LAN_PAGINATION", "Pagina nummering");
 define("LAN_X_CHARS_REMAINING", "[x] karakt.. resterend");
+define("LAN_UI_BATCH_NOW", "Huidige datum/tijd");
