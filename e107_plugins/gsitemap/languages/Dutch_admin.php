@@ -43,6 +43,5 @@ define("GSLAN_36", "Je kunt ook handmatig individuele links toevoegen door te kl
 define("GSLAN_37", "Als je een paar links hebt, ga dan naar [URL] en geef de volgende URL in:  -> <b>".SITEURL."gsitemap.php</b> -  Als deze URL er niet goed uitziet, controleer dan of je site url in Beheerscherm - Voorkeuren goed staat ingesteld");
 define("GSLAN_38", "Voor meer informatie over het Google Sitemap protocol, ga naar [URL].");
 define("GSLAN_39", "Geen links in sitemap - importeren sitelinks?");
-define("GSLAN_40", "Google Sitemap links");
-
-
+//define("GSLAN_40", "Google Sitemap links");
+define("GSLAN_50", "Zichtbaar voor publiek");

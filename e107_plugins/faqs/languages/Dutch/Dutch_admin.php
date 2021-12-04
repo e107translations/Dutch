@@ -48,7 +48,7 @@ define("LANA_FAQ_PREF_HELP_1", "0 = geen limiet");
 define("LANA_FAQ_PREF_HELP_2", "Vul niets in om standaard waarde te gebruiken");
 
 define("LANA_FAQ_CRON_1", "Niet beantwoorde vragen rapport");
-define("LANA_FAQ_CRON_2", "Verstuur een mail met overzicht van niet beantwoorde ragen naar [x].");
+define("LANA_FAQ_CRON_2", "Verstuur een mail met overzicht van niet beantwoorde vragen naar [x].");
 define("LANA_FAQ_CRON_3", "[x] niet beantwoorde vragen in [y]");
 define("LANA_FAQ_CRON_4", "Login op je website om deze vragen te bekijken en te beantwoorden met onderstaande link.");
 define("LANA_FAQ_CRON_5", "De [x] meest recente vragen worden hieronder getoond.");

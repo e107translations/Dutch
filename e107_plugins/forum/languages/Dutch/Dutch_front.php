@@ -235,6 +235,7 @@ define("LAN_FORUM_7006", "Resultaat");
 define("LAN_FORUM_7007", "Gevonden in discussie");
 define("LAN_FORUM_7008", "NIET GEVONDEN");
 define("LAN_FORUM_7009", "Geen geuploade bestanden gevonden");
+define("LAN_FORUM_7010", "Bestandsnaam");
 define("LAN_FORUM_8001", "Een nieuw bericht werd gemaakt door [x] onder het onderwerp [y] in [z].");
 define("LAN_FORUM_8002", "Klik aub op de volgende link om het gehele bericht te bekijken ...");
 define("LAN_FORUM_8003", "Email berichtgeving(-en) voor dit onderwerp zijn nu ingeschakeld.");

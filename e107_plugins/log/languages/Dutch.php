@@ -9,7 +9,10 @@
 |     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
-define("PAGE_NAME",  "Statistieken");
+if(!defined('PAGE_NAME')) // TODO FIX ME - use English_global.php
+{
+	define("PAGE_NAME", "Statistieken");
+}
 
 define("ADSTAT_L1",  "Deze plugin logt alle bezoeken aan je site en creëert statistiekoverzichten gebaseerd op de verzamelde gegevens.");
 define("ADSTAT_L2",  "De statistiek logger is succesvol geïnstalleerd. Om je bestaande stats om te zetten naar een nieuw systeem , klik <a href='".e_PLUGIN."log/update_routine.php'>hier om de update routiene te starten</a>.");
