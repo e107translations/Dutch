@@ -144,5 +144,3 @@ define("LAN_309", "Voer je gegevens hieronder in.");
 define("LAN_400", "Gebruikersnamen en wachtwoorden zijn <b>hoofdlettergevoelig</b>.");
 define("LAN_410", "Voer de zichtbare code in");
 */
-
-?>
