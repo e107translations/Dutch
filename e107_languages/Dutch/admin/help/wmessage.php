@@ -12,5 +12,5 @@
 
 if (!defined('e107_INIT')) { exit; }
 
-$text = "Op deze pagina kun je een boodschap instellen die (bij activering) altijd bovenaan de startpagina wordt getoond. Je kunt een verschillende melding instellen voor gasten, geregistereerde/ingelogde leden en voor beheerders.";
-$ns -> tablerender("WMessage Hulp", $text);
+$text = defset('WMLAN_13');
+$ns -> tablerender( defset('WMLAN_12'), $text);
