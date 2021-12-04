@@ -15,3 +15,5 @@ define("TMCEALAN_3", "Gebruik dit wanner de interne spellingscontrole van de bro
 define("TMCEALAN_4", "Visuele Blokken");
 define("TMCEALAN_5", "Activeer dit om html blokken zichtbaar te maken tijdens het wijzigen.");
 define("TMCEALAN_6", "Code-Highlight CSS klasse.");
+define("TMCEALAN_7", "Gebruik frontend-stijl");
+define("TMCEALAN_8", "Indien ingeschakeld, gebruikt de editor de stijl van het frontend-thema. (indien ondersteund)");

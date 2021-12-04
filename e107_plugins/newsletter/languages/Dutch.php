@@ -23,7 +23,7 @@ define("NLLAN_67", "Archief overzicht");
 define("NLLAN_68", "Invalide parameter gedefinieerd");
 define("NLLAN_69", "Geen verzonden nieuwsbrieven beschikbaar.");
 define("NLLAN_70", "Geselecteerde nieuwsbrief bestaat niet");
-define("NLLAN_71", "Terug");
+//define("NLLAN_71", "Terug");
 define("NLLAN_72", "Bekijk archief");
 
 define("NLLAN_73", "Geef je e-mail adres");
