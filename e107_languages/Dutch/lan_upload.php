@@ -57,3 +57,4 @@ define("DOWLAN_11", "Categorie");
 define("LAN_419", "Toegestane bestandsformaten");
 define("LAN_420", "velden zijn verplicht");
 define("LAN_UL_039", "Verzenden en uploaden"); // LAN_416
+define("LAN_UL_040", "Upload Bestand");
