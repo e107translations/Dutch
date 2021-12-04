@@ -1,4 +1,4 @@
 Dutch
-Version 2.3.0 ( prev RC)
+Version 2.3.1 release
 
-Starting 07/09/2020 up to 05/12/2020
+Starting 06/12/2020 ending 04-12-2021
