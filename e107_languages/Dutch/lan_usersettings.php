@@ -10,8 +10,11 @@
 +----------------------------------------------------------------------------+
 */
 
+if(!defined('PAGE_NAME'))
+{
+	define("PAGE_NAME", "Instellingen");
+}
 
-define("PAGE_NAME", "Instellingen");
 
 define("MAX_AVWIDTH", "Maximale avatar afmeting (hxb) is ");
 define("MAX_AVHEIGHT", " x ");
@@ -20,19 +23,21 @@ define("LAN_USET_1", "Je avatar is te breed");
 define("LAN_USET_2", "Maximale breedte is");
 define("LAN_USET_3", "Je avatar is te hoog");
 define("LAN_USET_4", "Maximale hoogte is");
+define("LAN_USET_5", "Ingeschreven voor");
+define("LAN_USET_6", "Schrijf je in voor onze mailinglijst(en) en/of delen van deze website.");
 define("LAN_USET_7", "Diversen");
-define("LAN_USET_8", "Gebruikers ondertekening");
+define("LAN_USET_8", "Ondertekening / Tijdzone");//was"LAN_USET_8", "Gebruikers ondertekening
 define("LAN_USET_9", "Sommige verplichte informatie ontbreekt in je instellingen (verplichte velden zijn gemarkeerd met een *).");
 define("LAN_USET_10","Werk deze gegevens bij voordat je verder kunt gaan.");
 define("LAN_USET_11", "Deze gebruikersnaam is niet acceptabel, kies een andere gebruikersnaam.");
-define("LAN_USET_12", "De gebruikersnaam is te kort, kies een andere.");
-define("LAN_USET_13", "Ongeldige tekens in de inlognaam, kies een andere");
-define("LAN_USET_14", "De loginnaam is te lang, kies een andere");
+define("LAN_USET_12", "De gebruikersnaam is te kort. Kies een andere.");
+define("LAN_USET_13", "Ongeldige tekens in de inlognaam, kies een andere!");
+define("LAN_USET_14", "De loginnaam is te lang, kies een andere.");
 define("LAN_USET_15", "De gebruikersnaam is te lang, kies een andere.");
-define("LAN_USET_16", "Selecteer om de bestaande foto uit je profiel te verwijderen zonder een ander te uploaden");
-define("LAN_USET_17", "De gebruikersnaam is al ingebruik. Kies een andere.");
+define("LAN_USET_16", "Selecteer om de bestaande foto uit je profiel te verwijderen zonder een ander te uploaden.");
+define("LAN_USET_17", "Deze gebruikersnaam is al ingebruik, kies een andere.");
 define("LAN_USET_18", "gebruikersgegevens veranderd door Beheerder: [x], Inlognaam: [y]");
-define("LAN_USET_20", "je moet ook het gebruikers wachtwoord veranderen wanneer je de Loginnaam of het e-mail adres wijzigt.");
+define("LAN_USET_20", "je moet ook het gebruikers wachtwoord veranderen wanneer je de Loginnaam of het e-mailadres wijzigt.");
 define("LAN_USET_21", "Bevestig de gegevens door je wachtwoord in te geven: ");
 //define("LAN_USET_22", "Fout wachtwoord!"); // TODO LAN common?
 define("LAN_USET_23", "Niets invullen om het bestaande wachtwoord te houden");		
@@ -64,7 +69,7 @@ define("LAN_USET_54", "Bevestiging email verzonden");
 define("LAN_USET_55", "Klik aub op de volgende link  om verwijderen van account te voltooien.");
 define("LAN_USET_56", "Je account werd succesvol verwijderd.");
 //TODO Move to usersettings.php with bcDefs() method.
-define("LAN_7", "Gebruikersnaam: ");
+/*define("LAN_7", "Gebruikersnaam: ");
 define("LAN_8", "de naam die op de site wordt weergegeven");
 define("LAN_9", "Inlognaam: ");
 define("LAN_10", "de naam waarmee je inlogt op de site");
@@ -93,7 +98,4 @@ define("LAN_433", "URL naar XUP bestand");
 define("LAN_434", "Wat is dit?");
 define("LAN_435", "XML Gebruiker Protocol bestand");
 define("LAN_CUSTOMTITLE", "Maatwerk titel");
-define("LAN_USET_5", "Ingeschreven voor");
-define("LAN_USET_6", "Schrijf je in voor onze mailinglijst(en) en/of delen van deze website.");
-define("LAN_USET_8", "Ondertekening / Tijdzone");
-
+*/

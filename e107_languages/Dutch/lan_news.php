@@ -10,9 +10,6 @@
 +----------------------------------------------------------------------------+
 */
 
-
-define("PAGE_NAME", "Nieuws");
-
 define("LAN_NEWS_1", "Nieuws uitsluitend voor bepaalde leden");
 define("LAN_NEWS_2", "Je mag dit nieuwsbericht niet lezen");
 define("LAN_NEWS_9", "Uitsluitend ingevoerde titel - <b>uitsluitend de titel van het bericht wordt getoond</b><br />");
@@ -30,7 +27,7 @@ define("LAN_NEWS_19", "Nu");
 define("LAN_NEWS_23", "Nieuwscategorie&euml;n");
 define("LAN_NEWS_24", "genereer een pdf van dit bericht");
 define("LAN_NEWS_25", "Bewerken");
-define("LAN_NEWS_31", "Sticky nieuws onderwerp");		
+define("LAN_NEWS_31", "Sticky nieuws onderwerp");					// Added
 define("LAN_NEWS_82", "Nieuws - categorie");
 define("LAN_NEWS_83", "Geen nieuwe berichten op dit moment. Controleer later nog eens.");
 define("LAN_NEWS_84", "Terug naar het nieuws overzicht");
@@ -41,7 +38,8 @@ define("LAN_NEWS_462", "Geen nieuwsberichten in de opgegeven maand");
 define("LAN_NEWS_463", "Er zijn geen nieuwsberichten in de opgegeven categorie - neem regelmatig een kijkje.");
 
 //define("LAN_NEWS_99", "Reacties");
-define("LAN_NEWS_100", "Op");
+//define("LAN_NEWS_100", "Op"); compatibiliteit?
+define("LAN_NEWS_300", "Op");  //veranderd van LAN_100 in versie 2.3.1
 define("LAN_NEWS_307", "Aantal berichten in deze categorie: ");
 define("LAN_NEWS_308", "Zoek je misschien voor een van onderstaande nieuws items ?");
 define("LAN_NEWS_309", "Tag");

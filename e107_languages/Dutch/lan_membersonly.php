@@ -10,8 +10,11 @@
 +----------------------------------------------------------------------------+
 */
 
+if(!defined('PAGE_NAME'))
+{
+	define("PAGE_NAME", "Alleen voor leden");
+}
 
-define("PAGE_NAME", "Alleen voor leden");
 
 define("LAN_MEMBERS_0", "Afgeschermde Website");
 define("LAN_MEMBERS_1", "Dit is een afgeschermde website en alleen toegankelijk voor leden.");

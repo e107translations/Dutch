@@ -36,9 +36,9 @@ define("COMLAN_310", "Reageren is niet mogelijk omdat deze gebruikersnaam al in 
 define("COMLAN_312", "Dubbel bericht - kan niet worden geplaatst.");
 define("COMLAN_313", "Woonplaats");
 define("COMLAN_314", "Modereer reacties");
-define("COMLAN_315", "Trackbacks");
-define("COMLAN_316", "Geen trackbacks voor dit nieuws bericht.");
-define("COMLAN_317", "Modereer trackbacks");
+//define("COMLAN_315", "Trackbacks");
+//define("COMLAN_316", "Geen trackbacks voor dit nieuws bericht.");
+//define("COMLAN_317", "Modereer trackbacks");
 define("COMLAN_318", "Bewerk reactie");
 define("COMLAN_319", "Bijgewerkt");
 define("COMLAN_320", "Reactie bijwerken");

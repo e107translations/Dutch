@@ -9,9 +9,10 @@
 |     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
-
-
-define("PAGE_NAME", "Aanmelden");
+if(!defined('PAGE_NAME'))
+{
+	define("PAGE_NAME", "Aanmelden");
+}
 define("LAN_EMAIL_01", "Beste");
 define("LAN_EMAIL_04", "Bewaar deze e-mail voor je eigen administratie.");
 define("LAN_EMAIL_05", "Letop, je wachtwoord is versleuteld opgeslagen en kan niet opgevraagd worden als je het vergeten bent. Je kan wel altijd een nieuw wachtwoord aanvragen.");
@@ -122,6 +123,7 @@ define("LAN_SIGNUP_121", "Gebruik een ander e-mail adres");
 define("LAN_SIGNUP_122", "Privacyverklaring ");
 define("LAN_SIGNUP_123", "Algemene Voorwaarden");
 define("LAN_SIGNUP_124", "Door u aan te melden gaat u akkoord met onze [x] en onze [y].");
+define("LAN_SIGNUP_125", "Min. [x] karakters.");
 
 /*
 define("LAN_7", "Gebruikersnaam: ");
@@ -142,5 +144,3 @@ define("LAN_309", "Voer je gegevens hieronder in.");
 define("LAN_400", "Gebruikersnamen en wachtwoorden zijn <b>hoofdlettergevoelig</b>.");
 define("LAN_410", "Voer de zichtbare code in");
 */
-
-?>

@@ -10,8 +10,10 @@
 +----------------------------------------------------------------------------+
 */
 
-
-define("PAGE_NAME", "Gebruiker berichten");
+if(!defined('PAGE_NAME'))
+{
+	define("PAGE_NAME", "Gebruiker berichten"); // todo fix me
+}
 
 define("UP_LAN_0", "Alle forumberichten van [x]");
 define("UP_LAN_1", "Alle reacties van [x]");
