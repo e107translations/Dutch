@@ -87,7 +87,7 @@ define("FR_LAN_28", "Bekende onveilige bestanden");
 //define("FR_LAN_30", "Totaal regels overeenkomend");
 //define("FR_LAN_31", "Volledig ontbrekende plugin map");
 define("FR_LAN_32", "Je dient eerst een scan uit te voeren!");
-
+define("FR_LAN_33", "Start");
 define("FS_LAN_1", "Maak Momentopname");
 define("FS_LAN_2", "Absoluut pad naar de hoofdmap om een image te maken van");
 define("FS_LAN_3", "Maak momentopname voor de plugin: (Uw plugin zal worden opgenomen wanneer een beschrijfbare e_inspect.php bestand bestaat in uw plugins root directory.)");

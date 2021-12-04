@@ -104,7 +104,7 @@ define("USRLAN_128", "Inlognaam");
 define("USRLAN_129", "Echte naam");
 define("USRLAN_130", "Activeren online gebruikersweergave");
 define("USRLAN_131", "Je moet deze optie activeren om online gebruikersweergave, zoals online.php, forum online info en online menu´s te kunnen gebruiken");
-define("USRLAN_132", "Activeren");
+//define("USRLAN_132", "Activeren");
 
 define("USRLAN_133", "Verplicht het lid om zijn/haar instellingen bij te werken");
 define("USRLAN_134", "Het activeren van deze optie zal het lid automatisch naar zijn/haar instellingen pagina sturen als een verplicht veld niet is ingevuld.");
@@ -247,7 +247,7 @@ define("USRLAN_253", "Ouder dan");
 define("USRLAN_254", "Reset alle wachtwoorden");
 define("USRLAN_255", "Waarschuw gebruiker");
 define("USRLAN_256", "Beste");
-define("USRLAN_257", "Leden toestaan hun account te verwijderen?");
+define("USRLAN_257", "Leden toestaan ​​hun account te verwijderen?");
 
 // These need review - there are duplicates above - they come from admin/lan_userclass.php.
 define("UCSLAN_1", "Verzenden van berichtgevings email naar");

@@ -15,7 +15,7 @@ define("UCSLAN_6", "Klasse opgeslagen in de database.");
 define("UCSLAN_7", "Nog geen gebruikersklasse.");
 define("UCSLAN_8", "Aanwezige klassen");
 define("UCSLAN_9", "Geen icoon");
-define("UCSLAN_10", "Klasse niet verwijderd - het is een systeemdeel klasse, of wordt gebruikt in de definitie van een andere klasse, als willekeurige ouder of bewerkingsklasse");
+//define("UCSLAN_10", "Klasse niet verwijderd - het is een systeemdeel klasse, of wordt gebruikt in de definitie van een andere klasse, als willekeurige ouder of bewerkingsklasse");
 define("UCSLAN_11", "aankruisen om te bevestigen");
 define("UCSLAN_12", "Naam klasse");
 define("UCSLAN_13", "Beschrijving klasse");

@@ -27,6 +27,11 @@ define("LCLAN_108", "Enkele selcties nit uitgevoerd - je kunt Link niet instelle
 define("LCLAN_109", "Kies aub. een ouder");
 define("LCLAN_110", "Kies aub. een generator module");
 define("LCLAN_111", "Geen echte generator module data");
+define("LCLAN_112", "1 - Main");
+define("LCLAN_113", "2 - Sidebar");
+define("LCLAN_114", "3 - Footer");
+define("LCLAN_115", "Alt");
+define("LCLAN_116", "(Unassigned)");
 
 define("LINKLAN_1", "Opent in een 800x600 venster");
 define("LINKLAN_4", "Sublink generator");
@@ -35,5 +40,6 @@ define("LINKLAN_6", "Creëer sublinks van:");
 define("LINKLAN_7", "Creëer sublinks onder welke link?");
 define("LINKLAN_8", "Nieuwscategorieën");
 define("LINKLAN_9", "Downloadcategorieën");
-define("LINKLAN_10", "Thema Shortcodes"); 
-
+define("LINKLAN_10", "Thema Shortcodes");
+define("LINKLAN_11", "Relatie");
+define("LINKLAN_12", "Optioneel 'rel' kenmerk. Kommagescheiden.");

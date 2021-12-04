@@ -52,5 +52,7 @@ define("CUSLAN_77", "verwijderd");
 define("CUSLAN_78", "Kon menu met pad niet verwijderen");
 define("CUSLAN_79", "Je dient een pagina titel of een menu naam in te geven.");
 define("CUSLAN_80", "Ondertitel");
+define("CUSLAN_81", "Meta afbeelding");
+define("CUSLAN_82", "Optioneel. Gebruikt door sociale media bij het delen van deze pagina. ");
 
 
