@@ -451,3 +451,5 @@ define("LAN_X_CHARS_REMAINING", "[x] karakt.. resterend");
 define("LAN_UI_BATCH_NOW", "Huidige datum/tijd");
 define("LAN_RELATIONSHIP", "Verwantschap"); //of Relatie??	
 define("LAN_RELATIONSHIP_HELP", "Optioneel 'rel' attribuut. Komma gescheiden.");
+define("LAN_NO_SCRIPT_ACCESS", "Je hebt geen toestemming om [script]-tags te gebruiken.");
+define("LAN_NO_SCRIPT_ACCESS_ASK",  "Als u denkt dat dit een fout is, vraag dan de hoofdbeheerder om u scripttoegang te verlenen via [b]Voorkeuren > Inhoudsfilters[/b]");
