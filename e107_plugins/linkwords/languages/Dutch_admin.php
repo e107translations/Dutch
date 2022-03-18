@@ -59,7 +59,7 @@ define("LWLAN_67", "Max. links/tips");
 // Preferences
 define("LAN_LW_HELP_01", "Veel tekstgebieden hebben een bijbehorende 'context' en linkwoorden worden alleen weergegeven in gebieden die overeenkomen met die context.");
 define("LAN_LW_HELP_02", "De tooltips kunnen Ajax gebruiken om informatie te krijgen voor weergave. Dit vereist meestal enige aangepaste code.");
-define("LAN_LW_HELP_03", "Meestal heeft het geen zin dat de gebruiker op een link kan klikken als hij al op de pagina staat waarnaar hij linkt. Wanneer deze optie is uitgeschakeld, worden in dit geval de linkwoorden niet geactiveerd.");
+define("LAN_LW_HELP_03", "Meestal heeft het geen zin dat de gebruiker op een link kan klikken als hij al op de pagina staat waarnaar hij linkt. Wanneer deze optie is ingeschakeld, worden in dit geval de linkwoorden niet geactiveerd.");
 define("LAN_LW_HELP_04", "Linkwoorden kunnen worden uitgeschakeld op specifieke pagina's of pagina's die overeenkomen met een patroon. Voer deze hier in (dezelfde syntaxis als voor menuzichtbaarheid), 1 patroon per regel. Als het patroon eindigt op '!', Komt dit overeen met het 'einde van zoekopdracht' en is meestal een exacte overeenkomst. Anders komt elke URL met de opgegeven tekenreeks overeen.");
 define("LAN_LW_HELP_05", "Zal deze klasse toevoegen aan alle gegenereerde links.");
 // Reserve numbers for further prefences help texts
