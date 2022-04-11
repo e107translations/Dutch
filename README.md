@@ -1,4 +1,4 @@
 Dutch
-Version PRE release (after 2.3.1)
+Version 2.3.2
 
-Starting  04-12-2021
+
