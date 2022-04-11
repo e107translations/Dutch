@@ -33,7 +33,7 @@ define("LAN_LOGIN_20", "Er zijn verplichte velden leeg");
 define("LAN_LOGIN_21", "Je inlog details komen niet overeen met een reeds geregistreerde gebruiker.Controleer op gebruik van CAPS-LOCK, inlognamen zijn hoofdletter gevoelig");
 define("LAN_LOGIN_22", "je hebt je account niet geactiveerd, je hebt een e-mail ontvangen met instructies om je account te activeren, klik [hier] om deze nogmaals te ontvangen.");
 define("LAN_LOGIN_23", "Wachtwoord fout.");
-define("LAN_LOGIN_24", "Die gebruikersnaam/wachtwoord combinatie is al in gebruik.");
+define("LAN_LOGIN_24", "Deze gebruiker is reeds ingelogd, en kan niet opnieuw inloggen vanuit een andere sessie.");
 define("LAN_LOGIN_25", "Geblokkeerde gebruiker probeerde in te loggen");
 define("LAN_LOGIN_26", "Login fout, geen reden bekend");
 define("LAN_LOGIN_27", "Gebruiker probeerde in te loggen zonder te reageren op de activatie e-mail");
