@@ -453,3 +453,8 @@ define("LAN_RELATIONSHIP", "Verwantschap"); //of Relatie??
 define("LAN_RELATIONSHIP_HELP", "Optioneel 'rel' attribuut. Komma gescheiden.");
 define("LAN_NO_SCRIPT_ACCESS", "Je hebt geen toestemming om [script]-tags te gebruiken.");
 define("LAN_NO_SCRIPT_ACCESS_ASK",  "Als u denkt dat dit een fout is, vraag dan de hoofdbeheerder om u scripttoegang te verlenen via [b]Voorkeuren > Inhoudsfilters[/b]");
+
+define("LAN_UI_FILTER_TODAY", "Vandaag");
+define("LAN_UI_FILTER_THIS_WEEK", "Deze week");
+define("LAN_UI_FILTER_THIS_MONTH", "Deze maand");
+define("LAN_UI_FILTER_THIS_YEAR", "Dit jaar");
