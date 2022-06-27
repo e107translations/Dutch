@@ -458,3 +458,7 @@ define("LAN_UI_FILTER_TODAY", "Vandaag");
 define("LAN_UI_FILTER_THIS_WEEK", "Deze week");
 define("LAN_UI_FILTER_THIS_MONTH", "Deze maand");
 define("LAN_UI_FILTER_THIS_YEAR", "Dit jaar");
+
+define("LAN_SEARCH_ENGINES_X_LIMIT", "Gelezen door zoekmachines. Maximaal [x] tekens.");
+define("LAN_META_TITLE", "Meta titel");
+define("LAN_META_DESCRIPTION", "Meta beschrijving");
