@@ -26,6 +26,7 @@ define("NU_LAN_6", "Lid social login");
 define("NU_LAN_7", "Lid social aamelding");
 define("NU_LAN_8", "Lid bekijkt profiel");
 define("NU_LAN_9", "Lid bewerkt profiel");
+define("NU_LAN_10", "Gebruikers IP veranderd");
 
 define("NS_LAN_1", "Beveiligingsmeldingen");
 define("NS_LAN_2", "IP blokkade voor flooding van de site");
