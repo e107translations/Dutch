@@ -47,3 +47,4 @@ define("GSLAN_39", "Geen links in sitemap - importeren sitelinks?");
 define("GSLAN_50", "Zichtbaar voor publiek");
 define("GSLAN_51", "Auto-gegenereerd van [x]");
 define("GSLAN_52", "Zodra u enkele gegevens heeft, gaat u naar [URL] en voert u een van de volgende URL's in het gedeelte Sitemaps in.[SITEMAP_URLS] (Als een van deze url's er niet juist uitziet, controleer dan of dit correct is in [voorkeuren].)");
+define("GSLAN_53", "Instructies");
