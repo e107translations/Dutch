@@ -29,7 +29,7 @@ define("CUSLAN_53", "Titel boek of hoofdstuk");
 define("CUSLAN_55", "Kan bewerkt worden door");
 define("CUSLAN_56", "Ouder");
 define("CUSLAN_57", "Kies aub een unieke SEF URL voor deze toevoeging");
-define("CUSLAN_58", "Beijk pagina\"s in dit Hoofdstuk");
+define("CUSLAN_58", "Bekijk pagina\"s in dit Hoofdstuk");
 define("CUSLAN_59", "Pagina");
 define("CUSLAN_60", "Pagina Opties");
 define("CUSLAN_61", "Menu");
