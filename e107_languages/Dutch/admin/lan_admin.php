@@ -20,7 +20,7 @@ define("ADLAN_6", "Menu&#39;s");
 define("ADLAN_7", "Veranderd de volgorde van de menu&acute;s");
 define("ADLAN_8", "Beheerders");
 define("ADLAN_9", "Toevoegen/verwijderen beheerders");
-define("ADLAN_10", "Beheerders wachtwoord");
+define("ADLAN_10", "Admin wachtwoord");
 define("ADLAN_11", "Verander je wachtwoord");
 define("ADLAN_12", "Dokumentatie");
 define("ADLAN_13", "Systeem dokumentatie");
