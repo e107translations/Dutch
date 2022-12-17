@@ -86,6 +86,7 @@ define("DOWLAN_122", "Inactief");
 define("DOWLAN_123", "Actief - bestand is beperkt door downloadlimieten");
 define("DOWLAN_124", "Actief - bestand is NIET beperkt door downloadlimieten");
 define("DOWLAN_125", "Download limieten geactiveerd");
+define("DOWLAN_126", "Activatie status bijgewerkt");
 define("DOWLAN_128", "Mirrors");
 define("DOWLAN_129", "niet invullen om geen mirror te gebruiken");
 define("DOWLAN_130", "Andere mirror toevoegen");
