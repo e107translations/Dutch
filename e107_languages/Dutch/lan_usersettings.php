@@ -35,7 +35,7 @@ define("LAN_USET_13", "Ongeldige tekens in de inlognaam, kies een andere!");
 define("LAN_USET_14", "De loginnaam is te lang, kies een andere.");
 define("LAN_USET_15", "De gebruikersnaam is te lang, kies een andere.");
 define("LAN_USET_16", "Selecteer om de bestaande foto uit je profiel te verwijderen zonder een ander te uploaden.");
-define("LAN_USET_17", "Deze gebruikersnaam is al ingebruik, kies een andere.");
+define("LAN_USET_17", "Deze gebruikersnaam is al in gebruik, kies een andere.");
 define("LAN_USET_18", "gebruikersgegevens veranderd door Beheerder: [x], Inlognaam: [y]");
 define("LAN_USET_20", "je moet ook het gebruikers wachtwoord veranderen wanneer je de Loginnaam of het e-mailadres wijzigt.");
 define("LAN_USET_21", "Bevestig de gegevens door je wachtwoord in te geven: ");
