@@ -275,7 +275,7 @@ define("LAN_CONFIGURE", "Configureren");
 define("LAN_NOPERMISSION", "geen autorisaties");
 define("LAN_NO_ADMIN_PERMISSION", "Je hebt voor [x] niet voldoende rechten.");
 define("LAN_CREDITS", "Credits");
-define("LAN_NEWVERSION", "Let op !! e107 v[x] beschikbaar");  //Er is een nieuwe versie beschikbaar
+define("LAN_NEWVERSION", "Let op !! e107 v[x] is beschikbaar voor download");  //Er is een nieuwe versie beschikbaar
 define("LAN_CHECKALL", "Vink alles aan");
 define("LAN_UNCHECKALL", "Vink alles uit");
 define("LAN_DELCHECKED", "Verwijder aangevinkt");
@@ -462,3 +462,7 @@ define("LAN_UI_FILTER_THIS_YEAR", "Dit jaar");
 define("LAN_SEARCH_ENGINES_X_LIMIT", "Gelezen door zoekmachines. Maximaal [x] tekens.");
 define("LAN_META_TITLE", "Meta titel");
 define("LAN_META_DESCRIPTION", "Meta beschrijving");
+
+define("LAN_SYSTEM_NOTIFICATIONS_X", "[x] Systeem melding(-en)");
+define("LAN_PHP_OUTDATED", "Je website gebruikt momenteel een [verouderde PHP versie], welke mogelijk een beveiligingsrisico vormt. Als je plugins het toestaan, adviseren wij om te upgraden naar [x] om te voorzien in een veilige en bijgewerkte website.");
+define("LAN_DATABASE_UPDATE", "Een update voor jouw database is beschikbaar. Wij adviseren zo spoedig mogelijk het [toepassen van deze update] om te verzekeren dat je database veilig en bijgewerkt is naar nieuwste niveau.");
