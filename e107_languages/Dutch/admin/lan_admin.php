@@ -20,7 +20,7 @@ define("ADLAN_6", "Menu&#39;s");
 define("ADLAN_7", "Veranderd de volgorde van de menu&acute;s");
 define("ADLAN_8", "Beheerders");
 define("ADLAN_9", "Toevoegen/verwijderen beheerders");
-define("ADLAN_10", "Beheerders wachtwoord");
+define("ADLAN_10", "Admin wachtwoord");
 define("ADLAN_11", "Verander je wachtwoord");
 define("ADLAN_12", "Dokumentatie");
 define("ADLAN_13", "Systeem dokumentatie");
@@ -275,7 +275,7 @@ define("LAN_CONFIGURE", "Configureren");
 define("LAN_NOPERMISSION", "geen autorisaties");
 define("LAN_NO_ADMIN_PERMISSION", "Je hebt voor [x] niet voldoende rechten.");
 define("LAN_CREDITS", "Credits");
-define("LAN_NEWVERSION", "Let op !! e107 v[x] beschikbaar");  //Er is een nieuwe versie beschikbaar
+define("LAN_NEWVERSION", "Let op !! e107 v[x] is beschikbaar voor download");  //Er is een nieuwe versie beschikbaar
 define("LAN_CHECKALL", "Vink alles aan");
 define("LAN_UNCHECKALL", "Vink alles uit");
 define("LAN_DELCHECKED", "Verwijder aangevinkt");
@@ -453,3 +453,16 @@ define("LAN_RELATIONSHIP", "Verwantschap"); //of Relatie??
 define("LAN_RELATIONSHIP_HELP", "Optioneel 'rel' attribuut. Komma gescheiden.");
 define("LAN_NO_SCRIPT_ACCESS", "Je hebt geen toestemming om [script]-tags te gebruiken.");
 define("LAN_NO_SCRIPT_ACCESS_ASK",  "Als u denkt dat dit een fout is, vraag dan de hoofdbeheerder om u scripttoegang te verlenen via [b]Voorkeuren > Inhoudsfilters[/b]");
+define("LAN_UI_FILTER_TODAY", "Vandaag");
+define("LAN_UI_FILTER_THIS_WEEK", "Deze week");
+define("LAN_UI_FILTER_THIS_MONTH", "Deze maand");
+define("LAN_UI_FILTER_THIS_YEAR", "Dit jaar");
+
+define("LAN_SEARCH_ENGINES_X_LIMIT", "Gelezen door zoekmachines. Maximaal [x] tekens.");
+define("LAN_META_TITLE", "Meta titel");
+define("LAN_META_DESCRIPTION", "Meta beschrijving");
+
+define("LAN_SYSTEM_NOTIFICATIONS_X", "[x] Systeem melding(-en)");
+define("LAN_PHP_OUTDATED", "Je website gebruikt momenteel een [verouderde PHP versie], welke mogelijk een beveiligingsrisico vormt. Als je plugins het toestaan, adviseren wij om te upgraden naar [x] om te voorzien in een veilige en bijgewerkte website.");
+define("LAN_DATABASE_UPDATE", "Een update voor jouw database is beschikbaar. Wij adviseren zo spoedig mogelijk het [toepassen van deze update] om te verzekeren dat je database veilig en bijgewerkt is naar nieuwste niveau.");
+

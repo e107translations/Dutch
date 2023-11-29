@@ -14,7 +14,7 @@ define("LAN_PLUGIN_PM_DESCRIPTION", "Deze plugin is een volledig Privé Berichte
 define("LAN_PLUGIN_PM_URL_DEFAULT_LABEL", "Standaard");
 define("LAN_PLUGIN_PM_URL_DEFAULT_DESCR", "Standaard");
 define("LAN_PLUGIN_PM_INBOX", "Inbox"); //inbox
-define("LAN_PLUGIN_PM_OUTBOX", "Outbox"); //outbox
+define("LAN_PLUGIN_PM_OUTBOX", "Uitbox"); //outbox
 define("LAN_PLUGIN_PM_NEW", "Verstuur nieuw bericht");
 define("LAN_PLUGIN_PM_TO", "Aan");
 define("LAN_PLUGIN_PM_FROM", "Van");
