@@ -103,7 +103,7 @@ define("DBLAN_88", "Core voorkeuren worden genegeerd tijdens convertering ivm. m
 define("DBLAN_89", "Converteer Database");
 define("DBLAN_90", "Converteer niet-UTF8 Tabellen");
 define("DBLAN_91", "Even wachten aub...");
-define("DBLAN_92", "Je tabellen gebruiken de correcte karakter set.");
+define("DBLAN_92", "Je tabellen gebruiken het correcte karakter set.");
 define("DBLAN_93", "Database succesvol geconverteerd naar UTF-8.");
 define("DBLAN_94", "Overtuig je ervan dat je de volgende regel in je e107_config.php bestand hebt staan:");
 

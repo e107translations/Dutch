@@ -162,7 +162,7 @@ define("LAN_NEWS_101", "Plaats nieuws");
 define("LAN_NEWS_102", "Openen in nieuwe tab");
 define("LAN_NEWS_103", "E-mail waarschuwing");
 define("LAN_NEWS_104", "Stuur een e-mail waarschwuing wanner je dit nieuws plaatst.");
-define("LAN_NEWS_105", "E-mail waarschuwing opgestart!");
+define("LAN_NEWS_105", "E-mail waarschwuwing opgestart!");
 define("LAN_NEWS_106", "Het nieuws moet zichtbaar zijn voor de klasse 'Iedereen' om de waarschuwing te kunnen laten werken.");
 define("LAN_NEWS_107", "Ping Status controleren");
 //v2.1.4

@@ -26,7 +26,6 @@ define("NU_LAN_6", "Lid social login");
 define("NU_LAN_7", "Lid social aamelding");
 define("NU_LAN_8", "Lid bekijkt profiel");
 define("NU_LAN_9", "Lid bewerkt profiel");
-define("NU_LAN_10", "Gebruikers IP veranderd");
 
 define("NS_LAN_1", "Beveiligingsmeldingen");
 define("NS_LAN_2", "IP blokkade voor flooding van de site");
@@ -40,12 +39,12 @@ define("NN_LAN_4", "Nieuwsbericht bewerkt door beheerder");
 define("NN_LAN_5", "Nieuwsbericht verwijderd door beheerder");
 define("NN_LAN_6", "Nieuws waarschuwing geactiveerd");
 
-define("NM_LAN_1", "e-mail meldingen");
+define("NM_LAN_1", "e-mail gebeurtenissen");
 define("NM_LAN_2", "Bulk e-mail run compleet");
 define("NM_LAN_3", "E-mail adres =>");
 
-define("NF_LAN_1", "Bestands meldingen");
+define("NF_LAN_1", "Bestands gebeurtenissen");
 define("NF_LAN_2", "bestand ge-upload door lid");
 
-define("LAN_NOTIFY_01", "Items");
+define("LAN_NOTIFY_01", "Gebeurtenissen");
 
