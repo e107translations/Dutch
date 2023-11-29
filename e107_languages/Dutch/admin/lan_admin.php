@@ -453,7 +453,6 @@ define("LAN_RELATIONSHIP", "Verwantschap"); //of Relatie??
 define("LAN_RELATIONSHIP_HELP", "Optioneel 'rel' attribuut. Komma gescheiden.");
 define("LAN_NO_SCRIPT_ACCESS", "Je hebt geen toestemming om [script]-tags te gebruiken.");
 define("LAN_NO_SCRIPT_ACCESS_ASK",  "Als u denkt dat dit een fout is, vraag dan de hoofdbeheerder om u scripttoegang te verlenen via [b]Voorkeuren > Inhoudsfilters[/b]");
-
 define("LAN_UI_FILTER_TODAY", "Vandaag");
 define("LAN_UI_FILTER_THIS_WEEK", "Deze week");
 define("LAN_UI_FILTER_THIS_MONTH", "Deze maand");
@@ -466,3 +465,4 @@ define("LAN_META_DESCRIPTION", "Meta beschrijving");
 define("LAN_SYSTEM_NOTIFICATIONS_X", "[x] Systeem melding(-en)");
 define("LAN_PHP_OUTDATED", "Je website gebruikt momenteel een [verouderde PHP versie], welke mogelijk een beveiligingsrisico vormt. Als je plugins het toestaan, adviseren wij om te upgraden naar [x] om te voorzien in een veilige en bijgewerkte website.");
 define("LAN_DATABASE_UPDATE", "Een update voor jouw database is beschikbaar. Wij adviseren zo spoedig mogelijk het [toepassen van deze update] om te verzekeren dat je database veilig en bijgewerkt is naar nieuwste niveau.");
+

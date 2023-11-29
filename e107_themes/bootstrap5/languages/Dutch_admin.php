@@ -15,3 +15,6 @@ define("LAN_THEMEPREF_05", "Logo");
 define("LAN_THEMEPREF_06", "Logo &amp; Site Naam");
 define("LAN_THEMEPREF_07", "links");
 define("LAN_THEMEPREF_08", "rechts");
+define("LAN_THEMEPREF_01", "Bootswatch Styles:");
+define("LAN_THEMEPREF_02", "Toon standaard menu met card uierlijk");
+define("LAN_THEMEPREF_03", "Toon Login Pagina als standaard pagina");
