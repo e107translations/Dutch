@@ -26,6 +26,8 @@ define("DBVLAN_13", "Ontbrekende tabel!");
 define("DBVLAN_14", "Kies de te verifieëren tabel(-len)");
 define("DBVLAN_15", "Start verificatie");
 define("DBVLAN_16", "SQL verificatie");
+define("DBVLAN_17", "Het opslag medium zou [x] moeten zijn, maar is [y]");
+define("DBVLAN_18", "Het karaterset zou [x] moeten zijn, maar is [y]");
 
 define("DBVLAN_19", "Herstelpoging");
 
@@ -36,6 +38,8 @@ define("DBVLAN_23", "Database Toepassingen");
 define("DBVLAN_24", "Kies a.u.b. een aktie");
 define("DBVLAN_25", "Missende Index");
 define("DBVLAN_26", "[x] tabel (-len) heeft (hebben) problemen");
+define("DBVLAN_27", "Inconsistentie in de tabel");
+define("DBVLAN_28", "Niet toepasbaar);
 
 // IMPORTANT NOTE: DBLAN has been replaced by DBBLAN in this file since 0.7 due to conflicts with db.php
 
