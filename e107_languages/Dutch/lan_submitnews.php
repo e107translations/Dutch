@@ -20,7 +20,7 @@ if(!defined('PAGE_NAME'))
 //define("LAN_112", 	"E-mailadres:");
 //define("LAN_133", 	"Bedankt");
 define("LAN_134", 	"Je nieuwsbericht is aangemeld en wordt zo spoedig mogelijk door een beheerder beoordeeld.");
-define("LAN_135", 	"Nieuwsbericht:");
+define("LAN_135", 	"Nieuwsbericht");
 define("LAN_136", 	"Meld nieuwsbericht");
 //define("NWSLAN_6", 	"Categorie");
 define("NWSLAN_10", "Geen niewscategorieën");
