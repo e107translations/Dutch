@@ -21,15 +21,15 @@ define("LAN_ERROR_2", "De opgevraagde URL vereist een juiste gebruikersnaam en w
 define("LAN_ERROR_3", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
 define("LAN_ERROR_4", "Fout 403 - Toegang geweigerd");
 define("LAN_ERROR_5", "Je hebt geen toestemming om het opgevraagde document of pagina op te halen.");
-define("LAN_ERROR_6", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
+//define("LAN_ERROR_6", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
 define("LAN_ERROR_7", "Error 404 - Document niet gevonden");
-define("LAN_ERROR_9", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
+//define("LAN_ERROR_9", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
 define("LAN_ERROR_10", "Fout 500 - Interne server fout");  //Fout 500 - Verminkte Header
 define("LAN_ERROR_11", "De server constateerde een interne fout of onjuiste instelling en kan je verzoek niet uitvoeren");
-define("LAN_ERROR_12", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
+//define("LAN_ERROR_12", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
 define("LAN_ERROR_13", "Fout - Onbekend");
 define("LAN_ERROR_14", "De server constateerde een fout");
-define("LAN_ERROR_15", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
+//define("LAN_ERROR_15", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
 define("LAN_ERROR_16", "Je mislukte poging tot benaderen van");
 define("LAN_ERROR_17", "is geregistreerd.");
 define("LAN_ERROR_18", "Blijkbaar ben je hier naartoe verwezen door");
