@@ -154,7 +154,7 @@ define("IMALAN_128", "Importeren van Media:");
 define('IMALAN_129', "Je bent bezig dit te verwijderen van [x] records en <strong>ALLE BIJBEHORENDE BESTANDEN</strong>! Bevestig aub voordat je doorgaat!");
 define('IMALAN_130', "Voorgaande pagina");
 define('IMALAN_131', "Volgende pagina");
-define('IMALAN_132', "Tags/Kernwoorden");
+define('IMALAN_132', "Tags/Trefwoorden");
 define('IMALAN_133', "Beneden rechts");
 define('IMALAN_134', "Beneden links");
 define('IMALAN_135', "Boven rechts");
