@@ -21,7 +21,7 @@ if(!defined('PAGE_NAME'))
 //define("LAN_133", 	"Bedankt");
 define("LAN_134", 	"Je nieuwsbericht is aangemeld en wordt zo spoedig mogelijk door een beheerder beoordeeld.");
 define("LAN_135", 	"Nieuwsbericht");
-define("LAN_136", 	"Meld nieuwsbericht");
+define("LAN_136", 	"Meld nieuws");
 //define("NWSLAN_6", 	"Categorie");
 define("NWSLAN_10", "Geen niewscategorieën");
 define("NWSLAN_11", "Je hebt geen toegang tot dit onderdeel.");
