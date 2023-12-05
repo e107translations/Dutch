@@ -44,6 +44,7 @@ define("LANA_FAQ_PREF_20", "Opgaande volgorde middels Datum");
 define("LANA_FAQ_PREF_21", "Neergaande volgorde middels Datum");
 define("LANA_FAQ_PREF_22", "Beheer van Vragen");
 define("LANA_FAQ_PREF_23", "Beheer van Categoriën");
+define("LANA_FAQ_PREF_24", "Stel een vraag: min. tekenlengte");
 define("LANA_FAQ_PREF_HELP_1", "0 = geen limiet");
 define("LANA_FAQ_PREF_HELP_2", "Vul niets in om standaard waarde te gebruiken");
 
