@@ -27,7 +27,7 @@ define("DBVLAN_14", "Kies de te verifieëren tabel(-len)");
 define("DBVLAN_15", "Start verificatie");
 define("DBVLAN_16", "SQL verificatie");
 define("DBVLAN_17", "Het opslag medium zou [x] moeten zijn, maar is [y]");
-define("DBVLAN_18", "Het karaterset zou [x] moeten zijn, maar is [y]");
+define("DBVLAN_18", "Het karakterset zou [x] moeten zijn, maar is [y]");
 
 define("DBVLAN_19", "Herstelpoging");
 
