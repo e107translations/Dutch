@@ -14,7 +14,7 @@
 define("LAN_PAGE_1", "Paginaoverzicht is uitgeschakeld");
 define("LAN_PAGE_2", "Er zijn geen pagina&acute;s");
 define("LAN_PAGE_3", "Opgevraagde pagina bestaat niet");
-define("LAN_PAGE_4", "Beoordeel deze pagina");
+define("LAN_PAGE_4", "Beoordeel deze pagina:&nbsp;");
 define("LAN_PAGE_5", "Bedankt voor het beoordelen van deze pagina");
 define("LAN_PAGE_6", "Je hebt geen toestemming om deze pagina te bekijken, graag eerst inloggen.");
 //define("LAN_PAGE_7", "Onjuist wachtwoord");
@@ -27,4 +27,4 @@ define("LAN_PAGE_13", "Pagina");
 define("LAN_PAGE_14", "Andere Artikelen");
 define("LAN_PAGE_15", "Artikelen");
 define("LAN_PAGE_16", "Er zijn geen hoofdstukken in dit boek");
-define("LAN_PAGE_17", "Commentaren op deze pagina zijn gesloten."); 
+define("LAN_PAGE_17", "Commentaren op deze pagina zijn gesloten.");
