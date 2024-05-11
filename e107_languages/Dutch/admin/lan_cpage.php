@@ -54,5 +54,7 @@ define("CUSLAN_79", "Je dient een pagina titel of een menu naam in te geven.");
 define("CUSLAN_80", "Ondertitel");
 define("CUSLAN_81", "Meta afbeelding");
 define("CUSLAN_82", "Optioneel. Gebruikt door sociale media bij het delen van deze pagina. ");
-
-
+define("CUSLAN_83", "Wordt onder deze naam weergegeven in de Menu-Manager of kan worden aangeroepen met {CMENU=name} in uw thema. Mag alleen ASCII-tekens gebruiken en mag alleen uit kleine letters bestaan.");
+define("CUSLAN_84", "Titel weergegeven bij het menu-item.");
+define("CUSLAN_85", "Laat dit leeg om de standaardwaarde te gebruiken");
+define("CUSLAN_86", "Laat dit leeg om de overeenkomstige pagina te gebruiken");
