@@ -33,7 +33,7 @@ define("LAN_CONTACT_19", "Geef het onderwerp voor je mail in.");
 define("LAN_CONTACT_20", "Geef hier je bericht in.");
 define("LAN_CONTACT_21", "Ik ga ermee akkoord dat mijn informatie wordt opgeslagen om op mijn vraag te kunnen reageren."); //   By using this form, you agree to the storage and processing of your data through this site.
 define("LAN_CONTACT_22", "Privacy verklaring");
-define("LAN_CONTACT_23", "Je kan onze privacy verklaring hier lezen: [x]");
+define("LAN_CONTACT_23", "Lees hier onze [x].");
 define("LAN_CONTACT_24", "AVG toestemming");
 
 /* if bc failsactivate this below
