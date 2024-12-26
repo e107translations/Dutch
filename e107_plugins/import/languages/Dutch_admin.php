@@ -84,5 +84,5 @@ define("LAN_CONVERT_70", "Forum Onderwerpen / Discussies");
 define("LAN_CONVERT_71", "Forum Posts");
 define("LAN_CONVERT_72", "Forum Track");
 define("LAN_CONVERT_73", "Gebruikersklassen");
-define("LAN_CONVERT_74", "Nieuws categorieen");
+define("LAN_CONVERT_74", "Nieuws Categorie&euml;n");
 
