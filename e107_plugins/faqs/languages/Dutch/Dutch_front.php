@@ -19,7 +19,7 @@ define("LAN_FAQS_006", "Verwijderen");
 define("LAN_FAQS_007", "Reset");
 define("LAN_FAQS_008", "[x]: Niet gevonden in zoekresultaten.");
 define("LAN_FAQS_009", "beheer reacties");
-define("LAN_FAQS_010", "Terug naar categorieen");
+define("LAN_FAQS_010", "Terug naar Categorie&euml;n");
 define("LAN_FAQS_011", "FAQ");
 define("LAN_FAQS_012", "Geef je vraag hier in...");
 define("LAN_FAQS_013", "karakter limiet");
