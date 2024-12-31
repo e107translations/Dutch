@@ -79,7 +79,7 @@ define("ADLAN_105", "Afbeeldingen");
 define("ADLAN_106", "Grafische instellingen");
 define("ADLAN_110", "Geregistreerde leden");
 define("ADLAN_111", "Niet geactiveerde leden");
-define("ADLAN_112", "Geblokkeerde gebruikers");
+define("ADLAN_112", "Geblokkeerde leden");
 define("ADLAN_116", "Beheer log ...");
 define("ADLAN_117", "Laat de hele log zien");
 define("ADLAN_118", "Log schonen");
@@ -151,7 +151,7 @@ define("ADLAN_LAT_5", "Aangemelde links");
 define("ADLAN_LAT_6", "Gemeldde forumberichten");
 define("ADLAN_LAT_7", "Bestandsuploads");
 define("ADLAN_LAT_8", "Er zijn nog niet beoordeelde beheerboodschappen");
-define("ADLAN_LAT_9", "Reacties in afwachting van");
+define("ADLAN_LAT_9", "Beheer reacties");
 define("ADLAN_ERR_3", "Er zijn een of meer bestanden in de openbare upload directories die niet in de toegestane upload bestandsformaat lijst staan. Ze kunnen daar zijn neergezet door een aanvaller en als dat zo is, moeten ze [b]onmiddelijk[/b] worden verwijderd. Je moet de bestanden [b]niet[/b] openen, omdat ze kwaadaardige code zouden kunnen bevatten. Open ze hoe dan ook niet met je browser.<br /><br />Als je deze bestanden legitiem vindt, dan kunnen ze worden getoond omdat je recent de lijst met niet toegestane bestandsformaten hebt gewijzigd. Vul de lijst dan aan met dit bestandsformaat (in beheer => uploads). Je moet upload van .html, .txt, etc. nooit toestaan, omdat een aanvaller een bestand van een dergelijk type via kwaadaardige javascripts zou kunnen uploaden. Je moet ook nooit upload van .php of andere uitvoerbare scripts toestaan.<br /><br />Hieronder staan de mogelijk schadelijke bestanden opgesomd:");
 
 define("LAN_CREATE", "Aanmaken");
