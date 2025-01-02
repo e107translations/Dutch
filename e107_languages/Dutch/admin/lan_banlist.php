@@ -23,7 +23,7 @@ define("BANLAN_11", "Auto-blokkade: Meer dan 10 mislukte inlogpogingen");
 //define("BANLAN_12", "Let op: Reverse DNS (blokkeren op hostnaam) is op dit moment niet geactiveerd, dat moet wel om blokkade op hostnaam mogelijk te maken.<br />Blokkeren op IP-adres en op e-mailadres werkt wel.");
 //define("BANLAN_13", "Let op: Om een lid te blokkeren op gebruikersnaam, ga naar de leden beheerpagina:");
 //define("BANLAN_14", "Blokkade Lijst");
-define("BANLAN_15", "Bericht en blokkeer periode");
+define("BANLAN_15", "Blokkeer berichten/periodes");
 define("BANLAN_16", "Blokkeren");
 //define("BANLAN_17", "Blokkeer datum");
 //define("BANLAN_18", "Blokkeren verloopt");
