@@ -121,7 +121,7 @@ define("LAN_MAILOUT_108", "Resultaat");
 define("LAN_MAILOUT_109", "Toon detail");
 define("LAN_MAILOUT_110", "Verstuur test email");
 define("LAN_MAILOUT_111", "Email Titel (niet verzonden)");
-define("LAN_MAILOUT_112", "Klik om email te verzenden naar");
+define("LAN_MAILOUT_112", "Verstuur test e-mail naar:");
 define("LAN_MAILOUT_113", "Test email van ");
 define("LAN_MAILOUT_114", "Dit is een test email, het lijkt erop dat jouw email instellingen prima werken ! [br][br] Groeten [br] van het e107 website system.");
 define("LAN_MAILOUT_115", "Email methode");
