@@ -436,7 +436,7 @@ define("LAN_UI_FILTER_IS_EMPTY", "Is leeg");
 define("LAN_RECALCULATE_COMMENT_COUNT", "Herbereken reactie telling");
 define("LAN_SUCC_RECALCULATE_COMMENT_COUNT", "Reactie telling succesvol herberekend!");
 define("LAN_NO_RESULTS_FOUND", "Geen resultaten gevonden.");
-define("LAN_UI_DROPZONE_DROP_FILES", "Plaats hier bestanden om te uploaden");
+define("LAN_UI_DROPZONE_DROP_FILES", "Plaats bestand(en) -> upload");
 define("LAN_DOWNLOAD_COMPLETE", "Download gereed!");
 define("LAN_UI_FILTER_SEARCH_IN_FIELD", "Zoeken in veld");
 define("LAN_ROBOTS", "Zoekrobots");
