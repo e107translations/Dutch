@@ -19,7 +19,7 @@ define("DBLAN_6",  "Klik op de knop om je database te optimaliseren");
 define("DBLAN_7",  "Optimaliseer database");
 define("DBLAN_8",  "klik op de knop om je ´core´ instellingen te backuppen");
 define("DBLAN_9",  "Backup core instellingen");
-define("DBLAN_10", "Database hulpprogramma´s");
+define("DBLAN_10", "Database beheer");
 define("DBLAN_11", "MySQL database [x] geoptimaliseerd");
 //define("DBLAN_12", "geoptimaliseerd");
 define("DBLAN_15", "Klik op de knop om te controleren op beschikbare database updates");
