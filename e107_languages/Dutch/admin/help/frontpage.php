@@ -21,14 +21,13 @@ $caption = "Startpagina Hulp";
  */
 $text = "
 <p>
-	Hier kun je de startpagina van je site instellen.<br>Bijvoorbeeld het forum, of een zelf gemaakte pagina.<br />Ook behoort het tot de mogelijkheden om een externe pagina in te stellen.<br /><br />De standaard ingestelde pagina is news.php.
+De regels worden op volgorde doorzocht om de eerste te vinden waar de huidige gebruiker behoort tot de klasse die in de regel is opgegeven.
+<p>Die regel bepaalt vervolgens de voorpagina (startpagina) en elke specifieke pagina na het inloggen.</p>
+<p>
+Als geen enkele regel overeenkomt, wordt nieuws ingesteld als startpagina.</p>
 </p>
 <p>
-	De voorwaarden worden op volgorde doorzocht, zoekend naar de eerste voorwaarde waaraan wordt voldaan, als de huidige gebruiker toebehoort aan de klasse zoals beschreven in de voorwaarde. 
-<br>Die voorwaarde bepaalt dan de start (home) pagina en elke specifieke (na inlog) pagina.<br>Is er geen overeenkomst gevonden wordt news.php als startpagina ingesteld.
-</p>
-<p>
-	De gebruiker wordt verwezen naar de specifieke 'Pagina na inloggen' (indien gespecificeerd) direct gevolgd door een login.
+De gebruiker wordt onmiddellijk na het inloggen naar de opgegeven 'Na inloggen pagina' (indien opgegeven) gestuurd.
 </p>
 ";
 $ns->tablerender($caption, $text, "beheer_hulp");
