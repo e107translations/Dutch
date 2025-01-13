@@ -9,7 +9,7 @@
 |     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
-define("EMOLAN_1", "Emoticon Activatie.");
+define("EMOLAN_1", "Emoticon Activatie");
 define("EMOLAN_3", "Emoticons");
 define("EMOLAN_4", "Emoticons Activeren?");
 define("EMOLAN_5", "Afbeelding");
