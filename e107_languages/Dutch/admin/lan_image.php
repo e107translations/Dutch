@@ -171,7 +171,7 @@ define('IMALAN_145', "<h4>Vanaf jouw computer</h4>");
 define('IMALAN_146', "Geen HTML5 ondersteuning.");
 define('IMALAN_147', "<h4>Vanaf een externe locatie</h4>");
 define('IMALAN_148', "Afbeeldings/Bestands URL");
-define('IMALAN_149', "Start Uploaden");
+define('IMALAN_149', "Start Upload");
 define('IMALAN_150', "Upload een bestand");
 define('IMALAN_151', "Kies uit de bibliotheek");
 define('IMALAN_152', "Opties");
