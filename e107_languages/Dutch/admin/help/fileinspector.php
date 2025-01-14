@@ -33,8 +33,8 @@ $text = "<div style='margin-left: 0px; margin-bottom: 1px; margin-top: 2px; vert
 $ns -> tablerender("File Key", $text);
 */
 
-$text = "Bestanden Inspecteur scant en analyseert de bestanden op de bestandsserver. Wanneer de inspecteur een e107 core bestand vindt, 
-controleert het op volledigheid en ook of het bestand niet corrupt (beschadigd) is.";
+	
+$text = "Bestandscontrole scant en analyseert de e107 bestanden op de server.<br /><br />Wanneer de bestandscontrole een e107 core bestand vindt wordt het op integriteit gecontroleerd en of het bestand niet corrupt of beschadigd is.";
 
 $text .= "<br /><br />
 <a href='".e_SELF."?create'>Klik hier om een snapshot te maken van je eigen plugin bestanden voor gebruik in de bestandscontrole.</a>";
