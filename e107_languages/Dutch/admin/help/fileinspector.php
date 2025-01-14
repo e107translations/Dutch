@@ -37,7 +37,7 @@ $text = "Bestanden Inspecteur scant en analyseert de bestanden op de bestandsser
 controleert het op volledigheid en ook of het bestand niet corrupt (beschadigd) is.";
 
 $text .= "<br /><br />
-<a href='".e_SELF."?create'>Klik hier om een snapshot te maken van je eigen plugin bestanden voor gebruik in Bestandeninspecteur.</a>";
+<a href='".e_SELF."?create'>Klik hier om een snapshot te maken van je eigen plugin bestanden voor gebruik in de bestandscontrole.</a>";
 
 if ($pref['developer']) {
 $text .= "<br /><br />
@@ -46,4 +46,4 @@ Het extra string overeenkomst hulpmiddel (alleen in ontwikkelaarsmodus) staat je
 (de preg_* functies), vul je query in als #pattern#modifiers in de voorgegeven vensters.";
 }
 
-$ns -> tablerender("Bestanden Inspecteur Hulp", $text);
+$ns -> tablerender("Bestandscontrole hulp", $text);
