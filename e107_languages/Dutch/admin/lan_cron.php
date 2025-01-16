@@ -20,7 +20,7 @@ define("LAN_CRON_M_02", "Ververs");
 define("LAN_CRON_1", "Naam");
 define("LAN_CRON_2", "Funktie");
 define("LAN_CRON_3", "Tab");
-define("LAN_CRON_4", "Laatst gedraaid");
+define("LAN_CRON_4", "Laatste keer uitgevoerd");
 define("LAN_CRON_5", "Actief");
 
 // Default crons
