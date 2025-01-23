@@ -34,6 +34,7 @@ define("LAN_AUDIT_LOG_021", "Gebruikers email gekaatst");
 define("LAN_AUDIT_LOG_022", "Gebruiker geblokkeerd");
 define("LAN_AUDIT_LOG_023", "Gebruikers kaatsing reset"); 
 define("LAN_AUDIT_LOG_024", "Tijdelijke gebruiker status");
+define("LAN_AUDIT_LOG_025", "Gebruikers navigatie log");
 
 
 // Admin log events
