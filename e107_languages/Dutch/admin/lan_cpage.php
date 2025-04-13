@@ -58,3 +58,4 @@ define("CUSLAN_83", "Wordt onder deze naam weergegeven in de Menu-Manager of kan
 define("CUSLAN_84", "Titel weergegeven bij het menu-item.");
 define("CUSLAN_85", "Laat dit leeg om de standaardwaarde te gebruiken");
 define("CUSLAN_86", "Laat dit leeg om de overeenkomstige pagina te gebruiken");
+define("CUSLAN_87", "Pagina's aanwezig");
