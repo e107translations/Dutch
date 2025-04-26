@@ -273,4 +273,5 @@ define("PRFLAN_284", "Navigatie-balk standaard laten samenvouwen");
 define("PRFLAN_285", "Veldhulptips weergeven");
 define("PRFLAN_286", "Inhoud Filters");
 //define("PRFLAN_286", "Als u met de muis over het veld beweegt.");
-//define("PRFLAN_287", "Als u met de muis over een hulppictogram links van het veld gaat.");
+define("PRFLAN_287", "Debug-knop weergeven in de navigatiebalk van het beheergebied");
+
