@@ -274,4 +274,3 @@ define("PRFLAN_285", "Veldhulptips weergeven");
 define("PRFLAN_286", "Inhoud Filters");
 //define("PRFLAN_286", "Als u met de muis over het veld beweegt.");
 define("PRFLAN_287", "Debug-knop weergeven in de navigatiebalk van het beheergebied");
-
