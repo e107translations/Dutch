@@ -33,7 +33,7 @@ define("RL_LAN_026", "Klasse voor welke gebruikers akties gelogd"); //????
 define("RL_LAN_028", "Filters bijwerken");
 define("RL_LAN_029", "Gebeurtenis-type filter");
 define("RL_LAN_030", "Beheerder Log");
-define("RL_LAN_031", "Acties om in te loggen");
+define("RL_LAN_031", "Gebruikers audit acties te loggen");
 define("RL_LAN_032", "Pri");		
 define("RL_LAN_033", "Verdere Informatie");
 define("RL_LAN_044", "Log gebeurtenissen per pagina te tonen");
