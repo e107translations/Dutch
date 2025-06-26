@@ -16,7 +16,7 @@ define("LAN_ONLINE_3", "Op deze pagina: ");
 define("LAN_ONLINE_4", "Online");
 define("LAN_ONLINE_5", "Leden");
 define("LAN_ONLINE_6", "Nieuwste lid: ");
-define("LAN_ONLINE_7", "bekijkt");
+define("LAN_ONLINE_7", " bekijkt");
 define("LAN_ONLINE_8", "Max. gelijk online: ");
 define("LAN_ONLINE_9", "op ");
 
