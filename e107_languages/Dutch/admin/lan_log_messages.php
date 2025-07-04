@@ -304,7 +304,6 @@ define("LAN_AL_MENU_09", "");
 // Public Uploads
 //---------------
 define("LAN_AL_UPLOAD_01", "Geüploade bestand verwijderd");
-define("LAN_AL_UPLOAD_01", "Geüploade bestand verwijderd");
 define("LAN_AL_UPLOAD_02", "Uploaden voorkeuren veranderd");
 
 // Search
