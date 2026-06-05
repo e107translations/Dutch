@@ -54,4 +54,4 @@ define("LAN_FPW22", "E-mail adres geregistreerd op deze website");
 define("LAN_FPW_100", "Wachtwoord vergeten?");
 define("LAN_FPW_101", "Geef je e-mailadres in,en je ontvangt een mail met instructies om je wachtwoord te wijzigen.");
 define("LAN_FPW_102", "Reset wachtwoord");
-
+Het opnieuw instellen van het wachtwoord is momenteel niet mogelijk vanwege een probleem met de configuratie van de site. Neem contact op met de sitebeheerder.
