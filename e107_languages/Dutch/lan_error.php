@@ -11,7 +11,7 @@
 */
 
 
-if(!defined('PAGE_NAME')) // FIXME./alleen nog voor BC 2.4 error 3
+if(!defined('PAGE_NAME')) // FIXME.
 {
 	define("PAGE_NAME", "Fout Pagina");
 }
