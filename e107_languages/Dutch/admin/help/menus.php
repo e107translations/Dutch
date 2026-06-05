@@ -10,25 +10,29 @@
 +----------------------------------------------------------------------------+
 */
 
-if(!defined('e107_INIT')){ die("Unauthorised Access");}
-if (!getperms("2")) {
+if(!defined('e107_INIT')){ exit; }
+
+if (!getperms("2") && !e107::isCli())
+{
 	e107::redirect();
-	 exit;
+	exit;
 }
+
 
 $sql = e107::getDb();
 $tp = e107::getParser();
+$frm = e107::getForm();
 
 if(isset($_POST['reset']))
 {
 		for($mc=1;$mc<=5;$mc++)
 		{
-			$sql -> db_Select("menus","*", "menu_location='".$mc."' ORDER BY menu_order");
+			$sql->select("menus","*", "menu_location='".$mc."' ORDER BY menu_order");
 			$count = 1;
-			$sql2 = new db;
-			while(list($menu_id, $menu_name, $menu_location, $menu_order) = $sql-> db_Fetch())
+			$sql2 = e107::getDb('sql2');
+			while(list($menu_id, $menu_name, $menu_location, $menu_order) = $sql->fetch())
 			{
-				$sql2 -> db_Update("menus", "menu_order='$count' WHERE menu_id='$menu_id' ");
+				$sql2 ->update("menus", "menu_order='$count' WHERE menu_id='$menu_id' ");
 				$count++;
 			}
 			$text = "<b>Menu's hersteld in de database</b><br /><br />";
@@ -39,18 +43,17 @@ else
 	unset($text);
 }
 
-$frm = e107::getForm();
-
 $text = "Met de Menu-Manager kan je bepalen waar je menu&acute;s zichtbaar zijn binnen je je gebruikte thema. 
 [u]Beweeg muis[/u] over de deelgebieden om de instellingen van bestaande menu items te wijzigen. 
 
 Als je niet meteen het resultaat ziet, druk dan even op de onderstaande 'refresh' knop.
 [html]
-<form method='post' id='menurefresh' action='".$_SERVER['PHP_SELF']."'>
+<form method='post' id='menurefresh' action='".e_SELF."'>
 <div>
 ".$frm->admin_button('reset','Refresh','cancel')."</div>
 </form>
-<div class='indent'><span class='required'><i class='icon-search icon-white'></i></span> geeft aan dat de zichtbaarheid van een menu is gewijzigd.</div>
+[br]
+".e107::getParser()->toGlyph('fa-search')." geeft aan dat de zichtbaarheid van een menu is gewijzigd.
 [/html]
 ";
 

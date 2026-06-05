@@ -37,7 +37,7 @@ define("LAN_ALT_25", "(soms gecombineerd met wachtwoord voor additionele beveili
 define("LAN_ALT_26", "Database type:");
 define("LAN_ALT_27", "Om een veld waarde over te brengen naar de lokale database, specificeer de veldnaam in bijbehorende box beneden. (Gebruikersnaam en wachtwoord worden altijd overgebracht)<br /> Laat het veld leeg voor niet overbrengen.");
 define("LAN_ALT_29", "Auth methoden");
-define("LAN_ALT_30", "Configureer");
+define("LAN_ALT_30", "Configureer ");
 define("LAN_ALT_31", "Hoofd configuratie");
 define("LAN_ALT_32", "Server:");
 define("LAN_ALT_33", "Gebruikersnaam:");
@@ -72,7 +72,7 @@ define("LAN_ALT_61", "Toestaan");
 define("LAN_ALT_62", "Veld naam");
 define("LAN_ALT_63", "Omschrijving");
 define("LAN_ALT_64", "Type");
-define("LAN_ALT_65", "Alternatieve authenticatie");
+define("LAN_ALT_65", "Alt-authenticatie");
 define("LAN_ALT_66", "Deze plugin maakt het gebruiken van alternatieve authenticatie methoden mogelijk.");
 define("LAN_ALT_67", "Configureer Alt auth");
 define("LAN_ALT_68", "Alt auth service is nu ingesteld. Je dient nu je voorkeurs-methode in te stellen.");
@@ -106,5 +106,3 @@ define("LAN_ALT_AUTH_HELP", "Dit zijn de gebruikelijke instellingen voor alle au
 define("LAN_ALT_VALIDATE_HELP", "Je kunt de instellingen controleren gebruikmakend van de \"Test Database Toegang\" sectie om een gebruiker te valideren - dit gebruikt het identiek gelijke proces wanneer een gebruiker inlogt, en bevestigt wanneer de instellingen juist zijn.<br /> Wanneer je enkele parameters hebt ingesteld voor kopieëren naar gebruikerstabel bij succesvol inloggen, worden deze ook opgesomd.");
 define("LAN_ALT_COPY_HELP", "Je kunt velden selecteren om te kopieëren vanuit de externe database naar de gebruikersdatabase door de juiste benaming in te geven. <br /><br />");
 define("LAN_ALT_CONVERSION_HELP", "Voor sommige velden; de drop-down box aan de rechterkant van het invoerveld veld selecteert een conversie die kan worden toegepast op het uitlezen van waarde uit de externe database; wanneer \"geen\" is geselecteerd, wordt de waarde gekopieerd zoals ontvangen. Conversies zijn: <br /> <b> TRUE / FALSE </ b> - de woorden \"TRUE \"en\" FALSE \"(en hun lagere / hoofdletter equivalenten) worden geconverteerd naar de Booleans 1 en nul <. br /> <b> Hoofdletters </ b> - Alle letters worden omgezet in hoofdletters <br /> <b> Kleine letters </ b> - Alle letters worden omgezet naar kleine letters <br /> <b> Hoofdletter eerst </ b> - het eerste teken wordt omgezet in hoofdletters <br /> <b> Hoofdletter woorden </ b> - de eerste letter van elk woord wordt omgezet in hoofdletters <br /> <br /> <br />");
-
-

@@ -11,12 +11,12 @@
 */
 define("LAN_PM", "Privé Bericht");
 define("LAN_PM_1", "verzend Privé Bericht");
-define("LAN_PM_2", "aan");
+define("LAN_PM_2", "Aan");
 define("LAN_PM_3", "Bekijk");
 define("LAN_PM_4", "Ledenklasse");
 define("LAN_PM_5", "Onderwerp");
 define("LAN_PM_6", "Bericht");
-define("LAN_PM_7", "emotes");
+define("LAN_PM_7", "Emotes");
 define("LAN_PM_8", "Bijlagen");
 define("LAN_PM_9", "Gelezen ontvangstbewijs");
 define("LAN_PM_10", "Stuur mij een e-mail wanneer deze PM gelezen is");

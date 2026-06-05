@@ -21,15 +21,15 @@ define("LAN_ERROR_2", "De opgevraagde URL vereist een juiste gebruikersnaam en w
 define("LAN_ERROR_3", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
 define("LAN_ERROR_4", "Fout 403 - Toegang geweigerd");
 define("LAN_ERROR_5", "Je hebt geen toestemming om het opgevraagde document of pagina op te halen.");
-define("LAN_ERROR_6", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
+define("LAN_ERROR_6", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");//alleen nog voor BC 2.4 error 3
 define("LAN_ERROR_7", "Error 404 - Document niet gevonden");
-define("LAN_ERROR_9", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
+define("LAN_ERROR_9", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");/alleen nog voor BC 2.4 error 3
 define("LAN_ERROR_10", "Fout 500 - Interne server fout");  //Fout 500 - Verminkte Header
 define("LAN_ERROR_11", "De server constateerde een interne fout of onjuiste instelling en kan je verzoek niet uitvoeren");
-define("LAN_ERROR_12", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
+define("LAN_ERROR_12", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");//alleen nog voor BC 2.4 error 3
 define("LAN_ERROR_13", "Fout - Onbekend");
 define("LAN_ERROR_14", "De server constateerde een fout");
-define("LAN_ERROR_15", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
+define("LAN_ERROR_15", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");/alleen nog voor BC 2.4 error 3
 define("LAN_ERROR_16", "Je mislukte poging tot benaderen van");
 define("LAN_ERROR_17", "is geregistreerd.");
 define("LAN_ERROR_18", "Blijkbaar ben je hier naartoe verwezen door");
@@ -45,7 +45,7 @@ define("LAN_ERROR_27", "[3]: Core instellingen bewaard - backup geactiveerd.");
 define("LAN_ERROR_28", "[4]: Geen core backup gevonden. Controleer of de database de correcte inhoud bevat.");
 define("LAN_ERROR_29", "[5]: Veld(en) niet ingevuld. Biedt het scherm nogmaals aan en vul de verplichte velden aan.");
 define("LAN_ERROR_30", "[6]: Kon geen geldige verbinding maken met MySQL. Controleer of e107_config.php de juiste informatie bevat.");
-define("LAN_ERROR_31", "[7]: MySQL draait, maar database ({$mySQLdefaultdb}) kon niet worden aangekoppeld.<br />Controleer dat de database bestaat en dat e107_config.php de juiste informatie bevat.");
+define("LAN_ERROR_31", "[7]: MySQL draait, maar database [x] kon niet worden aangekoppeld.<br />Controleer dat de database bestaat en dat e107_config.php de juiste informatie bevat.");
 define("LAN_ERROR_32", "Kopieer de volgende tekst in het e107_config.php bestand om de upgrade af te ronden:");
 define("LAN_ERROR_33", "Verwerkings Fout! Normaal gesproken wordt de startpagina nu getoond.");
 define("LAN_ERROR_34", "Onbekende fout! Informeer de beheerder dat je dit zag:");

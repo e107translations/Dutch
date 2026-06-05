@@ -118,4 +118,4 @@ define("RL_LAN_132", "Informatief");
 define("RL_LAN_133", "Opmerking");
 define("RL_LAN_134", "Waarschuwing");
 define("RL_LAN_135", "Fataal");
-
+define("RL_LAN_136", "Gebruikers navigatie log");

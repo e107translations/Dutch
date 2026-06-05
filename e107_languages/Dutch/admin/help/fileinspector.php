@@ -30,14 +30,13 @@ $text = "<div style='margin-left: 0px; margin-bottom: 1px; margin-top: 2px; vert
 <img src='".e_IMAGE."fileinspector/file_old.png' alt='".$dir."' style='margin-left: 3px; width: 16px; height: 16px' />&nbsp;Oud Core Bestand</div>
 <div style='margin-left: 0px; margin-bottom: 1px; margin-top: 2px; vertical-align: top; white-space: nowrap'>
 <img src='".e_IMAGE."fileinspector/file_unknown.png' alt='".$dir."' style='margin-left: 3px; width: 16px; height: 16px' />&nbsp;Niet Core Bestand</div>";
-$ns -> tablerender("File Key", $text);
-*/
+$ns -> tablerender("File Key", $text);*/
 
-$text = "Bestanden Inspecteur scant en analyseert de bestanden op de bestandsserver. Wanneer de inspecteur een e107 core bestand vindt, 
-controleert het op volledigheid en ook of het bestand niet corrupt (beschadigd) is.";
+	
+$text = "Bestandscontrole scant en analyseert de e107 bestanden op de server.<br /><br />Wanneer de bestandscontrole een e107 core bestand vindt wordt het op integriteit gecontroleerd en of het bestand niet corrupt of beschadigd is.";
 
 $text .= "<br /><br />
-<a href='".e_SELF."?create'>Klik hier om een snapshot te maken van je eigen plugin bestanden voor gebruik in Bestandeninspecteur.</a>";
+<a href='".e_SELF."?create'>Klik hier om een snapshot te maken van je eigen plugin bestanden voor gebruik in de bestandscontrole.</a>";
 
 if ($pref['developer']) {
 $text .= "<br /><br />
@@ -46,4 +45,4 @@ Het extra string overeenkomst hulpmiddel (alleen in ontwikkelaarsmodus) staat je
 (de preg_* functies), vul je query in als #pattern#modifiers in de voorgegeven vensters.";
 }
 
-$ns -> tablerender("Bestanden Inspecteur Hulp", $text);
+$ns -> tablerender("Bestandscontrole hulp", $text);

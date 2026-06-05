@@ -19,7 +19,7 @@ define("LAN_FAQS_006", "Verwijderen");
 define("LAN_FAQS_007", "Reset");
 define("LAN_FAQS_008", "[x]: Niet gevonden in zoekresultaten.");
 define("LAN_FAQS_009", "beheer reacties");
-define("LAN_FAQS_010", "Terug naar categorieen");
+define("LAN_FAQS_010", "Terug naar Categorie&euml;n");
 define("LAN_FAQS_011", "FAQ");
 define("LAN_FAQS_012", "Geef je vraag hier in...");
 define("LAN_FAQS_013", "karakter limiet");
@@ -35,7 +35,7 @@ define("LAN_FAQS_016", "Je hebt antwoorden verzocht op de volgende vragen:");
 //define("LAN_FAQS_RESET", "Reset");
 //define("LAN_FAQS_X_NOT_FOUND", "[x]: Niet gevonden in zoekresultaten.");
 //define("LAN_FAQS_MODERATE_COMMENTS", "beheer reacties");
-//define("LAN_FAQS_BACK_TO_CATEGORIES", "Terug naar categorieen");
+//define("LAN_FAQS_BACK_TO_CATEGORIES", "Terug naar Categorie&euml;n");
 //define("LAN_FAQS_ASK_A_QUESTION", "Stel een vraag"); verplaatst naar global
 //define("LAN_FAQS_FAQ", "FAQ");
 //define("LAN_FAQS_ENTER_A_QUESTION_HERE", "Geef je vraag hier in...");

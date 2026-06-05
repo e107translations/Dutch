@@ -34,6 +34,7 @@ define("LAN_AUDIT_LOG_021", "Gebruikers email gekaatst");
 define("LAN_AUDIT_LOG_022", "Gebruiker geblokkeerd");
 define("LAN_AUDIT_LOG_023", "Gebruikers kaatsing reset"); 
 define("LAN_AUDIT_LOG_024", "Tijdelijke gebruiker status");
+define("LAN_AUDIT_LOG_025", "Gebruikers navigatie log");
 
 
 // Admin log events
@@ -246,7 +247,7 @@ define("LAN_AL_LANG_05", "");
 //----------
 define("LAN_AL_META_01", "Meta tags bijgewerkt");
 
-// Downloads
+// Downloads  d.d Jan 18, 2025 onleesbaar5399
 //----------
 /*
 define("LAN_AL_DOWNL_01", "Download opties gewijzigd");
@@ -302,7 +303,6 @@ define("LAN_AL_MENU_09", "");
 
 // Public Uploads
 //---------------
-define("LAN_AL_UPLOAD_01", "Geüploade bestand verwijderd");
 define("LAN_AL_UPLOAD_01", "Geüploade bestand verwijderd");
 define("LAN_AL_UPLOAD_02", "Uploaden voorkeuren veranderd");
 

@@ -279,10 +279,10 @@ define ("EPL_ADLAN_240","Tabel verwijderen:");
 define ("EPL_ADLAN_241","Voeg instelling toe:"); 
 define ("EPL_ADLAN_242","Verwijder instelling:");
 define ("EPL_ADLAN_243","Instelling bijwerken:");
-define ("EPL_ADLAN_244","Tijdens installatie zijn er maar 5 Media Categorieen toegestaan.");  
+define ("EPL_ADLAN_244","Tijdens installatie zijn er maar 5 Media Categorie&euml;n toegestaan.");  
 
 define ("EPL_ADLAN_245","Media categorie toevoegen: [x]");  
-define ("EPL_ADLAN_246","Verwijder alle media Categorieen van: [x]"); 
+define ("EPL_ADLAN_246","Verwijder alle media Categorie&euml;n van: [x]"); 
 define ("EPL_ADLAN_247","Updates die worden geïnstalleerd");
 
 define ("EPL_ADLAN_249","Gebruikersveld toevoegen: ");  
