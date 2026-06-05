@@ -13,7 +13,15 @@
 if (!defined('e107_INIT')) { exit; }
 
 $caption = "Blokkeer toegang tot je site";
-if (e_QUERY) list($action,$junk) = explode('-',e_QUERY.'-'); else $action = 'list';		// Non-standard separator in query
+
+if(e_QUERY)
+{
+list($action,$junk) = explode('-', e_QUERY.'-');
+}
+else 
+{
+$action = 'list';		// Non-standard separator in query
+}
 
 switch ($action)
 {

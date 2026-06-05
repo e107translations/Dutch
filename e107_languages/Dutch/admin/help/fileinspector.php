@@ -30,8 +30,7 @@ $text = "<div style='margin-left: 0px; margin-bottom: 1px; margin-top: 2px; vert
 <img src='".e_IMAGE."fileinspector/file_old.png' alt='".$dir."' style='margin-left: 3px; width: 16px; height: 16px' />&nbsp;Oud Core Bestand</div>
 <div style='margin-left: 0px; margin-bottom: 1px; margin-top: 2px; vertical-align: top; white-space: nowrap'>
 <img src='".e_IMAGE."fileinspector/file_unknown.png' alt='".$dir."' style='margin-left: 3px; width: 16px; height: 16px' />&nbsp;Niet Core Bestand</div>";
-$ns -> tablerender("File Key", $text);
-*/
+$ns -> tablerender("File Key", $text);*/
 
 	
 $text = "Bestandscontrole scant en analyseert de e107 bestanden op de server.<br /><br />Wanneer de bestandscontrole een e107 core bestand vindt wordt het op integriteit gecontroleerd en of het bestand niet corrupt of beschadigd is.";
