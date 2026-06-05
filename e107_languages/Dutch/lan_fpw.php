@@ -23,7 +23,7 @@ define("LAN_08", "heeft geprobeert het beheerderswachtwoord te vernieuwen.");
 define("LAN_09", "Wachtwoord vernieuwd door ");
 //define("LAN_112", "E-mail adres geregistreerd op deze website");
 //define("LAN_156", "Verstuur");
-define("LAN_213", "Dit e-mailsdres of deze gebruikersnaam is niet aanwezig in onze database.");
+define("LAN_213", "Dit e-mailadres of deze gebruikersnaam is niet aanwezig in onze database.");
 define("LAN_214", "Kan wachtwoord niet vernieuwen");
 //define("LAN_216", "Ga naar de volgende URL om je nieuwe wachtwoord te bevestigen ...");
 //define("LAN_217", "Je nieuwe wachtwoord is nu geldig, je kunt met het nieuwe wachtwoord inloggen.");
