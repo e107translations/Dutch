@@ -274,3 +274,5 @@ define("PRFLAN_285", "Veldhulptips weergeven");
 define("PRFLAN_286", "Inhoud Filters");
 //define("PRFLAN_286", "Als u met de muis over het veld beweegt.");
 define("PRFLAN_287", "Debug-knop weergeven in de navigatiebalk van het beheergebied");
+define("PRFLAN_288", "Betrouwbare hosts");
+define("PRFLAN_289", "Extra hostnamen die de site accepteert in de Host-header, één per regel. De host die uit de site-URL wordt gehaald, wordt altijd als betrouwbaar beschouwd; de vermeldingen hier worden aan die lijst toegevoegd. Plak een volledige URL en de opgeslagen waarde wordt teruggebracht tot alleen de host.");
