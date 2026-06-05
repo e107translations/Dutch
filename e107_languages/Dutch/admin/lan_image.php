@@ -177,7 +177,7 @@ define('IMALAN_151', "Kies uit de bibliotheek");
 define('IMALAN_152', "Opties");
 define('IMALAN_153', "Afbeelding in gebruik");
 define('IMALAN_154', "Niet in gebruik");
-define('IMALAN_155', "Standaard map voor Avatar");
+define('IMALAN_155', "Standaard map voor Avatars");
 define('IMALAN_156', "Verwijder alle ongebruikte afbeeldingen");
 define('IMALAN_157', "Tekst doorloop");
 define('IMALAN_158', "Margin Links");

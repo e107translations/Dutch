@@ -247,7 +247,7 @@ define("LAN_AL_LANG_05", "");
 //----------
 define("LAN_AL_META_01", "Meta tags bijgewerkt");
 
-// Downloads
+// Downloads  d.d Jan 18, 2025 onleesbaar5399
 //----------
 /*
 define("LAN_AL_DOWNL_01", "Download opties gewijzigd");

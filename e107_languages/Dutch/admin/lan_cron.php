@@ -98,7 +98,7 @@ define("LAN_CRON_55", "Database backup niet gelukt");
 define("LAN_CRON_56", "Database backup Compleet");
 
 define("LAN_CRON_60", "Ga naar cPanel");
-define("LAN_CRON_61", "Maak nieuw cron wachtwoord");
+define("LAN_CRON_61", "Maak nieuw cron token");
 define("LAN_CRON_62", "Uitvoeren configuratie functie [b][x][/b]");
 define("LAN_CRON_63", "Configuratie functie [b][x][/b] NIET gevonden.");
 define("LAN_CRON_64", "Een beheerder kan taken automatiseren met behulp van de e107 taak planner. [br]

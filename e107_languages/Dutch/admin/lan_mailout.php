@@ -166,7 +166,7 @@ define("LAN_MAILOUT_153", "Bijlagen");
 define("LAN_MAILOUT_154", "Verzend Formaat");
 define("LAN_MAILOUT_155", "Selectors");
 define("LAN_MAILOUT_156", "Maximum aantal te verzenden emails per taakplanner tik");
-define("LAN_MAILOUT_157", "Waarde is afhankelijk van een aantal factoren, inclusief hoevaak je mail-verzendreeks wordt geactiveerd en welke frekwentie je ISP toestaat voor uitgaande mail. Nul om elke keer je taakplanning te legen");
+define("LAN_MAILOUT_157", "Waarde is afhankelijk van een aantal factoren, inclusief hoevaak je mail-verzendreeks wordt geactiveerd en welke frequentie je ISP toestaat voor uitgaande mail. Nul om elke keer je taakplanning te legen");
 define("LAN_MAILOUT_158", "Verstuur nu");
 define("LAN_MAILOUT_159", "Houd email vast");
 define("LAN_MAILOUT_160", "Annuleer verzenden");
