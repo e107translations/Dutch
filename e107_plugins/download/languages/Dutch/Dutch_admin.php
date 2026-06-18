@@ -80,7 +80,7 @@ define("DOWLAN_116", "Limiet voor die gebruikersklasse bestaat reeds");
 define("DOWLAN_117", "Limiet succesvol toegevoegd");
 define("DOWLAN_118", "Limiet niet toegevoegd - onbekende fout");
 define("DOWLAN_119", "Limiet succesvol verwijderd");
-define("DOWLAN_120", "Limiet nniet verwijderd - obekende fout");
+define("DOWLAN_120", "Limiet niet verwijderd - onbekende fout");
 define("DOWLAN_121", "Limiet succesvol bijgewerkt");
 define("DOWLAN_122", "Inactief");
 define("DOWLAN_123", "Actief - bestand is beperkt door downloadlimieten");
@@ -159,7 +159,6 @@ define("DOWLAN_HELP_8", "Help voor upload lijst");
 define("DOWLAN_HELP_9", "Help voor upload typen");
 define("DOWLAN_HELP_10", "Help voor upload opties");
 define("DOWLAN_HELP_11", "Klik op de knop 'verwijderen' om het rapport te verwijderen.[br][br]Klik op de knop 'bekijken' om de download te beheren.[br][br]Om nieuwe meldingen te ontvangen ga naar de [notify settings].");
-
 define("LAN_DL_SECURITY_DESCRIPTION", "Downloads kunnen gebruik maken van server-side URL beveiligings mogelijkheden om hotlinking tegen te gaan en /of het vervallen van de link af te dwingen. " .
 	"Dit gedeelte moet worden geconfigureerd voordat de downloadserver is geconfigureerd om de kans op onderbrekingen te verkleinen..");
 define("LAN_DL_SECURITY_MODE", "URL beschermingsmodus");
