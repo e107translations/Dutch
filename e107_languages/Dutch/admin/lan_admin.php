@@ -14,7 +14,6 @@ define("ADLAN_1", "Beheren nieuws");
 define("ADLAN_2", "Opstellen nieuwsbericht");
 define("ADLAN_3", "Nieuws hoofdpagina");
 define("ADLAN_3a", "Nieuwsvoorkeuren");
-
 define("ADLAN_5", "Stel voorkeuren in");
 define("ADLAN_6", "Menu&#39;s");
 define("ADLAN_7", "Veranderd de volgorde van de menu&acute;s");
@@ -120,12 +119,10 @@ define("ADLAN_164", "Met succes ingelogd als [x].");
 define("ADLAN_165", "Opgebouwd met e107");
 define("ADLAN_166", "Terug naar website");
 define("ADLAN_167", "Nog niet verzonden mailings");
-
 define("ADLAN_168", "Bezoekers");//infopanel
 define("ADLAN_169", "Unieke bezoekers");
 define("ADLAN_170", "Deze statistieken zijn alleen bedoeld als voorbeeld.");
 define("ADLAN_171", "Installeer Site Statistieken plugin");
-
 define("ADLAN_185", "Wissel zijkantmenu");
 define("ADLAN_186", "De volgende bestanden zijn verouderd en kunnen worden verwijderd:");
 define("ADLAN_187", "Aanmaken [x] niet mogelijk. Controleer je bestandsrechten op de map.");   //vindt even niet welk ding wordt aangemaakt
@@ -137,7 +134,6 @@ define("ADLAN_192", "Neem contact op met andere e107 gebruikers voor [gratis ond
 define("ADLAN_193", "De map [x] is niet beschrijfbaar. Graag aanpassen voordat je doorgaat.");
 define("ADLAN_194", "Legacy avatars map gedetecteerd. Zorg ervoor dat de map [x]avatars/ beschrijfbaar is. Graag aanpassen voordat je doorgaat.");
 define("ADLAN_195", "Oude map verplaatst naar backup");
-
 define("ADLAN_CL_2", "Leden");
 define("ADLAN_CL_3", "Inhoud");
 define("ADLAN_CL_4", "Coms");
@@ -152,8 +148,9 @@ define("ADLAN_LAT_6", "Gemeldde forumberichten");
 define("ADLAN_LAT_7", "Bestandsuploads");
 define("ADLAN_LAT_8", "Er zijn nog niet beoordeelde beheerboodschappen");
 define("ADLAN_LAT_9", "Beheer reacties");
-define("ADLAN_ERR_3", "Er zijn een of meer bestanden in de openbare upload directories die niet in de toegestane upload bestandsformaat lijst staan. Ze kunnen daar zijn neergezet door een aanvaller en als dat zo is, moeten ze [b]onmiddelijk[/b] worden verwijderd. Je moet de bestanden [b]niet[/b] openen, omdat ze kwaadaardige code zouden kunnen bevatten. Open ze hoe dan ook niet met je browser.<br /><br />Als je deze bestanden legitiem vindt, dan kunnen ze worden getoond omdat je recent de lijst met niet toegestane bestandsformaten hebt gewijzigd. Vul de lijst dan aan met dit bestandsformaat (in beheer => uploads). Je moet upload van .html, .txt, etc. nooit toestaan, omdat een aanvaller een bestand van een dergelijk type via kwaadaardige javascripts zou kunnen uploaden. Je moet ook nooit upload van .php of andere uitvoerbare scripts toestaan.<br /><br />Hieronder staan de mogelijk schadelijke bestanden opgesomd:");
+define("ADLAN_ERR_3", "Er zijn een of meer bestanden in de openbare upload directories die niet in de toegestane upload bestandsformaat lijst staan. Ze kunnen daar zijn neergezet door een aanvaller en als dat zo is, moeten ze [b]onmiddelijk[/b] worden verwijderd. Je moet de bestanden [b]niet[/b] openen, omdat ze kwaadaardige code zouden kunnen bevatten. Open ze hoe dan ook niet met je browser.<br /><br />Als je deze bestanden legitiem vindt, dan kunnen ze worden getoond omdat je recent de lijst met niet toegestane bestandsformaten hebt gewijzigd. Vul de lijst dan aan met dit bestandsformaat (in beheer => uploads). Je moet upload van .html, .txt, etc. nooit toestaan, omdat een aanvaller een bestand van een dergelijk type via kwaadaardige javascripts zou kunnen uploaden. Je moet ook nooit upload van .php of andere uitvoerbare scripts toestaan.
 
+Hieronder staan de mogelijk schadelijke bestanden opgesomd:");
 define("LAN_CREATE", "Aanmaken");
 define("LAN_MANAGE", "Beheren");
 define("LAN_UPDATE", "Bijwerken");
@@ -165,7 +162,6 @@ define("LAN_ADD", "Toevoegen");
 define("LAN_REMOVE", "Verwijder");
 define("LAN_ADD_MORE", "Meer toevoegen");
 define("LAN_MULTIPLE_CHOICE", "Meerkeuze mogelijk");
-
 define("LAN_SAVE", "Opslaan");
 define("LAN_SAVED", "Opgeslagen");
 define("LAN_SETSAVED", "Je instellingen zijn opgeslagen");
@@ -175,7 +171,6 @@ define("LAN_OPTIONS", "Opties");
 define("LAN_ERRORS", "Fouten");
 define("LAN_MESSAGES", "Berichten");
 define("LAN_DATA", "Gegevens");
-
 define("LAN_PREFS", "Voorkeuren");
 define("LAN_BASIC_OPTIONS", "Basis voorkeuren");
 define("LAN_DELETED", "Succesvol verwijderd");
@@ -185,9 +180,7 @@ define("LAN_CREATED_FAILED", "Aanmaken mislukt");
 define("LAN_DELETED_FAILED", "Verwijderen mislukt");
 define("LAN_UPDATED_FAILED", "Bijwerken mislukt");
 define("LAN_NO_CHANGE", "Bijwerken mislukt omdat er geen wijzigingen zijn aangebracht.");
-
 define("LAN_TRY_AGAIN", "Probeer nogmaals.");
-
 define("LAN_NEVER", "Nooit");
 define("LAN_PRUNE", "Opschonen");
 define("LAN_RESET", "Reset");
@@ -230,23 +223,21 @@ define("LAN_DISPLAYOPT", "Bewerk weergave opties");
 //define("LAN_DATESTAMP", "Datum stempel");
 define("LAN_TIMESTAMP","Tijd stempel");  
 //define("LAN_IP","IP");
-define("LAN_IP_ADDRESS","IP Adres");  
+//define("LAN_IP_ADDRESS","IP Adres");  
 define("LAN_PAGE","Pagina");  
 define("LAN_AGENT","Agent");  
 define("LAN_LANG","Taal.");  
 define("LAN_APPROVE","Goedkeuren"); 
-
 define("LAN_OPTIONAL", "optioneel");
 define("LAN_INACTIVE", "Inactief");
 define("LAN_ACTIVATE","Activeren");
-define("LAN_ACTIVE", "Actief");
+//define("LAN_ACTIVE", "Actief");
 define("LAN_ACCEPT", "Accepteren");
 define("LAN_PASSWORD_WARNING", "Het wordt AANBEVOLEN om [de wachtwoord versleuteling te veranderen] naar PHP Default. (Wachtwoord versleutelingen worden automatisch aangepast wanneer er ingelogd wordt.)");
 define("LAN_PENDING", "In behandeling");
 define("LAN_SUBMITTED", "Ingevoerd");
 define("LAN_POSTED_BY_X","Geplaatst door [x] [y]"); 
 define("LAN_VIEW_ALL","Bekijk alles"); 
-
 define("LAN_BAN", "Blokkeren");
 define("LAN_PATH", "Pad");
 define("LAN_UPLOAD", "Upload");
@@ -306,7 +297,7 @@ define("LAN_COPY", "Kopi&#235;ren");
 define("LAN_KEYWORDS", "Trefwoorden");
 define("LAN_TEMPLATE", "Template");
 define("LAN_TEMPLATES","Templates");
-define("LAN_CATEGORIES", "Categori&#235;en");
+//define("LAN_CATEGORIES", "Categori&#235;en");
 define("LAN_DEMO_FORBIDDEN", "Veranderingen zijn op deze pagina niet mogelijk in de demo instelling.");
 define("LAN_COPYRIGHT", "Auteursrecht");
 define("LAN_MANAGEPERMS", "Beheer gebuikersrechten");
@@ -362,7 +353,6 @@ define("LAN_UI_FILTER_PAST_WEEK", "Afgelopen week");
 define("LAN_UI_FILTER_PAST_MONTH", "Afgelopen maand");
 define("LAN_UI_FILTER_PAST_XMONTHS", "Afgelopen [x] maanden");
 define("LAN_UI_FILTER_PAST_YEAR", "Afgelopen jaar");
-
 define("LAN_USER_MANAGEALL", "Beheer alle leden, Gebruikersklasse en Gebruikersvelden instellingen");
 define("LAN_USER_LIST", "Leden lijst");
 define("LAN_USER_QUICKADD", "Lid snel toevoegen");
@@ -410,7 +400,6 @@ define("LAN_MAINTENANCE", "Onderhoud");
 define("LAN_RETURN_TO_FRONT_PANEL", "Terug naar voorpagina");
 define("LAN_CHANGE_LANGUAGE", "Wijzig taal");
 define("LAN_NEWER_VERSION_OF_X", "Een nieuwere versie van [x] [y] is beschikbaar als download."); // x= Name  y = Theme | Plugin  
-
 //define("LAN_SUBJECT", "Onderwerp");
 define("LAN_ITEM", "Item");
 define("LAN_LOCK", "Op slot");
@@ -419,8 +408,6 @@ define("LAN_ENGINE", "Aangedreven door");
 define("LAN_SOURCE", "Bron");
 define("LAN_UPGRADING", "Bijwerken?");
 define("LAN_DONT_SHOW_AGAIN", "Laat niet meer zien");
-
-
 define("LAN_ERROR_CONNECTION","Er kan geen verbinding gemaakt worden met de updateserver, controleer firewall en/of internet verbnding of probeer later nog eens.");
 define("LAN_UI_X_CANT_EQUAL_Y", "[x] kan niet identiek zijn aan [y]");
 define("LAN_UI_VIEW_GRID_LABEL", "Rasterweergave");
@@ -451,15 +438,12 @@ define("LAN_X_CHARS_REMAINING", "[x] karakt.. resterend");
 define("LAN_UI_BATCH_NOW", "Huidige datum/tijd");
 define("LAN_RELATIONSHIP", "Verwantschap"); //of Relatie??	
 define("LAN_RELATIONSHIP_HELP", "Optioneel 'rel' attribuut. Komma gescheiden.");
-
 define("LAN_NO_SCRIPT_ACCESS", "Je hebt geen toestemming om [script]-tags te gebruiken.");
 define("LAN_NO_SCRIPT_ACCESS_ASK",  "Als u denkt dat dit een fout is, vraag dan de hoofdbeheerder om u scripttoegang te verlenen via [b]Voorkeuren > Inhoudsfilters[/b]");
-
 define("LAN_UI_FILTER_TODAY", "Vandaag");
 define("LAN_UI_FILTER_THIS_WEEK", "Deze week");
 define("LAN_UI_FILTER_THIS_MONTH", "Deze maand");
 define("LAN_UI_FILTER_THIS_YEAR", "Dit jaar");
-
 define("LAN_SEARCH_ENGINES_X_LIMIT", "Gelezen door zoekmachines. Maximaal [x] tekens.");
 define("LAN_META_TITLE", "Meta titel");
 define("LAN_META_DESCRIPTION", "Meta beschrijving");
@@ -467,3 +451,9 @@ define("LAN_SYSTEM_NOTIFICATIONS_X", "[x] Systeem melding(-en)");
 define("LAN_PHP_OUTDATED", "Je website gebruikt momenteel een [verouderde PHP versie], welke mogelijk een beveiligingsrisico vormt. Als je plugins het toestaan, adviseren wij om te upgraden naar [x] om te voorzien in een veilige en bijgewerkte website.");
 define("LAN_DATABASE_UPDATE", "Een update voor jouw database is beschikbaar. Wij adviseren zo spoedig mogelijk het [toepassen van deze update] om te verzekeren dat je database veilig en bijgewerkt is naar nieuwste niveau.");
 define("LAN_HISTORY", "Geschiedenis");
+define("LAN_EMULATION_MODE", "Emulatiemodus machtiging");
+define("LAN_EMULATION_EMULATING", "Emulatie:");
+define("LAN_EMULATION_USERCLASSES", "Gebruikersklassen");
+define("LAN_EMULATION_ADMINPERMS", "Beheerdersrechten:");
+define("LAN_EMULATION_TEMPORARY", "De emulatie van machtigingen is tijdelijk. Je identiteit blijft ongewijzigd en de emulatie eindigt wanneer je uitlogt.");
+define("LAN_EMULATION_STOP", "Stop emulatie");
