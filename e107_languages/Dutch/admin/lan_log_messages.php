@@ -89,11 +89,6 @@ define("LAN_AL_BANLIST_10", "Witte lijst ingave bijgewerkt");
 define("LAN_AL_BANLIST_11", "Witte lijst hit opgeschoond");//??
 define("LAN_AL_BANLIST_12", "Verlopen bans verwijderd");
 
-
-// Comment-related events
-//-----------------------
-define("LAN_AL_COMMENT_01", "Commentaar verwijderd");
-
 // Rolling log events
 //-------------------
 define("LAN_ROLL_LOG_01", "Lege gebruikersnaam en/of wachtwoord");
