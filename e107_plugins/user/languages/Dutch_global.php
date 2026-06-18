@@ -9,5 +9,5 @@
  */
 
 define("LAN_PLUGIN_USER_NAME", "Gebruiker");
-define("LAN_PLUGIN_USER_DESC", "Gebruiker thema en taal menu's");
+define("LAN_PLUGIN_USER_DESC", "Gebruiker thema en taal menu&#130;s");
 
