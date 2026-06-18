@@ -21,7 +21,7 @@ define("LAN_ONLINE_8", "Max. gelijk online: ");
 define("LAN_ONLINE_9", "op ");
 
 define("LAN_ONLINE_10", "Online Menu");
-define("LAN_ONLINE_11", "Totaal geregistreerde leden:");
+define("LAN_ONLINE_11", "Totaal geregistreerde leden: ");
 
 define("LAN_ONLINE_ADMIN_1", "laatstgezien menu");
 define("LAN_ONLINE_ADMIN_2", "Titel laatstgezien menu");
