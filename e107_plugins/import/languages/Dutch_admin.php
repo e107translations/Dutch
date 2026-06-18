@@ -1,0 +1,88 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Dutch Language File.
+|
+|     $URL:$
+|     $Revision:$
+|     $Date:$
+|     $Author: Yvalni, Tgtje $
++----------------------------------------------------------------------------+
+*/
+return [
+
+
+    'LAN_CONVERT_03' => "Je moet starten met een zuivere E107 database, anders dan de hoofd beheerder gebruiker (ID=1)",
+    'LAN_CONVERT_04' => "Veld(-en) leeg gelaten, ga aub. terug en vul waarden opnieuw in",
+    'LAN_CONVERT_05' => "Het draaien van dit script kan mogelijke veel van je E107 tabellen legen - zorg dat je een volledige backup hebt voordat je doorgaat!",
+    'LAN_CONVERT_06' => "Importeer data type",
+    'LAN_CONVERT_07' => "CSV formaat specificatie",
+    'LAN_CONVERT_08' => "Bestaande database",
+    'LAN_CONVERT_09' => "Connectie details voor database bron",
+    'LAN_CONVERT_10' => "Wachtwoorden in bron bestand zijn niet versleuteld",
+    'LAN_CONVERT_11' => "Data details bron",
+    'LAN_CONVERT_12' => "Basis gebruikersnaam en wachtwoord",
+    'LAN_CONVERT_13' => "CSV bestand",
+    'LAN_CONVERT_14' => "Formaat van de te importeren database",
+    'LAN_CONVERT_15' => "Geen import-converteerders beschikbaar",
+    'LAN_CONVERT_16' => "Eerste gebruikersklasse(-n)",
+    'LAN_CONVERT_17' => "Wachtwoord in CSV bestand is niet voorheen versleuteld",
+    'LAN_CONVERT_18' => "(wachtwoord dient te zijn opgeslagen met MD5 versleuteling)",
+    'LAN_CONVERT_19' => "Database Host",
+    'LAN_CONVERT_20' => "Database gebruikersnaam",
+    'LAN_CONVERT_21' => "Database wachtwoord",
+    'LAN_CONVERT_22' => "Database naam",
+    'LAN_CONVERT_23' => "Database tabel voorvoegsel",
+    'LAN_CONVERT_24' => "Gebieden te importeren",
+    'LAN_CONVERT_25' => "Gebruikers",
+    'LAN_CONVERT_26' => "Forum definities",
+    'LAN_CONVERT_27' => "Peilingen",
+    'LAN_CONVERT_28' => "Nieuws",
+    'LAN_CONVERT_29' => "Database import gereed",
+    'LAN_CONVERT_30' => "Importeer routine informatie",
+    'LAN_CONVERT_31' => "CSV data bestand bestaat niet, of rechten niet juist",
+    'LAN_CONVERT_32' => "Fout lezen CSV data bestand",
+    'LAN_CONVERT_33' => "Fout in CSV data regel",
+    'LAN_CONVERT_34' => "Fout: [x] tijdens schrijven naar gebruikers database, regel",
+    'LAN_CONVERT_35' => "CSV import voltooid. [x] gelezen, [y] gebruikers toegevoegd, [z] fouten",
+    'LAN_CONVERT_36' => "Bestandsnaam voor CSV data",
+    'LAN_CONVERT_37' => "Onjuist formaat specifcatie voor import type",
+    'LAN_CONVERT_38' => "Verwijder bestaande data",
+    'LAN_CONVERT_39' => "(als je dat niet doet, worden de plaatsers van geïmporteerde data getoond als \"Anoniem\")",
+    'LAN_CONVERT_40' => "Bestaande data verwijderd",
+    'LAN_CONVERT_41' => "Noodzakelijk database toegangsveld is leeg",
+    'LAN_CONVERT_42' => "Fout in definitie bestand - benodigde klasse bestaat niet",
+    'LAN_CONVERT_43' => "Fout bij verbinden naar bron database",
+    'LAN_CONVERT_44' => "Query setup fout voor",
+    'LAN_CONVERT_45' => "Kan importeer code bestand niet lezen",
+    'LAN_CONVERT_46' => "Fout: [x] tijdens schrijven naar [y] database, regel",
+    'LAN_CONVERT_47' => "Partijen [w] import voltooid. [x] gelezen, [y] toegevoegd, [z] fouten",
+    'LAN_CONVERT_48' => "Forum berichten",
+
+    'LAN_CONVERT_49' => "Drupal",
+    'LAN_CONVERT_50' => "Standaard import",
+    'LAN_CONVERT_51' => "De versie van bedoelde Drupal.",
+    'LAN_CONVERT_52' => "Drupal Versie",
+    'LAN_CONVERT_53' => "De basis URL van de Drupal website (v.b., http://mydrupalsite.com).",
+    'LAN_CONVERT_54' => "Drupal Basis URL",
+    'LAN_CONVERT_55' => "Het basis URL pad (of/indien, directorie) van de Drupal installatie (v.b., /drupal/).",
+    'LAN_CONVERT_56' => "Drupal Basis Pad",
+    'LAN_CONVERT_57' => "Geen fout",
+    'LAN_CONVERT_58' => "Kan de hoofd beheerders gegevens niet veranderen",
+    'LAN_CONVERT_59' => "ongeldig veld gezien",
+    'LAN_CONVERT_60' => "Verplicht veld niet ingesteld",
+    'LAN_CONVERT_61' => "Gebruiker bestaat al",
+    'LAN_CONVERT_62' => "Ongeldige tekens in gebruikers- of loginnaam",
+    'LAN_CONVERT_63' => "Fout bij het opslaan van uitgebreide gebruikers velden",
+    'LAN_CONVERT_64' => "Selecteer",
+    'LAN_CONVERT_65' => "Pagina/'s",
+    'LAN_CONVERT_66' => "Pagina hoofdstukken",
+    'LAN_CONVERT_67' => "Links",
+    'LAN_CONVERT_68' => "Media",
+    'LAN_CONVERT_69' => "Forum",
+    'LAN_CONVERT_70' => "Forum Onderwerpen / Discussies",
+    'LAN_CONVERT_71' => "Forum Posts",
+    'LAN_CONVERT_72' => "Forum Track",
+    'LAN_CONVERT_73' => "Gebruikersklassen",
+    'LAN_CONVERT_74' => "Nieuws Categorie&euml;n",
+];

@@ -1,0 +1,16 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Dutch Language File.
+|
+|     $URL:$
+|     $Revision:$
+|     $Date:$
+|     $Author: Yvalni, Tgtje $
++----------------------------------------------------------------------------+
+*/
+return [
+
+    'LAN_PLUGIN_PAGE_BOCHAP' => "Zoeken in Boek/Hoofdstuk",
+    'LAN_PLUGIN_PAGE_NAME' => "Pagina&#39;s",
+];
