@@ -1,386 +1,256 @@
 <?php
 /*
-+ ----------------------------------------------------------------------------+
-|     e107 website system - Dutch Language File.
-|
-|     $URL:$
-|     $Revision:$
-|     $Date:$
-|     $Author: Yvalni, Tgtje $
-+----------------------------------------------------------------------------+
+ * Copyright (C) 2008-2025 e107 Inc (e107.org), Licensed under GNU GPL (http://www.gnu.org/licenses/gpl.txt)
+ *
+ * Admin Language File
+ *
 */
 
-define("LAN_AUDIT_LOG_001", "Toegang door gebande gebruiker");
-define("LAN_AUDIT_LOG_002", "Flood bescherming geactiveerd");
-define("LAN_AUDIT_LOG_003", "Toegang vanaf geband IP-adres");
-define("LAN_AUDIT_LOG_004", "");
-define("LAN_AUDIT_LOG_005", "");
-define("LAN_AUDIT_LOG_006", "Gebruiker veranderde wachtwoord");
-define("LAN_AUDIT_LOG_007", "Gebruiker veranderde e-mailadres");
-define("LAN_AUDIT_LOG_008", "");
-define("LAN_AUDIT_LOG_009", "");
-define("LAN_AUDIT_LOG_010", "Gebruikersgegevens gewijzigd door admin");
-define("LAN_AUDIT_LOG_011", "Gebruiker aangemeld");
-define("LAN_AUDIT_LOG_012", "Gebruiker bevestigde registratie");
-define("LAN_AUDIT_LOG_013", "Gebruiker ingelogd");
-define("LAN_AUDIT_LOG_014", "Gebruiker uitgelogd");
-define("LAN_AUDIT_LOG_015", "Gebruiker veranderde weergavenaam");
-define("LAN_AUDIT_LOG_016", "Gebruiker veranderde wachtwoord");
-define("LAN_AUDIT_LOG_017", "Gebruiker veranderde e-mailadres");
-define("LAN_AUDIT_LOG_018", "Gebruikers wachtwoord reset"); 
-define("LAN_AUDIT_LOG_019", "Gebruiker wijzigde instellingen");
-define("LAN_AUDIT_LOG_020", "Gebruiker toegevoegd door admin");
-define("LAN_AUDIT_LOG_021", "Gebruikers email gekaatst"); 
-define("LAN_AUDIT_LOG_022", "Gebruiker geblokkeerd");
-define("LAN_AUDIT_LOG_023", "Gebruikers kaatsing reset"); 
-define("LAN_AUDIT_LOG_024", "Tijdelijke gebruiker status");
-define("LAN_AUDIT_LOG_025", "Gebruikers navigatie log");
-
-
-// Admin log events
-//-----------------
-define("LAN_AL_ADLOG_01", "Admin log - Voorkeuren  bijgewerkt");
-define("LAN_AL_ADLOG_02", "admin log - verwijderen oude gegevens");
-define("LAN_AL_ADLOG_03", "Gebruiker Audit log - verwijderen oude gegevens");
-define("LAN_AL_ADLOG_04", "Gebruiker audit opties bijgewerkt");
-define("LAN_AL_ADLOG_05", "");
-
-// User edits
-//-----------
-define("LAN_AL_USET_01", "Admin bewerkte gebruikersgegevens");
-define("LAN_AL_USET_02", "Gebruiker toegevoegd door Admin");
-define("LAN_AL_USET_03", "Gebruikers opties bijgewerkt");
-define("LAN_AL_USET_04", "Gebruikers opgeschoond");
-define("LAN_AL_USET_05", "Gebruiker geblokkeerd");
-define("LAN_AL_USET_06", "Gebruikers gedeblokkeerd");
-define("LAN_AL_USET_07", "Gebruiker verwijderd");
-define("LAN_AL_USET_08", "Gebruiker gemaakt admin");
-define("LAN_AL_USET_09", "Gebruiker admin-status ingetrokken");
-define("LAN_AL_USET_10", "Gebruiker goedgekeurd");
-define("LAN_AL_USET_11", "Validatie e-mail opnieuw verzenden");
-define("LAN_AL_USET_12", "Alle validatie e-mails verzenden");
-define("LAN_AL_USET_13", "Bounced e-mails verwijderd");
-define("LAN_AL_USET_14", "Lidmaatschap klasse bijgewerkt");
-define("LAN_AL_USET_15", "Inschrijven geweigerd");
-
-// userclass events
-//------------------
-define("LAN_AL_UCLASS_00", "Onbekende Gebruikersklasse-gerelateerde gebeurtenis");
-define("LAN_AL_UCLASS_01", "Gebruikersklasse aangemaakt");
-define("LAN_AL_UCLASS_02", "Gebruikersklasse verwijderd");
-define("LAN_AL_UCLASS_03", "Gebruikersklasse bijgewerkt");
-define("LAN_AL_UCLASS_04", "Klasse lidmaatschap bijgewerkt"); 
-define("LAN_AL_UCLASS_05", "Initiële Gebruikersklasse instellingen bijgewerkt");
-define("LAN_AL_UCLASS_06", "Klasse lidmaatschap geleegd");
-
-// Banlijst events
-//----------------
-define("LAN_AL_BANLIST_00", "Onbekende ban-gerelateerde gebeurtenis");
-define("LAN_AL_BANLIST_01", "Handmatige ban toegevoegd");
-define("LAN_AL_BANLIST_02", "Ban verwijderd");
-define("LAN_AL_BANLIST_03", "Ban tijd gewijzigd");
-define("LAN_AL_BANLIST_04", "Witte lijst ingave toegevoegd");
-define("LAN_AL_BANLIST_05", "Witte lijst ingave verwijderd");
-define("LAN_AL_BANLIST_06", "Banlijst geexporteerdd");
-define("LAN_AL_BANLIST_07", "Banlijst geimporteed");
-define("LAN_AL_BANLIST_08", "Banlijst opties bijgewerkt");
-define("LAN_AL_BANLIST_09", "Banlijst ingave bijgewerkt");
-define("LAN_AL_BANLIST_10", "Witte lijst ingave bijgewerkt");
-define("LAN_AL_BANLIST_11", "Witte lijst hit opgeschoond");//??
-define("LAN_AL_BANLIST_12", "Verlopen bans verwijderd");
-
-// Rolling log events
-//-------------------
-define("LAN_ROLL_LOG_01", "Lege gebruikersnaam en/of wachtwoord");
-define("LAN_ROLL_LOG_02", "Onjuiste beeld-code ingevoerd");
-define("LAN_ROLL_LOG_03", "Ongeldige gebruikersnaam/wachtwoord combinatie");
-define("LAN_ROLL_LOG_04", "Ongeldige gebruikersnaam ingevoerd");
-define("LAN_ROLL_LOG_05", "Inlogpoging door gebruiker bij niet volledige aanmelding"); //??
-define("LAN_ROLL_LOG_06", "Inlog geblokkeerd door event trigger handler"); //??
-define("LAN_ROLL_LOG_07", "Teveel logins van hetzelfde adres");
-define("LAN_ROLL_LOG_08", "Te lange gebruikersnaam lengte");
-define("LAN_ROLL_LOG_09", "Geblokkeerde gebruiker probeerde in te loggen");
-define("LAN_ROLL_LOG_10", "Mislukte inlog poging - reden onbekend");
-define("LAN_ROLL_LOG_11", "Beheerders login mislukt"); 
-
-// Prefs events
-//-------------
-define("LAN_AL_PREFS_01", "Voorkeuren gewijzigd");
-define("LAN_AL_PREFS_02", "Nieuwe voorkeuren aangemaakt");
-define("LAN_AL_PREFS_03", "Fout bij het opslaan van voorkeuren");
-
-
-// Front Page events
-//------------------
-define("LAN_AL_FRONTPG_00", "Onbekende start pagina gerelateerd bericht");
-define("LAN_AL_FRONTPG_01", "Regel volgorde veranderd");
-define("LAN_AL_FRONTPG_02", "Regel toegevoegd");
-define("LAN_AL_FRONTPG_03", "Regel bijgewerkt");
-define("LAN_AL_FRONTPG_04", "Regel verwijderd");
-define("LAN_AL_FRONTPG_05", "");
-define("LAN_AL_FRONTPG_06", "");
-
-
-// User theme admin
-//-----------------
-define("LAN_AL_UTHEME_00", "Onbekende gebruikers thema gerelateerd bericht");
-define("LAN_AL_UTHEME_01", "Gebruikers thema instellingen veranderd");
-define("LAN_AL_UTHEME_02", "");
-
-
-// Update routines
-//----------------
-define("LAN_AL_UPDATE_00", "Onbekende software update gerelateerd bericht");
-define("LAN_AL_UPDATE_01", "Bijwerken van 1,0 tot 2,0 uitgevoerd");
-define("LAN_AL_UPDATE_02", "Update vanaf 0.7.x naar 0.7.6 uitgevoerd");
-define("LAN_AL_UPDATE_03", "Ontbrekende voorkeuren toegevoegd");
-
-
-// Administrator routines
-//-----------------------
-define("LAN_AL_ADMIN_00", "Onbekende beheerder gebeurtenis");
-define("LAN_AL_ADMIN_01", "Beheerders rechten bijgewerkt");
-define("LAN_AL_ADMIN_02", "Beheerders rechten verwijderd");
-define("LAN_AL_ADMIN_03", "");
-
-// Maintenance mode
-//-----------------
-define("LAN_AL_MAINT_00", "Onbekend onderhouds bericht");
-define("LAN_AL_MAINT_01", "Onderhoudsmodus ingesteld");
-define("LAN_AL_MAINT_02", "Onderhoudsmodus verwijderd");
-
-
-// Sitelinks routines
-//-------------------
-define("LAN_AL_SLINKS_00", "Onbekend sitelinks bericht");
-define("LAN_AL_SLINKS_01", "Sublinks gegenereerd");
-define("LAN_AL_SLINKS_02", "Sitelink omhoog geplaatst");
-define("LAN_AL_SLINKS_03", "Sitelink omlaag geplaatst");
-define("LAN_AL_SLINKS_04", "Sitelink volgorde bijgewerkt");
-define("LAN_AL_SLINKS_05", "Sitelinks opties bijgewerkt");
-
-
-define("LAN_AL_SLINKS_06", "Sitelink verwijderd");
-define("LAN_AL_SLINKS_07", "Sitelink verzonden");
-define("LAN_AL_SLINKS_08", "Sitelink bijgewerkt");
-
-
-// thema manager routines
-//-----------------------
-define("LAN_AL_THEME_00", "Onbekend thema-gerelateerd bericht");
-define("LAN_AL_THEME_01", "Site thema bijgewerkt");
-define("LAN_AL_THEME_02", "Beheerders thema bijgewerkt");
-define("LAN_AL_THEME_03", "Afbeeldings preload/site CSS bijgewerkt");
-define("LAN_AL_THEME_04", "Beheerders style/CSS bijgewerkt");
-define("LAN_AL_THEME_05", "");
-
-
-// Cache control routines
-//-----------------------
-define("LAN_AL_CACHE_00", "Onbekend cache-controle bericht");
-define("LAN_AL_CACHE_01", "Cache settings bijgewerkt");
-define("LAN_AL_CACHE_02", "Systeem cache leeggemaakt");
-define("LAN_AL_CACHE_03", "Content cache leeggemaakt");
-define("LAN_AL_CACHE_04", "");
-
-
-// Emote admin
-//------------
-define("LAN_AL_EMOTE_00", "Onbekend emoticons-gerelateerd bericht");
-define("LAN_AL_EMOTE_01", "Actief emotiecon pack verandert");
-define("LAN_AL_EMOTE_02", "Emoticons geactiveerd");
-define("LAN_AL_EMOTE_03", "Emoticons gedeactiveerd");
-
-
-// Welcome message
-//----------------
-define("LAN_AL_WELCOME_00",  "Onbekend welkom-gerelateerd bericht");
-define("LAN_AL_WELCOME_01",  "welkomst Bericht aangemaakt");
-define("LAN_AL_WELCOME_02",  "welkomst bericht bijgewerkt");
-define("LAN_AL_WELCOME_03",  "welkomst bericht verwijderd");
-define("LAN_AL_WELCOME_04",  "welkomst bericht opties bijgewerkt");
-define("LAN_AL_WELCOME_05",  "");
-
-
-// Admin Password
-//---------------
-define("LAN_AL_ADMINPW_01", "Beheerders wachtwoord veranderd");
-define("LAN_AL_ADMINPW_02", "Beheerders wachtwoord opnieuw gemaakt");
-
-
-// Banners Admin
-//--------------
-define("LAN_AL_BANNER_00", "Onbekend banner-gerelateerd bericht");
-define("LAN_AL_BANNER_01", "Banner menu bijgewerkt");
-define("LAN_AL_BANNER_02", "Banner aangemaakt");
-define("LAN_AL_BANNER_03", "Banner bijgewerkt");
-define("LAN_AL_BANNER_04", "Banner verwijderd");
-define("LAN_AL_BANNER_05", "Banner configurate bijgewerkt");
-define("LAN_AL_BANNER_06", "");
-
-// Image management
-//-----------------
-define("LAN_AL_IMALAN_00", "Onbekend afbeelings-gerelateerd bericht");
-define("LAN_AL_IMALAN_01", "Avatar verwijderd");
-define("LAN_AL_IMALAN_02", "Alle avatars en foto\"s verwijderd");
-define("LAN_AL_IMALAN_03", "Avatar verwijderd");
-define("LAN_AL_IMALAN_04", "Instellingen bijgewerkt");
-define("LAN_AL_IMALAN_05", "");
-define("LAN_AL_IMALAN_06", "");
-
-// Language management
-//--------------------
-define("LAN_AL_LANG_00", "Onbekend taal-gerelateerd bericht");
-define("LAN_AL_LANG_01", "Taal voorkeuren gewijzigd");
-define("LAN_AL_LANG_02", "Taal tabellen verwijderd");
-define("LAN_AL_LANG_03", "Taal tabellen aangemaakt");
-define("LAN_AL_LANG_04", "Taal zip aangemaakt");
-define("LAN_AL_LANG_05", "");
-
-// Meta Tags
-//----------
-define("LAN_AL_META_01", "Meta tags bijgewerkt");
-
-// Downloads  d.d Jan 18, 2025 onleesbaar5399
-//----------
 /*
-define("LAN_AL_DOWNL_01", "Download opties gewijzigd");
-define("LAN_AL_DOWNL_02", "Download categorie aangemaakt");
-define("LAN_AL_DOWNL_03", "Download categorie bijgewerkt");
-define("LAN_AL_DOWNL_04", "Download categorie verwijderd");
-define("LAN_AL_DOWNL_05", "Download aangemaakt");
-define("LAN_AL_DOWNL_06", "Download bijgewerkt");
-define("LAN_AL_DOWNL_07", "Download verwijderd");
-define("LAN_AL_DOWNL_08", "Download categorie volgorde bijgewerkt");
-define("LAN_AL_DOWNL_09", "Download limiet toegevoegd");
-define("LAN_AL_DOWNL_10", "Download limiet bijgewerkt");
-define("LAN_AL_DOWNL_11", "Download limiet verwijderd");
-define("LAN_AL_DOWNL_12", "Download mirror toegevoegd");
-define("LAN_AL_DOWNL_13", "Download mirror bijgewerkt");
-define("LAN_AL_DOWNL_14", "Download mirror verwijderd");
-define("LAN_AL_DOWNL_15", "");
+The definitions in this file are for standard "explanatory" messages which might be entered
+into any of the system logs. They are in three groups with different prefixes:
+	LAN_ADMIN_LOG_nnn - the admin log (records intentional actions by admins)
+	LAN_AUDIT_LOG_nnn - the audit log (records actions, generally intentional, by users)
+	LAN_ROLL_LOG_nnn - the rolling log (records extraneous events, debugging etc)
 */
 
-// Custom Pages/Menus
-//-------------------
-define("LAN_AL_CPAGE_01", "Maatwerk pagina/menu toegevoegd");
-define("LAN_AL_CPAGE_02", "Maatwerk pagina/menu bijgewerkt");
-define("LAN_AL_CPAGE_03", "Maatwerk pagina/menu verwijderd");
-define("LAN_AL_CPAGE_04", "Maatwerk pagina/menu instellingen bijgewerkt");
 
-// Uitgebereide gebruikers veldens
-//---------------------
-define("LAN_AL_EUF_01", "EUF Verplaatst naar boven");
-define("LAN_AL_EUF_02", "EUF Verplaatst naar beneden");
-define("LAN_AL_EUF_03", "EUF categorie  Naar boven verplaatst");
-define("LAN_AL_EUF_04", "EUF categorie  Naar beneden verplaatst ");
-define("LAN_AL_EUF_05", "Uitgebereide gebruikers velden toegevoegd");
-define("LAN_AL_EUF_06", "Uitgebereide gebruikers velden bijgewerkt");
-define("LAN_AL_EUF_07", "Uitgebereide gebruikers velden verwijderd");
-define("LAN_AL_EUF_08", "EUF categorie toegevoegd");
-define("LAN_AL_EUF_09", "EUF categorie bijgewerkt");
-define("LAN_AL_EUF_10", "EUF categorie verwijderd");
-define("LAN_AL_EUF_11", "Uitgebreide gebruikers velden geactiveerd");
-define("LAN_AL_EUF_12", "Uitgebreide gebruikers velden gedeactiveerd");
+// User audit trail events. For messages 11-30, the last 2 digits must match the define for the event type in the admin log class file
 
-// Menus
-//------
-define("LAN_AL_MENU_01", "Menu geactiveerd");
-define("LAN_AL_MENU_02", "Menu - Stel zichtbaarheid in");
-define("LAN_AL_MENU_03", "Menu - verander gebied");
-define("LAN_AL_MENU_04", "Menu gedeactiveerd");
-define("LAN_AL_MENU_05", "Menu - Verplaats naar boven");
-define("LAN_AL_MENU_06", "Menu - Verplaats naar beneden");
-define("LAN_AL_MENU_07", "Menu - Omhoog");
-define("LAN_AL_MENU_08", "Menu - Omlaag");
-define("LAN_AL_MENU_09", "");
-
-// Public Uploads
-//---------------
-define("LAN_AL_UPLOAD_01", "Geüploade bestand verwijderd");
-define("LAN_AL_UPLOAD_02", "Uploaden voorkeuren veranderd");
-
-// Search
-//-------
-define("LAN_AL_SEARCH_01", "Zoek instellingen bijgewerkt");
-define("LAN_AL_SEARCH_02", "Zoek voorkeuren bijgewerkt");
-define("LAN_AL_SEARCH_03", "Zoek params auto-update"); //??
-define("LAN_AL_SEARCH_04", "doorzoekbare gebieden bijgewerkt");
-define("LAN_AL_SEARCH_05", "Zoek afhandelings instellingen bijgewerkt");
-define("LAN_AL_SEARCH_06", "");
-
-// Notify
-//-------
-define("LAN_AL_NOTIFY_01", "Berichten bij melding instellingen bijgewerkt"); //??
-
-// News
-//-----
-define("LAN_AL_NEWS_01", "Nieuws item verwijderd");
-define("LAN_AL_NEWS_02", "Nieuws categorie verwijderd");
-define("LAN_AL_NEWS_03", "Ingezonden nieuws verwijderd");
-define("LAN_AL_NEWS_04", "Nieuws categorie aangemaakt");
-define("LAN_AL_NEWS_05", "Nieuws categorie bijgewerkt");
-define("LAN_AL_NEWS_06", "Nieuws voorkeuren bijgewerkt");
-define("LAN_AL_NEWS_07", "Ingezonden nieuws geautoriseerd");
-define("LAN_AL_NEWS_08", "Nieuws item toegevoegd");
-define("LAN_AL_NEWS_09", "Nieuws item bijgewerkt");
-define("LAN_AL_NEWS_10", "Nieuws categorie rewrite veranderd"); //??
-define("LAN_AL_NEWS_11", "Nieuws categorie rewrite verwijderd"); //??
-define("LAN_AL_NEWS_12", "Nieuws rewrite veranderd");//??
-define("LAN_AL_NEWS_13", "Nieuws rewrite verwijderd");//??
-
-// Comments
-//---------
-define("LAN_AL_COMMENT_01", "Reactie (s) verwijderd");
-
-// File Manager
-//-------------
-define("LAN_AL_FILEMAN_01", "Bestand(en) verwijderd");
-define("LAN_AL_FILEMAN_02", "Bestand(en) verplaaatst");
-define("LAN_AL_FILEMAN_03", "Bestand(en) geupload");
-define("LAN_AL_FILEMAN_04", "");
-
-// Mail
-//-----
-define("LAN_AL_MAIL_01", "Test e-mail verzonden");
-define("LAN_AL_MAIL_02", "mailing gecreëerd");
-define("LAN_AL_MAIL_03", "Mailing gegevens gewist");
-define("LAN_AL_MAIL_04", "Mailshot details verwijderd");
-define("LAN_AL_MAIL_05", "Mail Database opgeruimd"); 
-define("LAN_AL_MAIL_06", "MailOut geactiveerd");
-define("LAN_AL_MAIL_07", "");
-
-// Plugin Manager
-//---------------
-define("LAN_AL_PLUGMAN_01", "Plugin geïnstalleerd");
-define("LAN_AL_PLUGMAN_02", "Plugin bijgewerkt");
-define("LAN_AL_PLUGMAN_03", "Plugin verwijderd");
-define("LAN_AL_PLUGMAN_04", "Plugin ververst");
-
-// URL Manager
-//---------------
-define("LAN_AL_EURL_01", "Site URL configuratie verandert");
-
-// Sundry Pseudo-plugins - technically they"re plugins, but not worth the file overhead of treating them separately
-//----------------------
-define("LAN_AL_MISC_01", "Boom menu-instellingen bijgewerkt");
-define("LAN_AL_MISC_02", "Online menu-instellingen bijgewerkt");
-define("LAN_AL_MISC_03", "Login menu-instellingen bijgewerkt");
-define("LAN_AL_MISC_04", "Reactie menu-instellingen bijgewerkt");
-define("LAN_AL_MISC_05", "Menu-instellingen van de klok bijgewerkt");
-define("LAN_AL_MISC_06", "Blog kalender menu-instellingen bijgewerkt");
-//define("LAN_AL_MISC_07", "");
-
-
-define("LAN_AL_PING_01", "Ping naar dienst");
-
-define("LAN_AL_ADMINUI_01", "Admin-UI DB Tabel Invoegen: [x]");
-define("LAN_AL_ADMINUI_02", "Admin-UI DB Tabel Update: [x]");
-define("LAN_AL_ADMINUI_03", "Admin-UI DB Tabel Verwijder: [x]");
-define("LAN_AL_ADMINUI_04", "Admin-UI DB Fout: [x]");
-
-define("LAN_AL_BACKUP", "Database backup");
-define("LAN_AL_MEDIA_01", "Media Upload");
-
-define("LAN_AL_USET_100", "Beheerder ingelogd als een andere gebruiker");
-define("LAN_AL_USET_101", "Beheerder als een andere gebruiker uitgelogd");
+return [
+    'LAN_AUDIT_LOG_001' => "Access by banned user",
+    'LAN_AUDIT_LOG_002' => "Flood protection activated",
+    'LAN_AUDIT_LOG_003' => "Access from banned IP Address",
+    'LAN_AUDIT_LOG_004' => "",
+    'LAN_AUDIT_LOG_005' => "",
+    'LAN_AUDIT_LOG_006' => "User changed password",
+    'LAN_AUDIT_LOG_007' => "User changed email address",
+    'LAN_AUDIT_LOG_008' => "",
+    'LAN_AUDIT_LOG_009' => "",
+    'LAN_AUDIT_LOG_010' => "User data changed by admin",
+    'LAN_AUDIT_LOG_011' => "User signed up",
+    'LAN_AUDIT_LOG_012' => "User confirmed registration",
+    'LAN_AUDIT_LOG_013' => "User login",
+    'LAN_AUDIT_LOG_014' => "User logout",
+    'LAN_AUDIT_LOG_015' => "User changed display name",
+    'LAN_AUDIT_LOG_016' => "User changed password",
+    'LAN_AUDIT_LOG_017' => "User changed email address",
+    'LAN_AUDIT_LOG_018' => "User password reset",
+    'LAN_AUDIT_LOG_019' => "User changed settings",
+    'LAN_AUDIT_LOG_020' => "User added by admin",
+    'LAN_AUDIT_LOG_021' => "User email bounce",
+    'LAN_AUDIT_LOG_022' => "User banned",
+    'LAN_AUDIT_LOG_023' => "User bounce reset",
+    'LAN_AUDIT_LOG_024' => "User temporary status",
+    'LAN_AUDIT_LOG_025' => "User navigation trail",
+    'LAN_AL_ADLOG_01' => "Admin log - prefs updated",
+    'LAN_AL_ADLOG_02' => "Admin log - delete old data",
+    'LAN_AL_ADLOG_03' => "User Audit log - delete old data",
+    'LAN_AL_ADLOG_04' => "User audit options updated",
+    'LAN_AL_ADLOG_05' => "",
+    'LAN_AL_USET_01' => "Admin edited user data",
+    'LAN_AL_USET_02' => "User added by Admin",
+    'LAN_AL_USET_03' => "User options updated",
+    'LAN_AL_USET_04' => "Users pruned",
+    'LAN_AL_USET_05' => "User banned",
+    'LAN_AL_USET_06' => "User unbanned",
+    'LAN_AL_USET_07' => "User deleted",
+    'LAN_AL_USET_08' => "User made admin",
+    'LAN_AL_USET_09' => "User admin status revoked",
+    'LAN_AL_USET_10' => "User approved",
+    'LAN_AL_USET_11' => "Resend validation email",
+    'LAN_AL_USET_12' => "Resend all validation emails",
+    'LAN_AL_USET_13' => "Bounced emails deleted",
+    'LAN_AL_USET_14' => "Class membership updated",
+    'LAN_AL_USET_15' => "Signup refused",
+    'LAN_AL_UCLASS_00' => "Unknown userclass-related event",
+    'LAN_AL_UCLASS_01' => "Userclass created",
+    'LAN_AL_UCLASS_02' => "Userclass deleted",
+    'LAN_AL_UCLASS_03' => "Userclass edited",
+    'LAN_AL_UCLASS_04' => "Class membership updated",
+    'LAN_AL_UCLASS_05' => "Initial userclass settings edited",
+    'LAN_AL_UCLASS_06' => "Class membership emptied",
+    'LAN_AL_BANLIST_00' => "Unknown ban-related event",
+    'LAN_AL_BANLIST_01' => "Manual ban added",
+    'LAN_AL_BANLIST_02' => "Ban deleted",
+    'LAN_AL_BANLIST_03' => "Ban time changed",
+    'LAN_AL_BANLIST_04' => "Whitelist entry added",
+    'LAN_AL_BANLIST_05' => "Whitelist entry deleted",
+    'LAN_AL_BANLIST_06' => "Banlist exported",
+    'LAN_AL_BANLIST_07' => "Banlist imported",
+    'LAN_AL_BANLIST_08' => "Banlist options updated",
+    'LAN_AL_BANLIST_09' => "Banlist entry edited",
+    'LAN_AL_BANLIST_10' => "Whitelist entry edited",
+    'LAN_AL_BANLIST_11' => "Whitelist hit for ban entry",
+    'LAN_AL_BANLIST_12' => "Expired bans cleared",
+    'LAN_AL_COMMENT_01' => "Comment(s) deleted",
+    'LAN_ROLL_LOG_01' => "Empty username and/or password",
+    'LAN_ROLL_LOG_02' => "Incorrect image code entered",
+    'LAN_ROLL_LOG_03' => "Invalid username/password combination",
+    'LAN_ROLL_LOG_04' => "Invalid username entered",
+    'LAN_ROLL_LOG_05' => "Login attempt by user not fully signed up",
+    'LAN_ROLL_LOG_06' => "Login blocked by event trigger handler",
+    'LAN_ROLL_LOG_07' => "Multiple logins from same address",
+    'LAN_ROLL_LOG_08' => "Excessive username length",
+    'LAN_ROLL_LOG_09' => "Banned user attempted login",
+    'LAN_ROLL_LOG_10' => "Login fail - reason unknown",
+    'LAN_ROLL_LOG_11' => "Admin login fail",
+    'LAN_AL_PREFS_01' => "Preferences changed",
+    'LAN_AL_PREFS_02' => "New Preferences created",
+    'LAN_AL_PREFS_03' => "Error saving prefs",
+    'LAN_AL_FRONTPG_00' => "Unknown front page-related event",
+    'LAN_AL_FRONTPG_01' => "Rules order changed",
+    'LAN_AL_FRONTPG_02' => "Rule added",
+    'LAN_AL_FRONTPG_03' => "Rule edited",
+    'LAN_AL_FRONTPG_04' => "Rule deleted",
+    'LAN_AL_FRONTPG_05' => "",
+    'LAN_AL_FRONTPG_06' => "",
+    'LAN_AL_UTHEME_00' => "Unknown user theme related event",
+    'LAN_AL_UTHEME_01' => "User theme settings changed",
+    'LAN_AL_UTHEME_02' => "",
+    'LAN_AL_UPDATE_00' => "Unknown software update related event",
+    'LAN_AL_UPDATE_01' => "Update from 1.0 to 2.0 executed",
+    'LAN_AL_UPDATE_02' => "Update from 0.7.x to 0.7.6 executed",
+    'LAN_AL_UPDATE_03' => "Missing prefs added",
+    'LAN_AL_ADMIN_00' => "Unknown administrator event",
+    'LAN_AL_ADMIN_01' => "Update admin permissions",
+    'LAN_AL_ADMIN_02' => "Admin rights removed",
+    'LAN_AL_ADMIN_03' => "",
+    'LAN_AL_MAINT_00' => "Unknown maintenance message",
+    'LAN_AL_MAINT_01' => "Maintenance mode set",
+    'LAN_AL_MAINT_02' => "Maintenance mode cleared",
+    'LAN_AL_SLINKS_00' => "Unknown sitelinks message",
+    'LAN_AL_SLINKS_01' => "Sublinks generated",
+    'LAN_AL_SLINKS_02' => "Sitelink moved up",
+    'LAN_AL_SLINKS_03' => "Sitelink moved down",
+    'LAN_AL_SLINKS_04' => "Sitelink order updated",
+    'LAN_AL_SLINKS_05' => "Sitelinks options updated",
+    'LAN_AL_SLINKS_06' => "Sitelink deleted",
+    'LAN_AL_SLINKS_07' => "Sitelink submitted",
+    'LAN_AL_SLINKS_08' => "Sitelink updated",
+    'LAN_AL_THEME_00' => "Unknown theme-related message",
+    'LAN_AL_THEME_01' => "Site theme updated",
+    'LAN_AL_THEME_02' => "Admin theme updated",
+    'LAN_AL_THEME_03' => "Image preload/site CSS updated",
+    'LAN_AL_THEME_04' => "Admin style/CSS updated",
+    'LAN_AL_THEME_05' => "",
+    'LAN_AL_CACHE_00' => "Unknown cache-control message",
+    'LAN_AL_CACHE_01' => "Cache settings updated",
+    'LAN_AL_CACHE_02' => "System cache emptied",
+    'LAN_AL_CACHE_03' => "Content cache emptied",
+    'LAN_AL_CACHE_04' => "",
+    'LAN_AL_EMOTE_00' => "Unknown emote-related message",
+    'LAN_AL_EMOTE_01' => "Active emote pack changed",
+    'LAN_AL_EMOTE_02' => "Emotes activated",
+    'LAN_AL_EMOTE_03' => "Emotes deactivated",
+    'LAN_AL_WELCOME_00' => "Unknown welcome-related message",
+    'LAN_AL_WELCOME_01' => "Welcome message created",
+    'LAN_AL_WELCOME_02' => "Welcome message updated",
+    'LAN_AL_WELCOME_03' => "Welcome message deleted",
+    'LAN_AL_WELCOME_04' => "Welcome message options changed",
+    'LAN_AL_WELCOME_05' => "",
+    'LAN_AL_ADMINPW_01' => "Admin password changed",
+    'LAN_AL_ADMINPW_02' => "Admin password rehashed",
+    'LAN_AL_BANNER_00' => "Unknown banner-related message",
+    'LAN_AL_BANNER_01' => "Banner menu update",
+    'LAN_AL_BANNER_02' => "Banner created",
+    'LAN_AL_BANNER_03' => "Banner updated",
+    'LAN_AL_BANNER_04' => "Banner deleted",
+    'LAN_AL_BANNER_05' => "Banner configuration updated",
+    'LAN_AL_BANNER_06' => "",
+    'LAN_AL_IMALAN_00' => "Unknown image-related message",
+    'LAN_AL_IMALAN_01' => "Avatar deleted",
+    'LAN_AL_IMALAN_02' => "All avatars and photos deleted",
+    'LAN_AL_IMALAN_03' => "Avatar deleted",
+    'LAN_AL_IMALAN_04' => "Settings updated",
+    'LAN_AL_IMALAN_05' => "",
+    'LAN_AL_IMALAN_06' => "",
+    'LAN_AL_LANG_00' => "Unknown language-related message",
+    'LAN_AL_LANG_01' => "Language prefs changed",
+    'LAN_AL_LANG_02' => "Language tables deleted",
+    'LAN_AL_LANG_03' => "Language tables created",
+    'LAN_AL_LANG_04' => "Language zip created",
+    'LAN_AL_LANG_05' => "",
+    'LAN_AL_META_01' => "Meta tags updated",
+    // LAN_AL_DOWNL_* admin-log titles live in the download plugin: e107_plugins/download/languages/English/English_log.php
+    'LAN_AL_CPAGE_01' => "Custom page/menu added",
+    'LAN_AL_CPAGE_02' => "Custom page/menu updated",
+    'LAN_AL_CPAGE_03' => "Custom page/menu deleted",
+    'LAN_AL_CPAGE_04' => "Custom page/menu settings updated",
+    'LAN_AL_EUF_01' => "EUF moved up",
+    'LAN_AL_EUF_02' => "EUF moved down",
+    'LAN_AL_EUF_03' => "EUF category moved up",
+    'LAN_AL_EUF_04' => "EUF category moved down",
+    'LAN_AL_EUF_05' => "Extended User Field added",
+    'LAN_AL_EUF_06' => "Extended User Field updated",
+    'LAN_AL_EUF_07' => "Extended User Field deleted",
+    'LAN_AL_EUF_08' => "EUF category added",
+    'LAN_AL_EUF_09' => "EUF category updated",
+    'LAN_AL_EUF_10' => "EUF category deleted",
+    'LAN_AL_EUF_11' => "Extended user fields activated",
+    'LAN_AL_EUF_12' => "Extended user fields deactivated",
+    'LAN_AL_MENU_01' => "Menu activated",
+    'LAN_AL_MENU_02' => "Menu - set visibility",
+    'LAN_AL_MENU_03' => "Menu - change area",
+    'LAN_AL_MENU_04' => "Menu deactivated",
+    'LAN_AL_MENU_05' => "Menu - move to top",
+    'LAN_AL_MENU_06' => "Menu - move to bottom",
+    'LAN_AL_MENU_07' => "Menu - move up",
+    'LAN_AL_MENU_08' => "Menu - move down",
+    'LAN_AL_MENU_09' => "",
+    'LAN_AL_UPLOAD_01' => "Uploaded file deleted",
+    'LAN_AL_UPLOAD_02' => "Upload prefs changed",
+    'LAN_AL_SEARCH_01' => "Search settings updated",
+    'LAN_AL_SEARCH_02' => "Search prefs updated",
+    'LAN_AL_SEARCH_03' => "Search params auto-update",
+    'LAN_AL_SEARCH_04' => "Searchable areas updated",
+    'LAN_AL_SEARCH_05' => "Search handler settings updated",
+    'LAN_AL_SEARCH_06' => "",
+    'LAN_AL_NOTIFY_01' => "Notify settings updated",
+    'LAN_AL_NEWS_01' => "News item deleted",
+    'LAN_AL_NEWS_02' => "News category deleted",
+    'LAN_AL_NEWS_03' => "Submitted news deleted",
+    'LAN_AL_NEWS_04' => "News category created",
+    'LAN_AL_NEWS_05' => "News category updated",
+    'LAN_AL_NEWS_06' => "News preferences updated",
+    'LAN_AL_NEWS_07' => "Submitted news authorised",
+    'LAN_AL_NEWS_08' => "News item added",
+    'LAN_AL_NEWS_09' => "News item updated",
+    'LAN_AL_NEWS_10' => "News category rewrite changed",
+    'LAN_AL_NEWS_11' => "News category rewrite deleted",
+    'LAN_AL_NEWS_12' => "News rewrite changed",
+    'LAN_AL_NEWS_13' => "News rewrite deleted",
+    'LAN_AL_FILEMAN_01' => "File(s) deleted",
+    'LAN_AL_FILEMAN_02' => "File(s) moved",
+    'LAN_AL_FILEMAN_03' => "File(s) uploaded",
+    'LAN_AL_FILEMAN_04' => "",
+    'LAN_AL_MAIL_01' => "Test email sent",
+    'LAN_AL_MAIL_02' => "Mailshot created",
+    'LAN_AL_MAIL_03' => "Mail settings updated",
+    'LAN_AL_MAIL_04' => "Mailshot details deleted",
+    'LAN_AL_MAIL_05' => "Mail Database tidy",
+    'LAN_AL_MAIL_06' => "Mailout activated",
+    'LAN_AL_MAIL_07' => "",
+    'LAN_AL_PLUGMAN_01' => "Plugin installed",
+    'LAN_AL_PLUGMAN_02' => "Plugin updated",
+    'LAN_AL_PLUGMAN_03' => "Plugin uninstalled",
+    'LAN_AL_PLUGMAN_04' => "Plugin refreshed",
+    'LAN_AL_EURL_01' => "Site URL configuration changed",
+    'LAN_AL_MISC_01' => "Tree menu settings updated",
+    'LAN_AL_MISC_02' => "Online menu settings updated",
+    'LAN_AL_MISC_03' => "Login menu settings updated",
+    'LAN_AL_MISC_04' => "Comment menu settings updated",
+    'LAN_AL_MISC_05' => "Clock menu settings updated",
+    'LAN_AL_MISC_06' => "Blog calendar menu settings updated",
+    'LAN_AL_PING_01' => "Ping to service",
+    'LAN_AL_ADMINUI_01' => "Admin-UI DB Table Insert: [x]",
+    'LAN_AL_ADMINUI_02' => "Admin-UI DB Table Update: [x]",
+    'LAN_AL_ADMINUI_03' => "Admin-UI DB Table Delete: [x]",
+    'LAN_AL_ADMINUI_04' => "Admin-UI DB Error: [x]",
+    'LAN_AL_BACKUP' => "Database backup",
+    'LAN_AL_MEDIA_01' => "Media Upload",
+    'LAN_AL_USET_100' => "Admin logged in as another user",
+    'LAN_AL_USET_101' => "Admin logged out as another user",
+    'LAN_AL_USET_102' => "Admin started permission emulation of another user",
+    'LAN_AL_USET_103' => "Admin stopped permission emulation of another user",
+];
