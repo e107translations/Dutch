@@ -70,7 +70,6 @@ define("LAN_AL_UCLASS_01", "Gebruikersklasse aangemaakt");
 define("LAN_AL_UCLASS_02", "Gebruikersklasse verwijderd");
 define("LAN_AL_UCLASS_03", "Gebruikersklasse bijgewerkt");
 define("LAN_AL_UCLASS_04", "Klasse lidmaatschap bijgewerkt"); 
-define("LAN_AL_UCLASS_04", "Class membership bijgewerkt");
 define("LAN_AL_UCLASS_05", "Initiële Gebruikersklasse instellingen bijgewerkt");
 define("LAN_AL_UCLASS_06", "Klasse lidmaatschap geleegd");
 
