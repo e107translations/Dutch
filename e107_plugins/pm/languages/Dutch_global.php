@@ -9,12 +9,12 @@
 |     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
-define("LAN_PLUGIN_PM_NAME", "Privé Messenger");
+define("LAN_PLUGIN_PM_NAME", "Priv&#233; Messenger");
 define("LAN_PLUGIN_PM_DESCRIPTION", "Deze plugin is een volledig Privé Berichten systeem.");
 define("LAN_PLUGIN_PM_URL_DEFAULT_LABEL", "Standaard");
 define("LAN_PLUGIN_PM_URL_DEFAULT_DESCR", "Standaard");
 define("LAN_PLUGIN_PM_INBOX", "Inbox"); //inbox
-define("LAN_PLUGIN_PM_OUTBOX", "Outbox"); //outbox
+define("LAN_PLUGIN_PM_OUTBOX", "Uitbox"); //outbox
 define("LAN_PLUGIN_PM_NEW", "Verstuur bericht");
 define("LAN_PLUGIN_PM_TO", "Aan");
 define("LAN_PLUGIN_PM_FROM", "Van");
@@ -24,3 +24,5 @@ define("LAN_PLUGIN_PM_READ", "Lees");
 define("LAN_PLUGIN_PM_DEL", "Verwijder PM");
 define("LAN_PLUGIN_PM_ATTACHMENT", "Bijlage");
 define("LAN_PLUGIN_PM_SIZE", "Grootte");
+define("LAN_PLUGIN_PM_NAV", "Priv&#233; Messenger");
+define("LAN_PLUGIN_PM_UNREAD", "ongelezen");
