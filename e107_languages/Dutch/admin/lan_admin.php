@@ -227,7 +227,7 @@ define("LAN_ROOT","Root");
 define("LAN_LINE","Regel");
 define("LAN_SHORTCODES","Shortcodes");
 define("LAN_DISPLAYOPT", "Bewerk weergave opties");
-define("LAN_DATESTAMP", "Datum stempel");
+//define("LAN_DATESTAMP", "Datum stempel");
 define("LAN_TIMESTAMP","Tijd stempel");  
 define("LAN_IP","IP");
 define("LAN_IP_ADDRESS","IP Adres");  
