@@ -32,6 +32,7 @@ return [
     'POLLAN_42' => "Deze peiling is alleen voor beheerders",
     'POLLAN_43' => "Je mag niet stemmen in deze peiling",
     'POLLAN_50' => "Actief van [x] tot [y]",
+     'POLLAN_POST_POLL' => "Plaats Poll",
 
     'LAN_FORUM_3029' => "Wanneer je geen peiling wil toevoegen aan dit onderwerp, laat dan de velden leeg.",
 
