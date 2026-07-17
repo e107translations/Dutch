@@ -278,6 +278,7 @@ return [
     'USRLAN_AS_1' => "Login als [x]",
     'USRLAN_AS_2' => "Uitloggen van [x] account",
     'USRLAN_AS_3' => "Je bent reeds ingelogd onder een ander gebruikersaccount. Gelieve eerst uit te loggen.",
+    'USRLAN_EMU_1' => "Rechten van [x] nabootsen (beheerdersgedeelte)",
 
 // Always search lan_admin.php before adding more. 
 ];
