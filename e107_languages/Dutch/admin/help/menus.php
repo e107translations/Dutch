@@ -23,12 +23,18 @@ if(isset($_POST['reset']))
 {
 		for($mc=1;$mc<=5;$mc++)
 		{
-			$sql -> db_Select("menus' "*' => "menu_location='".$mc."' ORDER BY menu_order",
+			$rows = $sql->createQueryBuilder()
+				->select('*')->from('menus')
+				->where('menu_location', (int) $mc)
+				->orderBy('menu_order')
+				->fetchAll();
 			$count = 1;
-			$sql2 = new db;
-			while(list($menu_id, $menu_name, $menu_location, $menu_order) = $sql-> db_Fetch())
+			$sql2 = e107::getDb('sql2');
+			foreach($rows as $row)
 			{
-				$sql2 -> db_Update("menus' => "menu_order='$count' WHERE menu_id='$menu_id' ",
+				$sql2->createQueryBuilder()->update('menus')
+					->set('menu_order', $count)
+					->where('menu_id', (int) $row['menu_id'])->execute();
 				$count++;
 			}
 			$text = "<b>Menu's hersteld in de database</b><br /><br />";
