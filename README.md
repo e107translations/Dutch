@@ -6,7 +6,7 @@ DO NOT CREATE COMPARE OR PULL REQUEST
 
 
 Dutch
-developer style only
+developer ARRAY style only  for github master (starting for 2.4..?)
 
 
 
