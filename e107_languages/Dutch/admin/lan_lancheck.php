@@ -50,6 +50,10 @@ return [
     'LANG_LAN_117' => "Voordat je bijdraagt met je taalpakket graag de nog bestaande fouten eruit halen!",
     'LANG_LAN_119' => "Controleer dat CORE_LC en CORE_LC2 waardes hebben in [x] en probeer nog een keer.",
     'LANG_LAN_120' => "Zorg ervoor dat je de standaard folder namen gebruikt in e107_config.php (b.v. e107_languages/, e107_plugins/ etc.) en probeer nog een keer.",
-
+    'LANG_LAN_156' => "[x] missend bestand(-en)",
+    'LANG_LAN_157' => "[x] missend\ongeldige zinsnede(s)",
+    'LANG_LAN_158' => "[x] bestand(-en) met BOM/illegale karakters",
+    'LANG_LAN_159' => "[x] non-UTF8 zinsnede(s)",
+    'LANG_LAN_160' => "Tip: open de [x] tab om bedoelde bestanden/sleutels te bekijken. Aanzetten van [y] naar [z] om controle over te slaan en maak het taalpakket gewoon aan.",
     'LANG_LAN_AGR' => "Notitie: Als je op deze manier de bestanden vertaald ben je verplicht je taalpakketten te delen met de e107 gemeenschap.",
 ];
