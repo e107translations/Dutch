@@ -123,4 +123,7 @@ Maak de database leeg en herstel de problemen en probeer het daarna nog eens.",
     'LANINS_145' => "e107 v2.x vereist dat  PHP [x] is geïnstalleerd. Neem aub contact op met je hosting of lees de informatie op  [y] voordat je doorgaat.",
     'LANINS_146' => "Beheer thema (Skin)",
     'LANINS_147' => "Beheer",
+    'LANINS_148' => "De MySQL-verbindingsgegevens mogen geen enkele aanhalingstekens (') of puntkomma's (;) bevatten.",
+    'LANINS_149' => "Het tabelvoorvoegsel mag alleen letters, cijfers en underscores (_) bevatten.",
+    'LANINS_150' => "De versie van MySQL die op uw server is geïnstalleerd, voldoet niet aan de minimumvereiste van [x]. Upgrade MySQL of neem contact op met uw hostingprovider.",
 ];
