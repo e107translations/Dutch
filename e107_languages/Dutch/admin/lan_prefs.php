@@ -274,8 +274,12 @@ return [
     'PRFLAN_284' => "Navigatie-balk standaard laten samenvouwen",
     'PRFLAN_285' => "Veldhulptips weergeven",
     'PRFLAN_286' => "Inhoud Filters",
-//'PRFLAN_286' => "Als u met de muis over het veld beweegt.",
+    //'PRFLAN_286' => "Als u met de muis over het veld beweegt.",
     'PRFLAN_287' => "Debug-knop weergeven in de navigatiebalk van het beheergebied",
     'PRFLAN_288' => "Vertrouwde hosts",
     'PRFLAN_289' => "Extra hostnamen die de site accepteert in de Host-header, één per regel. De host die uit de site-URL wordt gehaald, wordt altijd als vertrouwd beschouwd; vermeldingen hier worden aan die lijst toegevoegd. Plak een volledige URL en de opgeslagen waarde wordt teruggebracht tot alleen de host.",
+    'PRFLAN_290' => "Update kanaal",
+    'PRFLAN_291' => "Het Development Preview-kanaal bevat alfa-, bèta- en releasekandidatenversies. Laat de Stable-versie ingeschakeld voor productieomgevingen.",
+    'PRFLAN_292' => "Stable",
+    'PRFLAN_293' => "Development Preview",
 ];
