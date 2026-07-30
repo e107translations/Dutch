@@ -26,4 +26,6 @@ return [
     'LAN_PLUGIN_PM_DEL' => "Verwijder PM",
     'LAN_PLUGIN_PM_ATTACHMENT' => "Bijlage",
     'LAN_PLUGIN_PM_SIZE' => "Grootte",
+    'LAN_PLUGIN_PM_NAV' => "Priv&#233; Messenger",
+    'LAN_PLUGIN_PM_UNREAD' => "ongelezen",
 ];
