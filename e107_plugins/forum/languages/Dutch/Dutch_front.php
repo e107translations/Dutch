@@ -144,6 +144,7 @@ return [
     'LAN_FORUM_2044' => "E-mail",
     'LAN_FORUM_2045' => "Print",
     'LAN_FORUM_2046' => "Meld",
+    'LAN_FORUM_2047' => "U heeft zeer recent een melding gedaan. Wacht alstublieft even voordat u een nieuwe melding verstuurt.",
     'LAN_FORUM_3001' => "Je bent niet bevoegd tot plaatsing in dit forum.",
     'LAN_FORUM_3002' => "Deze discussie is gesloten.",
     'LAN_FORUM_3003' => "Reagerend op",
