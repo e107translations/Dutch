@@ -282,4 +282,31 @@ return [
     'PRFLAN_291' => "Het Development Preview-kanaal bevat alfa-, bèta- en releasekandidatenversies. Laat de Stable-versie ingeschakeld voor productieomgevingen.",
     'PRFLAN_292' => "Stable",
     'PRFLAN_293' => "Development Preview",
+    // PRFLAN_294 tot en met PRFLAN_298 zijn meegeleverd in v2.3.10 en zijn precies zo gelaten als ze
+    // zijn uitgebracht. Een vertaler heeft ze al in beheer, en het stilletjes wijzigen van de
+    // Engelse tekst onder een reeds opgenomen sleutel is precies hoe een vertaling fout raakt zonder
+    // dat iemand dat kan zien. De voorkeur die ze beschreven
+    // bood drie keuzes en biedt er nu zes, dus de nieuwe formulering vereist nieuwe
+    // sleutels, vanaf PRFLAN_305.
+    'PRFLAN_294' => "Verzoeken zonder beveiligingstoken",
+    'PRFLAN_295' => "Bij een cross-site request forgery wordt de browser van een bezoeker ertoe gebracht een verzoek te verzenden dat de bezoeker niet heeft bedoeld. e107 kan op twee manieren een echt verzoek van een vervalst verzoek onderscheiden.\\nEen beveiligingstoken is een waarde die deze site in haar eigen pagina’s opneemt en controleert wanneer deze worden verzonden. Het werkt in elke browser, maar beschermt alleen een pagina waaraan daadwerkelijk een token is toegekend.\\nDe browsercontrole leest ‘Sec-Fetch-Site’, een header die de browser zelf instelt en die door geen enkele webpagina mag worden vervalst. Er hoeft niets naar de pagina te worden verzonden om dit te laten werken, maar browsers die ouder zijn dan Chrome 76, Firefox 90 of Safari 16.4 sturen deze header niet en kunnen op deze manier niet worden beschermd.\\nLaat deze instelling op de aanbevolen waarde staan, tenzij u een reden hebt om dat niet te doen.",
+    'PRFLAN_296' => "Weigeren (aanbevolen)",
+    'PRFLAN_297' => "Toestaan en loggen",
+    'PRFLAN_298' => "Toestaan",
+    'PRFLAN_299' => "Sessie cookie SameSite",
+    'PRFLAN_300' => "Bepaalt of de browser de sessiecookie meestuurt bij een verzoek dat afkomstig is van een andere site. ‘Lax’ is de veilige standaardinstelling: de cookie wordt nog steeds meegestuurd via een gewone link naar deze site, maar niet via een formulier dat door een andere site naar deze site wordt verzonden.\\nKies ‘Geen’ als een betalingsgateway, Single Sign-On-provider of iets dergelijks gegevens naar deze site moet verzenden en herkend moet worden als de ingelogde bezoeker; hiervoor is SSL vereist en zonder SSL wordt teruggevallen op ‘Lax’. 'Strikt' verwijdert de cookie ook bij inkomende links, zodat een bezoeker die een link van elders volgt, uitgelogd aankomt.",
+    'PRFLAN_301' => "Lax (aanbevolen)",
+    'PRFLAN_302' => "Strikt",
+    'PRFLAN_303' => "Geen (vereist SSL)",
+    'PRFLAN_304' => "Niet instellen",
+    'PRFLAN_305' => "Bewijs dat een verzoek van deze site afkomstig was.",
+    'PRFLAN_306' => "Bij een cross-site request forgery wordt de browser van een bezoeker ertoe gebracht een verzoek te verzenden dat de bezoeker niet heeft bedoeld. e107 kan op twee manieren een echt verzoek van een vervalst verzoek onderscheiden.\\nEen beveiligingstoken is een waarde die deze site in haar eigen pagina’s opneemt en controleert wanneer deze worden verzonden. Het werkt in elke browser, maar beschermt alleen een pagina waaraan daadwerkelijk een token is toegekend.\\nDe browsercontrole leest ‘Sec-Fetch-Site’, een header die de browser zelf instelt en die door geen enkele webpagina mag worden vervalst. Er hoeft niets naar de pagina te worden verzonden om dit te laten werken, maar browsers die ouder zijn dan Chrome 76, Firefox 90 of Safari 16.4 sturen deze header niet en kunnen op deze manier niet worden beschermd.\\nLaat deze instelling op de aanbevolen waarde staan, tenzij u een reden hebt om dat niet te doen.",
+    'PRFLAN_307' => "e107's aanbevolen instelling",
+    'PRFLAN_308' => "Security token or browser check",
+    'PRFLAN_309' => "Browser controle",
+    'PRFLAN_310' => "Browser controle, alleen dit exacte adres",
+    'PRFLAN_311' => "Beveiligingstoken, weigeren zonder een adres", // ? without one
+    'PRFLAN_312' => "Beveiligingstoken, toestaan zonder een adres en log dit.", //without one and log it ?
+    'PRFLAN_313' => "Accepteer alles",
+    'PRFLAN_314' => "De browsercontrole is op dit adres niet beschikbaar. Browsers sturen de Sec-Fetch-Site-header alleen naar een beveiligd adres, dus op een site die via gewoon HTTP wordt aangeboden, komt de header nooit aan, en zou een instelling die niets anders vereist elke verzending weigeren. Bied deze site via HTTPS aan om deze functie te kunnen gebruiken.",
 ];
