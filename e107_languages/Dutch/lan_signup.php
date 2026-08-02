@@ -13,6 +13,8 @@
 return [
 
     'PAGE_NAME' => "Aanmelden",
+    'LAN_108' => "Registratie kompleet",
+    'LAN_185' => "Vereist veld(en) niet ingevuld",
     'LAN_EMAIL_01' => "Beste",
     'LAN_EMAIL_04' => "Bewaar deze e-mail voor je eigen administratie.",
     'LAN_EMAIL_05' => "Letop, je wachtwoord is versleuteld opgeslagen en kan niet opgevraagd worden als je het vergeten bent. Je kan wel altijd een nieuw wachtwoord aanvragen.",
