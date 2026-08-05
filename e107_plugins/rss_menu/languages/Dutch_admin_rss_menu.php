@@ -77,7 +77,7 @@ return [
     'RSS_LAN_ADMIN_31' => "RSS ingangen begrenzing bijgewerkt",
 
     'RSS_LAN_ADMIN_33' => "Tonen afbeelding in Nieuws feed?",
-
+    'RSS_LAN_ADMIN_34' => "Schakel aparte feeds in voor elke nieuwscategorie.?",
     'RSS_LAN_0' => "RSS",
     'RSS_LAN_2' => "@nospam.com",
     'RSS_LAN_3' => "geenauteur@nospam.com",
