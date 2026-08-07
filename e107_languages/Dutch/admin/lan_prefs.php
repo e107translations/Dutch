@@ -309,4 +309,9 @@ return [
     'PRFLAN_312' => "Beveiligingstoken, toestaan zonder een adres en log dit.", //without one and log it ?
     'PRFLAN_313' => "Accepteer alles",
     'PRFLAN_314' => "De browsercontrole is op dit adres niet beschikbaar. Browsers sturen de Sec-Fetch-Site-header alleen naar een beveiligd adres, dus op een site die via gewoon HTTP wordt aangeboden, komt de header nooit aan, en zou een instelling die niets anders vereist elke verzending weigeren. Bied deze site via HTTPS aan om deze functie te kunnen gebruiken.",
-];
+    'PRFLAN_315' => "Seconden tot beantwoorden code",
+    'PRFLAN_316' => "Hoeveel tijd een bezoeker heeft tussen het moment dat de code wordt gegenereerd en het moment dat het formulier wordt verzonden. Elke code kan één keer worden ingevuld, goed of fout, dus een korte tijdspanne is geen tweede kans. Verhoog deze tijdslimiet als bezoekers die een vergrootglas of een schermlezer gebruiken, melden dat de code is verlopen tegen de tijd dat ze het formulier verzenden.",
+    'PRFLAN_317' => "Antwoord van hetzelfde adres",
+    'PRFLAN_318' => "Weiger een code die afkomstig is van een ander netwerkadres dan waar de code vandaan kwam. Dit voorkomt dat een code elders wordt opgelost en doorgegeven, en het weigert ook een legitieme bezoeker wiens adres verandert tussen de twee verzoeken. Dit kan gebeuren bij mobiele data, bij carrier-grade NAT, met roterende IPv6-privacyadressen en via Tor.",
+
+    ];
