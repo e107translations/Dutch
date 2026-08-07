@@ -294,10 +294,10 @@ define("PRFLAN_304", "Niet instellen");
 define("PRFLAN_305", "Bewijs dat een verzoek van deze site afkomstig was.");
 define("PRFLAN_306", "Bij een cross-site request forgery wordt de browser van een bezoeker ertoe gebracht een verzoek te verzenden dat de bezoeker niet heeft bedoeld. e107 kan op twee manieren een echt verzoek van een vervalst verzoek onderscheiden.\\nEen beveiligingstoken is een waarde die deze site in haar eigen pagina’s opneemt en controleert wanneer deze worden verzonden. Het werkt in elke browser, maar beschermt alleen een pagina waaraan daadwerkelijk een token is toegekend.\\nDe browsercontrole leest ‘Sec-Fetch-Site’, een header die de browser zelf instelt en die door geen enkele webpagina mag worden vervalst. Er hoeft niets naar de pagina te worden verzonden om dit te laten werken, maar browsers die ouder zijn dan Chrome 76, Firefox 90 of Safari 16.4 sturen deze header niet en kunnen op deze manier niet worden beschermd.\\nLaat deze instelling op de aanbevolen waarde staan, tenzij u een reden hebt om dat niet te doen.");
 define("PRFLAN_307", "e107's aanbevolen instelling");
-define("RFLAN_308", "Security token or browser check");
-define("RFLAN_309", "Browser controle");
-define("RFLAN_310", "Browser controle, alleen dit exacte adres");
-define("RFLAN_311", "Beveiligingstoken, weigeren zonder een adres""); // ? without one
+define("PRFLAN_308", "Security token or browser check");
+define("PRFLAN_309", "Browser controle");
+define("PRFLAN_310", "Browser controle, alleen dit exacte adres");
+define("PRFLAN_311", "Beveiligingstoken, weigeren zonder een adres""); // ? without one
 define("PRFLAN_312", "Beveiligingstoken, toestaan zonder een adres en log dit."); //without one and log it ?
 define("PRFLAN_313", "Accepteer alles");
 define("PRFLAN_314", "De browsercontrole is op dit adres niet beschikbaar. Browsers sturen de Sec-Fetch-Site-header alleen naar een beveiligd adres, dus op een site die via gewoon HTTP wordt aangeboden, komt de header nooit aan, en zou een instelling die niets anders vereist elke verzending weigeren. Bied deze site via HTTPS aan om deze functie te kunnen gebruiken.");
