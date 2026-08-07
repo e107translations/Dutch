@@ -281,3 +281,28 @@ define{"PRFLAN_291", "Het Development Preview-kanaal bevat alfa-, bèta- en rele
 define("PRFLAN_292", "Stable");
 define("PRFLAN_293", "Development Preview");
 define("PRFLAN_294", "Verzoeken zonder beveiligingstoken");
+define("PRFLAN_295", "Bij een cross-site request forgery wordt de browser van een bezoeker ertoe gebracht een verzoek te verzenden dat de bezoeker niet heeft bedoeld. e107 kan op twee manieren een echt verzoek van een vervalst verzoek onderscheiden.\\nEen beveiligingstoken is een waarde die deze site in haar eigen pagina’s opneemt en controleert wanneer deze worden verzonden. Het werkt in elke browser, maar beschermt alleen een pagina waaraan daadwerkelijk een token is toegekend.\\nDe browsercontrole leest ‘Sec-Fetch-Site’, een header die de browser zelf instelt en die door geen enkele webpagina mag worden vervalst. Er hoeft niets naar de pagina te worden verzonden om dit te laten werken, maar browsers die ouder zijn dan Chrome 76, Firefox 90 of Safari 16.4 sturen deze header niet en kunnen op deze manier niet worden beschermd.\\nLaat deze instelling op de aanbevolen waarde staan, tenzij u een reden hebt om dat niet te doen.");
+define{"PRFLAN_296", "Weigeren (aanbevolen)");
+define("PRFLAN_297", "Toestaan en loggen");
+define("PRFLAN_298", "Toestaan");
+define("PRFLAN_299", "Sessie cookie SameSite");
+define("PRFLAN_300", "Bepaalt of de browser de sessiecookie meestuurt bij een verzoek dat afkomstig is van een andere site. ‘Lax’ is de veilige standaardinstelling: de cookie wordt nog steeds meegestuurd via een gewone link naar deze site, maar niet via een formulier dat door een andere site naar deze site wordt verzonden.\\nKies ‘Geen’ als een betalingsgateway, Single Sign-On-provider of iets dergelijks gegevens naar deze site moet verzenden en herkend moet worden als de ingelogde bezoeker; hiervoor is SSL vereist en zonder SSL wordt teruggevallen op ‘Lax’. 'Strikt' verwijdert de cookie ook bij inkomende links, zodat een bezoeker die een link van elders volgt, uitgelogd aankomt.");
+define("PRFLAN_301", "Lax (aanbevolen)");
+define("PRFLAN_302", "Strikt");
+define("PRFLAN_303", "Geen (vereist SSL)");
+define("PRFLAN_304", "Niet instellen");
+define("PRFLAN_305", "Bewijs dat een verzoek van deze site afkomstig was.");
+define("PRFLAN_306", "Bij een cross-site request forgery wordt de browser van een bezoeker ertoe gebracht een verzoek te verzenden dat de bezoeker niet heeft bedoeld. e107 kan op twee manieren een echt verzoek van een vervalst verzoek onderscheiden.\\nEen beveiligingstoken is een waarde die deze site in haar eigen pagina’s opneemt en controleert wanneer deze worden verzonden. Het werkt in elke browser, maar beschermt alleen een pagina waaraan daadwerkelijk een token is toegekend.\\nDe browsercontrole leest ‘Sec-Fetch-Site’, een header die de browser zelf instelt en die door geen enkele webpagina mag worden vervalst. Er hoeft niets naar de pagina te worden verzonden om dit te laten werken, maar browsers die ouder zijn dan Chrome 76, Firefox 90 of Safari 16.4 sturen deze header niet en kunnen op deze manier niet worden beschermd.\\nLaat deze instelling op de aanbevolen waarde staan, tenzij u een reden hebt om dat niet te doen.");
+define("PRFLAN_307", "e107's aanbevolen instelling");
+define("RFLAN_308", "Security token or browser check");
+define("RFLAN_309", "Browser controle");
+define("RFLAN_310", "Browser controle, alleen dit exacte adres");
+define("RFLAN_311", "Beveiligingstoken, weigeren zonder een adres""); // ? without one
+define("PRFLAN_312", "Beveiligingstoken, toestaan zonder een adres en log dit."); //without one and log it ?
+define("PRFLAN_313", "Accepteer alles");
+define("PRFLAN_314", "De browsercontrole is op dit adres niet beschikbaar. Browsers sturen de Sec-Fetch-Site-header alleen naar een beveiligd adres, dus op een site die via gewoon HTTP wordt aangeboden, komt de header nooit aan, en zou een instelling die niets anders vereist elke verzending weigeren. Bied deze site via HTTPS aan om deze functie te kunnen gebruiken.");
+define("PRFLAN_315", "Seconden tot beantwoorden code");
+define("PRFLAN_316", "Hoeveel tijd een bezoeker heeft tussen het moment dat de code wordt gegenereerd en het moment dat het formulier wordt verzonden. Elke code kan één keer worden ingevuld, goed of fout, dus een korte tijdspanne is geen tweede kans. Verhoog deze tijdslimiet als bezoekers die een vergrootglas of een schermlezer gebruiken, melden dat de code is verlopen tegen de tijd dat ze het formulier verzenden.");
+define("PRFLAN_317", "Antwoord van hetzelfde adres");
+define("PRFLAN_318", "Weiger een code die afkomstig is van een ander netwerkadres dan waar de code vandaan kwam. Dit voorkomt dat een code elders wordt opgelost en doorgegeven, en het weigert ook een legitieme bezoeker wiens adres verandert tussen de twee verzoeken. Dit kan gebeuren bij mobiele data, bij carrier-grade NAT, met roterende IPv6-privacyadressen en via Tor.");
+
