@@ -305,4 +305,3 @@ define("PRFLAN_315", "Seconden tot beantwoorden code");
 define("PRFLAN_316", "Hoeveel tijd een bezoeker heeft tussen het moment dat de code wordt gegenereerd en het moment dat het formulier wordt verzonden. Elke code kan één keer worden ingevuld, goed of fout, dus een korte tijdspanne is geen tweede kans. Verhoog deze tijdslimiet als bezoekers die een vergrootglas of een schermlezer gebruiken, melden dat de code is verlopen tegen de tijd dat ze het formulier verzenden.");
 define("PRFLAN_317", "Antwoord van hetzelfde adres");
 define("PRFLAN_318", "Weiger een code die afkomstig is van een ander netwerkadres dan waar de code vandaan kwam. Dit voorkomt dat een code elders wordt opgelost en doorgegeven, en het weigert ook een legitieme bezoeker wiens adres verandert tussen de twee verzoeken. Dit kan gebeuren bij mobiele data, bij carrier-grade NAT, met roterende IPv6-privacyadressen en via Tor.");
-
