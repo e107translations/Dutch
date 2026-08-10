@@ -1,7 +1,7 @@
 Dutch
-last define file mode for upcoming version 2.3.10
+define file mode 
 
-DEFINE MODE  (nog niet helemaal bijgewerkt!!!!!) 
+Nederlands aangepast to 2.3.11 
 
 
 
