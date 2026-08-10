@@ -92,3 +92,4 @@ define("LAN_PM_112", "Gebruiker(s)");
 define("LAN_PM_113", "Lees bericht");
 define("LAN_PM_114", "Je hebt geen toegang tot verzenden aan deze gebruiker."); //rechten ??
 define("LAN_PM_115", "Gebruiker niet gevonden");
+define("LAN_PM_116", "Het is niet mogelijk om bijlagen privé op deze site op te slaan - er was niets bijgevoegd. Neem contact op met de sitebeheerder.");
