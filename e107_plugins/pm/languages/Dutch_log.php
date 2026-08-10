@@ -20,3 +20,5 @@ define("LAN_AL_PM_ADM_07", "PM: Limiet verwijderd");
 define("LAN_AL_PM_ADM_08", "PM: Fout bij aanmaken data limiet");
 define("LAN_AL_PM_ADM_09", "PM: Fout met bijwerken data limiet");
 define("LAN_AL_PM_ADM_10", "PM: Fout bij verwijderen data limiet");
+define("LAN_AL_PM_ADM_11", "PM: Opgeslagen bijlagen konden niet worden beschermd tegen directe download.");
+define("LAN_AL_PM_ADM_12", "PM: Bijlage geweigerd, de map kon niet worden beveiligd tegen rechtstreeks downloaden.");
