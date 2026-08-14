@@ -13,32 +13,32 @@ define("LWLAN_4", "Nog geen linkwoorden gedefinieerd.");
 define("LWLAN_5", "Woorden");
 define("LWLAN_6", "Link");
 define("LWLAN_7", "Actief?");
-define("LWLAN_11", "Bestaande linkwoorden");
-define("LWLAN_18", "Weet je zeker dat je dit linkwoord wilt verwijderen?");
-define("LWLAN_20", "Kan linkwoord niet vinden.");
+//define("LWLAN_11", "Bestaande linkwoorden");
+//define("LWLAN_18", "Weet je zeker dat je dit linkwoord wilt verwijderen?");
+//define("LWLAN_20", "Kan linkwoord niet vinden.");
 define("LWLAN_21", "Woord om te autolinken (of comma-gescheiden woorden lijst)");
-define("LWLAN_22", "Activeren?");
-define("LWLAN_23", "Linkwoorden beheer");
-define("LWLAN_24", "Beheren Woorden");
+//define("LWLAN_22", "Activeren?");
+//define("LWLAN_23", "Linkwoorden beheer");
+//define("LWLAN_24", "Beheren Woorden");
 define("LWLAN_26", "Zone waar linkwoorden kunnen worden geactiveerd");
-define("LWLAN_27", "Dit is de “context” van de getoonde tekst");
+//define("LWLAN_27", "Dit is de “context” van de getoonde tekst");
 define("LWLAN_28", "Pagina&apos;s waar linkwoorden worden gedeactiveerd");
-define("LWLAN_29", "Zelfde formaat als de menu zichtbaarheidscontrole. Een overeeenkomst per regel. Geef een hele of gedeeltelijke URL. Eindig met “!” voor een volledige overeenkomst of voor de eindtekst van de link");
-define("LWLAN_31", "Toevoegen/bewerken linkwoord");
+//define("LWLAN_29", "Zelfde formaat als de menu zichtbaarheidscontrole. Een overeeenkomst per regel. Geef een hele of gedeeltelijke URL. Eindig met “!” voor een volledige overeenkomst of voor de eindtekst van de link");
+//define("LWLAN_31", "Toevoegen/bewerken linkwoord");
 define("LWLAN_33", "Titel zones");
 define("LWLAN_34", "Onderwerp samenvatting");
 define("LWLAN_35", "Body text");
 define("LWLAN_36", "Beschrijvingen (links enz.)");
 define("LWLAN_40", "Door gebruiker ingevoerde titel (e.g. forum)");
 define("LWLAN_41", "Door gebruiker ingevoerde tekst (e.g. forum)");
-define("LWLAN_42", "");
-define("LWLAN_43", "");
-define("LWLAN_44", "");
-define("LWLAN_45", "");
-define("LWLAN_46", "");
-define("LWLAN_47", "");
-define("LWLAN_48", "");
-define("LWLAN_49", "");
+//define("LWLAN_42", "");
+//define("LWLAN_43", "");
+//define("LWLAN_44", "");
+//define("LWLAN_45", "");
+//define("LWLAN_46", "");
+//define("LWLAN_47", "");
+//define("LWLAN_48", "");
+//define("LWLAN_49", "");
 define("LWLAN_50", "Tooltip");
 define("LWLAN_51", "Niet-actief");
 define("LWLAN_52", "Alleen Linkwoord");
@@ -57,8 +57,8 @@ define("LWLAN_66", "Aangepaste CSS klasse");
 define("LWLAN_67", "Max. links/tips");
 
 // Preferences
-define("LAN_LW_HELP_01", "Veel tekstgebieden hebben een bijbehorende 'context' en linkwoorden worden alleen weergegeven in gebieden die overeenkomen met die context.");
-define("LAN_LW_HELP_02", "De tooltips kunnen Ajax gebruiken om informatie te krijgen voor weergave. Dit vereist meestal enige aangepaste code.");
+// define("LAN_LW_HELP_01", "Veel tekstgebieden hebben een bijbehorende 'context' en linkwoorden worden alleen weergegeven in gebieden die overeenkomen met die context.");
+// define("LAN_LW_HELP_02", "De tooltips kunnen Ajax gebruiken om informatie te krijgen voor weergave. Dit vereist meestal enige aangepaste code.");
 define("LAN_LW_HELP_03", "Meestal heeft het geen zin dat de gebruiker op een link kan klikken als hij al op de pagina staat waarnaar hij linkt. Wanneer deze optie is ingeschakeld, worden in dit geval de linkwoorden niet geactiveerd.");
 define("LAN_LW_HELP_04", "Linkwoorden kunnen worden uitgeschakeld op specifieke pagina's of pagina's die overeenkomen met een patroon. Voer deze hier in (dezelfde syntaxis als voor menuzichtbaarheid), 1 patroon per regel. Als het patroon eindigt op '!', Komt dit overeen met het 'einde van zoekopdracht' en is meestal een exacte overeenkomst. Anders komt elke URL met de opgegeven tekenreeks overeen.");
 define("LAN_LW_HELP_05", "Zal deze klasse toevoegen aan alle gegenereerde links.");
@@ -73,6 +73,47 @@ define("LAN_LW_HELP_14", "Dit definieert de tekst die moet worden weergegeven wa
 define("LAN_LW_HELP_15", "Maximaal aantal dezelfde linkwoorden. Moet een positief getal zijn. Wordt gebruikt wanneer hetzelfde woord meerdere keren in een stuk tekst wordt gevonden."); 
 define("LAN_LW_HELP_16", "Dit definieert een optioneel numeriek ID dat moet worden gebruikt bij Ajax-verwerking. Moet een positief nummer zijn. Indien leeg, wordt het database-recordnummer gebruikt."); 
 define("LAN_LW_HELP_17", "Indien ingeschakeld, wordt de link geopend in een nieuw browsertabblad / -venster."); 
+define("LAN_LW_HELP_01", "<b>In te schakelen gebieden</b><br />
+
+Veel tekstgebieden hebben een bijbehorende "context" en linkwoorden worden alleen weergegeven in gebieden die overeenkomen met die context.<br /><br />
+
+<b>Linkwoorden uitschakelen</b><br />
+
+Linkwoorden kunnen worden uitgeschakeld op specifieke pagina's of pagina's die overeenkomen met een patroon. Voer deze hier in (dezelfde syntaxis als voor menu's), één patroon per regel.
+
+Als het patroon eindigt op "!", komt dit overeen met "einde van de query" en is dit meestal een exacte overeenkomst. Anders komt elke URL die de opgegeven tekenreeks bevat overeen.<br />
+
+Houd er rekening mee dat linkwoorden <i>nooit</i> worden weergegeven op beheerderspagina's.<br /><br />
+
+<b>Ajax-functionaliteit inschakelen</b><br />
+
+De tooltips kunnen Ajax gebruiken om informatie op te halen voor weergave. Dit vereist meestal wat aangepaste code.<br /><br />
+
+<b>Link op huidige pagina onderdrukken</b><br />
+
+Meestal is het zinloos voor de gebruiker om op een link te kunnen klikken als hij/zij zich al op de pagina bevindt. Vink dit vakje aan om de optie te verwijderen.<br />"
+
+'LAN_LW_HELP_02' => "Definieer hier de woorden die klikbare links worden of die tekst weergeven bij muisover.<br /><br />
+
+<b><u>Woord naar link</u></b><br />
+
+Dit is niet hoofdlettergevoelig. Voor meerdere woorden die aan dezelfde links en tooltips worden gekoppeld, scheidt u ze met komma's (geen spaties).<br /><br />
+
+<b><u>Link</u></b><br />
+
+Definieer hier een klikbare link. Als het een externe link is, moet deze beginnen met "http://". Als het een link binnen deze site is, kunnen de normale {e_XXX}-constanten worden gebruikt.<br /><br
+
+<b><u>Tooltip</u></b><br />
+
+Dit definieert de tekst die wordt weergegeven wanneer de muis van de gebruiker over het woord beweegt.<br /><br />
+
+<b><u>LW ID (Tooltip ID)</u></b><br /><br />
+
+Dit definieert een optionele numerieke ID die wordt gebruikt bij Ajax-verwerking. Indien leeg, wordt het database-recordnummer gebruikt.<br /><br />
+
+<b><u>Activeren?</u></b><br />
+
+Definieert welke opties actief zijn."); 
 
 /*
 
