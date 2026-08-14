@@ -57,6 +57,10 @@ define("UPLAN_COPYTODLM", "kopieer naar de download manager");
 define("UPLAN_IS",        "is ");
 define("UPLAN_ARE",       "zijn ");
 define("UPLAN_COPYTODLS", "Kopieer naar downloads");
+define("UPLLAN_48", "Om veiligheidsredenen zijn de toegestane bestandstypen uit de database verplaatst naar een
+plat bestand in uw beheerdersmap. Om dit te gebruiken, hernoemt u het bestand e107_admin/filetypes_.php naar e107_admin/filetypes.php
+
+en voegt u er een door komma's gescheiden lijst met bestandsextensies aan toe. U dient het uploaden van .html-, .txt-bestanden, enz. niet toe te staan, aangezien een aanvaller een dergelijk bestand kan uploaden dat kwaadaardige JavaScript bevat. U dient uiteraard ook het uploaden van .php-bestanden of andere uitvoerbare scripts niet toe te staan.");
 define("UPLAN_DELETE", 	  "Verwijder");
 define("UPLLAN_49", "Bestands Types");
 define("UPLLAN_50", "Opties");

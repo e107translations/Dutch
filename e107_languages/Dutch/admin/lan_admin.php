@@ -325,6 +325,7 @@ define("LAN_UI_BATCHDEL_ERROR", "Batch verwijderen niet toegestaan!");
 define("LAN_UI_404_BODY_ERROR", "Opgevraagde pagina niet gevonden!");
 define("LAN_UI_404_TITLE_ERROR", "Pagina niet gevonden");
 define("LAN_UI_404_METHOD_ERROR", "Actie [x] niet gevonden!");
+define("LAN_UI_INVALID_TOKEN_ERROR", "Ongeautoriseerde toegang - ongeldig of ontbrekend beveiligingstoken.");
 define("LAN_UI_403_BODY_ERROR", "Toegang tot de opgevraagde pagina geweigerd.");
 define("LAN_UI_403_TITLE_ERROR", "Toegang geweigerd");
 define("LAN_UI_FORM_METHOD_ERROR", "FATALE FOUT: De veldnaam [x] is niet toegestaan. Hernoem de sleutel [x] naar iets anders in je field array en database tabel (wanneer nodig).");

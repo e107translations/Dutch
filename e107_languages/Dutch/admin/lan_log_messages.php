@@ -392,3 +392,6 @@ define("LAN_AL_MEDIA_01", "Media Upload");
 
 define("LAN_AL_USET_100", "Beheerder ingelogd als een andere gebruiker");
 define("LAN_AL_USET_101", "Beheerder als een andere gebruiker uitgelogd");
+define("LAN_AL_USET_102", "De beheerder is begonnen met het emuleren van de machtigingen van een andere gebruiker.");
+define("LAN_AL_USET_103", "De beheerder heeft de emulatie van machtigingen van een andere gebruiker gestopt.");
+define("LAN_AL_CSRF_01", "POST request carried no security token");

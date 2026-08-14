@@ -28,3 +28,4 @@ define("LAN_PAGE_14", "Andere Artikelen");
 define("LAN_PAGE_15", "Artikelen");
 define("LAN_PAGE_16", "Er zijn geen hoofdstukken in dit boek");
 define("LAN_PAGE_17", "Commentaren op deze pagina zijn gesloten.");
+define("LAN_PAGE_18", "Log in om deze pagina te bekijken.");

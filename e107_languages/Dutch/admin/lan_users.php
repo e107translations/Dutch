@@ -277,6 +277,7 @@ define("USFLAN_7", "Gebruiker Informatie");
 define("USRLAN_AS_1", "Login als [x]");
 define("USRLAN_AS_2", "Uitloggen van [x] account");
 define("USRLAN_AS_3", "Je bent reeds ingelogd onder een ander gebruikersaccount. Gelieve eerst uit te loggen.");
+define("USRLAN_EMU_1", "Emuleer de machtigingen van [x] (beheerscherm)");
 
 // Always search lan_admin.php before adding more. 
 

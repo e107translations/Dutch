@@ -45,7 +45,7 @@ define("LANHELP_28", "Centreren: [center]Deze tekst wordt gecentreerd[/center]")
 define("LANHELP_29", "Links uitgelijnd: [left]Deze tekst wordt links uitgelijnd[/left]");
 define("LANHELP_30", "Rechts uitgelijnd: [right]Deze tekst wordt rechts uitgelijnd[/right]");
 define("LANHELP_31", "Blokquote tekst: [blockquote]Deze tekst springt in (blokquote)[/blockquote]");
-define("LANHELP_32", "Code - voorgeformatteerde tekst: [code]$foo = bah;[/code]");
+define("LANHELP_32", "Code - voorgeformatteerde tekst: [code]\$foo = bah;[/code]");
 define("LANHELP_33", "HTML - verwijdert regeleinden uit de tekst: [html]<table><tr><td> etc[/html]");
 define("LANHELP_34", "Invoegen pagina einde[newpage] or [newpage=title], splitst een artikel op in meerdere pagina&#39;s");
 define("LANHELP_35", "hyperlink URL");

@@ -50,6 +50,10 @@ define("LANG_LAN_116", "Kijk je taalbestanden na ('Verifiëer') en probeer het n
 define("LANG_LAN_117", "Voordat je bijdraagt met je taalpakket graag de nog bestaande fouten eruit halen!");
 define("LANG_LAN_119", "Controleer dat CORE_LC en CORE_LC2 waardes hebben in [x] en probeer nog een keer.");
 define("LANG_LAN_120", "Zorg ervoor dat je de standaard folder namen gebruikt in e107_config.php (b.v. e107_languages/, e107_plugins/ etc.) en probeer nog een keer.");
-
+define("LANG_LAN_156", "[x] ontbrekende bestand(en)");
+define("LANG_LAN_157", "[x] ontbrekende/ongeldige zin(nen)");
+define("LANG_LAN_158", "[x] bestanden) met BOM/ongeldige tekens");
+define("LANG_LAN_159", "[x] niet-UTF8 zin(nen)");
+define("LANG_LAN_160", "Tip: open het [x]-tabblad om de betreffende bestanden/sleutels te bekijken. Schakel [y] in [z] in om deze controle te omzeilen en het pakket toch te genereren.");
 define("LANG_LAN_AGR", "Notitie: Als je op deze manier de bestanden vertaald ben je verplicht je taalpakketten te delen met de e107 gemeenschap.");
 
