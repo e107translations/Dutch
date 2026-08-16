@@ -77,6 +77,7 @@ return [
     'LAN_BACK' => "Terug",
     'LAN_NAME' => "Naam",
     'LAN_DESCRIPTION' => "Beschrijving",
+    'LAN_META_DESCRIPTION' => "Meta beschrijving",
     'LAN_CANCEL' => "Annuleer",
     'LAN_DATE' => "Datum",
     'LAN_DATE_POSTED' => "Datum geplaatst",
