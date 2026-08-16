@@ -77,7 +77,7 @@ return [
     'LAN_BACK' => "Terug",
     'LAN_NAME' => "Naam",
     'LAN_DESCRIPTION' => "Beschrijving",
-    'LAN_META_DESCRIPTION' => "Meta beschrijving",
+    'LAN_META_DESCRIPTION' => "Meta beschrijving",    // Also in admin/lan_admin.php, which a front-end page never loads
     'LAN_CANCEL' => "Annuleer",
     'LAN_DATE' => "Datum",
     'LAN_DATE_POSTED' => "Datum geplaatst",
