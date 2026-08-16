@@ -75,6 +75,7 @@ define("LAN_SHARE", "Delen");
 define("LAN_BACK", "Terug");
 define("LAN_NAME", "Naam");
 define("LAN_DESCRIPTION", "Beschrijving");
+define("LAN_META_DESCRIPTION", "Meta beschrijving");
 define("LAN_CANCEL", "Annuleer");
 define("LAN_DATE", "Datum");
 define("LAN_DATE_POSTED", "Datum geplaatst");
