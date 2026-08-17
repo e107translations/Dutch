@@ -25,4 +25,6 @@ return [
     'LAN_EFORM_014' => "maak een nieuwe",
     'LAN_EFORM_015' => "wijzig bestaande",
     'LAN_EFORM_016' => "Na plaatsing:",
+	'LAN_EFORM_COPY' => "Kopi&#235;ren",
+    'LAN_EFORM_COPIED' => "Gekopieerd",
 ];
