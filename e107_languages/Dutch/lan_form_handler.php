@@ -25,3 +25,5 @@ define("LAN_EFORM_013", "ga naar lijst");
 define("LAN_EFORM_014", "maak een nieuwe");
 define("LAN_EFORM_015", "wijzig bestaande");
 define("LAN_EFORM_016", "Na plaatsing:");
+define("LAN_EFORM_COPY", "Kopi&#235;ren");
+define("LAN_EFORM_COPIED", "Gekopieerd");
