@@ -276,7 +276,7 @@ define("PRFLAN_287", "Debug-knop weergeven in de navigatiebalk van het beheergeb
 define("PRFLAN_288", "Betrouwbare hosts");
 define("PRFLAN_289", "Extra hostnamen die de site accepteert in de Host-header, één per regel. De host die uit de site-URL wordt gehaald, wordt altijd als betrouwbaar beschouwd; de vermeldingen hier worden aan die lijst toegevoegd. Plak een volledige URL en de opgeslagen waarde wordt teruggebracht tot alleen de host.");
 define("PRFLAN_290", "Update kanaal");
-define{"PRFLAN_291", "Het Development Preview-kanaal bevat alfa-, bèta- en releasekandidatenversies. Laat de Stable-versie ingeschakeld voor productieomgevingen.");
+define{"PRFLAN_291", "Het Development Preview-kanaal bevat alfa- / bèta- en releasekandidatenversies. Laat de stabiele versie ingeschakeld voor productieomgevingen.");
 define("PRFLAN_292", "Stabiele versies");
 define("PRFLAN_293", "Development Preview");
 define("PRFLAN_294", "Verzoeken zonder beveiligingstoken");
