@@ -92,7 +92,7 @@ return [
     'PRFLAN_96' => "toont op alle beheerpagina's info voor elke plugin die deze mogelijkheid kent",
     'PRFLAN_97' => "Unieke 'Plugin info' menu:",
     'PRFLAN_98' => "als deze optie niet aan staat toont elke plugin de eigen info in een individueel menu. Indien aangevinkt wordt alle info in één menu getoond.",
-    'PRFLAN_101' => "Tekst opmaken",
+    //'PRFLAN_101' => "Tekst opmaken",
     'PRFLAN_102' => "Vervang aan te klikken URL's",
     'PRFLAN_103' => "als deze optie aan staat en ook 'Maak aanklikbaar' (zie boven), worden geplaatste URL´s en e-mailadressen als een hyperlink getoond door de onderstaande tekst. Dit verhindert dat lange URL´s de layout verstoren",
     'PRFLAN_104' => "URL vervangende tekst",
