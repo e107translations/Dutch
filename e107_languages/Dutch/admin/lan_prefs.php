@@ -280,7 +280,7 @@ return [
     'PRFLAN_289' => "Extra hostnamen die de site accepteert in de Host-header, één per regel. De host die uit de site-URL wordt gehaald, wordt altijd als vertrouwd beschouwd; vermeldingen hier worden aan die lijst toegevoegd. Plak een volledige URL en de opgeslagen waarde wordt teruggebracht tot alleen de host.",
     'PRFLAN_290' => "Update kanaal",
     'PRFLAN_291' => "Het Development Preview-kanaal bevat alfa-, bèta- en releasekandidatenversies. Laat de Stable-versie ingeschakeld voor productieomgevingen.",
-    'PRFLAN_292' => "Stable",
+    'PRFLAN_292' => "Stabiele versies",
     'PRFLAN_293' => "Development Preview",
     // PRFLAN_294 tot en met PRFLAN_298 zijn meegeleverd in v2.3.10 en zijn precies zo gelaten als ze
     // zijn uitgebracht. Een vertaler heeft ze al in beheer, en het stilletjes wijzigen van de
