@@ -90,7 +90,7 @@ define("PRFLAN_95", "Toon plugin info:");
 define("PRFLAN_96", "toont op alle beheerpagina's info voor elke plugin die deze mogelijkheid kent");
 define("PRFLAN_97", "Unieke 'Plugin info' menu:");
 define("PRFLAN_98", "als deze optie niet aan staat toont elke plugin de eigen info in een individueel menu. Indien aangevinkt wordt alle info in één menu getoond.");
-define("PRFLAN_101", "Tekst opmaken");
+//define("PRFLAN_101", "Tekst opmaken");
 define("PRFLAN_102", "Vervang aan te klikken URL's");
 define("PRFLAN_103", "als deze optie aan staat en ook 'Maak aanklikbaar' (zie boven), worden geplaatste URL´s en e-mailadressen als een hyperlink getoond door de onderstaande tekst. Dit verhindert dat lange URL´s de layout verstoren");
 define("PRFLAN_104", "URL vervangende tekst");
@@ -252,7 +252,6 @@ define("PRFLAN_268", "Direct wijzigen tekst website mogelijk voor:");
 define("PRFLAN_269", "Beheerders in deze gebruikersklasse (en de daarbij behorende beheerders rechten) kunnen html direct vanuit het front deel bewerken.");
 define("PRFLAN_270", "Contact Formulier Filtering");
 define("PRFLAN_271", "Negeer ingaves die deze woorden of zinnen bevatten.<br /> 1 per regel.");
-
 define("PRFLAN_272", "Sessie levensduur");
 define("PRFLAN_273", "Sessie levensduur in seconden. 0 = totdat de browser is gesloten. ");
 define("PRFLAN_274", "Het contactformulier zal alleen zichtbaar zijn voor leden met deze  gebruikersklasse groep.");
