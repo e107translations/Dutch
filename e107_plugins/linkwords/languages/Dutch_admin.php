@@ -57,8 +57,8 @@ define("LWLAN_66", "Aangepaste CSS klasse");
 define("LWLAN_67", "Max. links/tips");
 
 // Preferences
-define("LAN_LW_HELP_01", "Veel tekstgebieden hebben een bijbehorende 'context' en linkwoorden worden alleen weergegeven in gebieden die overeenkomen met die context.");
-define("LAN_LW_HELP_02", "De tooltips kunnen Ajax gebruiken om informatie te krijgen voor weergave. Dit vereist meestal enige aangepaste code.");
+//define("LAN_LW_HELP_01", "Veel tekstgebieden hebben een bijbehorende 'context' en linkwoorden worden alleen weergegeven in gebieden die overeenkomen met die context.");
+//define("LAN_LW_HELP_02", "De tooltips kunnen Ajax gebruiken om informatie te krijgen voor weergave. Dit vereist meestal enige aangepaste code.");
 define("LAN_LW_HELP_03", "Meestal heeft het geen zin dat de gebruiker op een link kan klikken als hij al op de pagina staat waarnaar hij linkt. Wanneer deze optie is ingeschakeld, worden in dit geval de linkwoorden niet geactiveerd.");
 define("LAN_LW_HELP_04", "Linkwoorden kunnen worden uitgeschakeld op specifieke pagina's of pagina's die overeenkomen met een patroon. Voer deze hier in (dezelfde syntaxis als voor menuzichtbaarheid), 1 patroon per regel. Als het patroon eindigt op '!', Komt dit overeen met het 'einde van zoekopdracht' en is meestal een exacte overeenkomst. Anders komt elke URL met de opgegeven tekenreeks overeen.");
 define("LAN_LW_HELP_05", "Zal deze klasse toevoegen aan alle gegenereerde links.");
@@ -74,29 +74,44 @@ define("LAN_LW_HELP_15", "Maximaal aantal dezelfde linkwoorden. Moet een positie
 define("LAN_LW_HELP_16", "Dit definieert een optioneel numeriek ID dat moet worden gebruikt bij Ajax-verwerking. Moet een positief nummer zijn. Indien leeg, wordt het database-recordnummer gebruikt."); 
 define("LAN_LW_HELP_17", "Indien ingeschakeld, wordt de link geopend in een nieuw browsertabblad / -venster."); 
 
-/*
+define("LAN_LW_HELP_01", "<b>In te schakelen gebieden</b><br />
 
-define("LAN_LW_HELP_00", "Linkwoorden Help");
-define("LAN_LW_HELP_01", "  <b>Activering Zones</b><br />
-  veel tekstuele gebieden hebben een geassocieërde \"inhoud\", en linkwoorden zullen alleen getoond worden in zones die hier aan voldoen.<br /><br />
-  <b>Linkwoorden Deactivatie</b><br /><br />
-  Linkwoorden kunnen worden gedeactiveerd op specifieke pagina\"s, of pagina\"s die overeenstemmen met een patroon. Vul die hier in (gebruik syntaxis gelijk aan menus), een patroon per regel. 
-  Wanneer het patroon eindigt op \"!\", correspondeerd dit met \"einde van query\", en is meestal een volledige overeenkomst. Omgekeerd zal elke URL die de specifiek string bevat overeenkomen hiermee.<br />
-  Merk op dat linkwoorden <i> nooit </i> worden getoond op beheerpagina\"s.<br /><br />
-  <b>Activeer Ajax Functionaliteit</b><br /><br />
-  De tooltips kunnen Ajax gebruiken voor informatieverschaffing ter weergave. Dit benodigd normaliter maatwerk coderen.<br /><br />
-  <b>Onderdruk link op huidige pagina</b><br /> <br />
-  Normaliter is het onzinnig wanneer een gebruiker de mogelijkheid heeft op een link te klikken terwijl hij al op de pagina is. Vink dit aan om deze optie te verwijderen.<br />");
-define("LAN_LW_HELP_02", "Bepaal welke woorden klikbare links worden, of welke tekst tonen bij muisover, hier<br /><br />
-  <b><u>Woord tot Link</u></b><br />
-  Dit is hoofdlettergevoelig. Bij gebruik van meerdere woorden gekoppeld aan dezelfde links en tooltips, scheidt ze door middel van comma\"s (geen spaties)<br /><br />
-  <b><u>Link</u></b><br />
-  Bepaal een klikbare link hier. Betreft het een externe link, [i] moet [/i] het beginnen met \"http://\". Betreft het een interne site link, kunnen de normale {e_XXX} constanten worden gebruikt.<br /><br />
-  <b><u>Tooltip</u></b><br />
-  Dit definieërt de te tonen tekst wanneer de gebruiker zijn mis over het woord beweegt.<br /><br />
-  <b><u>LW ID (Tooltip ID)</u></b><br /><br />
-  Dit definieërt een optionele nummerieke ID te gebruiken met Ajax processing. Wanneer leeg, wordt het database record nummer gebruikt.<br /><br />
-  <b><u>Activatie?</u></b><br />
-  Bepaald welke opties actief zijn.");
+Veel tekstgebieden hebben een bijbehorende "context" en linkwoorden worden alleen weergegeven in gebieden die overeenkomen met die context.<br /><br />
 
-*/
+<b>Linkwoorden uitschakelen</b><br />
+
+Linkwoorden kunnen worden uitgeschakeld op specifieke pagina's of pagina's die overeenkomen met een patroon. Voer deze hier in (dezelfde syntaxis als voor menu's), één patroon per regel.
+
+Als het patroon eindigt op "!", komt dit overeen met "einde van de query" en is dit meestal een exacte overeenkomst. Anders komt elke URL die de opgegeven tekenreeks bevat overeen.<br />
+
+Houd er rekening mee dat linkwoorden <i>nooit</i> worden weergegeven op beheerderspagina's.<br /><br />
+
+<b>Ajax-functionaliteit inschakelen</b><br />
+
+De tooltips kunnen Ajax gebruiken om informatie op te halen voor weergave. Dit vereist meestal wat aangepaste code.<br /><br />
+
+<b>Link op huidige pagina onderdrukken</b><br />
+
+Meestal is het zinloos voor de gebruiker om op een link te kunnen klikken als hij/zij zich al op de pagina bevindt. Vink dit vakje aan om de optie te verwijderen.<br />"
+
+define{"LAN_LW_HELP_02", "Definieer hier de woorden die klikbare links worden of die tekst weergeven bij muisover.<br /><br />
+
+<b><u>Woord naar link</u></b><br />
+
+Dit is niet hoofdlettergevoelig. Voor meerdere woorden die aan dezelfde links en tooltips worden gekoppeld, scheidt u ze met komma's (geen spaties).<br /><br />
+
+<b><u>Link</u></b><br />
+
+Definieer hier een klikbare link. Als het een externe link is, moet deze beginnen met "http://". Als het een link binnen deze site is, kunnen de normale {e_XXX}-constanten worden gebruikt.<br /><br
+
+<b><u>Tooltip</u></b><br />
+
+Dit definieert de tekst die wordt weergegeven wanneer de muis van de gebruiker over het woord beweegt.<br /><br />
+
+<b><u>LW ID (Tooltip ID)</u></b><br /><br />
+
+Dit definieert een optionele numerieke ID die wordt gebruikt bij Ajax-verwerking. Indien leeg, wordt het database-recordnummer gebruikt.<br /><br />
+
+<b><u>Activeren?</u></b><br />
+
+Definieert welke opties actief zijn."); 
