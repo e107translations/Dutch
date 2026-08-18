@@ -278,7 +278,7 @@ define("PRFLAN_288", "Betrouwbare hosts");
 define("PRFLAN_289", "Extra hostnamen die de site accepteert in de Host-header, één per regel. De host die uit de site-URL wordt gehaald, wordt altijd als betrouwbaar beschouwd; de vermeldingen hier worden aan die lijst toegevoegd. Plak een volledige URL en de opgeslagen waarde wordt teruggebracht tot alleen de host.");
 define("PRFLAN_290", "Update kanaal");
 define{"PRFLAN_291", "Het Development Preview-kanaal bevat alfa-, bèta- en releasekandidatenversies. Laat de Stable-versie ingeschakeld voor productieomgevingen.");
-define("PRFLAN_292", "Stable");
+define("PRFLAN_292", "Stabiele versies");
 define("PRFLAN_293", "Development Preview");
 define("PRFLAN_294", "Verzoeken zonder beveiligingstoken");
 define("PRFLAN_295", "Bij een cross-site request forgery wordt de browser van een bezoeker ertoe gebracht een verzoek te verzenden dat de bezoeker niet heeft bedoeld. e107 kan op twee manieren een echt verzoek van een vervalst verzoek onderscheiden.\\nEen beveiligingstoken is een waarde die deze site in haar eigen pagina’s opneemt en controleert wanneer deze worden verzonden. Het werkt in elke browser, maar beschermt alleen een pagina waaraan daadwerkelijk een token is toegekend.\\nDe browsercontrole leest ‘Sec-Fetch-Site’, een header die de browser zelf instelt en die door geen enkele webpagina mag worden vervalst. Er hoeft niets naar de pagina te worden verzonden om dit te laten werken, maar browsers die ouder zijn dan Chrome 76, Firefox 90 of Safari 16.4 sturen deze header niet en kunnen op deze manier niet worden beschermd.\\nLaat deze instelling op de aanbevolen waarde staan, tenzij u een reden hebt om dat niet te doen.");
