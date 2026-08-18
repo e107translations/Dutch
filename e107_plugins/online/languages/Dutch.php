@@ -33,7 +33,7 @@ define("LAN_ONLINE_ADMIN_7", "Tonen uitgebreide lijst van online leden?");
 define("LAN_ONLINE_ADMIN_8", "Vertoond een komma gescheiden lijst van leden.");
 define("LAN_ONLINE_ADMIN_9", "Toont een lijst van gebruikers kijkend naar een pagina.");
 define("LAN_ONLINE_ADMIN_10", "Toont online gasten.");
-define("LAN_ONLINE_TRACKING_MESSAGE", "Het volgen van gebruikers is niet geactiveerd, dat kun je [link=".e_ADMIN."users.php?options]hier doen[/link][br]");
+define("LAN_ONLINE_TRACKING_MESSAGE", "Online gebruikerstracking is momenteel uitgeschakeld. Schakel [hier] in.");
 
 define("LAN_LASTSEEN_1", "Laatst Gezien Menu");
 
