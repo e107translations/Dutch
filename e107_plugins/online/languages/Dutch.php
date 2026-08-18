@@ -34,7 +34,7 @@ return [
     'LAN_ONLINE_ADMIN_8' => "Vertoond een komma gescheiden lijst van leden.",
     'LAN_ONLINE_ADMIN_9' => "Toont een lijst van gebruikers kijkend naar een pagina.",
     'LAN_ONLINE_ADMIN_10' => "Toont online gasten.",
-    'LAN_ONLINE_TRACKING_MESSAGE' => "Het volgen van gebruikers is niet geactiveerd, dat kun je [link=".e_ADMIN."users.php?options]hier doen[/link][br]",
+    'LAN_ONLINE_TRACKING_MESSAGE' => "Online gebruikerstracking is momenteel uitgeschakeld. Schakel [hier] in.",
 
     'LAN_LASTSEEN_1' => "Laatst Gezien Menu",
 ];
