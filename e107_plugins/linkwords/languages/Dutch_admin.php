@@ -75,13 +75,13 @@ define("LAN_LW_HELP_16", "Dit definieert een optioneel numeriek ID dat moet word
 define("LAN_LW_HELP_17", "Indien ingeschakeld, wordt de link geopend in een nieuw browsertabblad / -venster."); 
 define("LAN_LW_HELP_01", "<b>In te schakelen gebieden</b><br />
 
-Veel tekstgebieden hebben een bijbehorende "context" en linkwoorden worden alleen weergegeven in gebieden die overeenkomen met die context.<br /><br />
+Veel tekstgebieden hebben een bijbehorende \"context\" en linkwoorden worden alleen weergegeven in gebieden die overeenkomen met die context.<br /><br />
 
 <b>Linkwoorden uitschakelen</b><br />
 
 Linkwoorden kunnen worden uitgeschakeld op specifieke pagina's of pagina's die overeenkomen met een patroon. Voer deze hier in (dezelfde syntaxis als voor menu's), één patroon per regel.
 
-Als het patroon eindigt op "!", komt dit overeen met "einde van de query" en is dit meestal een exacte overeenkomst. Anders komt elke URL die de opgegeven tekenreeks bevat overeen.<br />
+Als het patroon eindigt op \"!\", komt dit overeen met \"einde van de query\" en is dit meestal een exacte overeenkomst. Anders komt elke URL die de opgegeven tekenreeks bevat overeen.<br />
 
 Houd er rekening mee dat linkwoorden <i>nooit</i> worden weergegeven op beheerderspagina's.<br /><br />
 
@@ -93,7 +93,7 @@ De tooltips kunnen Ajax gebruiken om informatie op te halen voor weergave. Dit v
 
 Meestal is het zinloos voor de gebruiker om op een link te kunnen klikken als hij/zij zich al op de pagina bevindt. Vink dit vakje aan om de optie te verwijderen.<br />"
 
-'LAN_LW_HELP_02' => "Definieer hier de woorden die klikbare links worden of die tekst weergeven bij muisover.<br /><br />
+define("LAN_LW_HELP_02", "Definieer hier de woorden die klikbare links worden of die tekst weergeven bij muisover.<br /><br />
 
 <b><u>Woord naar link</u></b><br />
 
@@ -101,7 +101,7 @@ Dit is niet hoofdlettergevoelig. Voor meerdere woorden die aan dezelfde links en
 
 <b><u>Link</u></b><br />
 
-Definieer hier een klikbare link. Als het een externe link is, moet deze beginnen met "http://". Als het een link binnen deze site is, kunnen de normale {e_XXX}-constanten worden gebruikt.<br /><br
+Definieer hier een klikbare link. Als het een externe link is, moet deze beginnen met \"http://\". Als het een link binnen deze site is, kunnen de normale {e_XXX}-constanten worden gebruikt.<br /><br
 
 <b><u>Tooltip</u></b><br />
 
