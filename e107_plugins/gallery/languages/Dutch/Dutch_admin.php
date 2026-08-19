@@ -88,10 +88,10 @@ define("LAN_GALLERY_ADMIN_69", "Facebook");
 
 define("LAN_GALLERY_ADMIN_70", "Laad prettyPhoto globaal");
 define("LAN_GALLERY_ADMIN_71", "prettyPhoto attribuut (hook)");
-define("LAN_GALLERY_ADMIN_72", "Order categories by";
-define("LAN_GALLERY_ADMIN_73", "Categorie ID oplopend";
-define("LAN_GALLERY_ADMIN_74", "Categorie ID aflopend";
-define("LAN_GALLERY_ADMIN_75", "Categorie Naam oplopend";
-define("LAN_GALLERY_ADMIN_76", "Categorie Naam aflopend";
-define("LAN_GALLERY_ADMIN_77", "Categorie Order oplopend";
-define("LAN_GALLERY_ADMIN_78", "Categorie Order aflopend";
+define("LAN_GALLERY_ADMIN_72", "Order categories by");
+define("LAN_GALLERY_ADMIN_73", "Categorie ID oplopend");
+define("LAN_GALLERY_ADMIN_74", "Categorie ID aflopend");
+define("LAN_GALLERY_ADMIN_75", "Categorie Naam oplopend");
+define("LAN_GALLERY_ADMIN_76", "Categorie Naam aflopend");
+define("LAN_GALLERY_ADMIN_77", "Categorie Order oplopend");
+define("LAN_GALLERY_ADMIN_78", "Categorie Order aflopend");
