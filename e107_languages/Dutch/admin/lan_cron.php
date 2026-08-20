@@ -103,10 +103,8 @@ return [
     'LAN_CRON_61' => "Maak nieuw cron token",
     'LAN_CRON_62' => "Uitvoeren configuratie functie [b][x][/b]",
     'LAN_CRON_63' => "Configuratie functie [b][x][/b] NIET gevonden.",
-    'LAN_CRON_64' => "Een beheerder kan taken automatiseren met behulp van de e107 taak planner. [br]
-In de beheer tab kan je taken wijzigen, verwijderen uitvoeren. [br]
-Wanneer je een taak wijzigt kan je de minuten, uren, dagen en maanden of dag van de week instellen. Gebruik * om iedere periode te gebruiken. Gebruik de instelling Actief om de taak te activeren.[br]
-PS: ons advies is om de standaard taken niet te verwijderen.[br]",
+    'LAN_CRON_64' => "
+Een beheerder kan taken automatiseren met behulp van e107 taak planner.[br] Niets wordt hier uitgevoerd totdat uw server eenmaal per minuut [b]cron.php[/b] oproept. Op het tabblad Instellen wordt weergegeven hoe u dat kunt regelen en geeft u de opdracht om te kopiëren.[br] In het tabblad Beheren kunt u taken bewerken, verwijderen en uitvoeren.[br] Wanneer u een taak bewerkt, kunt u de minuten, uren, dagen, maanden of dag van de week instellen waarop deze wordt uitgevoerd. Gebruik * voor elke periode en de eigenschap Actief om de taak in te schakelen.[br] Opmerking: U wordt geadviseerd de standaardtaken niet te verwijderen.[br]Een beheerder kan taken automatiseren met behulp van de e107 taak planner. [br]",
 
     'LAN_CRON_BACKUP' => "Backup",
     'LAN_CRON_LOGGING' => "Loggen",
