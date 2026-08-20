@@ -58,6 +58,7 @@ return [
     'UPLAN_ARE' => "zijn ",
     'UPLAN_COPYTODLS' => "Kopieer naar downloads",
     'UPLAN_DELETE' => "Verwijder",
+    'UPLLAN_48' => "Om veiligheidsredenen zijn de toegestane bestandstypen uit de database verplaatst naar een plat bestand in uw beheerdersmap. Om dit bestand te gebruiken, hernoemt u het bestand e107_admin/filetypes_.php naar e107_admin/filetypes.php en voegt u een door komma's gescheiden lijst met bestandsextensies toe. U dient het uploaden van bestanden met de extensies .html, .txt, enz. niet toe te staan, aangezien een aanvaller mogelijk een dergelijk bestand uploadt dat kwaadaardige JavaScript bevat. Uiteraard dient u ook het uploaden van .php-bestanden of andere uitvoerbare bestanden niet toe te staan.…",
     'UPLLAN_49' => "Bestands Types",
     'UPLLAN_50' => "Opties",
     'UPLLAN_51' => "Upload Lijst ",
