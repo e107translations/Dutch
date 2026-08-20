@@ -52,5 +52,3 @@
 //define("CRELAN_32", "");
 
 // end dev team
-
-?>
