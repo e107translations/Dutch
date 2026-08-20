@@ -12,7 +12,7 @@
 return [
 
     'PAGE_NAME' => "Upload",
-    'LAN_UL_001' "Foutief e-mailadres",
+    'LAN_UL_001' => "Foutief e-mailadres",
     'LAN_UL_002' => "Je hebt niet de juiste machtigingen om bestanden te uploaden naar deze server.",
     'LAN_UL_020' => "Fout",
     'LAN_UL_021' => "Upload Fout",
@@ -52,4 +52,5 @@ return [
     'LAN_420' => "velden zijn verplicht",
     'LAN_UL_039' => "Verzenden en uploaden", // LAN_416
     'LAN_UL_040' => "Upload Bestand",
+    'LAN_UL_041' => "Absolute maximale bestandsgrootte:",
 ];
