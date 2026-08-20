@@ -101,7 +101,7 @@ Dit is niet hoofdlettergevoelig. Voor meerdere woorden die aan dezelfde links en
 
 <b><u>Link</u></b><br />
 
-Definieer hier een klikbare link. Als het een externe link is, moet deze beginnen met \"http://\". Als het een link binnen deze site is, kunnen de normale {e_XXX}-constanten worden gebruikt.<br /><br
+Definieer hier een klikbare link. Als het een externe link is, [i]moet[/i] deze beginnen met \"http://\". Als het een link binnen deze site is, kunnen de normale {e_XXX}-constanten worden gebruikt.<br /><br
 
 <b><u>Tooltip</u></b><br />
 
