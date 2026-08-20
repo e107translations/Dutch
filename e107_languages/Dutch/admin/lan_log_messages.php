@@ -372,4 +372,5 @@ return [
     'LAN_AL_USET_101' => "Beheerder als een andere gebruiker uitgelogd",
     'LAN_AL_USET_102' => "De beheerder heeft de machtigingen van een andere gebruiker geëmuleerd",
     'LAN_AL_USET_103' => "De beheerder heeft de emulatie van de rechten van een andere gebruiker stopgezet",
+    'LAN_AL_CSRF_01' => "Het POST-verzoek bevatte geen beveiligingstoken.",
 ];
