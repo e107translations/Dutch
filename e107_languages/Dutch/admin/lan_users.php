@@ -169,7 +169,7 @@ return [
 
     'USRLAN_190' => "Proeftijd voor nieuwe gebruiker  (dagen)",
     'USRLAN_191' => "Beheerder kan beperkingen opleggen voor sommige functies/gebieden gedurende deze periode)",
-    'USRLAN_192' => ", // was \"days\" use value in lan_date.php instead.
+    'USRLAN_192' => ", // was \"days\" use value in lan_date.php instead.",
     'USRLAN_193' => "Niets verandert - niet opgeslagen",
     'USRLAN_194' => "Onderschrift kan worden gewijzigd door",
     'USRLAN_195' => "Laatste wijziging",
