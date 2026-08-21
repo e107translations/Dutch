@@ -12,7 +12,6 @@
 
 define("PAGE_NAME", "Banner");
 
-define("PAGE_NAME",    "Banner");
 define("BANNERLAN_16", "Gebruikersnaam:");
 define("BANNERLAN_17", "Wachtwoord:");
 define("BANNERLAN_19", "Voer klant gebruikersnaam en wachtwoord in om verder te gaan.");
