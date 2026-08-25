@@ -150,7 +150,7 @@ return [
     'PRFLAN_161' => "Activeer commentaarfunctie op de site",
     'PRFLAN_162' => "Site contact informatie",
     'PRFLAN_163' => "bijv. bedrijfsnaam, adres, telefoon etc.",
-    'PRFLAN_164' => "Sta leden toe om zichzelf een kopie van e-mailberichten te sturen",
+    'PRFLAN_164' => "Sta leden toe om zichzelf een kopie <br />van e-mailberichten te sturen.",
     'PRFLAN_165' => "Dit kan spam mogelijk maken, pas dus op",
     'PRFLAN_166' => "Toon emoticon afbeeldingen op het reactieformulier?",
     'PRFLAN_167' => "Het invoeren van e-mailadres is optioneel",
