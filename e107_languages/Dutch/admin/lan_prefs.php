@@ -148,7 +148,7 @@ define("PRFLAN_160", "Controleer externe servers bij het valideren van e-mailadr
 define("PRFLAN_161", "Activeer commentaarfunctie op de site");
 define("PRFLAN_162", "Site contact informatie");
 define("PRFLAN_163", "bijv. bedrijfsnaam, adres, telefoon etc.");
-define("PRFLAN_164", "Sta leden toe om zichzelf een kopie van e-mailberichten te sturen");
+define("PRFLAN_164", "Sta leden toe om zichzelf een kopie <br />van e-mailberichten te sturen");
 define("PRFLAN_165", "Dit kan spam mogelijk maken, pas dus op");
 define("PRFLAN_166", "Toon emoticon afbeeldingen op het reactieformulier?");
 define("PRFLAN_167", "Het invoeren van e-mailadres is optioneel");
