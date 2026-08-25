@@ -41,6 +41,9 @@ return [
 
     'DBVLAN_27' => "Tabelinconsistentie",
     'DBVLAN_28' => "Niet toepasbaar",
+    'DBVLAN_RESULT_INCOMPLETE' => "Sommige tabellen konden niet worden gecontroleerd, waardoor dit resultaat onvolledig is. Schakel de foutopsporingsmodus in om de reden te achterhalen.",
+    'DBVLAN_INDEX_REDUNDANT' => "Overbodige index",
+    'DBVLAN_INDEX_REDUNDANT_NOTE' => "De FULLTEXT-index [x] is gedupliceerd; het schema declareert die al, dus deze kan worden verwijderd.",
 ];
 // IMPORTANT NOTE: DBLAN has been replaced by DBBLAN in this file since 0.7 due to conflicts with db.php
 
