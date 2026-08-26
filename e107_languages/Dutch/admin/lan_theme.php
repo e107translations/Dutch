@@ -14,7 +14,7 @@ return [
     'TPVLAN_1' => "Je bekijkt de preview van het <b>{PREVIEWTHEMENAME}</b> thema. Het is niet ingesteld als het standaard thema voor je site, het is nu alleen geactiveerd om te tonen hoe je site eruit kan komen te zien.<br />Om het als standaard site thema in te stellen, ga je <a href='{e_ADMIN}theme.php?choose'>terug naar je thema manager</a> en selecteer 'Instellen als site thema'.<br />Om meer themas te beoordelen <a href='{e_ADMIN}theme.php'>klik hier</a>",
     'TPVLAN_2' => "Thema demo",
     'TPVLAN_3' => "Site thema ingesteld op",
-//'TPVLAN_4'   "Auteur",
+    //'TPVLAN_4'   "Auteur",
     'TPVLAN_5' => "Website",
     'TPVLAN_6' => "Datum uitgebracht",
     'TPVLAN_7' => "Informatie",
@@ -96,7 +96,7 @@ return [
     'TPVLAN_76' => "Gratis",
     'TPVLAN_77' => "Aanbevolen!",
     'TPVLAN_78' => "Installatie eisen",
-    'TPVLAN_79' => "cURL is momenteel benodigd om deze functie te gebruiken, neem conatc op met je hosting provider wanneer nodig om cURL te installeren.",
+    'TPVLAN_79' => "cURL is momenteel benodigd om deze functie te gebruiken, neem contact op met je hosting provider wanneer nodig om cURL te installeren.",
     'TPVLAN_80' => "Geen thema&#39;s gevonden met deze zoektermen.",
 
 //xmlinput conert + messages
