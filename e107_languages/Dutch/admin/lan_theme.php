@@ -95,7 +95,7 @@ define("TPVLAN_75", "Prijs");
 define("TPVLAN_76", "Gratis");
 define("TPVLAN_77", "Aanbevolen!");
 define("TPVLAN_78", "Installatie eisen");
-define("TPVLAN_79", "cURL is momenteel benodigd om deze functie te gebruiken, neem conatc op met je hosting provider wanneer nodig om cURL te installeren.");
+define("TPVLAN_79", "cURL is momenteel benodigd om deze functie te gebruiken, neem contact op met je hosting provider wanneer nodig om cURL te installeren.");
 define("TPVLAN_80", "Geen thema&#39;s gevonden met deze zoektermen.");
 
 //xmlinput conert + messages
