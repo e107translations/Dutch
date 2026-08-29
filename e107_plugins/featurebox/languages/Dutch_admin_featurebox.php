@@ -31,5 +31,6 @@ define("FBLAN_35", "Caroussel");
 define("FBLAN_36", "Tabs");
 define("LAN_FEATUREBOX_SEF", "Shortcode naam");
 define("LAN_FEATUREBOX_SEF_HELP", "Hoe een lay-out deze categorie weergeeft, als {FEATUREBOX|my-category}. Alleen letters, cijfers, - en _; al het andere wordt geconverteerd.");
+define("LAN_FEATUREBOX_SEF_EMPTY", "Geef deze categorie een korte naam die letters, cijfers, - of _ bevat.");
 define("LAN_FEATUREBOX_SEF_TAKEN", "Een andere categorie gebruikt die shortcode-naam al. Kies een andere.");
 define("LAN_FEATUREBOX_LAYOUT_RESERVED", "De niet-toegewezen lay-out behoort tot de systeemcategorie. Kies een andere lay-out.");
