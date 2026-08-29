@@ -35,6 +35,7 @@ return [
     'FBLAN_36' => "Tabs",
     'LAN_FEATUREBOX_SEF' => "Shortcode naam",
     'LAN_FEATUREBOX_SEF_HELP' => "Hoe een lay-out deze categorie weergeeft, als {FEATUREBOX|my-category}. Alleen letters, cijfers, - en _; al het andere wordt geconverteerd.",
+    'LAN_FEATUREBOX_SEF_EMPTY' => "Geef deze categorie een korte naam die letters, cijfers, - of _ bevat.",
     'LAN_FEATUREBOX_SEF_TAKEN' => "Een andere categorie gebruikt die shortcode-naam al. Kies een andere.",
     'LAN_FEATUREBOX_LAYOUT_RESERVED' => "De niet-toegewezen lay-out behoort tot de systeemcategorie. Kies een andere lay-out.",
 ];
