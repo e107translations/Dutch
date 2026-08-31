@@ -124,3 +124,4 @@ define("LANINS_147", "Beheer");
 define("LANINS_148", "De MySQL-verbindingsgegevens mogen geen enkele aanhalingstekens (') of puntkomma's (;) bevatten.");
 define("LANINS_149", "Het tabelvoorvoegsel mag alleen letters, cijfers en underscores (_) bevatten.");
 define("LANINS_150", "De versie van MySQL die op uw server is geinstalleerd, voldoet niet aan de minimale vereisten van [x]. Upgrade MySQL of neem contact op met uw hostingprovider.");
+define("LANINS_151", "Veilige willekeurige nummergenerator"); //bc?
