@@ -140,3 +140,4 @@ define("TPVLANHELP_03", "Standaard ingesteld, zal het zichtbaarheidsfilter het t
 define("TPVLANHELP_04", "Beëindig regels met een [b]![/b] voor preciese overeenkomst met het einde van de URL.");
 define("TPVLANHELP_05", "Beëindig regels met een[b]$[/b] voor preciese overeenkomst met het einde van het script pad.");
 define("TPVLANHELP_06", "Begin regel met een [b]:[/b] om gedeeltelijk of volledig overeen te komen met de constante e_ROUTE.");
+define("LAN_THEME_OPTIONS_NOT_SAVED", "Thema opties werden niet opgeslagen.");
