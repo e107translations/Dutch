@@ -200,6 +200,7 @@ define("LAN_FORUM_CLOSE", "Discussie gesloten.");
 define("LAN_FORUM_OPEN", "Discussie heropend.");
 define("LAN_FORUM_STICK", "Discussie sticky maken.");
 define("LAN_FORUM_UNSTICK", "Discussie sticky verwijderen.");
+define("LAN_FORUM_ATTACHMENT_REFUSED_UNPROTECTED", "Bijlage geweigerd: de directory kon niet worden beschermd tegen directe download. Neem contact op met de de beheerder van de site.");
 define("LAN_FORUM_5001", "Peiling verwijderd.");
 define("LAN_FORUM_5005", "Discussie verwijderd.");
 define("LAN_FORUM_5006", "Verwijderen geannuleerd.");
