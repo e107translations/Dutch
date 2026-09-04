@@ -93,15 +93,15 @@ De tooltips kunnen Ajax gebruiken om informatie op te halen voor weergave. Dit v
 
 Meestal is het zinloos voor de gebruiker om op een link te kunnen klikken als hij/zij zich al op de pagina bevindt. Vink dit vakje aan om de optie te verwijderen.<br />");
 
-define("LAN_LW_HELP_02", "Definieer hier de woorden die klikbare links worden of die tekst weergeven wanneer de muis eroverheen beweegt.<br /><br />
+define("LAN_LW_HELP_02", "Definieer hier de woorden die klikbare links worden of die tekst weergeven bij muisover.<br /><br />
 
-<b><u>Woord dat aan een link gekoppeld moet worden</u></b><br />
+<b><u>Woord naar link</u></b><br />
 
-Dit is niet hoofdlettergevoelig. Als meerdere woorden aan dezelfde links en tooltips gekoppeld moeten worden, scheid ze dan met komma's (geen spaties).<br /><br />
+Dit is niet hoofdlettergevoelig. Voor meerdere woorden die aan dezelfde links en tooltips worden gekoppeld, scheidt u ze met komma's (geen spaties).<br /><br />
 
 <b><u>Link</u></b><br />
 
-Definieer hier een klikbare link. Als het een externe link is, moet deze [i]beginnen[/i] met \"http://\". Als het een link binnen deze site betreft, kunnen de normale {e_XXX}-constanten worden gebruikt.<br /><br />
+Definieer hier een klikbare link. Als het een externe link is, [i]moet[/i] deze beginnen met \"http://\". Als het een link binnen deze site is, kunnen de normale {e_XXX}-constanten worden gebruikt.<br /><br
 
 <b><u>Tooltip</u></b><br />
 
