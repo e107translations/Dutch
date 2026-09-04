@@ -1,5 +1,9 @@
 Dutch
-last define file mode for: up to version 2.3.11
-( also bc fix for older versions for lan's disappearing new version(s))
+define file translation mode for: 
+master
 
+contains almost every = 98% bc fix for older >2.3.11) versions for lan's disappearing on new version(s))
+
+DEFINE mode 
+Array translation mode (testphase) will be available when 2.4.x becomes release 
 
