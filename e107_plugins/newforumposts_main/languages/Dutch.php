@@ -1,15 +1,6 @@
 <?php
-/*
-+ ----------------------------------------------------------------------------+
-|     e107 website system - Dutch Language File.
-|
-|     $URL:$
-|     $Revision:$
-|     $Date:$
-|     $Author: Yvalni, Tgtje $
-+----------------------------------------------------------------------------+
-*/
 
+// define("EXAMPLE","Generated Empty Language File");
 define("NFPM_LAN_1", "Discussie");
 define("NFPM_LAN_2", "Auteur");
 define("NFPM_LAN_3", "Bekeken");
@@ -42,4 +33,3 @@ define("NFPM_L21", "Sticky Draad");
 define("NFPM_L22", "Gesloten Sticky Draad");
 define("NFPM_L23", "Aankondiging");
 define("NFPM_L24", "Gesloten Draad");
-

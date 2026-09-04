@@ -64,3 +64,4 @@ define("LAN_SOCIAL_ADMIN_50", "Aan- of uitschakelen van de social login test pag
 define("LAN_SOCIAL_ADMIN_08", "Opmerking: in de meeste gevallen heb je een applicatie-ID en geheime sleutel nodig van sociale login-providers.\nAls de naam van een provider een link is, zou die link je naar de configuratiedocumentatie van de login-applicatie moeten leiden.\n\nU kunt uw configuratie met de volgende URL na het inschakelen van de optie [b]Test Page[/b] optie:");
 define("LAN_SOCIAL_ADMIN_09", "De callback URL is: ");
 define("LAN_SOCIAL_ADMIN_51", "Social Login Systeem");
+define("LAN_SOCIAL_ADMIN_HELP_RSS", "Activeren om RSS met Social pictogrammen weer te geven (XURL)");

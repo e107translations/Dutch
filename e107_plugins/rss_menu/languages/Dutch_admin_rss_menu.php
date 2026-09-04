@@ -35,6 +35,7 @@ define("RSS_PLUGIN_LAN_8",    "De RSS feed van de downloads");
 define("RSS_PLUGIN_LAN_9",    "De RSS feed van de reacties");
 define("RSS_PLUGIN_LAN_10",   "De RSS feed van de nieuwscategorieën:");
 define("RSS_PLUGIN_LAN_11",   "De RSS feed van download categorie:");
+define("RSS_PLUGIN_LAN_17",   "De RSS feed van chatbox");
 //define("RSS_PLUGIN_LAN_14",   "Reacties");
 define("RSS_LAN_ADMINMENU_1", "RSS Opties");
 define("RSS_LAN_ADMINMENU_2", "Overzicht");
