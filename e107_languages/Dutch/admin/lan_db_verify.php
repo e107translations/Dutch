@@ -12,6 +12,7 @@
 
 
 define("DBVLAN_1", "Niet in staat om de sql datafile te lezen <br /> <br />  Zorg ervoor het bestand <b> core_sql.php </ b> bestaat in de <b> / e107_core / sql </ b> directorie.");
+
 define("DBVLAN_4", "Tabel");
 define("DBVLAN_5", "Veld");
 define("DBVLAN_6", "Status");
@@ -27,6 +28,9 @@ define("DBVLAN_15", "Start verificatie");
 define("DBVLAN_16", "SQL verificatie");
 define("DBVLAN_17", "Database 'Storage engine' moet [x] zijn, maar is [y]");
 define("DBVLAN_18", "Karakterset moet [x] zijn, maar is [y]");
+
+define("DBVLAN_19", "Herstelpoging");
+
 define("DBVLAN_19", "Herstelpoging");
 define("DBVLAN_21", "Herstellen geselecteerde onderdelen");
 define("DBVLAN_22", "[x] is niet leesbaar");
@@ -34,8 +38,12 @@ define("DBVLAN_23", "Database Toepassingen");
 define("DBVLAN_24", "Kies a.u.b. een aktie");
 define("DBVLAN_25", "Missende Index");
 define("DBVLAN_26", "[x] tabel (-len) heeft (hebben) problemen");
+
 define("DBVLAN_27", "Tabelinconsistentie");
 define("DBVLAN_28", "Niet toepasbaar");
 define("DBVLAN_RESULT_INCOMPLETE", "Sommige tabellen konden niet worden gecontroleerd, waardoor dit resultaat onvolledig is. Schakel de foutopsporingsmodus in om de reden te achterhalen.");
 define("DBVLAN_INDEX_REDUNDANT", "Overbodige index");
 define("DBVLAN_INDEX_REDUNDANT_NOTE", "De FULLTEXT-index [x] is gedupliceerd; het schema declareert die al, dus deze kan worden verwijderd.");
+
+// IMPORTANT NOTE: DBLAN has been replaced by DBBLAN in this file since 0.7 due to conflicts with db.php
+

@@ -168,7 +168,7 @@ define("USRLAN_189", "Fout bij verzenden email");
 
 define("USRLAN_190", "Proeftijd voor nieuwe gebruiker  (dagen)");
 define("USRLAN_191", "Beheerder kan beperkingen opleggen voor sommige functies/gebieden gedurende deze periode)");
-define("USRLAN_192", ""); // was \"days\" use value in lan_date.php instead. 
+define("USRLAN_192", ""); // was "days" use value in lan_date.php instead. 
 define("USRLAN_193", "Niets verandert - niet opgeslagen");
 define("USRLAN_194", "Onderschrift kan worden gewijzigd door");
 define("USRLAN_195", "Laatste wijziging");

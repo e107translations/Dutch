@@ -54,11 +54,11 @@ define("LAN_CRON_10", "[y] seconden geleden");
 
 define("LAN_CRON_11", "Actieve Crons");
 define("LAN_CRON_12", "Laatste cron verversing");
-//define("LAN_CRON_13", "Wees er zeker van dat cron.php uitvoerbaar is.");
-//define("LAN_CRON_14", "Zet CHMOD /cron.php naar 755.");
+define("LAN_CRON_13", "Wees er zeker van dat cron.php uitvoerbaar is.");
+define("LAN_CRON_14", "Zet CHMOD /cron.php naar 755.");
 
-//define("LAN_CRON_15", "Gebruik het volgende Cron commando");
-//define("LAN_CRON_16", "Gebruik je server controle paneel (vb. cPanel, DirectAdmin, Plesk enz.) maak een crontab aan (commando) zodat dit elke minuut op je server draait");
+define("LAN_CRON_15", "Gebruik het volgende Cron commando");
+define("LAN_CRON_16", "Gebruik je server controle paneel (vb. cPanel, DirectAdmin, Plesk enz.) maak een crontab aan (commando) zodat dit elke minuut op je server draait");
 
 // leave some room for additions/changes
 
@@ -98,7 +98,7 @@ define("LAN_CRON_54", "Weekdag(en):");
 define("LAN_CRON_55", "Database backup niet gelukt");
 define("LAN_CRON_56", "Database backup Compleet");
 
-//define("LAN_CRON_60", "Ga naar cPanel");
+define("LAN_CRON_60", "Ga naar cPanel");
 define("LAN_CRON_61", "Maak nieuw cron token");
 define("LAN_CRON_62", "Uitvoeren configuratie functie [b][x][/b]");
 define("LAN_CRON_63", "Configuratie functie [b][x][/b] NIET gevonden.");
@@ -132,7 +132,7 @@ define("LAN_CRON_SETUP_RECOMMENDED", "Aanbevolen");
 define("LAN_CRON_SETUP_PANEL_HOWTO", "In cPanel, DirectAdmin of Plesk open je de pagina met cronjobs en voeg je een taak toe die elke minuut wordt uitgevoerd met dit commando. Zonder controlepaneel voer je [b]crontab -e[/b] uit en voeg je de crontab-regel toe.");
 define("LAN_CRON_SETUP_WGET_LABEL", "Gebruik wget in plaats van curl.");
 define("LAN_CRON_SETUP_HTTP_FALLBACK_NOTE", "Als uw server de URL van zijn eigen website niet kan ophalen (sommige hostingproviders blokkeren dit), gebruik dan in plaats daarvan de PHP-opdrachtregeloptie.");
-define("LAN_CRON_SETUP_PHP_FOUND", "PHP werd gevonden op [x].");
+define("LAN_CRON_SETUP_PHP_FOUND", "PHP [x] werd gevonden op [y].");
 define("LAN_CRON_SETUP_PHP_NOT_FOUND", "Er kon geen PHP-binair bestand worden geverifieerd, dus de opdracht gaat ervan uit dat [b]php[/b] in het PATH staat. Vraag uw hostingprovider naar het pad naar het PHP [x]-opdrachtregelbestand als dit niet het geval is.");
 define("LAN_CRON_SETUP_OPEN_BASEDIR_NOTE", "open_basedir verhinderde het controleren op PHP-binaire bestanden.");
 define("LAN_CRON_SETUP_EXECUTABLE", "cron.php is uitvoerbaar.");

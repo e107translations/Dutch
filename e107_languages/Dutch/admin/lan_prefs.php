@@ -120,7 +120,7 @@ define("PRFLAN_130", "door deze optie aan te zetten, wordt voorkomen dat meer da
 define("PRFLAN_133", "GD extensie nodig, niet gevonden");
 define("PRFLAN_134", "Verwijs alle aanvragen naar site URL");
 define("PRFLAN_135", "als bijvoorbeeld de URL van je site staat ingesteld op http://foo.com, dan wordt iedereen die http://www.foo.com opvraagt doorverwezen naar http://foo.com");
-define("PRFLAN_136", "Maximaal toegestane aantal aanmeldingen van hetzelfde IP-adres.");
+define("PRFLAN_136", "Maximaal toegestane aantal aanmeldingen <br /> van hetzelfde IP-adres.");
 define("PRFLAN_137", "Toon geheugengebruik");
 define("PRFLAN_138", "Activeren afbeeldings-code verificatie bij vergeten wachtwoord.");
 define("PRFLAN_139", "Tonen waarschuwing als het wachtwoord van de hoofdbeheerder de laatste 30 dagen niet is gewijzigd");
@@ -299,3 +299,9 @@ define("PRFLAN_315", "Seconden tot beantwoorden code");
 define("PRFLAN_316", "Hoeveel tijd een bezoeker heeft tussen het moment dat de code wordt gegenereerd en het moment dat het formulier wordt verzonden. Elke code kan één keer worden ingevuld, goed of fout, dus een korte tijdspanne is geen tweede kans. Verhoog deze tijdslimiet als bezoekers die een vergrootglas of een schermlezer gebruiken, melden dat de code is verlopen tegen de tijd dat ze het formulier verzenden.");
 define("PRFLAN_317", "Antwoord van hetzelfde adres");
 define("PRFLAN_318", "Weiger een code die afkomstig is van een ander netwerkadres dan waar de code vandaan kwam. Dit voorkomt dat een code elders wordt opgelost en doorgegeven, en het weigert ook een legitieme bezoeker wiens adres verandert tussen de twee verzoeken. Dit kan gebeuren bij mobiele data, bij carrier-grade NAT, met roterende IPv6-privacyadressen en via Tor.");
+define("PRFLAN_CINF_01", "Organisatie");
+define("PRFLAN_CINF_02", "Adres");
+define("PRFLAN_CINF_03", "Telefoon");
+define("PRFLAN_CINF_04", "Kaartcoördinaten");
+define("PRFLAN_CINF_05", "Uren");
+define("PRFLAN_CINF_06", "Aangepast bericht");   

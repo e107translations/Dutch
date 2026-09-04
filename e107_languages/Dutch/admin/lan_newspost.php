@@ -174,3 +174,4 @@ define("LAN_NEWS_112", "Selecteer het URL-formaat. Ofwel aantal records (bijv. p
  // v2.4
 define("LAN_NEWS_113", "Beperkt tot zelfgeschreven nieuwsberichten");
 define("LAN_NEWS_114", "Schakel deze voorkeur in om groepsleden te beperken in het bekijken en bewerken van nieuwsberichten die zijn geschreven door andere beheerders.");
+define("LAN_NEWS_HELP_TEMPL", "Te gebruiken template voor standaard uiterlijk");
