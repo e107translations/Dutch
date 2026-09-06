@@ -134,4 +134,7 @@ define("BANLAN_124", "Verloopt");   // niet ban_lan_34
 define("BANLAN_125", "Gebruik mijn IP");
 define("BANLAN_126", "IP / E-mail");
 define("BANLAN_127", "Verwijder alle [x] mislukte logins uit de database");
-
+define("BANLAN_ENTRY_FORMATS", "Een adres (10.77.66.65, 2001:db8::1), een bereik (10.77.66.0/24, 10.77.66.1-10.77.66.100, 10.77.66.*, 2001:db8::/32), een e-mailadres (user@example.com, *@example.com) of een hostnaampatroon (*.example.com)");
+define("BANLAN_ENTRY_INVALID", "Deze vermelding is geen adres, bereik, e-mailadres of hostnaampatroon, dus er is geen enkele reden om deze af te dwingen. De vermelding is niet opgeslagen. Een CIDR-blok begint bij het netwerkadres: 10.77.66.0/24, niet 10.77.66.65/24.");
+define("BANLAN_ENTRY_COVERS_YOU", "Dit bereik bevat uw eigen adres, [x], dus als u het opslaat, wordt u de toegang tot deze site ontzegd. Het is niet opgeslagen. Voeg uw adres eerst toe aan de whitelist als u het echt wilt.");
+define("BANLAN_ENTRY_NOT_ENFORCED", "Niet gehandhaafd");
