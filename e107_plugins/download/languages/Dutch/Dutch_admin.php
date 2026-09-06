@@ -91,6 +91,8 @@ define("DOWLAN_128", "Mirrors");
 define("DOWLAN_129", "niet invullen om geen mirror te gebruiken");
 define("DOWLAN_130", "Andere mirror toevoegen");
 define("DOWLAN_131", "Selecteer een lokaal bestand");
+define("DOWLAN_LOCAL_PATH", "Of een pad binnen de downloadmap.");
+define("DOWLAN_LOCAL_PATH_NOT_FOUND", "Er is geen bestand met die naam in de downloadmap, dus er is niets opgeslagen. Controleer het pad ten opzichte van de downloadmap en probeer de download opnieuw.");
 define("DOWLAN_132", "Voer de te gebruiken mirror in, kies vervolgens het download adres");
 define("DOWLAN_133", "Mirror bijgewerkt in database");
 define("DOWLAN_134", "Mirror opgeslagen in database");
