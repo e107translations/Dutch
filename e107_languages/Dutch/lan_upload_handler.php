@@ -29,5 +29,5 @@ define("LANUPLOAD_16", "Onbekende Error");
 define("LANUPLOAD_17", "Foutieve naam voor upgeload bestand");
 define("LANUPLOAD_18", "Dit geuploade bestand overschrijd de toegestane limieten.");
 define("LANUPLOAD_19", "Te veel bestanden geuploaded - overschrijding verwijderd.");
-
+define("LANUPLOAD_REFUSED_TOKEN_MISSING", "Er is niets geupload, omdat het verzoek geen beveiligingstoken bevatte. Upload de bestanden via Media Manager in plaats van via een bladwijzer of een link op een andere website.");
 
