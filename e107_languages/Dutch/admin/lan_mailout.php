@@ -31,7 +31,7 @@ define("LAN_MAILOUT_11", "Invoegen variabelen");
 define("LAN_MAILOUT_12", "Alle leden");
 define("LAN_MAILOUT_13", "Alle onbevestigde leden ");
 define("LAN_MAILOUT_14", "Schermnaam"); //Display Name
-define("LAN_MAILOUT_15", "Mail-Out");
+define("LAN_MAILOUT_15", "Mail-versturen");
 define("LAN_MAILOUT_16", "gebruikersnaam");
 define("LAN_MAILOUT_17", "aanmeldlink");
 define("LAN_MAILOUT_18", "lid id");
@@ -289,5 +289,4 @@ define("LAN_MAILOUT_268", "Alleen Developer Modus");
 define("LAN_MAILOUT_269", "Verstuur later");
 define("LAN_MAILOUT_270", "Test SMTP Connectie"); //verbinding?
 define("LAN_MAILOUT_271", "Authenticatie mislukt met gebruikersnaam ([x]) en wachtwoord ([y]):");
-
-
+define("LAN_MAILOUT_REFUSED_TOKEN_MISSING", "Die e-mailbewerking is niet gestart, omdat de link geen beveiligingstoken bevatte. Start de bewerking vanuit het Mail-versturen menu in plaats van via een bladwijzer of een link op een andere website.");
