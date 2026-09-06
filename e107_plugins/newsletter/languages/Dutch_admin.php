@@ -47,6 +47,4 @@ define("NLLAN_63", "Totaal aantal aanmeldingen");
 define("NLLAN_64", "Keer terug naar de nieuwsbrief hoofdpagina");
 define("NLLAN_65", "Aanmelders overzicht nieuwsbrief ID");
 define("NLLAN_66", "Je nieuwsbrief abonnee lijst werd opgeschoond.");
-
-
- 
+define("NLLAN_REFUSED_TOKEN_MISSING", "De abonnee is niet verwijderd, omdat de link geen beveiligingstoken bevatte. Gebruik de verwijderknop in de abonneelijst in plaats van een bladwijzer of een link op een andere website."); 
