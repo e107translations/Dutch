@@ -91,6 +91,7 @@ define("LAN_NEXT", "Volgende");
 define("LAN_PREVIOUS", "Vorige");
 define("LAN_LOGIN", "Inloggen");
 define("LAN_LOGOUT", "Uitloggen");
+define("LAN_LOGOUT_REFUSED_TOKEN_MISSING", "Je bent niet uitgelogd, omdat die link geen beveiligingstoken bevatte. Gebruik de uitloglink in het menu van deze site zelf in plaats van een bladwijzer of een link op een andere site.");
 define("LAN_VERIFY", "Verifiëren");
 define("LAN_SETTINGS", "Instellingen");
 define("LAN_PASSWORD", "Wachtwoord");
