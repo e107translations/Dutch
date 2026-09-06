@@ -107,6 +107,8 @@ define("LAN_XUP_ERRM_08", "Log eerst uit e107 systeem vooordat je de nieuwe inlo
 define("LAN_XUP_ERRM_10", "Test aanmelden/login met [x]");
 define("LAN_XUP_ERRM_11", "Ingelogd:");
 define("LAN_XUP_ERRM_12", "Test uitloggen");
+define("LAN_XUP_REFUSED_TOKEN_MISSING", "Het inlogproces is niet gestart, omdat de link geen beveiligingstoken bevatte. Start het inlogproces via een inlogknop op deze site in plaats van via een bladwijzer of een link op een andere site.");
+define("LAN_XUP_REFUSED_NOT_A_NAVIGATION", "Het inlogproces is niet gestart, omdat een andere website er op de achtergrond om heeft gevraagd in plaats van u hierheen te sturen. Start het inlogproces via een van de inlogknoppen op deze website.");
 
 if (!defined("USER_ERR_01")) { define("USER_ERR_01","Ontbrekende waarde");  }
 if (!defined("USER_ERR_02")) { define("USER_ERR_02","Onverwachte waarde");  }
