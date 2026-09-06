@@ -132,4 +132,5 @@ define("FORLAN_219", "Rich tekst editor");
 define("FORLAN_220", "Post editor");
 define("FORLAN_221", "Welke systeem wil je gebruiken bij het plaatsen of wijzigen van berichten?");
 define("FORLAN_222", "Snelle reactie editor");
-define("FORLAN_223", "Gebruik alleen basis tekst (geen bbcode of html toegestaan");
+define("FORLAN_223", "Gebruik alleen kale tekst (geen bbcode of html toegestaan!).");
+define("FORLAN_REFUSED_TOKEN_MISSING", "De forumupgrade had geen effect, omdat het verzoek geen beveiligingstoken bevatte. Start de upgrade vanuit het beheerdersmenu van het forum in plaats van via een bladwijzer of een link op een andere website.");
