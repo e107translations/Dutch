@@ -270,6 +270,5 @@ define("LAN_FORUM_8026", "Losmaken van discussie mislukt");
 define("LAN_FORUM_8027", "Geen aktie geselecteerd"); 
 define("LAN_FORUM_8028", "Terug"); 
 define("LAN_FORUM_8029", "Nieuw onderwerp aangemaakt!");
-define("LAN_FORUM_8030", "Kon het bericht niet verwijderen (moderator authorisatie nodig)");
-
-
+define("LAN_FORUM_8030", "Kon het bericht niet verwijderen (moderator authorisatie nodig).");
+define("LAN_FORUM_REFUSED_TOKEN_MISSING", "Niets werd als gelezen gemarkeerd, omdat de link geen beveiligingstoken bevatte. Gebruik de markering voor nieuwe berichten in de forumlijst in plaats van een bladwijzer of een link op een andere website.");
