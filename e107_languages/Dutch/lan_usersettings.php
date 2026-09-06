@@ -39,6 +39,8 @@ define("LAN_USET_17", "Deze gebruikersnaam is al ingebruik, kies een andere.");
 define("LAN_USET_18", "gebruikersgegevens veranderd door Beheerder: [x], Inlognaam: [y]");
 define("LAN_USET_20", "je moet ook het gebruikers wachtwoord veranderen wanneer je de Loginnaam of het e-mailadres wijzigt.");
 define("LAN_USET_21", "Bevestig de gegevens door je wachtwoord in te geven: ");
+define("LAN_USET_CONFIRM_PASSWORD_CHANGE", "Bevestig de wijzigingen door uw huidige wachtwoord in te voeren: ");
+define("LAN_USET_CHANGE_NOT_COMPLETED", "Je wijzigingen zijn niet voltooid. Probeer het opnieuw.");
 //define("LAN_USET_22", "Fout wachtwoord!"); // TODO LAN common?
 define("LAN_USET_23", "Niets invullen om het bestaande wachtwoord te houden");		
 define("LAN_USET_24", "Nieuw wachtwoord: ");						
@@ -68,6 +70,7 @@ define("LAN_USET_53", "Account verwijdering bevestiging");
 define("LAN_USET_54", "Bevestiging email verzonden");
 define("LAN_USET_55", "Klik aub op de volgende link  om verwijderen van account te voltooien.");
 define("LAN_USET_56", "Je account werd succesvol verwijderd.");
+define("LAN_USET_DELETE_LINK_INVALID", "Je account is niet verwijderd, omdat de bevestigingslink niet meer geldig is. Vraag hieronder opnieuw om verwijdering om een ​​nieuwe link te ontvangen.");
 //TODO Move to usersettings.php with bcDefs() method.
 /*define("LAN_7", "Gebruikersnaam: ");
 define("LAN_8", "de naam die op de site wordt weergegeven");
