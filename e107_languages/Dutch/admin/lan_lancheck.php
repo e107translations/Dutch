@@ -56,4 +56,5 @@ define("LANG_LAN_158", "[x] bestanden) met BOM/ongeldige tekens");
 define("LANG_LAN_159", "[x] niet-UTF8 zin(nen)");
 define("LANG_LAN_160", "Tip: open het [x]-tabblad om de betreffende bestanden/sleutels te bekijken. Schakel [y] in [z] in om deze controle te omzeilen en het pakket toch te genereren.");
 define("LANG_LAN_AGR", "Notitie: Als je op deze manier de bestanden vertaald ben je verplicht je taalpakketten te delen met de e107 gemeenschap.");
+define("LANG_LAN_REFUSED_TOKEN_MISSING", "Die taalcontrole is niet uitgevoerd, omdat de link geen beveiligingstoken bevatte. Start de controle vanuit de lijst met taalpakketten in plaats van via een bladwijzer of een link op een andere website.");
 
