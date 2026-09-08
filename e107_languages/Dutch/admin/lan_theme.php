@@ -141,3 +141,4 @@ define("TPVLANHELP_04", "Beëindig regels met een [b]![/b] voor preciese overeen
 define("TPVLANHELP_05", "Beëindig regels met een[b]$[/b] voor preciese overeenkomst met het einde van het script pad.");
 define("TPVLANHELP_06", "Begin regel met een [b]:[/b] om gedeeltelijk of volledig overeen te komen met de constante e_ROUTE.");
 define("LAN_THEME_OPTIONS_NOT_SAVED", "Thema opties werden niet opgeslagen.");
+define("TPVLAN_REFUSED_TOKEN_MISSING", "Het thema is niet gekopieerd, omdat de link geen beveiligingstoken bevatte. Start het thema via het aanmaakformulier in de themabeheerder in plaats van via een bladwijzer of een link op een andere website.");

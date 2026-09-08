@@ -135,3 +135,4 @@ define("DBLAN_118", "Kon het .zip bestand niet downloaden");
 define("DBLAN_119", "Backup");
 define("DBLAN_120", "Starten van backup....");
 define("DBLAN_121", "Verplaatsen van [x] naar [y].");
+define("DBLAN_REFUSED_TOKEN_MISSING", "Die bewerking is niet gestart, omdat de link geen beveiligingstoken bevatte. Start de bewerking vanuit het menu Database beheer in plaats van via een bladwijzer of een link op een andere website.");
