@@ -306,4 +306,7 @@ return [
     'EPL_ADLAN_255' => "Overschrijf bestanden",
     'EPL_ADLAN_256' => "[x] Overgeslagen (bestaat reeds)",
     'EPL_ADLAN_257' => "Alleen lezen",
+    'EPL_ADLAN_REFUSED_PULL_TOKEN_MISSING' => "De plugin is niet bijgewerkt vanuit de Git-repository, omdat de link geen beveiligingstoken bevatte. Start de plugin via de Plugin Manager in plaats van via een bladwijzer of een link op een andere website.",
+    'EPL_ADLAN_REFUSED_BUILD_TOKEN_MISSING' => "Er is geen tabeldefinitiebestand geschreven, omdat de link geen beveiligingstoken bevatte. Start de pluginbuilder vanuit het menu Plugins in plaats van via een bladwijzer of een link op een andere site.",
+
 ];
