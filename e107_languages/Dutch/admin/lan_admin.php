@@ -458,4 +458,4 @@ define("LAN_EMULATION_USERCLASSES", "Gebruikersklassen");
 define("LAN_EMULATION_ADMINPERMS", "Beheerdersrechten:");
 define("LAN_EMULATION_TEMPORARY", "De emulatie van machtigingen is tijdelijk. Je identiteit blijft ongewijzigd en de emulatie eindigt wanneer je uitlogt.");
 define("LAN_EMULATION_STOP", "Stop emulatie");
-define("ADLAN_REFUSED_TOKEN_MISSING", "That request was not carried out, because it carried no security token. Use the dashboard's own controls rather than a bookmark or a link on another site.");
+define("ADLAN_REFUSED_TOKEN_MISSING", "Dat verzoek werd niet uitgevoerd, omdat er geen beveiligingstoken bij zat. Gebruik de bedieningselementen van het dashboard zelf in plaats van een bladwijzer of een link op een andere website.");
