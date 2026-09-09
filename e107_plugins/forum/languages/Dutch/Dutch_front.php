@@ -271,4 +271,5 @@ return [
     'LAN_FORUM_8028' => "Terug",
     'LAN_FORUM_8029' => "Nieuw onderwerp aangemaakt!",
     'LAN_FORUM_8030' => "Kon het bericht niet verwijderen (moderator authorisatie nodig)",
+    'LAN_FORUM_REFUSED_TOKEN_MISSING' => "Niets werd als gelezen gemarkeerd, omdat de link geen beveiligingstoken bevatte. Gebruik de markering voor nieuwe berichten in de forumlijst in plaats van een bladwijzer of een link op een andere website.",
 ];
