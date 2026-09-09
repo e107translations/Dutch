@@ -288,4 +288,5 @@ return [
     'LAN_MAILOUT_269' => "Verstuur later",
     'LAN_MAILOUT_270' => "Test SMTP Connectie", //verbinding?
     'LAN_MAILOUT_271' => "Authenticatie mislukt met gebruikersnaam ([x]) en wachtwoord ([y]):",
+	'LAN_MAILOUT_REFUSED_TOKEN_MISSING' => "Die e-mailbewerking is niet gestart, omdat de link geen beveiligingstoken bevatte. Start de bewerking vanuit het Mail-versturen menu in plaats van via een bladwijzer of een link op een andere website.",
 ];
