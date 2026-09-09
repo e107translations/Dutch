@@ -135,4 +135,5 @@ return [
     'DBLAN_119' => "Backup",
     'DBLAN_120' => "Starten van backup....",
     'DBLAN_121' => "Verplaatsen van [x] naar [y].",
+    'DBLAN_REFUSED_TOKEN_MISSING' => "Die bewerking is niet gestart, omdat de link geen beveiligingstoken bevatte. Start de bewerking vanuit het menu Database beheer in plaats van via een bladwijzer of een link op een andere website.",
 ];
