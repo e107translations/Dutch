@@ -95,4 +95,5 @@ return [
     'LAN_PM_114' => "Je hebt geen toegang tot verzenden aan deze gebruiker.", //rechten ??
     'LAN_PM_115' => "Gebruiker niet gevonden",
     'LAN_PM_116' => "Het is niet mogelijk om bijlagen privé op deze site op te slaan - er was niets bijgevoegd. Neem contact op met de sitebeheerder.",
+    'LAN_PM_REFUSED_TOKEN_MISSING' => "Er is niets veranderd, omdat de link geen beveiligingstoken bevatte. Gebruik de knoppen op je privéberichtenpagina's in plaats van een bladwijzer of een link op een andere website.",
 ];
