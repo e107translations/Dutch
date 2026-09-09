@@ -73,4 +73,5 @@ return [
 
     'MENLAN_59' => "Zone [x]",
     'MENLAN_60' => "Dit thema gebruikt vervallen elementen. Alle [x]HEADER en [x]FOOTER variabelen meten verwijderd worden uit de theme.php.",
+    'MENLAN_REFUSED_TOKEN_MISSING' => "Het menu is niet uit de lay-out verwijderd, omdat de link geen beveiligingstoken bevatte. Verwijder het menu via de menubeheerder in plaats van via een bladwijzer of een link op een andere website.",
 ];
