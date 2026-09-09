@@ -10,7 +10,6 @@
 +----------------------------------------------------------------------------+
 */
 return [
-
     'LAN_USER_01' => "Gebruikersnaam",
     'LAN_USER_02' => "Inlognaam",
     'LAN_USER_03' => "Echte naam",
@@ -94,7 +93,7 @@ return [
     'LAN_USER_86' => "Maximum avatar grootte is [x] x [y] pixels",
     'LAN_USER_87' => "Login om deze gebruiker te waarderen!",
 
-// social plugin
+    // social plugin
     'LAN_XUP_ERRM_01' => "Aanmelden mislukt! Deze functie is niet beschikbaar.",
     'LAN_XUP_ERRM_02' => "Aanmelden mislukt! Verkeerde provider.",
     'LAN_XUP_ERRM_03' => "Inloggen mislukt! Verkeerde provider.",
