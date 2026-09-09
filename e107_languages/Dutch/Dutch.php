@@ -104,6 +104,7 @@ return [
     'LAN_YOUTUBE_PLAYLIST' => "Youtube Playlist",
     'LAN_FILETYPES' => "Bestandstypes",
     'LAN_FILE_NOT_FOUND' => "Bestand niet gevonden",
+    'LAN_LOGOUT_REFUSED_TOKEN_MISSING', "Je bent niet uitgelogd, omdat die link geen beveiligingstoken bevatte. Gebruik de uitloglink in het menu van deze site zelf in plaats van een bladwijzer of een link op een andere site.",
     'LAN_FILES' => "bestanden",
     'LAN_SIZE' => "Grootte",
     'LAN_VERSION' => "Versie",
