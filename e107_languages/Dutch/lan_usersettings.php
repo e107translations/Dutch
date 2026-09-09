@@ -36,7 +36,9 @@ return [
     'LAN_USET_18' => "gebruikersgegevens veranderd door Beheerder: [x], Inlognaam: [y]",
     'LAN_USET_20' => "je moet ook het gebruikers wachtwoord veranderen wanneer je de Loginnaam of het e-mailadres wijzigt.",
     'LAN_USET_21' => "Bevestig de gegevens door je wachtwoord in te geven: ",
-//'LAN_USET_22' => "Fout wachtwoord!", // TODO LAN common?
+    'LAN_USET_CONFIRM_PASSWORD_CHANGE' => "Bevestig de wijzigingen door uw huidige wachtwoord in te voeren: ",
+    'LAN_USET_CHANGE_NOT_COMPLETED' => "Je wijzigingen zijn niet voltooid. Probeer het opnieuw.",
+    //'LAN_USET_22' => "Fout wachtwoord!", // TODO LAN common?
     'LAN_USET_23' => "Niets invullen om het bestaande wachtwoord te houden",
     'LAN_USET_24' => "Nieuw wachtwoord: ",
     'LAN_USET_25' => "Bevestig nieuw wachtwoord: ",
@@ -65,7 +67,9 @@ return [
     'LAN_USET_54' => "Bevestiging email verzonden",
     'LAN_USET_55' => "Klik aub op de volgende link  om verwijderen van account te voltooien.",
     'LAN_USET_56' => "Je account werd succesvol verwijderd.",
-//TODO Move to usersettings.php with bcDefs() method.
+    'LAN_USET_DELETE_LINK_INVALID' => "Je account is niet verwijderd, omdat de bevestigingslink niet meer geldig is. Vraag hieronder opnieuw om verwijdering om een ​​nieuwe link te ontvangen.",
+
+    //TODO Move to usersettings.php with bcDefs() method.
 /*'LAN_7' => "Gebruikersnaam: ",
     'LAN_8' => "de naam die op de site wordt weergegeven",
     'LAN_9' => "Inlognaam: ",
