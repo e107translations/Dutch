@@ -165,8 +165,7 @@ define("LAN_DL_SECURITY_MODE", "URL beschermingsmodus");
 define("LAN_DL_SECURITY_MODE_NONE", "Geen (Standaard)");
 define("LAN_DL_SECURITY_MODE_NGINX_SECURELINKMD5", "NGINX secure_link_md5");
 define("LAN_DL_SECURITY_NGINX_SUPPORTED_VARIABLES_TOGGLE", "Klik om de lijst met ondersteunde variabelen NGINX te laten zien");
-define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION",
-	"[NGINX secure_link_md5 expression]");
+define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION", "<p>Creeër/bewerk een download.</p><p>Alleen een invullen van: Bestand, URL of Mirror.</p><p>Overtuig je ervan dat een categorie is gekozen, zoniet  is je download niet zichtbaar op de downloadpagina.</p>"); //2.3 version wordt [NGINX secure_link_md5 expression]
 define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION_HELP", "Dezelfde expressie als geconfigureerd op de server");
 define("LAN_DL_SECURITY_LINK_EXPIRY", "Geldigheidsduur in seconden");
 define("LAN_DL_SECURITY_LINK_EXPIRY_HELP", "Het aantal seconden dat de downloadkoppeling beschikbaar is nadat deze is gegenereerd. " .
