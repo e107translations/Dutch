@@ -476,4 +476,6 @@ return [
     'LAN_EMULATION_ADMINPERMS' => "Beheerdersrechten:",
     'LAN_EMULATION_TEMPORARY' => "De emulatie van de toestemming is tijdelijk. Je identiteit blijft ongewijzigd en de emulatie wordt beëindigd zodra je uitlogt.",
     'LAN_EMULATION_STOP' => "Stop Emulatie",
+    'ADLAN_REFUSED_TOKEN_MISSING' => "Dat verzoek werd niet uitgevoerd, omdat er geen beveiligingstoken bij zat. Gebruik de bedieningselementen van het dashboard zelf in plaats van een bladwijzer of een link op een andere website.",
+
 ];
