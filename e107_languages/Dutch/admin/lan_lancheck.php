@@ -56,4 +56,5 @@ return [
     'LANG_LAN_159' => "[x] non-UTF8 zinsnede(s)",
     'LANG_LAN_160' => "Tip: open de [x] tab om bedoelde bestanden/sleutels te bekijken. Aanzetten van [y] naar [z] om controle over te slaan en maak het taalpakket gewoon aan.",
     'LANG_LAN_AGR' => "Notitie: Als je op deze manier de bestanden vertaald ben je verplicht je taalpakketten te delen met de e107 gemeenschap.",
+    'LANG_LAN_REFUSED_TOKEN_MISSING' => "Die taalcontrole is niet uitgevoerd, omdat de link geen beveiligingstoken bevatte. Start de controle vanuit de lijst met taalpakketten in plaats van via een bladwijzer of een link op een andere website.",
 ];
