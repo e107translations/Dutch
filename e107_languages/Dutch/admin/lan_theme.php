@@ -141,4 +141,5 @@ return [
     'TPVLANHELP_04' => "Beëindig regels met een [b]![/b] voor preciese overeenkomst met het einde van de URL.",
     'TPVLANHELP_05' => "Beëindig regels met een[b]$[/b] voor preciese overeenkomst met het einde van het script pad.",
     'TPVLANHELP_06' => "Begin regel met een [b]:[/b] om gedeeltelijk of volledig overeen te komen met de constante e_ROUTE.",
+    'TPVLAN_REFUSED_TOKEN_MISSING' => "Het thema is niet gekopieerd, omdat de link geen beveiligingstoken bevatte. Start het thema via het aanmaakformulier in de themabeheerder in plaats van via een bladwijzer of een link op een andere website.",
 ];
