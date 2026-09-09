@@ -103,11 +103,12 @@ return [
     'LAN_XUP_ERRM_06' => "Aanmelden mislukt! Kan e-mailadres niet bereiken - registratie zonder e-mailadres is onmogelijk.",
     'LAN_XUP_ERRM_07' => "Social Login Testen",
     'LAN_XUP_ERRM_08' => "Log eerst uit e107 systeem vooordat je de nieuwe inlog/aanmeld procedure test.",
-//'LAN_XUP_ERRM_09' => "Test login met alleen [x]",  //removed
+    //'LAN_XUP_ERRM_09' => "Test login met alleen [x]",  //removed
     'LAN_XUP_ERRM_10' => "Test aanmelden/login met [x]",
     'LAN_XUP_ERRM_11' => "Ingelogd:",
     'LAN_XUP_ERRM_12' => "Test uitloggen",
-
+    'LAN_XUP_REFUSED_TOKEN_MISSING' => "Het inlogproces is niet gestart, omdat de link geen beveiligingstoken bevatte. Start het inlogproces via een inlogknop op deze site in plaats van via een bladwijzer of een link op een andere site.".
+    'LAN_XUP_REFUSED_NOT_A_NAVIGATION' => "Het inlogproces is niet gestart, omdat een andere website er op de achtergrond om heeft gevraagd in plaats van u hierheen te sturen. Start het inlogproces via een van de inlogknoppen op deze website.",
 
     'USER_ERR_01' => "Ontbrekende waarde",
     'USER_ERR_02' => "Onverwachte waarde",
