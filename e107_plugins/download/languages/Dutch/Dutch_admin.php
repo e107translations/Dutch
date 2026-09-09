@@ -93,6 +93,8 @@ return [
     'DOWLAN_129' => "niet invullen om geen mirror te gebruiken",
     'DOWLAN_130' => "Andere mirror toevoegen",
     'DOWLAN_131' => "Selecteer een lokaal bestand",
+	'DOWLAN_LOCAL_PATH' => "Of een pad binnen de downloadmap.",
+    'DOWLAN_LOCAL_PATH_NOT_FOUND' => "Er is geen bestand met die naam in de downloadmap, dus er is niets opgeslagen. Controleer het pad ten opzichte van de downloadmap en probeer de download opnieuw.",
     'DOWLAN_132' => "Voer de te gebruiken mirror in, kies vervolgens het download adres",
     'DOWLAN_133' => "Mirror bijgewerkt in database",
     'DOWLAN_134' => "Mirror opgeslagen in database",
