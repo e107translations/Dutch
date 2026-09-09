@@ -28,4 +28,5 @@ return [
     'RATELAN_GOOD' => "Goed",
     'RATELAN_VERYGOOD' => "Heel goed",
     'RATELAN_EXCELLENT' => "Fantastisch",
+    'RATELAN_REFUSED_TOKEN_MISSING' => "Je stem is niet geteld, omdat de link geen beveiligingstoken bevatte. Stem via het beoordelingsvak op de pagina zelf in plaats van via een bladwijzer of een link op een andere website.",
 ];
