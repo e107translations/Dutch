@@ -54,4 +54,5 @@ return [
     'LAN_UPDATE_CAPTION_PLUGIN' => "Plugin updates",
     'LAN_UPDATE_CAPTION_CORE' => "Core updates",
     'LAN_UPDATE_58' => "Het is ten zeerste aanbevolen om een [Bestandscontrole] uit te voeren nadat alle updates zijn verwerkt om alle in onbruik geraakte bestanden te herkennen en te verwijderen.",
+    'LAN_UPDATE_REFUSED_TOKEN_MISSING' => "Die bewerking is niet gestart omdat de link geen beveiligingstoken bevatte. Start de systeemupdate via de link die e107 in het beheerdersgedeelte weergeeft, in plaats van via een bladwijzer of een link op een andere website.",
 ];
