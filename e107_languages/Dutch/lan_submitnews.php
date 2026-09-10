@@ -40,4 +40,5 @@ define("SUBNEWSLAN_9", "Trefwoorden / Tags");
 //define("SUBNEWSLAN_11", "Meta Beschrijving");
 define("SUBNEWSLAN_12", "Gebruikt door Facebook enz.");
 define("SUBNEWSLAN_13", "Media URLs");
-
+define("SUBNEWSLAN_ATTACH_MIN_DIMENSIONS", "Minimum afmetingen: [x]px × [y]px");
+define("SUBNEWSLAN_ATTACH_TOO_SMALL", "Een van je afbeeldingen heeft afmetingen kleiner dan [x]px × [y]px. Corrigeer de bijlage en dien het formulier opnieuw in.");
