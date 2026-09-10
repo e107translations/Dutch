@@ -43,5 +43,10 @@ return [
     'LINKLAN_9' => "Downloadcategorie&#235;n",
     'LINKLAN_10' => "Thema Shortcodes",
     'LINKLAN_11' => "Relatie",
-    'LINKLAN_12' => "Optioneel 'rel' kenmerk. Kommagescheiden.",
-];
+    //'LINKLAN_12' => "Optioneel 'rel' kenmerk. Kommagescheiden.",
+    'LAN_LINKS_PRESET' => "Vooraf gedefinieerde link",
+    'LAN_LINKS_PRESET_HELP' => "Vult de URL, naam en gebruikersklasse in voor een link die e107 kan samenstellen. Wijzig deze later indien gewenst.",
+    'LAN_LINKS_PRESET_OVERWRITE' => "Dit vervangt de reeds ingevoerde URL en naam.",
+    'LAN_LINKS_URL_HELP' => "Een pad vanaf de site-root, zoals news.php, of een volledig adres. {E_TOKEN} wordt vervangen door het eigen beveiligingstoken van elke bezoeker; index.php?logout heeft dit nodig.",
+    'LAN_LINKS_URL_REQUIRED' => "Voer een URL in of kies een vooraf gedefinieerde link.",
+    ];
