@@ -32,7 +32,7 @@ return [
 //'LAN_FPW3' => "Onjuiste code ingevoerd",
     'LAN_FPW4' => "Er is al een wijzigings verzoek voor dit wachtwoord verstuurd. Als je de e-mail niet hebt ontvangen, neem dan contact op met de beheerder.",
     'LAN_FPW5' => "Het verzoek om je wachtwoord te vervangen voor",
-    'LAN_FPW6' => "Er is je een e-mail gestuurd met een link waarmee je de wachtwoord wijziging kunt accepteren.",
+    'LAN_FPW6' => "Als dat e-mailadres bij een account hier hoort, ontvang je binnenkort een e-mail met een link waarmee je je wachtwoord kunt resetten.",
     'LAN_FPW7' => "Dit is geen geldige link om je wachtwoord te wijzigen.<br />Neem contact op met de beheerder voor meer informatie.",
     'LAN_FPW8' => "Je wachtwoord is succesvol aangepast.",
     'LAN_FPW9' => "Het nieuwe wachtwoord is:",
@@ -53,4 +53,7 @@ return [
     'LAN_FPW_101' => "Geef je e-mailadres in en je ontvangt een mail met instructies om je wachtwoord te wijzigen.",
     'LAN_FPW_102' => "Reset wachtwoord",
     'LAN_FPW_MISCONFIGURED' => "Het opnieuw instellen van het wachtwoord is momenteel niet mogelijk vanwege een probleem met de configuratie van de site. Neem contact op met de sitebeheerder.",
+    'LAN_FPW_ADMIN_ATTEMPT' => "Poging tot reset van het wachtwoord voor het hoofdbeheerdersaccount",
+    'LAN_FPW_ADMIN_ATTEMPT_SUMMARY' => "[x] poging(en) om het wachtwoord van de hoofdbeheerder te resetten zijn afgewezen sinds [y], de laatste keer op [z].",
+    'LAN_FPW_ADMIN_ATTEMPT_LAST_FROM' => "De laatste kwam van [x].",
 ];
