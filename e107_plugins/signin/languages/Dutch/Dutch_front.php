@@ -10,17 +10,14 @@
  *
 */
 
-
-return [
-	'LAN_SIGNIN_USERNAME'    => "Inlognaam:",
-	'LAN_SIGNIN_EMAIL'       => "E-mail:",
-	'LAN_SIGNIN_USEREMAIL'   => "Inlognaam of e-mail:",
-	'LAN_SIGNIN_SIGNIN'      => "Inloggen",
-	'LAN_SIGNIN_SIGNUP'      => "Aanmelden",
-	'LAN_SIGNIN_REMEMBER'    => "Vergeet me niet",
-	'LAN_SIGNIN_FPW'         => "Wachtwoord vergeten?",
-	'LAN_SIGNIN_RESEND'      => "Activeringsmail verzenden",
-	'LAN_SIGNIN_PROFILE'     => "Profiel",
-	'LAN_SIGNIN_ADMIN'       => "Beheer",
-	'LAN_SIGNIN_MAINTENANCE' => "De onderhoudsvlag is gezet - dit betekent dat gewone gebruikers naar sitedown.php worden geleid. Om de vlag terug te zetten ga naar beheer/onderhoud.",
-];
+define("LAN_SIGNIN_USERNAME", "Inlognaam:");
+define("LAN_SIGNIN_EMAIL", "E-mail:");
+define("LAN_SIGNIN_USEREMAIL", "Inlognaam of e-mail:");
+define("LAN_SIGNIN_SIGNIN", "Inloggen");
+define("LAN_SIGNIN_SIGNUP", "Aanmelden");
+define("LAN_SIGNIN_REMEMBER", "Vergeet me niet");
+define("LAN_SIGNIN_FPW", "Wachtwoord vergeten?");
+define("LAN_SIGNIN_RESEND", "Activeringsmail verzenden");
+define("LAN_SIGNIN_PROFILE", "Profiel");
+define("LAN_SIGNIN_ADMIN", "Beheer");
+define("LAN_SIGNIN_MAINTENANCE", "De onderhoudsvlag is gezet - dit betekent dat gewone gebruikers naar sitedown.php worden geleid. Om de vlag terug te zetten ga naar beheer/onderhoud.");
