@@ -104,4 +104,5 @@ return [
     'LAN_SEARCH_99' => "Commentaar",
     'LAN_SEARCH_201' => "Definieer zoekopdracht anders",
     'LAN_SEARCH_202' => "Wissel naar geavanceerde uitgebreide instelling",
+    'LAN_SEARCH_ADVANCED_ONE_TYPE_ONLY' => "Selecteer &eacute;&eacute; zoektype om de geavanceerde opties te bekijken.",
 ];
