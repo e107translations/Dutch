@@ -111,5 +111,5 @@ define("LAN_SEARCH_98", "Nieuws");
 define("LAN_SEARCH_99", "Commentaar");
 define("LAN_SEARCH_201", "Definieer zoekopdracht anders");
 define("LAN_SEARCH_202", "Wissel naar geavanceerde uitgebreide instelling");
-define("LAN_SEARCH_ADVANCED_ONE_TYPE_ONLY", "Selecteer &eacute;&eacute; zoektype om de geavanceerde opties te bekijken.",
+define("LAN_SEARCH_ADVANCED_ONE_TYPE_ONLY", "Selecteer &eacute;&eacute; zoektype om de geavanceerde opties te bekijken.");
 
