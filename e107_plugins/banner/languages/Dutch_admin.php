@@ -50,6 +50,12 @@ return [
     'BNRLAN_48' => "Alle geselecteerde campagnes (geen box rendering)",
     'BNRLAN_50' => "Lokaal",
     'BNRLAN_51' => "Op afstand",
-    'BNRLAN_HELP_01' => "Banner Hulp",
+    'BNRLAN_HELP_IMPRESSIONS' => "0 = Onbeperkt",
+    'BNRLAN_HELP_KEYWORDS' => "Wanneer nieuws of pagina's worden geladen, beperkt dit de bannerresultaten tot overeenkomende zoekwoorden. Wees hier voorzichtig mee.",
+    'BNRLAN_HELP_01,'=> "Banner Hulp";
     'BNRLAN_HELP_02' => "Gebruik deze plugin om advertenties op je website te beheren.[br][br]Met het opmaken van een nieuwe banner kan je een gebruikersnaam en wachtwoord aanmaken voor je klant om in te loggen en de voortgang van de campagne te volgen.[br][br]Je kan de banner activeren en weergeven via het menu beheer en via die pagina verder configureren.",
+    'BNRLAN_TITLE_REMOTE_IMAGE' => "Dit overschrijft elke lokale afbeelding die je hebt ingesteld.",
+    'BNRLAN_MENU_MANAGER_CONFIG' => "Het menu is nu geconfigureerd in de menu-manager.",
+    'BNRLAN_PLACEHOLDER_OR_NEW_CLIENT' => "Of voer nieuwe client in ",
+    'BNRLAN_PLACEHOLDER_ENTER_CAMPAIGN' => "Geef een capmpagne naam in ",
 ];
