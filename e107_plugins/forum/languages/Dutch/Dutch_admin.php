@@ -133,3 +133,6 @@ define("FORLAN_220", "Post editor");
 define("FORLAN_221", "Welke systeem wil je gebruiken bij het plaatsen of wijzigen van berichten?");
 define("FORLAN_222", "Snelle reactie editor");
 define("FORLAN_223", "Gebruik alleen basis tekst (geen bbcode of html toegestaan");
+define("FORLAN_HELP_IMAGE_DISPLAY", "Afbeelding wat wordt getoond gebruikmakend van {FORUMIMAGE}");
+define("FORLAN_HELP_ICON_DISPLAY", "Icoon wat wordt getoond gebruikmakend van {FORUMICON}");
+
