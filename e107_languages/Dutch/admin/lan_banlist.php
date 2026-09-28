@@ -71,6 +71,8 @@ define("BANLAN_IMPORT_REPLACE_INCOMPLETE", "CSV-import: er is niets geïmporteer
 define("BANLAN_IMPORT_LAPSED_KEPT", "CSV-import: [x] verlopen vermeldingen voor adressen die in het bestand opnieuw zijn geblokkeerd, staan ​​nog steeds op de blokkeerlijst; elk van die adressen heeft nu dus twee vermeldingen. Verwijder de verlopen vermeldingen handmatig.");
 define("BANLAN_IMPORT_REPLACE_KEPT", "CSV-import: [x] van de eerder geïmporteerde blokkeringen staan ​​nog steeds op de blokkeerlijst, naast de vermeldingen die door het bestand zijn toegevoegd.");
 define("BANLAN_IMPORT_REPLACE_NOTHING", "CSV-import: De bestaande geïmporteerde blokkades bleven behouden, omdat het bestand geen vermeldingen toevoegde die nog niet in de blokkadelijst stonden.");
+define("BANLAN_IMPORT_REPLACE_BUSY", "CSV-import: Er is niets geïmporteerd. Er is al een andere import bezig die de bestaande geïmporteerde bans vervangt, en twee van die importen verwijderen elkaars vermeldingen wanneer ze tegelijkertijd plaatsvinden. Probeer het opnieuw zodra deze import is voltooid.");
+define("BANLAN_IMPORT_REPLACE_LOCK_FAILED", "CSV-import: Er is niets geïmporteerd. De database gaf geen indicatie of er nog een andere import aan de gang was, dus is deze import gestopt om te voorkomen dat er records zouden worden verwijderd waarvan de status onduidelijk was. Probeer het nog eens en kijk in het foutlogboek van de database als dit probleem zich blijft voordoen.");
 define("BANLAN_IMPORT_ROLLBACK_FAILED", "De reeds ingevoerde [x] vermeldingen konden niet worden verwijderd en staan ​​nog steeds op de blokkeerlijst");
 define("BANLAN_IMPORT_LOG_SUMMARY", "File: [file]<br />[imported] imported, [duplicates] duplicates, [rejected] rejected");
 define("BANLAN_52", "Witte lijst");
