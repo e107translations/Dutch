@@ -136,4 +136,6 @@ return [
     'FORLAN_222' => "Snelle reactie editor",
     'FORLAN_223' => "Gebruik alleen basis tekst (geen bbcode of html toegestaan",
     'FORLAN_REFUSED_TOKEN_MISSING' => "De forumupgrade had geen effect, omdat het verzoek geen beveiligingstoken bevatte. Start de upgrade vanuit het beheerdersmenu van het forum in plaats van via een bladwijzer of een link op een andere website.",
+    'FORLAN_HELP_IMAGE_DISPLAY' => "Afbeelding wat wordt getoond gebruikmakend van {FORUMIMAGE}",
+    'FORLAN_HELP_ICON_DISPLAY' => "Icoon wat wordt getoond gebruikmakend van {FORUMICON}",
 ];
