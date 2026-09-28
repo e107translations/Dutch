@@ -63,7 +63,7 @@ define("BANLAN_IMPORT_TOO_LARGE", "CSV-import: Het bestand is groter dan de limi
 define("BANLAN_IMPORT_LINE_SKIPPED", "CSV-import: Regel [x] is niet geïmporteerd: [y]");
 define("BANLAN_IMPORT_ENTRY_INVALID", "Het IP-adres, e-mailadres of de hostvermelding is niet bruikbaar.");
 define("BANLAN_IMPORT_FIELDS_INVALID", "te veel velden (controleer de instellingen voor scheidingstekens en aanhalingstekens)");
-define("BANLAN_IMPORT_DATE_INVALID", "aDe datum heeft niet de indeling YYYYMMDD_HHMMSS of is 0.");
+define("BANLAN_IMPORT_DATE_INVALID", "een datum heeft niet de indeling YYYYMMDD_HHMMSS of is 0.");
 define("BANLAN_IMPORT_DUPLICATES", "CSV-import: [x] vermeldingen die al op de blokkeerlijst stonden, zijn overgeslagen.");
 define("BANLAN_IMPORT_NOTHING", "CSV-import: Er zijn geen gegevens geïmporteerd.");
 define("BANLAN_IMPORT_MORE_SKIPPED", "CSV-import: [x] extra regels zijn niet geïmporteerd.");
