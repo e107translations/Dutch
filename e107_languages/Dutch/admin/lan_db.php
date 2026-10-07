@@ -137,7 +137,7 @@ define("DBLAN_120", "Starten van backup....");
 define("DBLAN_121", "Verplaatsen van [x] naar [y].");
 define("DBLAN_REFUSED_TOKEN_MISSING", "Die bewerking is niet gestart, omdat de link geen beveiligingstoken bevatte. Start de bewerking vanuit het menu Database beheer in plaats van via een bladwijzer of een link op een andere website.");
 define("DBLAN_MULTISITE", "Multi-Site");
-define("DBLAN_MULTISITE_HELP", "De site-mappen onder e107_media/ en e107_system/: de mappen van deze site zelf, en alle mappen die zijn achtergebleven of gedeeld met een andere site.");
+define("DBLAN_MULTISITE_HELP", "De site-mappen onder e107_media/ en e107_system/: of achtergebleven en/of gedeeld.");
 define("DBLAN_MULTISITE_CREATE", "Een nieuwe site aanmaken");
 define("DBLAN_SITE_FOLDERS", "Site mappen");
 define("DBLAN_SITE_FOLDERS_HELP", "e107 bewaart de uploads en runtimebestanden van elke site in een map die is vernoemd naar een hash van de databasenaam en het tabelvoorvoegsel, zodat meerdere sites één kopie van e107 kunnen delen. De onderstaande mappen bevinden zich naast de eigen map van deze site.");
