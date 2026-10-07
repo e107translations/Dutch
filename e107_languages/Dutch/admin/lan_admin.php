@@ -460,3 +460,5 @@ define("LAN_EMULATION_TEMPORARY", "De emulatie van machtigingen is tijdelijk. Je
 define("LAN_EMULATION_STOP", "Stop emulatie");
 define("ADLAN_REFUSED_TOKEN_MISSING", "Dat verzoek werd niet uitgevoerd, omdat er geen beveiligingstoken bij zat. Gebruik de bedieningselementen van het dashboard zelf in plaats van een bladwijzer of een link op een andere website.");
 define("ADLAN_SITEURL_NO_HOST", "Je site-URL bevat geen webadres. Stel deze in op het volledige adres dat bezoekers gebruiken, inclusief http:// of https://, via Beheer -> Voorkeuren -> Site informatie. Totdat dit is ingesteld, worden links die worden aangemaakt op plaatsen waar geen inkomend verzoek is om het adres van te kopiëren, zoals links in e-mails die door een geplande taak worden verzonden, als relatieve paden geschreven en werken ze niet buiten de site.");
+define("ADLAN_SITE_FOLDER_NOTICE", "Bestanden zijn opgeslagen in de verkeerde site-map, [x], terwijl deze site een getroffen e107-versie gebruikte. Voeg ze samen in de map van deze site op de pagina [y].");
+define("ADLAN_SITE_FOLDER_NOTICE_LINK", "Multi-Site");
