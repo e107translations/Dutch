@@ -126,8 +126,7 @@ return [
     'LAN_SIGNUP_124' => "Door u aan te melden gaat u akkoord met onze [x] en onze [y].",
     'LAN_SIGNUP_125' => "Min. [x] karakters.",
     'LAN_SIGNUP_REFUSED_TOKEN_MISSING' => "Er is geen testactiveringsmail verzonden, omdat de link geen beveiligingstoken bevatte. Gebruik de knop op de aanmeldpagina in plaats van een bladwijzer of een link op een andere website.",
-
-
+    'UPLLAN_ACTIVATION_REFUSED_OWNER_MISSING' => "Plugin [x] is niet geïnstalleerd of accepteert geen uploads - activering niet mogelijk.",
 /*
     'LAN_7' => "Gebruikersnaam: ",
     'LAN_8' => "Dit is de naam die op de site wordt getoond",
