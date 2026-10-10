@@ -82,4 +82,5 @@ return [
     'UPLLAN_68' => "SQL Fout:",
     'UPLLAN_69' => "Geimporteerd",
     'UPLLAN_70' => "Verstuurd naar [x]",
+    'UPLLAN_ACTIVATION_REFUSED_OWNER_MISSING' => "Plugin [x] is niet geïnstalleerd of accepteert geen uploads - activering niet mogelijk.",
 ];
