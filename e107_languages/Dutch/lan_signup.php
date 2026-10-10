@@ -126,6 +126,7 @@ define("LAN_SIGNUP_122", "Privacyverklaring ");
 define("LAN_SIGNUP_123", "Algemene Voorwaarden");
 define("LAN_SIGNUP_124", "Door u aan te melden gaat u akkoord met onze [x] en onze [y].");
 define("LAN_SIGNUP_125", "Min. [x] karakters.");
+define("UPLLAN_ACTIVATION_REFUSED_OWNER_MISSING", "Plugin [x] is niet geïnstalleerd of accepteert geen uploads - activering niet mogelijk.");
 
 /*
 define("LAN_7", "Gebruikersnaam: ");
