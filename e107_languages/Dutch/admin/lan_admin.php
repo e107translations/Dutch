@@ -341,6 +341,7 @@ define("LAN_UI_PREF_LABEL", "Instellingen");
 define("LAN_UI_DELETE_LABEL", "Bevestig verwijderen");
 define("LAN_UI_DELETE_WARNING", "je gaat [x] records verwijderen. Bevestig om verder te gaan.");
 define("LAN_UI_BATCH_CREATELINK", "Aanmaken Navigatie Link");
+define("LAN_UI_DELETE_REFUSED_NO_ARCHIVE", "Record [x] is niet verwijderd: de verwijdering kon niet worden vastgelegd in de beheerdersgeschiedenis.");   
 define("LAN_UI_DELETED", "[x] regel(s) met succes verwijderd!");
 define("LAN_UI_DELETED_FAILED", "[x] regels niet gevonden en niet verwjderd!");
 define("LAN_UI_FILE_DELETED", "[x] bestand met succes verwijderd!");
