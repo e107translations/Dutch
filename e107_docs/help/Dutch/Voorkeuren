@@ -11,6 +11,9 @@ A>	Het voorkomt dat je site wordt overstroomd door extreme aantallen HTTP aanvra
 Q>	Moet ik Cookies of Sessies gebruiken om mijn leden te volgen?
 A>	Het is je eigen keuze. Als je site goed werkt met cookies (standaardwaarde), laat dat maar zo. Als je de voorkeur geeft aan PHP Sessies, probeer dat dan (er wordt een eigen e107 sessie manager gebruikt).
 
+Q>	Waarom zou ik mijn site in de standaardmodus moeten draaien?
+A>	Als je een thema ontwikkelt en problemen ondervindt met de weergave in Firefox/Mozilla en IE, vink dan dit vakje aan. IE zal dan in de standaardmodus draaien en het juiste boxmodel gebruiken.
+
 Q> Wat bedoeld men met PLAINTEXT?
 A> Tekst zonder een opmaak.
 
