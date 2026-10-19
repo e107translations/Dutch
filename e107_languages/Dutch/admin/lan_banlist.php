@@ -74,6 +74,7 @@ define("BANLAN_IMPORT_REPLACE_NOTHING", "CSV-import: De bestaande geïmporteerde
 define("BANLAN_IMPORT_REPLACE_BUSY", "CSV-import: Er is niets geïmporteerd. Er is al een andere import bezig die de bestaande geïmporteerde bans vervangt, en twee van die importen verwijderen elkaars vermeldingen wanneer ze tegelijkertijd plaatsvinden. Probeer het opnieuw zodra deze import is voltooid.");
 define("BANLAN_IMPORT_REPLACE_LOCK_FAILED", "CSV-import: Er is niets geïmporteerd. De database gaf geen indicatie of er nog een andere import aan de gang was, dus is deze import gestopt om te voorkomen dat er records zouden worden verwijderd waarvan de status onduidelijk was. Probeer het nog eens en kijk in het foutlogboek van de database als dit probleem zich blijft voordoen.");
 define("BANLAN_IMPORT_ROLLBACK_FAILED", "De reeds ingevoerde [x] vermeldingen konden niet worden verwijderd en staan ​​nog steeds op de blokkeerlijst");
+define("BANLAN_IMPORT_RESTORE_FAILED", "[x] bestaande vermeldingen die door de import zijn overschreven, konden niet in hun oorspronkelijke staat worden teruggezet, waardoor ze nu de waarden van het bestand bevatten.");
 define("BANLAN_IMPORT_LOG_SUMMARY", "File: [file]<br />[imported] imported, [duplicates] duplicates, [rejected] rejected");
 define("BANLAN_52", "Witte lijst");
 define("BANLAN_53", "Toevoegen aan witte lijst");
@@ -154,4 +155,5 @@ define("BANLAN_127", "Verwijder alle [x] mislukte logins uit de database");
 define("BANLAN_ENTRY_FORMATS", "Een adres (10.77.66.65, 2001:db8::1), een bereik (10.77.66.0/24, 10.77.66.1-10.77.66.100, 10.77.66.*, 2001:db8::/32), een e-mailadres (user@example.com, *@example.com) of een hostnaampatroon (*.example.com)");
 define("BANLAN_ENTRY_INVALID", "Deze vermelding is geen adres, bereik, e-mailadres of hostnaampatroon, dus er is geen enkele reden om deze af te dwingen. De vermelding is niet opgeslagen. Een CIDR-blok begint bij het netwerkadres: 10.77.66.0/24, niet 10.77.66.65/24.");
 define("BANLAN_ENTRY_COVERS_YOU", "Dit bereik bevat uw eigen adres, [x], dus als u het opslaat, wordt u de toegang tot deze site ontzegd. Het is niet opgeslagen. Voeg uw adres eerst toe aan de whitelist als u het echt wilt.");
+define("BANLAN_ENTRY_ALREADY_LISTED", "[x] staat al vermeld met het type [y] (ID [z]), dus deze vermelding is niet opgeslagen. Bewerk die in plaats daarvan.");
 define("BANLAN_ENTRY_NOT_ENFORCED", "Niet gehandhaafd");
