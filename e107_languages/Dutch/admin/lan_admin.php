@@ -341,6 +341,7 @@ define("LAN_UI_PREF_LABEL", "Instellingen");
 define("LAN_UI_DELETE_LABEL", "Bevestig verwijderen");
 define("LAN_UI_DELETE_WARNING", "je gaat [x] records verwijderen. Bevestig om verder te gaan.");
 define("LAN_UI_BATCH_CREATELINK", "Aanmaken Navigatie Link");
+define("LAN_UI_CHANGE_REFUSED_NO_ARCHIVE", "Regel [x] is ongewijzigd gelaten: de eerdere waarden konden niet worden vastgelegd in de beheergeschiedenis (Admin History).");
 define("LAN_UI_DELETE_REFUSED_NO_ARCHIVE", "Record [x] is niet verwijderd: de verwijdering kon niet worden vastgelegd in de beheerdersgeschiedenis.");
 define("LAN_UI_HISTORY_UTF8_SUBSTITUTED", "Record [x] bevat bytes die geen geldige tekst zijn. De kopie van de beheerdersgeschiedenis heeft deze vervangen, dus het herstellen van dit record zou de oorspronkelijke bytes niet terugzetten.");
 define("LAN_UI_DELETED", "[x] regel(s) met succes verwijderd!");
