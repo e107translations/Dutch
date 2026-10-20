@@ -128,6 +128,7 @@ define("LAN_SIGNUP_124", "Door u aan te melden gaat u akkoord met onze [x] en on
 define("LAN_SIGNUP_125", "Min. [x] karakters.");
 define("LAN_SIGNUP_REFUSED_TOKEN_MISSING", "Er is geen testactiveringsmail verzonden, omdat de link geen beveiligingstoken bevatte. Gebruik de knop op de aanmeldpagina in plaats van een bladwijzer of een link op een andere website.");
 define("UPLLAN_ACTIVATION_REFUSED_OWNER_MISSING", "Plugin [x] is niet geïnstalleerd of accepteert geen uploads - activering niet mogelijk.");
+define("LAN_SIGNUP_RESEND_ANSWERED", "Als dit overeenkomt met een account hier dat nog geactiveerd moet worden, dan is de activatie-e-mail onderweg. Wacht gerust een paar minuten tot deze is aangekomen voordat je het opnieuw probeert.");
 /*
 define("LAN_7", "Gebruikersnaam: ");
 define("LAN_8", "Dit is de naam die op de site wordt getoond");
