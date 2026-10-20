@@ -71,6 +71,7 @@ define("LAN_USET_54", "Bevestiging email verzonden");
 define("LAN_USET_55", "Klik aub op de volgende link  om verwijderen van account te voltooien.");
 define("LAN_USET_56", "Je account werd succesvol verwijderd.");
 define("LAN_USET_DELETE_LINK_INVALID", "Je account is niet verwijderd, omdat de bevestigingslink niet meer geldig is. Vraag hieronder opnieuw om verwijdering om een ​​nieuwe link te ontvangen.");
+define("LAN_USET_DELETE_EMAIL_UNSENT", "Je account is niet verwijderd, omdat de bevestigingsmail niet kon worden verstuurd. Probeer het later opnieuw of neem contact op met de beheerder van de site.");
 //TODO Move to usersettings.php with bcDefs() method.
 /*define("LAN_7", "Gebruikersnaam: ");
 define("LAN_8", "de naam die op de site wordt weergegeven");
