@@ -138,5 +138,5 @@ define("LAN_REQUIRED_BLANK", "Noodzakelijk veld(-en) werden leeg gelaten.");
 define("LAN_PLEASEWAIT", "Wachten a.u.b.");
 define("LAN_CHOOSE_FILE", "Kies een bestand");
 define("LAN_REQUIRED", "Verplicht");
-define("LAN_LINK_SCRIPT_SCHEME_REFUSED", "Alleen leden van de klasse die &lt;script&gt; en soortgelijke tags kunnen plaatsen, mogen een adres opslaan dat begint met javascript:, vbscript: of data:.",
+define("LAN_LINK_SCRIPT_SCHEME_REFUSED", "Alleen leden van de klasse die &lt;script&gt; en soortgelijke tags kunnen plaatsen, mogen een adres opslaan dat begint met javascript:, vbscript: of data:.";
 define("LAN_DEVELOPERMODE_CHECK", "[b]Ontwikkelaars modus is INgeschakeld. Gebruik deze alleen wanneer men werkelijk iets ontwikkeld![/b] [br] Schakel dit UIT wanneer de website in een 'Live' (normale) modus draait. Wanneer ontwikkelaars modus is ingeschakeld, is 'gevoelige' informatie mogelijk publiekelijk zichtbaar");
