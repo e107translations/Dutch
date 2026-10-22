@@ -102,6 +102,7 @@ define("LAN_SCREENSHOT", "Schermafdruk");
 define("LAN_FILE", "Bestand");
 define("LAN_YOUTUBE_VIDEO", "Youtube Video");
 define("LAN_YOUTUBE_PLAYLIST", "Youtube Playlist");
+define("LAN_SANITISED", "Gezuiverd");
 define("LAN_FILETYPES", "Bestandstypes");
 define("LAN_FILE_NOT_FOUND", "Bestand niet gevonden");
 define("LAN_FILES", "bestanden");
