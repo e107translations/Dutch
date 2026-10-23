@@ -24,6 +24,8 @@ define("LAN_IMA_001", "Wijziging is niet toegestaan.");
 define("LAN_IMA_002", "Er is onvoldoende geheugen beschikbaar om te draaien");
 define("LAN_IMA_003", "Draaien");
 define("LAN_IMA_004", "Vergroten/verkleinen");
+define{"LAN_IMA_FILE_KEPT_OUTSIDE_MEDIA", "[x] ligt buiten de media-map, dus is het bewaard gebleven.");
+define("LAN_IMA_FILE_KEPT_OUTSIDE_AVATARS", "[x] bevindt zich buiten de map met avatars, dus is deze behouden.");
 
 // Options
 //define("LAN_IMA_O_001", "Nieuws Afbeeldingen");
