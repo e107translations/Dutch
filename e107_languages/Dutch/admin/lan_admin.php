@@ -335,6 +335,7 @@ define("LAN_UI_BATCH_UPDATE_SUCCESS", "[x] ingesteld voor [y] record(s).");
 define("LAN_UI_BATCH_REVERSED_SUCCESS", "[x] records succesvol teruggezet.");
 define("LAN_UI_BATCH_BOOL_SUCCESS", "[x] records succesvol bijgewerkt.");
 define("LAN_UI_BATCH_DEATTACH_SUCCESS", "[x] verwijderd van [y] record(s).");
+define("LAN_UI_BATCH_ROWS_NO_LONGER_LISTED", "[x] De geselecteerde record(s) staan ​​niet langer in deze lijst en zijn ongewijzigd gebleven.");
 define("LAN_UI_EDIT_LABEL", "Bijwerken record #[x]");
 define("LAN_UI_CREATE_LABEL", "Aanmakene nieuw record");
 define("LAN_UI_PREF_LABEL", "Instellingen");
