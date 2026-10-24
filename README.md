@@ -1,6 +1,6 @@
 Dutch
-last define file mode for: up to version 2.3.11
+last define file mode for: up to version 2.3.13
 
-NOT MASTER EQUAL
+NOTE <b>NOT</b> MASTER EQUAL
 
 
