@@ -1,7 +1,7 @@
 Dutch
-define file translation mode for: 
+DEFINE mode file translation mode for: 
 MASTER  (github dev)
-DEFINE mode 
+ 
 
 
 work in progress
