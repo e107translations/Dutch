@@ -1,0 +1,66 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Dutch Language File.
+|
+|     $URL:$
+|     $Revision:$
+|     $Date:$
+|     $Author: Yvalni, Tgtje $
++----------------------------------------------------------------------------+
+*/
+define("PAGE_NAME", "Instellingen");
+define("MAX_AVWIDTH", "Maximale avatar afmeting (hxb) is ");
+define("MAX_AVHEIGHT", " x ");
+define("LAN_USET_1", "Je avatar is te breed");
+define("LAN_USET_2", "Maximale breedte is");
+define("LAN_USET_3", "Je avatar is te hoog");
+define("LAN_USET_4", "Maximale hoogte is");
+define("LAN_USET_5", "Ingeschreven voor");
+define("LAN_USET_6", "Schrijf je in voor onze mailinglijst(en) en/of delen van deze website.");
+define("LAN_USET_7", "Diversen");
+define("LAN_USET_8", "Ondertekening / Tijdzone");
+define("LAN_USET_9", "Sommige verplichte informatie ontbreekt in je instellingen (verplichte velden zijn gemarkeerd met een *).");
+define("LAN_USET_10", "Werk deze gegevens bij voordat je verder kunt gaan.");
+define("LAN_USET_11", "Deze gebruikersnaam is niet acceptabel, kies een andere gebruikersnaam.");
+define("LAN_USET_12", "De gebruikersnaam is te kort. Kies een andere.");
+define("LAN_USET_13", "Ongeldige tekens in de inlognaam, kies een andere!");
+define("LAN_USET_14", "De loginnaam is te lang, kies een andere.");
+define("LAN_USET_15", "De gebruikersnaam is te lang, kies een andere.");
+define("LAN_USET_16", "Selecteer om de bestaande foto uit je profiel te verwijderen zonder een ander te uploaden.");
+define("LAN_USET_17", "Deze gebruikersnaam is al ingebruik, kies een andere.");
+define("LAN_USET_18", "gebruikersgegevens veranderd door Beheerder: [x], Inlognaam: [y]");
+define("LAN_USET_20", "je moet ook het gebruikers wachtwoord veranderen wanneer je de Loginnaam of het e-mailadres wijzigt.");
+define("LAN_USET_21", "Bevestig de gegevens door je wachtwoord in te geven: ");
+define("LAN_USET_CONFIRM_PASSWORD_CHANGE", "Bevestig de wijzigingen door uw huidige wachtwoord in te voeren: ");
+define("LAN_USET_CHANGE_NOT_COMPLETED", "Je wijzigingen zijn niet voltooid. Probeer het opnieuw.");
+//define("LAN_USET_22", "Fout wachtwoord!");
+define("LAN_USET_23", "Niets invullen om het bestaande wachtwoord te houden");		
+define("LAN_USET_24", "Nieuw wachtwoord: ");						
+define("LAN_USET_25", "Bevestig nieuw wachtwoord: ");			
+define("LAN_USET_26", "Upload je avatar");					
+define("LAN_USET_27", "Upload je foto");					
+define("LAN_USET_28", "Dit wordt getoond op je profielpagina.");
+define("LAN_USET_30", "Wat is dit?");
+define("LAN_USET_31", "Registratie informatie");
+define("LAN_USET_32", "Let op: ge&#252;ploade afbeeldingen die niet passend worden bevonden, worden onmiddelijk verwijderd.");
+define("LAN_USET_33", "Kies avatar vanaf deze site");
+define("LAN_USET_34", "Gebruik een avatar vanaf een andere site/locatie");
+define("LAN_USET_35", "Voer het volledige adres naar (bijv: http:// waar/is/de/afbeelding.jpg) de afbeelding in");
+define("LAN_USET_36", "Druk op de knop om de beschikbare avatars te zien");
+define("LAN_USET_37", "Opslaan");
+define("LAN_USET_38", "Kies avatar");
+define("LAN_USET_39", "Bijwerken gebruikersgegevens");
+define("LAN_USET_40", "De 2 wachtwoorden zijn niet identiek");
+define("LAN_USET_41", "Instellingen bijgewerkt en opgeslagen in de database.");
+define("LAN_USET_42", "Code niet correct");
+define("LAN_USET_43", "Gebruikersgegevens niet bijgewerkt");
+define("LAN_USET_50", "Verwijder account");
+define("LAN_USET_51", "Ben je er zeker van? Deze procedure kan niet worden teruggedraaid! Wanneer voltooid, zal je account en eventuele persoonlijke data die je hebt ingevoerd op deze site volledig zijn verwijderd, en kun je niet langer meer inloggen.");
+define("LAN_USET_52", "Een bevestigings email is verstuurd naar [x]. Klik aub op de link in de email om je account permanent te verwijderen.");
+define("LAN_USET_53", "Account verwijdering bevestiging");
+define("LAN_USET_54", "Bevestiging email verzonden");
+define("LAN_USET_55", "Klik aub op de volgende link  om verwijderen van account te voltooien.");
+define("LAN_USET_56", "Je account werd succesvol verwijderd.");
+define("LAN_USET_DELETE_LINK_INVALID", "Je account is niet verwijderd, omdat de bevestigingslink niet meer geldig is. Vraag hieronder opnieuw om verwijdering om een ​​nieuwe link te ontvangen.");
+define("LAN_USET_DELETE_EMAIL_UNSENT", "Je account is niet verwijderd, omdat de bevestigingsmail niet kon worden verstuurd. Probeer het later opnieuw of neem contact op met de beheerder van de site.");
