@@ -1,6 +1,12 @@
 Dutch
-last define file mode for: up to version 2.3.13
+define file mode for 2.3.13
 
 NOTE <b>NOT</b> MASTER EQUAL
+
+Nederlands
+define mode voor max 2.3.13
+
+LET OP: Dit taalpakket is bedoeld <b>voor de stabiele versies</b> en niet geschikt voor de developer versie.
+Beide versies (stabiel vs dev verschillen in taalbestanden)
 
 
