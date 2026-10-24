@@ -1,0 +1,15 @@
+<!-- for Preferences $Id: Voorkeuren 209 2009-01-26 21:25:19Z marj_nl_fr $ -->
+Q>	Hoe wijzig ik van thema?
+A>	Er is een sectie in de Voorkeuren pagina waarna je het site thema kunt instellen. Bekijk eerst of het thema wel werkt, er zijn nog oude, niet meer goed werkende, themas.
+
+Q>	Wat is COPPA?
+A>	The Children's Online Privacy Protection Act uit 1998. Het is een wet ter bescherming van minderjarigen. Het verzekert dat er geen informatie over minderjarigen wordt bijgehouden, behalve voor het beheer van de site. Voor meer info, zie https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions.
+
+Q>	Wat is flood protection?
+A>	Het voorkomt dat je site wordt overstroomd door extreme aantallen HTTP aanvragen waardoor je site geblokkeerd zou worden.
+
+Q>	Moet ik Cookies of Sessies gebruiken om mijn leden te volgen?
+A>	Het is je eigen keuze. Als je site goed werkt met cookies (standaardwaarde), laat dat maar zo. Als je de voorkeur geeft aan PHP Sessies, probeer dat dan (er wordt een eigen e107 sessie manager gebruikt).
+
+Q>	Waarom zou ik mijn site in de standaardmodus moeten draaien?
+A>	Als je een thema ontwikkelt en problemen ondervindt met de weergave in Firefox/Mozilla en IE, vink dan dit vakje aan. IE zal dan in de standaardmodus draaien en het juiste boxmodel gebruiken.
