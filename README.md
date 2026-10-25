@@ -1,5 +1,5 @@
 Dutch
-define file mode for 2.3.13
+define file mode for 2.3.13 (build : 24-10-2026)
 
 NOTE <b>NOT</b> MASTER EQUAL
 
